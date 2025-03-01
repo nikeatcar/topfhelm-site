@@ -217,6 +217,10 @@ body {
         max-width: 95%;
     }
 
+    .genre{
+        font-size: 15px;
+    }
+
     .album-section {
         flex-direction: column;
         text-align: center;
@@ -225,15 +229,14 @@ body {
     .album-text {
         text-align: center;
         font-size: 22px;
-        line-height: 0.75;
     }
     
     .album-text strong {
-        font-size: 33px;
+        font-size: 27px;
     }
     
     .release-date {
-        font-size: 30px;
+        font-size: 25px;
     }
 
     .button {
