@@ -121,7 +121,7 @@ body {
 .button img {
     max-width: 50px;
     height: auto;
-    margin-right: 50px;
+    margin-right: 75px;
     filter: brightness(0) invert(1);
 }
 
@@ -218,7 +218,7 @@ body {
     }
 
     .genre{
-        font-size: 15px;
+        font-size: 12px;
     }
 
     .album-section {
@@ -236,7 +236,7 @@ body {
     }
     
     .release-date {
-        font-size: 25px;
+        font-size: 27px;
     }
 
     .button {
@@ -248,7 +248,7 @@ body {
     }
 
     .avatar {
-        width: 120px;
-        height: 120px;
+        width: 150px;
+        height: 150px;
     }
 }
