@@ -67,6 +67,21 @@ body {
     max-width: 90%;
 }
 
+/* Контейнер для заголовка и гифки */
+.album-header {
+    display: flex;
+    align-items: center;  /* Выравниваем по центру строки */
+    justify-content: center; /* Выравниваем по центру */
+    gap: 10px; /* Добавляем небольшой отступ */
+}
+
+/* Размер и поведение гифки */
+.album-gif {
+    width: 60px; /* Измени размер, если нужно */
+    height: auto;
+    vertical-align: middle; /* Выравнивание с текстом */
+}
+
 .album-text {
     font-size: 32px;
     font-weight: bold;
