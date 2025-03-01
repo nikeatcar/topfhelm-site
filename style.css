@@ -225,6 +225,7 @@ body {
     .album-text {
         text-align: center;
         font-size: 22px;
+        line-height: 0.75;
     }
     
     .album-text strong {
