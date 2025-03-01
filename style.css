@@ -2,17 +2,16 @@
 
 /* Размытый фон с параллаксом */
 .blurred-bg {
-    position: fixed; /* Оставляем фон фиксированным */
-    top: 0;
+    position: fixed;
+    top: -10vh; /* Смещаем фон вверх, чтобы не было белой полосы */
     left: 0;
     width: 100%;
-    height: 130vh; /* Добавлено место, чтобы не было белых полос */
-    background: url('media/TopfHelm - Sanguis Et Mulsum.png') no-repeat center center;
+    height: 150vh; /* Увеличиваем высоту фона, чтобы он всегда заполнял экран */
+    background: url('media/TopfHelm\ -\ Sanguis\ Et\ Mulsum.png') no-repeat center center;
     background-size: cover;
     filter: blur(20px);
     z-index: -1;
     will-change: transform;
-    transition: transform 0.1s linear;
 }
 
 /* Параллакс при прокрутке */

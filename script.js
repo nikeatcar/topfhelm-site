@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
     /* Новый рабочий параллакс */
     window.addEventListener("scroll", function () {
         let scrollTop = window.scrollY;
-        let parallaxSpeed = 0.3; // Теперь фон двигается медленнее, но видно эффект
+        let parallaxSpeed = 0.2; // Теперь фон двигается медленнее, но видно эффект
         document.querySelector(".blurred-bg").style.transform = `translateY(${scrollTop * parallaxSpeed}px)`;
     });
 });
