@@ -224,6 +224,15 @@ body {
 
     .album-text {
         text-align: center;
+        font-size: 22px;
+    }
+    
+    .album-text strong {
+        font-size: 33px;
+    }
+    
+    .release-date {
+        font-size: 30px;
     }
 
     .button {
