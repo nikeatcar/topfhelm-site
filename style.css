@@ -195,3 +195,32 @@ body {
     font-size: 16px;
     opacity: 0.8;
 }
+
+/* Медиа-запросы для адаптивности */
+@media (max-width: 768px) {
+    .container {
+        max-width: 95%;
+    }
+
+    .album-section {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .album-text {
+        text-align: center;
+    }
+
+    .button {
+        width: 90%;
+    }
+
+    .links .button {
+        width: 100%;
+    }
+
+    .avatar {
+        width: 120px;
+        height: 120px;
+    }
+}
