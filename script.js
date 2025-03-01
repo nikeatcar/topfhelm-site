@@ -1,6 +1,8 @@
 document.addEventListener("DOMContentLoaded", function () {
     const buttons = document.querySelectorAll(".button");
-    
+    const presaveBtn = document.getElementById("presave-btn");
+
+    // Анимация кнопок при наведении
     buttons.forEach(button => {
         button.addEventListener("mouseenter", () => {
             let intensity = 3;
@@ -17,10 +19,33 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     });
 
-    /* Новый рабочий параллакс */
+    // Изменение текста кнопки Presave Now
+    if (presaveBtn) {
+        presaveBtn.addEventListener("mouseenter", function () {
+            this.style.transition = "background-color 0.3s ease-in-out, opacity 0.3s ease-in-out";
+            this.style.backgroundColor = "#FF6666"; // Здесь можно задать любой цвет
+            this.style.opacity = "0";
+            setTimeout(() => {
+                this.innerHTML = "<span>❤️Thank You!❤️</span>";
+                this.style.opacity = "1";
+            }, 200);
+        });
+
+        presaveBtn.addEventListener("mouseleave", function () {
+            this.style.transition = "background-color 0.3s ease-in-out, opacity 0.3s ease-in-out";
+            this.style.backgroundColor = "#1DB954"; // Возвращаем исходный цвет
+            this.style.opacity = "0";
+            setTimeout(() => {
+                this.innerHTML = "<span>Presave Now</span>";
+                this.style.opacity = "1";
+            }, 200);
+        });
+    }
+    });
+
+    // Параллакс-эффект для фона
     window.addEventListener("scroll", function () {
         let scrollTop = window.scrollY;
-        let parallaxSpeed = 0.2; // Теперь фон двигается медленнее, но видно эффект
+        let parallaxSpeed = 0.2;
         document.querySelector(".blurred-bg").style.transform = `translateY(${scrollTop * parallaxSpeed}px)`;
     });
-});
