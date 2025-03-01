@@ -113,7 +113,26 @@ body {
     font-size: 22px;
 }
 
+.button {
+    display: flex;
+    justify-content: center; /* Центрирует текст и иконки */
+    align-items: center;
+    width: 100%;
+    max-width: 400px; /* Фиксированная ширина для больших экранов */
+    text-align: center;
+}
+
 /* Кнопки соцсетей */
+
+.links {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Центрирует кнопки по горизонтали */
+    justify-content: center; /* Центрирует кнопки */
+    width: 100%;
+    text-align: center;
+}
+
 .links .button {
     width: 340px;
 }
@@ -244,7 +263,7 @@ body {
     }
 
     .links .button {
-        width: 100%;
+        max-width: 90%;
     }
 
     .avatar {
