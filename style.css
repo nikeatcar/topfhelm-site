@@ -252,14 +252,23 @@ body {
 
 /* Кнопка контактов */
 .button.contact {
-    font-size: 20px;
-    border: 2px solid rgba(255,255,255,0.5);
-    margin-top: 30px;
+    font-size: 18px;
+    width: 150px;  /* Сделал такой же ширины, как Presave Now */
+    height: 10px;  /* Чуть меньше по высоте */
+    background-color: #1DB954;  /* Цвет Presave Now */
+    color: #121212;  /* Тёмный текст */
+    border: 2px solid #1DB954;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out;
+    margin-top: 20px;
 }
 
+/* При наведении цвет меняется */
 .button.contact:hover {
-    background-color: #444;
-    color: #fff;
+    background-color: #189f40; /* Чуть затемнённый вариант зелёного */
+    transform: scale(1.05); /* Небольшое увеличение */
 }
 
 .footer {
