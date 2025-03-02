@@ -363,4 +363,7 @@ body {
         width: 150px;
         height: 150px;
     }
+    .iframe {
+        max-width: 90%;
+    }
 }
