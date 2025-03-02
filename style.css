@@ -299,11 +299,11 @@ body {
 .video-container {
     position: relative;
     width: 100%;
-    max-width: 800px; /* Максимальная ширина на больших экранах */
-    height: auto;
+    max-width: 800px; /* Максимальная ширина видео */
     margin: auto;
     background: #000;
     border-radius: 10px; /* Округление */
+    overflow: hidden; /* Чтобы не было выходов за рамки */
 }
 
 .video-container iframe {
