@@ -46,6 +46,6 @@ document.addEventListener("DOMContentLoaded", function () {
     // Параллакс-эффект для фона
     window.addEventListener("scroll", function () {
         let scrollTop = window.scrollY;
-        let parallaxSpeed = 0.2;
+        let parallaxSpeed = 0.01;
         document.querySelector(".blurred-bg").style.transform = `translateY(${scrollTop * parallaxSpeed}px)`;
     });
