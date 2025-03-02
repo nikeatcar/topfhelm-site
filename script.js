@@ -49,3 +49,36 @@ document.addEventListener("DOMContentLoaded", function () {
         let parallaxSpeed = 0.01;
         document.querySelector(".blurred-bg").style.transform = `translateY(${scrollTop * parallaxSpeed}px)`;
     });
+
+        //Таймер релиза
+        document.addEventListener("DOMContentLoaded", function () {
+            // Указываем дату релиза альбома
+            const releaseDate = new Date("March 28, 2025 08:00:00").getTime();
+            const countdownText = document.getElementById("countdown-text");
+        
+            function updateCountdown() {
+                const now = new Date().getTime();
+                const timeLeft = releaseDate - now;
+        
+                if (timeLeft <= 0) {
+                    countdownText.innerHTML = "The feast has begun! 🍻⚔️";
+                    return;
+                }
+        
+                // Вычисляем дни, часы, минуты и секунды
+                const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
+                const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
+                const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
+        
+                countdownText.innerHTML = `⏳ The grand feast begins in: 
+                <span class="time">${days}</span>d 
+                <span class="time">${hours}</span>h 
+                <span class="time">${minutes}</span>m 
+                <span class="time">${seconds}</span>s`;
+            }
+        
+            // Обновляем каждую секунду
+            setInterval(updateCountdown, 1000);
+            updateCountdown(); // Вызываем сразу, чтобы не ждать 1 секунду
+        });

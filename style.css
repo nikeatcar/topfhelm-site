@@ -44,6 +44,31 @@ body {
     font-size: 20px;
 }
 
+.countdown-banner {
+    width: 100%;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 15px;
+    background: rgba(0, 0, 0, 0.7);
+    color: #f5d76e;
+    font-family: "IM Fell English SC", serif;
+    border: 2px solid #f5d76e;
+    box-shadow: 0px 0px 10px rgba(255, 215, 0, 0.5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+/* Стили для цифр таймера */
+.countdown-banner .time {
+    font-family: "Montserrat", sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
 /* Контейнер контента */
 .container {
     max-width: 900px;
@@ -364,6 +389,15 @@ body {
         font-size: 12px;
     }
 
+    .countdown-banner {
+        font-size: 18px;
+        padding: 10px;
+    }
+    
+    .countdown-banner .time {
+        font-size: 22px;
+    }
+
     .album-section {
         flex-direction: column;
         text-align: center;
@@ -400,5 +434,16 @@ body {
     }
     .seo-text {
         display: none;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .countdown-banner {
+        font-size: 16px;
+        padding: 8px;
+    }
+    
+    .countdown-banner .time {
+        font-size: 20px;
     }
 }
