@@ -55,7 +55,7 @@ body {
     font-family: "IM Fell English SC", serif;
     border: 2px solid #f5d76e;
     box-shadow: 0px 0px 10px rgba(255, 215, 0, 0.5);
-    position: fixed;
+    position: relative;
     top: 0;
     left: 0;
     z-index: 1000;
@@ -290,6 +290,21 @@ body {
     color: #fff;
 }
 
+/* Секция видео */
+.video-section {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.video-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px; /* Ограничение ширины для больших экранов */
+    margin: auto;
+    aspect-ratio: 16 / 9; /* Автоматический расчет высоты */
+    background: #000;
+}
+
 /* Кнопка контактов */
 .button.contact {
     font-size: 18px;
@@ -429,9 +444,7 @@ body {
         width: 150px;
         height: 150px;
     }
-    .iframe {
-        max-width: 50%;
-    }
+
     .seo-text {
         display: none;
     }
