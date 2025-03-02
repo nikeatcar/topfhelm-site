@@ -293,16 +293,27 @@ body {
 /* Секция видео */
 .video-section {
     text-align: center;
-    margin: 20px 0;
+    margin: 40px 0;
 }
 
 .video-container {
     position: relative;
     width: 100%;
-    max-width: 800px; /* Ограничение ширины для больших экранов */
+    max-width: 800px; /* Максимальная ширина на больших экранах */
+    height: auto;
     margin: auto;
-    aspect-ratio: 16 / 9; /* Автоматический расчет высоты */
     background: #000;
+    border-radius: 10px; /* Округление */
+}
+
+.video-container iframe {
+    width: 100%;
+    height: auto;
+    min-height: 316px; /* Минимальная высота, чтобы не становилось слишком маленьким */
+    aspect-ratio: 16 / 9; /* Сохраняем соотношение сторон */
+    position: relative;
+    top: 0;
+    left: 0;
 }
 
 /* Кнопка контактов */
@@ -431,8 +442,9 @@ body {
         font-size: 27px;
     }
 
-    .video-container .iframe {
-        max-width: 70%; /* Немного уменьшить ширину на маленьких экранах */
+    .video-container {
+        max-width: 100%;
+        min-height: 250px; /* Уменьшаем высоту, но не делаем слишком маленьким */
     }
 
     .button {
