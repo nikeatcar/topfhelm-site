@@ -431,7 +431,7 @@ body {
         font-size: 27px;
     }
 
-    .video-container {
+    .video-container .iframe {
         max-width: 90%; /* Немного уменьшить ширину на маленьких экранах */
     }
 
