@@ -431,6 +431,10 @@ body {
         font-size: 27px;
     }
 
+    .video-container {
+        max-width: 90%; /* Немного уменьшить ширину на маленьких экранах */
+    }
+
     .button {
         width: 90%;
         flex-direction: row; /* Держим иконки слева от текста */
