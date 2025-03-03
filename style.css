@@ -1,4 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100..900&family=Monomakh&display=swap');
+
+/* По умолчанию используем IM Fell English SC */
+body {
+    font-family: 'IM Fell English SC', serif;
+}
+
+/* Применяем русский шрифт, если есть класс ru */
+body.ru {
+    font-family: 'Monomakh', serif;
+}
+/* Оставляем IM Fell English SC для английских букв */
+body.ru :lang(en), 
+body.ru [lang="en"],
+body.ru .english-text {
+    font-family: 'IM Fell English SC', serif;
+}
 
 /* Размытый фон с параллаксом */
 .blurred-bg {
@@ -18,6 +35,44 @@
 .parallax {
     transform: translateY(0);
     transition: transform 0.1s linear;
+}
+
+/*Переключалки языков*/
+.language-switcher {
+    position: fixed;
+    top: 15px;
+    right: 15px;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 5px 10px;
+    border-radius: 8px;
+    z-index: 9999;
+    display: flex;
+    gap: 8px;
+}
+
+/* Кнопки переключения языка */
+.language-switcher button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    transition: 0.3s;
+}
+
+.language-switcher button img {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+    transition: transform 0.2s ease-in-out;
+}
+
+.language-switcher button:hover img {
+    transform: scale(1.1);
+}
+
+.language-switcher button:hover {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: white;
 }
 
 /* Аватар */
@@ -61,12 +116,17 @@ body {
     z-index: 1000;
 }
 
-/* Стили для цифр таймера */
+/* По умолчанию Montserrat для цифр */
 .countdown-banner .time {
     font-family: "Montserrat", sans-serif;
     font-size: 26px;
     font-weight: bold;
     color: #ffffff;
+}
+
+/* На русском сайте текст таймера в Monomakh */
+body.ru #countdown-text {
+    font-family: 'Monomakh', serif;
 }
 
 /* Контейнер контента */
@@ -407,6 +467,20 @@ body {
 
 /* Медиа-запросы для адаптивности */
 @media (max-width: 768px) {
+    .language-switcher {
+        top: 10px;
+        right: 10px;
+        padding: 4px 8px;
+        gap: 5px;
+    }
+    .language-switcher button {
+        font-size: 12px;
+        padding: 6px 10px;
+    }
+    .language-switcher button img {
+        width: 28px;
+        height: 28px;
+    }
     .container {
         max-width: 95%;
     }
@@ -467,6 +541,20 @@ body {
 }
 
 @media screen and (max-width: 480px) {
+    .language-switcher {
+        top: 5px;
+        right: 5px;
+        padding: 3px 6px;
+        gap: 3px;
+    }
+    .language-switcher button {
+        font-size: 10px;
+        padding: 4px 8px;
+    }
+    .language-switcher button img {
+        width: 24px;
+        height: 24px;
+    }
     .countdown-banner {
         font-size: 16px;
         padding: 8px;
