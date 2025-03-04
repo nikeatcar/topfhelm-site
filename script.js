@@ -149,7 +149,7 @@ if (presaveBtn) {
         
         // Определяем язык из URL
         function getLangFromURL() {
-            if (window.location.pathname.includes("/ru")) {
+            if (window.location.pathname.includes("/ru") || window.location.href.includes("index-ru.html")) {
                 return "ru";
             }
             return "en"; 
@@ -162,7 +162,7 @@ if (presaveBtn) {
             let shareText = lang === "ru"
                 ? "Поделитесь этим крутым Dungeon Folk проектом с друзьями!"
                 : "Check out this awesome Dungeon Folk project!";
-        
+            
             let shareUrl = "";
         
             switch (platform) {
