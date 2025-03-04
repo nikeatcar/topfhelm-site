@@ -67,7 +67,9 @@ if (presaveBtn) {
                 const timeLeft = releaseDate - now;
         
                 if (timeLeft <= 0) {
-                    countdownText.innerHTML = "The feast has begun! 🍻⚔️";
+                    countdownText.innerHTML = getLangFromURL() === "ru"
+                        ? "Пир начался! 🍻⚔️"
+                        : "The feast has begun! 🍻⚔️";
                     return;
                 }
         
@@ -109,10 +111,23 @@ if (presaveBtn) {
         });
         
         // Функция для смены языка и сохранения выбора
-        function switchLanguage(lang) {
-            localStorage.setItem("lang", lang);
-            window.location.href = lang === "ru" ? "/ru" : "/en";
-        }
+        document.addEventListener("DOMContentLoaded", function () {
+            function switchLanguage(lang) {
+                localStorage.setItem("lang", lang);
+                window.location.href = lang === "ru" ? "/ru" : "/en";
+            }
+        
+            function getLangFromURL() {
+                return window.location.pathname.includes("/ru") ? "ru" : "en";
+            }
+        
+            window.switchLanguage = switchLanguage;
+            window.getLangFromURL = getLangFromURL;
+        
+            // Загружаем правильный язык при первой загрузке
+            const savedLang = localStorage.getItem("lang") || getLangFromURL();
+            switchLanguage(savedLang);
+        });
         
         // Копирование ссылки
         function copyLink() {
@@ -147,7 +162,7 @@ if (presaveBtn) {
             let shareText = lang === "ru"
                 ? "Поделитесь этим крутым Dungeon Folk проектом с друзьями!"
                 : "Check out this awesome Dungeon Folk project!";
-            
+        
             let shareUrl = "";
         
             switch (platform) {
