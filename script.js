@@ -152,58 +152,60 @@ if (presaveBtn) {
         
         // Определяем язык из URL
         function getLangFromURL() {
-            if (window.location.pathname.includes("/ru")) return "ru";
+            if (window.location.pathname.includes("/ru") || window.location.href.includes("index-ru.html")) {
+                return "ru";
+            }
             return "en"; // По умолчанию английский
         }
 
-        // Функция для отправки в соцсети
-    function shareTo(platform) {
+        // Функция для отправки в соцсети с правильным текстом
+        function shareTo(platform) {
         const url = encodeURIComponent(window.location.href);
         const lang = getLangFromURL(); // Определяем язык
         let shareText = lang === "ru" ? "Зацените крутой Dungeon Folk проект TopfHelm!" : "Check out this awesome Dungeon Folk project!";
 
         let shareUrl = "";
 
-        switch (platform) {
-            case "facebook":
-                shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${url}&quote=${encodeURIComponent(shareText)}`;
-                break;
-            case "vk":
-                shareUrl = `https://vk.com/share.php?url=${url}&title=${encodeURIComponent(shareText)}`;
-                break;
-            case "telegram":
-                shareUrl = `https://t.me/share/url?url=${url}&text=${encodeURIComponent(shareText)}`;
-                break;
-            case "x":
-                shareUrl = `https://twitter.com/intent/tweet?url=${url}&text=${encodeURIComponent(shareText)}`;
-                break;
-            case "reddit":
-                shareUrl = `https://www.reddit.com/submit?url=${url}&title=${encodeURIComponent(shareText)}`;
-                break;
-            case "discord":
-                shareUrl = `https://discord.com/channels/@me`;
-                break;
-            case "ok":
-                shareUrl = `https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&st.shareUrl=${url}`;
-                break;
-            case "tumblr":
-                shareUrl = `https://www.tumblr.com/share/link?url=${url}&name=${encodeURIComponent(shareText)}`;
-                break;
-            case "whatsapp":
-                shareUrl = `https://api.whatsapp.com/send?text=${encodeURIComponent(shareText + " " + url)}`;
-                break;
-            case "viber":
-                shareUrl = `viber://forward?text=${encodeURIComponent(shareText + " " + url)}`;
-                break;
-            case "email":
-                shareUrl = `mailto:?subject=${encodeURIComponent(shareText)}&body=${url}`;
-                break;
-        }
+    switch (platform) {
+        case "facebook":
+            shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${url}&quote=${encodeURIComponent(shareText)}`;
+            break;
+        case "vk":
+            shareUrl = `https://vk.com/share.php?url=${url}&title=${encodeURIComponent(shareText)}`;
+            break;
+        case "telegram":
+            shareUrl = `https://t.me/share/url?url=${url}&text=${encodeURIComponent(shareText)}`;
+            break;
+        case "x":
+            shareUrl = `https://twitter.com/intent/tweet?url=${url}&text=${encodeURIComponent(shareText)}`;
+            break;
+        case "reddit":
+            shareUrl = `https://www.reddit.com/submit?url=${url}&title=${encodeURIComponent(shareText)}`;
+            break;
+        case "discord":
+            shareUrl = `https://discord.com/channels/@me`;
+            break;
+        case "ok":
+            shareUrl = `https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&st.shareUrl=${url}`;
+            break;
+        case "tumblr":
+            shareUrl = `https://www.tumblr.com/share/link?url=${url}&name=${encodeURIComponent(shareText)}`;
+            break;
+        case "whatsapp":
+            shareUrl = `https://api.whatsapp.com/send?text=${encodeURIComponent(shareText + " " + url)}`;
+            break;
+        case "viber":
+            shareUrl = `viber://forward?text=${encodeURIComponent(shareText + " " + url)}`;
+            break;
+        case "email":
+            shareUrl = `mailto:?subject=${encodeURIComponent(shareText)}&body=${url}`;
+            break;
+    }
 
-        if (shareUrl) {
-            window.open(shareUrl, "_blank");
-        }
-        }
+    if (shareUrl) {
+        window.open(shareUrl, "_blank");
+    }
+    }   
         
         // Функция копирования ссылки
         function copyLink() {
