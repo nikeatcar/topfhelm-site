@@ -30,28 +30,23 @@ document.addEventListener("DOMContentLoaded", function () {
     // Изменение текста кнопки Presave Now
 if (presaveBtn) {
     presaveBtn.addEventListener("mouseenter", function () {
-        this.style.transition = "background-color 0.3s ease-in-out, opacity 0.3s ease-in-out";
-        this.style.backgroundColor = "#FF6666"; // Цвет при наведении
-        this.style.transition = "background-color 0.3s ease-in-out, opacity 0.3s ease-in-out";
-        this.style.opacity = "0.5"; // Делаем её полупрозрачной вместо полного скрытия
+        this.style.transition = "background-color 0.3s ease-in-out";
+        this.style.backgroundColor = "#FF6666"; // Меняем цвет при наведении
         setTimeout(() => {
             this.innerHTML = window.location.href.includes("index-ru.html") 
                 ? "<span>❤️Спасибо!❤️</span>" 
                 : "<span>❤️Thank You!❤️</span>";
-            this.style.opacity = "1"; // Затем плавно показываем текст
         }, 200);
     });
-
+    
     presaveBtn.addEventListener("mouseleave", function () {
-        this.style.transition = "background-color 0.3s ease-in-out, opacity 0.3s ease-in-out";
-        this.style.backgroundColor = "#1DB954"; // Возвращаем цвет
-        this.style.opacity = "0"; // Скрываем перед сменой текста
+        this.style.transition = "background-color 0.3s ease-in-out";
+        this.style.backgroundColor = "#1DB954"; // Возвращаем стандартный цвет
         setTimeout(() => {
             this.innerHTML = window.location.href.includes("index-ru.html") 
                 ? "<span>Предсохраняй</span>" 
                 : "<span>Presave Now</span>";
-            this.style.opacity = "1"; // Возвращаем плавно
-        }, 300);
+        }, 200);
     });
     }
     });
