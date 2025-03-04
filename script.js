@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     //Разные шрифты
     document.addEventListener("DOMContentLoaded", function () {
-        if (window.location.href.includes("index-ru.html")) {
+        if (getLangFromURL() === "ru") {
             document.body.classList.add("ru");
         }
     });
@@ -114,11 +114,15 @@ if (presaveBtn) {
         document.addEventListener("DOMContentLoaded", function () {
             function switchLanguage(lang) {
                 localStorage.setItem("lang", lang);
-                window.location.href = lang === "ru" ? "/ru" : "/en";
+                history.pushState(null, "", lang === "ru" ? "/ru" : "/en");
+                location.reload(); // 🔥 Теперь страница обновляется и контент переключается!
             }
         
             function getLangFromURL() {
-                return window.location.pathname.includes("/ru") ? "ru" : "en";
+                if (window.location.pathname.includes("/ru")) {
+                    return "ru";
+                }
+                return "en"; 
             }
         
             window.switchLanguage = switchLanguage;
@@ -157,12 +161,12 @@ if (presaveBtn) {
 
         // Функция для отправки в соцсети с правильным текстом 
         function shareTo(platform) {
-            const url = encodeURIComponent(window.location.href);
+            const url = encodeURIComponent(window.location.origin + window.location.pathname);
             const lang = getLangFromURL();
             let shareText = lang === "ru"
                 ? "Поделитесь этим крутым Dungeon Folk проектом с друзьями!"
                 : "Check out this awesome Dungeon Folk project!";
-            
+        
             let shareUrl = "";
         
             switch (platform) {
