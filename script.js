@@ -27,13 +27,12 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     // Изменение текста кнопки Presave Now
-    // Изменение текста кнопки Presave Now
 if (presaveBtn) {
     presaveBtn.addEventListener("mouseenter", function () {
         this.style.transition = "background-color 0.3s ease-in-out";
         this.style.backgroundColor = "#FF6666"; // Меняем цвет при наведении
         setTimeout(() => {
-            this.innerHTML = window.location.href.includes("index-ru.html") 
+            this.innerHTML = window.location.href.includes("index-ru.html", "/ru") 
                 ? "<span>❤️Спасибо!❤️</span>" 
                 : "<span>❤️Thank You!❤️</span>";
         }, 200);
@@ -43,7 +42,7 @@ if (presaveBtn) {
         this.style.transition = "background-color 0.3s ease-in-out";
         this.style.backgroundColor = "#1DB954"; // Возвращаем стандартный цвет
         setTimeout(() => {
-            this.innerHTML = window.location.href.includes("index-ru.html") 
+            this.innerHTML = window.location.href.includes("index-ru.html", "/ru") 
                 ? "<span>Предсохраняй</span>" 
                 : "<span>Presave Now</span>";
         }, 200);
