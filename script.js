@@ -13,8 +13,8 @@ document.addEventListener("DOMContentLoaded", function () {
             "en": "Medieval-inspired atmospheric music for DnD, fantasy worlds, and dark folk lovers"
         },
         "albumText": {
-            "ru": "Скоро выйдет новый альбом <span class='english-text'>\"Sanguis et Mulsum\"! ⚔️🍺</span>",
-            "en": "New album <span class='english-text'>\"Sanguis et Mulsum\" coming soon! ⚔️🍺</span>"
+            "ru": "<strong>\"Sanguis et Mulsum\"</strong> выйдет <span class='release-date'>28 Марта</span>! ⚔️🍺",
+            "en": "<strong>\"Sanguis et Mulsum\"</strong> out <span class='release-date'>March 28</span>! ⚔️🍺"
         },
         "presave": {
             "ru": "Предсохраняй",
@@ -23,10 +23,6 @@ document.addEventListener("DOMContentLoaded", function () {
         "newAlbum": {
             "ru": "Новый альбом",
             "en": "New Album"
-        },
-        "releaseDate": {
-            "ru": "выйдет <span class='release-date'>28 Марта</span>! ⚔️🍺",
-            "en": "out <span class='release-date'>March 28</span>! ⚔️🍺"
         },
         "teaser": {
             "ru": "Тизер альбома",
@@ -45,8 +41,8 @@ document.addEventListener("DOMContentLoaded", function () {
             "en": "TopfHelm – Medieval Dungeon Folk, Dungeon Synth & Dark Folk"
         },
         "seoText": {
-            "ru": "TopfHelm — это проект <strong>Dungeon Folk</strong> и <strong>Dungeon Synth</strong>, вдохновленный <strong>средневековой музыкой</strong>, <strong>атмосферой DnD</strong> и <strong>саундтреками к фэнтезийным мирам</strong>. Наша музыка идеально подходит для <strong>ролевых игр (RPG), настольных сессий и событий на средневековую тематику</strong>. Основываясь на <strong>истории крестоносцев</strong>, мы создаем **атмосферный звуковой ландшафт**, который подходит как для **фэнтезийных сражений**, так и для **пиров в древних крепостях**.",
-            "en": "TopfHelm is a <strong>Dungeon Folk</strong> and <strong>Dungeon Synth</strong> project inspired by <strong>medieval music</strong>, <strong>DnD atmosphere</strong>, and <strong>fantasy world soundtracks</strong>. Our music is perfect for <strong>role-playing games (RPGs), tabletop sessions, and medieval-themed events</strong>. Rooted in <strong>crusader history</strong>, we create an **atmospheric soundscape** that fits both **fantasy battles** and **ancient fortress feasts**."
+            "ru": "TopfHelm — это проект <strong>Dungeon Folk</strong> и <strong>Dungeon Synth</strong>, вдохновленный <strong>средневековой музыкой</strong>, <strong>атмосферой DnD</strong> и <strong>саундтреками к фэнтезийным мирам</strong>.",
+            "en": "TopfHelm is a <strong>Dungeon Folk</strong> and <strong>Dungeon Synth</strong> project inspired by <strong>medieval music</strong>, <strong>DnD atmosphere</strong>, and <strong>fantasy world soundtracks</strong>."
         },
         "contact": {
             "ru": "Связаться",
@@ -84,13 +80,19 @@ document.addEventListener("DOMContentLoaded", function () {
         document.body.classList.toggle("ru", lang === "ru");
         document.body.classList.toggle("en", lang === "en");
 
+        // Применяем шрифт Monomakh для русского языка
+        if (lang === "ru") {
+            document.body.style.fontFamily = "'Monomakh', serif";
+        } else {
+            document.body.style.fontFamily = "'IM Fell English SC', serif";
+        }
+
         document.querySelector("h1").innerHTML = translations["title"][lang];
         document.querySelector(".genre").innerHTML = translations["genre"][lang];
         document.querySelector("h3").innerHTML = translations["albumText"][lang];
 
         document.getElementById("presave-btn").innerHTML = `<span>${translations["presave"][lang]}</span>`;
         document.querySelector(".album-header span").textContent = translations["newAlbum"][lang];
-        document.querySelector(".album-text p:nth-child(2)").innerHTML = translations["releaseDate"][lang];
         document.querySelector(".video-section h2").textContent = translations["teaser"][lang];
         document.querySelector(".support-section h2").textContent = translations["support"][lang];
         document.querySelector(".share-main span").textContent = translations["share"][lang];
@@ -106,113 +108,69 @@ document.addEventListener("DOMContentLoaded", function () {
         loadLanguageContent(lang);
     });
 
-    // Анимация кнопок при наведении
-    buttons.forEach(button => {
-        button.addEventListener("mouseenter", () => {
-            let intensity = 3;
-            let shakeInterval = setInterval(() => {
-                let x = (Math.random() * intensity * 2) - intensity;
-                let y = (Math.random() * intensity * 2) - intensity;
-                button.style.transform = `translate(${x}px, ${y}px)`;
-            }, 50);
-
+    // ✅ Восстановление анимации кнопки Presave Now
+    if (presaveBtn) {
+        presaveBtn.addEventListener("mouseenter", function () {
+            this.style.transition = "background-color 0.3s ease-in-out";
+            this.style.backgroundColor = "#FF6666";
             setTimeout(() => {
-                clearInterval(shakeInterval);
-                button.style.transform = "translate(0, 0)";
-            }, 300);
+                this.innerHTML = getLangFromURL() === "ru" 
+                    ? "<span>❤️Спасибо!❤️</span>" 
+                    : "<span>❤️Thank You!❤️</span>";
+            }, 200);
         });
-    });
 
-    // Таймер релиза
-    const releaseDate = new Date("March 28, 2025 08:00:00").getTime();
-    const countdownText = document.getElementById("countdown-text");
+        presaveBtn.addEventListener("mouseleave", function () {
+            this.style.transition = "background-color 0.3s ease-in-out";
+            this.style.backgroundColor = "#1DB954";
+            setTimeout(() => {
+                this.innerHTML = getLangFromURL() === "ru" 
+                    ? "<span>Предсохраняй</span>" 
+                    : "<span>Presave Now</span>";
+            }, 200);
+        });
+    }
 
-    function updateCountdown() {
-        const now = new Date().getTime();
-        const timeLeft = releaseDate - now;
+    // ✅ Восстановление кнопки Share
+    window.shareTo = function (platform) {
+        const url = encodeURIComponent(window.location.href);
+        const lang = getLangFromURL();
+        let shareText = lang === "ru" ? "Зацените крутой Dungeon Folk проект TopfHelm!" : "Check out this awesome Dungeon Folk project!";
+        let shareUrl = "";
 
-        if (timeLeft <= 0) {
-            countdownText.innerHTML = "The feast has begun! 🍻⚔️";
-            return;
+        switch (platform) {
+            case "facebook":
+                shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${url}&quote=${encodeURIComponent(shareText)}`;
+                break;
+            case "vk":
+                shareUrl = `https://vk.com/share.php?url=${url}&title=${encodeURIComponent(shareText)}`;
+                break;
+            case "telegram":
+                shareUrl = `https://t.me/share/url?url=${url}&text=${encodeURIComponent(shareText)}`;
+                break;
+            case "x":
+                shareUrl = `https://twitter.com/intent/tweet?url=${url}&text=${encodeURIComponent(shareText)}`;
+                break;
+            case "reddit":
+                shareUrl = `https://www.reddit.com/submit?url=${url}&title=${encodeURIComponent(shareText)}`;
+                break;
+            case "email":
+                shareUrl = `mailto:?subject=${encodeURIComponent(shareText)}&body=${url}`;
+                break;
         }
 
-        const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
-        const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-        const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
-        const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
+        if (shareUrl) {
+            window.open(shareUrl, "_blank");
+        }
+    };
 
-        countdownText.innerHTML = getLangFromURL() === "ru"
-            ? `⏳ Великий пир начнётся через: <span class="time">${days}</span>д <span class="time">${hours}</span>ч <span class="time">${minutes}</span>м <span class="time">${seconds}</span>с`
-            : `⏳ The grand feast begins in: <span class="time">${days}</span>d <span class="time">${hours}</span>h <span class="time">${minutes}</span>m <span class="time">${seconds}</span>s`;
-    }
+    window.openShareModal = function () {
+        document.getElementById("share-modal").classList.add("active");
+        document.body.classList.add("no-scroll");
+    };
 
-    setInterval(updateCountdown, 1000);
-    updateCountdown();
+    window.closeShareModal = function () {
+        document.getElementById("share-modal").classList.remove("active");
+        document.body.classList.remove("no-scroll");
+    };
 });
-
-// Изменение текста кнопки Presave Now
-if (presaveBtn) {
-    presaveBtn.addEventListener("mouseenter", function () {
-        this.style.transition = "background-color 0.3s ease-in-out";
-        this.style.backgroundColor = "#FF6666";
-        setTimeout(() => {
-            this.innerHTML = getLangFromURL() === "ru" 
-                ? "<span>❤️Спасибо!❤️</span>" 
-                : "<span>❤️Thank You!❤️</span>";
-        }, 200);
-    });
-
-    presaveBtn.addEventListener("mouseleave", function () {
-        this.style.transition = "background-color 0.3s ease-in-out";
-        this.style.backgroundColor = "#1DB954";
-        setTimeout(() => {
-            this.innerHTML = getLangFromURL() === "ru" 
-                ? "<span>Предсохраняй</span>" 
-                : "<span>Presave Now</span>";
-        }, 200);
-    });
-}
-
-// ✅ Функция шаринга
-window.shareTo = function (platform) {
-    const url = encodeURIComponent(window.location.href);
-    const lang = getLangFromURL();
-    let shareText = lang === "ru" ? "Зацените крутой Dungeon Folk проект TopfHelm!" : "Check out this awesome Dungeon Folk project!";
-    let shareUrl = "";
-
-    switch (platform) {
-        case "facebook":
-            shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${url}&quote=${encodeURIComponent(shareText)}`;
-            break;
-        case "vk":
-            shareUrl = `https://vk.com/share.php?url=${url}&title=${encodeURIComponent(shareText)}`;
-            break;
-        case "telegram":
-            shareUrl = `https://t.me/share/url?url=${url}&text=${encodeURIComponent(shareText)}`;
-            break;
-        case "x":
-            shareUrl = `https://twitter.com/intent/tweet?url=${url}&text=${encodeURIComponent(shareText)}`;
-            break;
-        case "reddit":
-            shareUrl = `https://www.reddit.com/submit?url=${url}&title=${encodeURIComponent(shareText)}`;
-            break;
-        case "email":
-            shareUrl = `mailto:?subject=${encodeURIComponent(shareText)}&body=${url}`;
-            break;
-    }
-
-    if (shareUrl) {
-        window.open(shareUrl, "_blank");
-    }
-};
-
-  // ✅ Функции для открытия/закрытия окна шаринга
-  window.openShareModal = function () {
-    document.getElementById("share-modal").classList.add("active");
-    document.body.classList.add("no-scroll");
-};
-
-window.closeShareModal = function () {
-    document.getElementById("share-modal").classList.remove("active");
-    document.body.classList.remove("no-scroll");
-};
