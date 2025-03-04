@@ -114,15 +114,11 @@ if (presaveBtn) {
         document.addEventListener("DOMContentLoaded", function () {
             function switchLanguage(lang) {
                 localStorage.setItem("lang", lang);
-                history.pushState(null, "", lang === "ru" ? "/ru" : "/en");
-                location.reload(); // 🔥 Теперь страница обновляется и контент переключается!
+                window.location.href = lang === "ru" ? "/ru" : "/en";
             }
         
             function getLangFromURL() {
-                if (window.location.pathname.includes("/ru")) {
-                    return "ru";
-                }
-                return "en"; 
+                return window.location.pathname.includes("/ru") ? "ru" : "en"; 
             }
         
             window.switchLanguage = switchLanguage;
@@ -207,7 +203,7 @@ if (presaveBtn) {
         
         // Перевод текстов для русской версии
         document.addEventListener("DOMContentLoaded", function () {
-            if (window.location.href.includes("index-ru.html")) {
+            if (getLangFromURL() === "ru") {
                 document.getElementById("share-title").textContent = "Поделись нашим проектом с друзьями!";
                 document.querySelector(".copy-btn").textContent = "🔗 Скопировать ссылку";
             }
