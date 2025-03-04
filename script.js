@@ -27,28 +27,28 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     // Изменение текста кнопки Presave Now
+// Изменение текста кнопки Presave Now
 if (presaveBtn) {
     presaveBtn.addEventListener("mouseenter", function () {
         this.style.transition = "background-color 0.3s ease-in-out";
-        this.style.backgroundColor = "#FF6666"; // Меняем цвет при наведении
+        this.style.backgroundColor = "#FF6666";
+        const lang = getLangFromURL();
         setTimeout(() => {
-            this.innerHTML = window.location.href.includes("index-ru.html", "/ru") 
-                ? "<span>❤️Спасибо!❤️</span>" 
+            this.innerHTML = lang === "ru"
+                ? "<span>❤️Спасибо!❤️</span>"
                 : "<span>❤️Thank You!❤️</span>";
         }, 200);
     });
-    
+
     presaveBtn.addEventListener("mouseleave", function () {
         this.style.transition = "background-color 0.3s ease-in-out";
-        this.style.backgroundColor = "#1DB954"; // Возвращаем стандартный цвет
+        this.style.backgroundColor = "#1DB954";
+        const lang = getLangFromURL();
         setTimeout(() => {
-            this.innerHTML = window.location.href.includes("index-ru.html", "/ru") 
-                ? "<span>Предсохраняй</span>" 
-                : "<span>Presave Now</span>";
+            this.innerHTML = `<span>${lang === "ru" ? "Предсохраняй" : "Presave Now"}</span>`;
         }, 200);
     });
     }
-    });
 
     // Параллакс-эффект для фона
     window.addEventListener("scroll", function () {
@@ -220,3 +220,4 @@ if (presaveBtn) {
                 document.querySelector(".copy-btn").textContent = "🔗 Скопировать ссылку";
             }
         });
+    });
