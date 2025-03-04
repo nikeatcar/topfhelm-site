@@ -2,10 +2,109 @@ document.addEventListener("DOMContentLoaded", function () {
     const buttons = document.querySelectorAll(".button");
     const presaveBtn = document.getElementById("presave-btn");
 
-    // Разные шрифты и настройка языка по URL
+    // Объект с переводами
+    const translations = {
+        "title": {
+            "ru": "TopfHelm - Dungeon Folk и Dungeon Synth Музыка",
+            "en": "TopfHelm - Dungeon Folk & Dungeon Synth Music"
+        },
+        "genre": {
+            "ru": "Атмосферная музыка в средневековом стиле для любителей DnD, фэнтезийных миров и дарк-фолка",
+            "en": "Medieval-inspired atmospheric music for DnD, fantasy worlds, and dark folk lovers"
+        },
+        "albumText": {
+            "ru": "Скоро выйдет новый альбом <span class='english-text'>\"Sanguis et Mulsum\"! ⚔️🍺</span>",
+            "en": "New album <span class='english-text'>\"Sanguis et Mulsum\" coming soon! ⚔️🍺</span>"
+        },
+        "presave": {
+            "ru": "Предсохраняй",
+            "en": "Presave Now"
+        },
+        "newAlbum": {
+            "ru": "Новый альбом",
+            "en": "New Album"
+        },
+        "releaseDate": {
+            "ru": "выйдет <span class='release-date'>28 Марта</span>! ⚔️🍺",
+            "en": "out <span class='release-date'>March 28</span>! ⚔️🍺"
+        },
+        "teaser": {
+            "ru": "Тизер альбома",
+            "en": "Album Teaser"
+        },
+        "support": {
+            "ru": "Поддержи проект",
+            "en": "Support The Project"
+        },
+        "share": {
+            "ru": "Делиться",
+            "en": "Share"
+        },
+        "seoTitle": {
+            "ru": "TopfHelm – Средневековый Dungeon Folk, Dungeon Synth и Dark Folk",
+            "en": "TopfHelm – Medieval Dungeon Folk, Dungeon Synth & Dark Folk"
+        },
+        "seoText": {
+            "ru": "TopfHelm — это проект <strong>Dungeon Folk</strong> и <strong>Dungeon Synth</strong>, вдохновленный <strong>средневековой музыкой</strong>, <strong>атмосферой DnD</strong> и <strong>саундтреками к фэнтезийным мирам</strong>. Наша музыка идеально подходит для <strong>ролевых игр (RPG), настольных сессий и событий на средневековую тематику</strong>. Основываясь на <strong>истории крестоносцев</strong>, мы создаем **атмосферный звуковой ландшафт**, который подходит как для **фэнтезийных сражений**, так и для **пиров в древних крепостях**.",
+            "en": "TopfHelm is a <strong>Dungeon Folk</strong> and <strong>Dungeon Synth</strong> project inspired by <strong>medieval music</strong>, <strong>DnD atmosphere</strong>, and <strong>fantasy world soundtracks</strong>. Our music is perfect for <strong>role-playing games (RPGs), tabletop sessions, and medieval-themed events</strong>. Rooted in <strong>crusader history</strong>, we create an **atmospheric soundscape** that fits both **fantasy battles** and **ancient fortress feasts**."
+        },
+        "contact": {
+            "ru": "Связаться",
+            "en": "Contact"
+        }
+    };
+
+    // Определение языка при открытии страницы
+    const savedLang = localStorage.getItem("lang") || detectBrowserLang();
     const currentLang = getLangFromURL();
-    document.body.classList.toggle("ru", currentLang === "ru");
-    document.body.classList.toggle("en", currentLang === "en");
+
+    if (savedLang !== currentLang) {
+        history.replaceState(null, "", "/" + savedLang);
+    }
+    loadLanguageContent(savedLang);
+
+    // ✅ Функция переключения языка
+    window.switchLanguage = function (lang) {
+        if (getLangFromURL() !== lang) {
+            localStorage.setItem("lang", lang);
+            history.pushState(null, "", "/" + lang);
+            loadLanguageContent(lang);
+        }
+    };
+
+    function detectBrowserLang() {
+        return navigator.language.startsWith("ru") ? "ru" : "en";
+    }
+
+    function getLangFromURL() {
+        return window.location.pathname.includes("/ru") ? "ru" : "en";
+    }
+
+    function loadLanguageContent(lang) {
+        document.body.classList.toggle("ru", lang === "ru");
+        document.body.classList.toggle("en", lang === "en");
+
+        document.querySelector("h1").innerHTML = translations["title"][lang];
+        document.querySelector(".genre").innerHTML = translations["genre"][lang];
+        document.querySelector("h3").innerHTML = translations["albumText"][lang];
+
+        document.getElementById("presave-btn").innerHTML = `<span>${translations["presave"][lang]}</span>`;
+        document.querySelector(".album-header span").textContent = translations["newAlbum"][lang];
+        document.querySelector(".album-text p:nth-child(2)").innerHTML = translations["releaseDate"][lang];
+        document.querySelector(".video-section h2").textContent = translations["teaser"][lang];
+        document.querySelector(".support-section h2").textContent = translations["support"][lang];
+        document.querySelector(".share-main span").textContent = translations["share"][lang];
+
+        document.querySelector(".seo-text h2").textContent = translations["seoTitle"][lang];
+        document.querySelector(".seo-text p").innerHTML = translations["seoText"][lang];
+
+        document.querySelector(".button.contact").textContent = translations["contact"][lang];
+    }
+
+    window.addEventListener("popstate", function () {
+        const lang = getLangFromURL();
+        loadLanguageContent(lang);
+    });
 
     // Анимация кнопок при наведении
     buttons.forEach(button => {
@@ -23,29 +122,6 @@ document.addEventListener("DOMContentLoaded", function () {
             }, 300);
         });
     });
-
-    // Изменение текста кнопки Presave Now
-    if (presaveBtn) {
-        presaveBtn.addEventListener("mouseenter", function () {
-            this.style.transition = "background-color 0.3s ease-in-out";
-            this.style.backgroundColor = "#FF6666";
-            setTimeout(() => {
-                this.innerHTML = getLangFromURL() === "ru" 
-                    ? "<span>❤️Спасибо!❤️</span>" 
-                    : "<span>❤️Thank You!❤️</span>";
-            }, 200);
-        });
-
-        presaveBtn.addEventListener("mouseleave", function () {
-            this.style.transition = "background-color 0.3s ease-in-out";
-            this.style.backgroundColor = "#1DB954";
-            setTimeout(() => {
-                this.innerHTML = getLangFromURL() === "ru" 
-                    ? "<span>Предсохраняй</span>" 
-                    : "<span>Presave Now</span>";
-            }, 200);
-        });
-    }
 
     // Таймер релиза
     const releaseDate = new Date("March 28, 2025 08:00:00").getTime();
@@ -72,93 +148,4 @@ document.addEventListener("DOMContentLoaded", function () {
 
     setInterval(updateCountdown, 1000);
     updateCountdown();
-
-    // ✅ Автоматическое определение языка
-    const savedLang = localStorage.getItem("lang") || detectBrowserLang();
-    if (savedLang !== currentLang) {
-        history.replaceState(null, "", "/" + savedLang);
-    }
-    loadLanguageContent(savedLang);
-
-    // ✅ Функция переключения языка
-    window.switchLanguage = function (lang) {
-        if (getLangFromURL() !== lang) {
-            localStorage.setItem("lang", lang);
-            history.pushState(null, "", "/" + lang);
-            loadLanguageContent(lang);
-        }
-    };
-
-    // ✅ Функция определения языка браузера (по умолчанию "en")
-    function detectBrowserLang() {
-        return navigator.language.startsWith("ru") ? "ru" : "en";
-    }
-
-    // ✅ Функция получения языка из URL
-    function getLangFromURL() {
-        return window.location.pathname.includes("/ru") ? "ru" : "en";
-    }
-
-    // ✅ Функция загрузки контента без перезагрузки
-    function loadLanguageContent(lang) {
-        document.body.classList.toggle("ru", lang === "ru");
-        document.body.classList.toggle("en", lang === "en");
-    }
-
-    // ✅ Обработка нажатия кнопки "Назад" в браузере
-    window.addEventListener("popstate", function () {
-        const lang = getLangFromURL();
-        loadLanguageContent(lang);
-    });
-
-    // ✅ Функция копирования ссылки
-    window.copyLink = function () {
-        navigator.clipboard.writeText(window.location.href).then(() => {
-            alert(getLangFromURL() === "ru" ? "Ссылка скопирована!" : "Link copied to clipboard!");
-        });
-    };
-
-    // ✅ Функция шаринга
-    window.shareTo = function (platform) {
-        const url = encodeURIComponent(window.location.href);
-        const lang = getLangFromURL();
-        let shareText = lang === "ru" ? "Зацените крутой Dungeon Folk проект TopfHelm!" : "Check out this awesome Dungeon Folk project!";
-        let shareUrl = "";
-
-        switch (platform) {
-            case "facebook":
-                shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${url}&quote=${encodeURIComponent(shareText)}`;
-                break;
-            case "vk":
-                shareUrl = `https://vk.com/share.php?url=${url}&title=${encodeURIComponent(shareText)}`;
-                break;
-            case "telegram":
-                shareUrl = `https://t.me/share/url?url=${url}&text=${encodeURIComponent(shareText)}`;
-                break;
-            case "x":
-                shareUrl = `https://twitter.com/intent/tweet?url=${url}&text=${encodeURIComponent(shareText)}`;
-                break;
-            case "reddit":
-                shareUrl = `https://www.reddit.com/submit?url=${url}&title=${encodeURIComponent(shareText)}`;
-                break;
-            case "email":
-                shareUrl = `mailto:?subject=${encodeURIComponent(shareText)}&body=${url}`;
-                break;
-        }
-
-        if (shareUrl) {
-            window.open(shareUrl, "_blank");
-        }
-    };
-
-    // ✅ Функции для открытия/закрытия окна шаринга
-    window.openShareModal = function () {
-        document.getElementById("share-modal").classList.add("active");
-        document.body.classList.add("no-scroll");
-    };
-
-    window.closeShareModal = function () {
-        document.getElementById("share-modal").classList.remove("active");
-        document.body.classList.remove("no-scroll");
-    };
 });
