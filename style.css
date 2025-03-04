@@ -416,6 +416,10 @@ body.ru #countdown-text {
     text-transform: uppercase;
 }
 
+.support-section .share-button {
+    margin: 0 auto; /* Центрируем кнопку Share */
+}
+
 .support-icons {
     display: flex;
     justify-content: center;
@@ -463,6 +467,156 @@ body.ru #countdown-text {
 
 .seo-text a:hover {
     text-decoration: underline;
+}
+
+/*Шаринг*/
+/* Стили для блока шаринга */
+.share-button {
+    display: flex;
+    justify-content: center; /* Центрируем кнопку */
+    align-items: center;
+    width: 100%;
+    margin-top: 20px;
+}
+
+/* Контейнер для выравнивания внутри кнопки */
+.share-button-content {
+    display: flex;
+    align-items: center;
+    gap: 8px; /* Добавляет небольшой отступ между иконкой и текстом */
+}
+
+/* Стили для кнопки Share (НЕ наследует стили от .button) */
+.share-main {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Центрируем иконку и текст */
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    border: 2px solid #ffcc00;
+    padding: 12px 20px;
+    border-radius: 8px;
+    transition: all 0.3s ease-in-out;
+    width: 180px;
+    height: 50px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* Контейнер для иконки и текста */
+.share-main .share-button-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+/* Иконка в кнопке Share */
+.share-main img {
+    width: 40px;
+    height: 40px;
+    filter: brightness(0) invert(1);
+}
+
+/* Текст внутри кнопки */
+.share-main span {
+    display: inline-block;
+    text-align: center;
+}
+
+/* Эффект при наведении */
+.share-main:hover {
+    background-color: #ffcc00;
+    color: #121212;
+    transform: scale(1.05);
+}
+
+/* Убираем наследование от .button */
+.button.share-main {
+    all: unset; /* Убирает ВСЕ стандартные стили кнопки */
+    display: flex;
+}
+
+/* Затемнение фона */
+.share-modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.share-modal.active {
+    display: flex;
+}
+
+/* Контейнер окна */
+.share-content {
+    position: relative; /* Обязательно для позиционирования креста */
+    background: rgba(0, 0, 0, 0.9);
+    border: 2px solid #ffcc00;
+    padding: 20px;
+    text-align: center;
+    border-radius: 12px;
+    width: 80%;
+    max-width: 400px;
+}
+
+/* Крестик закрытия */
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 28px;
+    font-weight: bold;
+    color: #ffcc00;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out, color 0.3s ease-in-out;
+}
+
+/* Эффект при наведении */
+.close-btn:hover {
+    transform: scale(1.2);
+    color: #fff;
+}
+
+/* Иконки соцсетей */
+.share-icons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.share-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    color: #ffcc00;
+    font-size: 14px;
+}
+
+.share-item img {
+    width: 80px;
+    height: 50px;
+}
+
+/* Кнопка копирования */
+.copy-btn {
+    width: 100%;
+    margin-top: 10px;
+    background: #ffcc00;
+    color: #121212;
+    font-weight: bold;
 }
 
 /* Медиа-запросы для адаптивности */
@@ -538,6 +692,33 @@ body.ru #countdown-text {
     .seo-text {
         display: none;
     }
+
+    .share-content {
+        width: 90%; /* Уменьшаем ширину окна на мобильных */
+        max-width: 350px;
+    }
+    
+    /* Уменьшаем размер заголовка в окне "Поделиться" */
+    #share-title {
+        font-size: 18px;
+    }
+
+    /* Иконки соцсетей - уменьшаем на мобильных */
+    .share-item img {
+        width: 60px;
+        height: 40px;
+    }
+
+    .share-main {
+        width: 150px; /* Немного уменьшаем ширину */
+        height: 45px;
+        font-size: 16px;
+    }
+
+    .share-main img {
+        width: 20px;
+        height: 20px;
+    }
 }
 
 @media screen and (max-width: 480px) {
@@ -575,5 +756,32 @@ body.ru #countdown-text {
     .button {
         font-size: 18px;
         padding: 10px;
+    }
+    .share-content {
+        width: 95%;
+        max-width: 300px;
+    }
+
+    /* Ещё сильнее уменьшаем иконки */
+    .share-item img {
+        width: 50px;
+        height: 35px;
+    }
+    
+    /* Заголовок ещё меньше */
+    #share-title {
+        font-size: 16px;
+    }
+    
+    /* Уменьшаем кнопку "Копировать ссылку" */
+    .copy-btn {
+        font-size: 14px;
+        padding: 8px;
+    }
+
+    .share-main {
+        width: 130px;
+        height: 40px;
+        font-size: 14px;
     }
 }

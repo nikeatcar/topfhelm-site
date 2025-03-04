@@ -18,9 +18,12 @@
     <meta name="description" content="TopfHelm — проект Dungeon Synth & Dark Folk, вдохновлённый средневековой музыкой, битвами крестоносцев и крепостным весельем. Скоро выйдет новый альбом «Sanguis et Mulsum»!">
     <meta name="keywords" content="Dungeon Synth, Dark Folk, Medieval Music, Crusader Music, Fantasy Soundtrack, Black Metal Aesthetic">
     <meta name="author" content="TopfHelm">
-    <meta property="og:title" content="TopfHelm - Dungeon Synth & Dark Folk">
-    <meta property="og:description" content="Dungeon Synth & Dark Folk в средневековом стиле. Новый альбом «Sanguis et Mulsum» выйдет 28 марта!!">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://topfhelm.com">
+    <meta property="og:title" content="TopfHelm - Dungeon Folk & Dungeon Synth">
+    <meta property="og:description" content="Dungeon Synth & Dark Folk в средневековом стиле. Новый альбом 'Sanguis et Mulsum' выйдет 28 марта!">
     <meta property="og:image" content="https://topfhelm.com/media/TopfHelm%20-%20Sanguis%20Et%20Mulsum.png">
+    <meta name="twitter:card" content="summary_large_image">
 </head>
 <body class="ru">
     <div class="language-switcher">
@@ -87,8 +90,74 @@
                 <a href="https://www.donationalerts.com/c/topfhelm" class="support-icon">
                     <img src="https://vectorseek.com/wp-content/uploads/2024/01/DonationAlerts-Logo-Vector.svg-.png" alt="DonationAlerts">
                 </a>
+        <!-- Share Button -->
+            <div class="share-section">
+                <button onclick="openShareModal()" class="share-main">
+                    <div class="share-button-content">
+                        <img src="icons/SShare.svg" alt="Share Icon">
+                        <span>Делиться</span>
+                    </div>
+                </button>
+            </div>
             </div>
         </div>
+
+        <!-- Share Modal -->
+<div id="share-modal" class="share-modal">
+    <div class="share-content">
+        <div class="close-container">
+            <span class="close-btn" onclick="closeShareModal()">✖</span>
+        </div>
+        <h2 id="share-title">Зацените этот крутой Dungeon Folk проект!</h2>
+        <div class="share-icons">
+            <a href="#" onclick="shareTo('facebook')" class="share-item">
+                <img src="icons/SFacebook.svg" alt="Facebook">
+                <span>Facebook</span>
+            </a>
+            <a href="#" onclick="shareTo('vk')" class="share-item">
+                <img src="icons/SVK.svg" alt="VK">
+                <span>VK</span>
+            </a>
+            <a href="#" onclick="shareTo('telegram')" class="share-item">
+                <img src="icons/STelegram.svg" alt="Telegram">
+                <span>Telegram</span>
+            </a>
+            <a href="#" onclick="shareTo('x')" class="share-item">
+                <img src="icons/SX.svg" alt="X">
+                <span>X</span>
+            </a>
+            <a href="#" onclick="shareTo('reddit')" class="share-item">
+                <img src="icons/SReddit.svg" alt="Reddit">
+                <span>Reddit</span>
+            </a>
+            <a href="#" onclick="shareTo('discord')" class="share-item">
+                <img src="icons/SDiscord.svg" alt="Discord">
+                <span>Discord</span>
+            </a>
+            <a href="#" onclick="shareTo('ok')" class="share-item">
+                <img src="icons/SOK.svg" alt="OK.ru">
+                <span>OK.ru</span>
+            </a>
+            <a href="#" onclick="shareTo('tumblr')" class="share-item">
+                <img src="icons/STumblr.svg" alt="Tumblr">
+                <span>Tumblr</span>
+            </a>
+            <a href="#" onclick="shareTo('whatsapp')" class="share-item">
+                <img src="icons/SWhatsapp.svg" alt="WhatsApp">
+                <span>WhatsApp</span>
+            </a>
+            <a href="#" onclick="shareTo('viber')" class="share-item">
+                <img src="icons/Sviber.svg" alt="Viber">
+                <span>Viber</span>
+            </a>
+            <a href="#" onclick="shareTo('email')" class="share-item">
+                <img src="icons/SEmail.svg" alt="Email">
+                <span>Email</span>
+            </a>
+        </div>
+        <button onclick="copyLink()" class="button copy-btn">🔗 Copy URL</button>
+    </div>
+</div>
 
         <!-- Links Section -->
         <div class="links">

@@ -131,3 +131,82 @@ if (presaveBtn) {
                 window.location.href = "index.html";
             }
         }
+        
+        // Копирование ссылки
+        function copyLink() {
+            navigator.clipboard.writeText(window.location.href).then(() => {
+                alert("Link copied to clipboard!");
+            });
+        }
+
+        //Шаринг
+        function openShareModal() {
+            document.getElementById("share-modal").classList.add("active");
+            document.body.classList.add("no-scroll");
+        }
+        
+        function closeShareModal() {
+            document.getElementById("share-modal").classList.remove("active");
+            document.body.classList.remove("no-scroll");
+        }
+        
+        // Функция для отправки в соцсети
+        function shareTo(platform) {
+            const url = encodeURIComponent(window.location.href);
+            let shareUrl = "";
+        
+            switch (platform) {
+                case "facebook":
+                    shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${url}`;
+                    break;
+                case "vk":
+                    shareUrl = `https://vk.com/share.php?url=${url}`;
+                    break;
+                case "telegram":
+                    shareUrl = `https://t.me/share/url?url=${url}&text=Зацените крутой Dungeon Folk проект TopfHelm!`;
+                    break;
+                case "x":
+                    shareUrl = `https://twitter.com/intent/tweet?url=${url}&text=Check out TopfHelm's Dungeon Folk!`;
+                    break;
+                case "reddit":
+                    shareUrl = `https://www.reddit.com/submit?url=${url}&title=Awesome Dungeon Folk!`;
+                    break;
+                case "discord":
+                    shareUrl = `https://discord.com/channels/@me`;
+                    break;
+                case "ok":
+                    shareUrl = `https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&st.shareUrl=${url}`;
+                    break;
+                case "tumblr":
+                    shareUrl = `https://www.tumblr.com/share/link?url=${url}`;
+                    break;
+                case "whatsapp":
+                    shareUrl = `https://api.whatsapp.com/send?text=Check this out: ${url}`;
+                    break;
+                case "viber":
+                    shareUrl = `viber://forward?text=${url}`;
+                    break;
+                case "email":
+                    shareUrl = `mailto:?subject=Check out this awesome Dungeon Folk project!&body=${url}`;
+                    break;
+            }
+        
+            if (shareUrl) {
+                window.open(shareUrl, "_blank");
+            }
+        }
+        
+        // Функция копирования ссылки
+        function copyLink() {
+            navigator.clipboard.writeText(window.location.href).then(() => {
+                alert("Link copied to clipboard!");
+            });
+        }
+        
+        // Перевод текстов для русской версии
+        document.addEventListener("DOMContentLoaded", function () {
+            if (window.location.href.includes("index-ru.html")) {
+                document.getElementById("share-title").textContent = "Поделись нашим проектом с друзьями!";
+                document.querySelector(".copy-btn").textContent = "🔗 Скопировать ссылку";
+            }
+        });
