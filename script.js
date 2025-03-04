@@ -126,10 +126,27 @@ if (presaveBtn) {
         function switchLanguage(lang) {
             localStorage.setItem("lang", lang);
             if (lang === "ru") {
-                window.location.href = "index-ru.html";
+                history.pushState(null, "", "/ru");
+                location.replace("/ru");
             } else {
-                window.location.href = "index.html";
+                history.pushState(null, "", "/en");
+                location.replace("/en");
             }
+        }
+
+        document.addEventListener("DOMContentLoaded", function () {
+            const savedLang = localStorage.getItem("lang") || detectBrowserLang();
+            
+            if (window.location.pathname !== "/" + savedLang) {
+                history.replaceState(null, "", "/" + savedLang);
+            }
+            
+            loadLanguageContent(savedLang);
+        });
+        
+        // Функция определения языка браузера
+        function detectBrowserLang() {
+            return navigator.language.startsWith("ru") ? "ru" : "en";
         }
         
         // Копирование ссылки
