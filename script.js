@@ -149,3 +149,70 @@ document.addEventListener("DOMContentLoaded", function () {
     setInterval(updateCountdown, 1000);
     updateCountdown();
 });
+
+// Изменение текста кнопки Presave Now
+if (presaveBtn) {
+    presaveBtn.addEventListener("mouseenter", function () {
+        this.style.transition = "background-color 0.3s ease-in-out";
+        this.style.backgroundColor = "#FF6666";
+        setTimeout(() => {
+            this.innerHTML = getLangFromURL() === "ru" 
+                ? "<span>❤️Спасибо!❤️</span>" 
+                : "<span>❤️Thank You!❤️</span>";
+        }, 200);
+    });
+
+    presaveBtn.addEventListener("mouseleave", function () {
+        this.style.transition = "background-color 0.3s ease-in-out";
+        this.style.backgroundColor = "#1DB954";
+        setTimeout(() => {
+            this.innerHTML = getLangFromURL() === "ru" 
+                ? "<span>Предсохраняй</span>" 
+                : "<span>Presave Now</span>";
+        }, 200);
+    });
+}
+
+// ✅ Функция шаринга
+window.shareTo = function (platform) {
+    const url = encodeURIComponent(window.location.href);
+    const lang = getLangFromURL();
+    let shareText = lang === "ru" ? "Зацените крутой Dungeon Folk проект TopfHelm!" : "Check out this awesome Dungeon Folk project!";
+    let shareUrl = "";
+
+    switch (platform) {
+        case "facebook":
+            shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${url}&quote=${encodeURIComponent(shareText)}`;
+            break;
+        case "vk":
+            shareUrl = `https://vk.com/share.php?url=${url}&title=${encodeURIComponent(shareText)}`;
+            break;
+        case "telegram":
+            shareUrl = `https://t.me/share/url?url=${url}&text=${encodeURIComponent(shareText)}`;
+            break;
+        case "x":
+            shareUrl = `https://twitter.com/intent/tweet?url=${url}&text=${encodeURIComponent(shareText)}`;
+            break;
+        case "reddit":
+            shareUrl = `https://www.reddit.com/submit?url=${url}&title=${encodeURIComponent(shareText)}`;
+            break;
+        case "email":
+            shareUrl = `mailto:?subject=${encodeURIComponent(shareText)}&body=${url}`;
+            break;
+    }
+
+    if (shareUrl) {
+        window.open(shareUrl, "_blank");
+    }
+};
+
+  // ✅ Функции для открытия/закрытия окна шаринга
+  window.openShareModal = function () {
+    document.getElementById("share-modal").classList.add("active");
+    document.body.classList.add("no-scroll");
+};
+
+window.closeShareModal = function () {
+    document.getElementById("share-modal").classList.remove("active");
+    document.body.classList.remove("no-scroll");
+};
