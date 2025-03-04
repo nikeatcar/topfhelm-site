@@ -162,7 +162,7 @@ if (presaveBtn) {
         function shareTo(platform) {
         const url = encodeURIComponent(window.location.href);
         const lang = getLangFromURL(); // Определяем язык
-        let shareText = lang === "ru" ? "Зацените крутой Dungeon Folk проект TopfHelm!" : "Check out this awesome Dungeon Folk project!";
+        let shareText = lang === "ru" ? "Поделитесь этим крутым Dungeon Folk проектом с друзьями!" : "Check out this awesome Dungeon Folk project!";
 
         let shareUrl = "";
 
