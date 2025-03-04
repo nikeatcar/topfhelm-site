@@ -99,30 +99,18 @@ if (presaveBtn) {
             updateCountdown(); // Вызываем сразу, чтобы не ждать 1 секунду
         });
 
-        //Переключение языков
         document.addEventListener("DOMContentLoaded", function () {
-            // Проверяем, был ли ранее выбран язык пользователем
-            const savedLang = localStorage.getItem("lang");
-            if (savedLang) {
-                if (savedLang === "ru" && !window.location.href.includes("index-ru.html")) {
-                    window.location.href = "index-ru.html";
-                }
-                if (savedLang === "en" && window.location.href.includes("index-ru.html")) {
-                    window.location.href = "index.html";
-                }
-                return;
+            const savedLang = localStorage.getItem("lang") || detectBrowserLang();
+            const currentLang = getLangFromURL();
+        
+            if (savedLang !== currentLang) {
+                history.replaceState(null, "", "/" + savedLang);
             }
         
-            // Определяем язык браузера
-            const userLang = navigator.language || navigator.userLanguage;
-            
-            // Если язык русский, перенаправляем на русскую версию (если ещё не на ней)
-            if (userLang.startsWith("ru") && !window.location.href.includes("index-ru.html")) {
-                window.location.href = "index-ru.html";
-            }
+            loadLanguageContent(savedLang);
         });
         
-        // Функция для смены языка и сохранения выбора
+        // Функция переключения языка
         function switchLanguage(lang) {
             if (getLangFromURL() !== lang) {
                 localStorage.setItem("lang", lang);
@@ -130,40 +118,34 @@ if (presaveBtn) {
                 loadLanguageContent(lang);
             }
         }
-
-        document.addEventListener("DOMContentLoaded", function () {
-            const savedLang = localStorage.getItem("lang") || detectBrowserLang();
-            
-            // Загружаем правильный контент в зависимости от URL
-            const currentLang = getLangFromURL();
-            
-            if (savedLang !== currentLang) {
-                history.replaceState(null, "", "/" + savedLang);
-            }
-            
-            loadLanguageContent(savedLang);
-        });
         
-        // Функция определения языка браузера
+        // Определение языка браузера (по умолчанию "en")
         function detectBrowserLang() {
             return navigator.language.startsWith("ru") ? "ru" : "en";
         }
-
-        // Функция получения языка из URL
+        
+        // Получение языка из URL
         function getLangFromURL() {
             return window.location.pathname.includes("/ru") ? "ru" : "en";
         }
-
-        // Функция для загрузки контента без перезагрузки
+        
+        // Загрузка контента без перезагрузки
         function loadLanguageContent(lang) {
-        if (lang === "ru") {
-        document.body.classList.add("ru");
-        document.body.classList.remove("en");
-        } else {
-        document.body.classList.add("en");
-        document.body.classList.remove("ru");
+            document.body.classList.toggle("ru", lang === "ru");
+            document.body.classList.toggle("en", lang === "en");
+        
+            // Обновление текста кнопки Presave Now в зависимости от языка
+            const presaveBtn = document.getElementById("presave-btn");
+            if (presaveBtn) {
+                presaveBtn.innerHTML = lang === "ru" ? "<span>Предсохраняй</span>" : "<span>Presave Now</span>";
+            }
         }
-        }
+        
+        // Обработка нажатия кнопки "Назад" в браузере
+        window.addEventListener("popstate", function () {
+            const lang = getLangFromURL();
+            loadLanguageContent(lang);
+        });
         
         // Копирование ссылки
         function copyLink() {
