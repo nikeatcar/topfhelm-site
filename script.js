@@ -155,7 +155,7 @@ if (presaveBtn) {
             return "en"; 
         }
 
-        // Функция для отправки в соцсети с правильным текстом
+        // Функция для отправки в соцсети с правильным текстом 
         function shareTo(platform) {
             const url = encodeURIComponent(window.location.href);
             const lang = getLangFromURL();
