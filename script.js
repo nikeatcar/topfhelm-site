@@ -124,20 +124,20 @@ if (presaveBtn) {
         
         // Функция для смены языка и сохранения выбора
         function switchLanguage(lang) {
-            localStorage.setItem("lang", lang);
-            if (lang === "ru") {
-                history.pushState(null, "", "/ru");
-                location.replace("/ru");
-            } else {
-                history.pushState(null, "", "/en");
-                location.replace("/en");
+            if (getLangFromURL() !== lang) {
+                localStorage.setItem("lang", lang);
+                history.pushState(null, "", "/" + lang); // Меняем URL без перезагрузки
+                loadLanguageContent(lang);
             }
         }
 
         document.addEventListener("DOMContentLoaded", function () {
             const savedLang = localStorage.getItem("lang") || detectBrowserLang();
             
-            if (window.location.pathname !== "/" + savedLang) {
+            // Загружаем правильный контент в зависимости от URL
+            const currentLang = getLangFromURL();
+            
+            if (savedLang !== currentLang) {
                 history.replaceState(null, "", "/" + savedLang);
             }
             
@@ -147,6 +147,22 @@ if (presaveBtn) {
         // Функция определения языка браузера
         function detectBrowserLang() {
             return navigator.language.startsWith("ru") ? "ru" : "en";
+        }
+
+        // Функция получения языка из URL
+        function getLangFromURL() {
+            return window.location.pathname.includes("/ru") ? "ru" : "en";
+        }
+
+        // Функция для загрузки контента без перезагрузки
+        function loadLanguageContent(lang) {
+        if (lang === "ru") {
+        document.body.classList.add("ru");
+        document.body.classList.remove("en");
+        } else {
+        document.body.classList.add("en");
+        document.body.classList.remove("ru");
+        }
         }
         
         // Копирование ссылки
