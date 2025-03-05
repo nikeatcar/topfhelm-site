@@ -1,5 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100..900&family=Monomakh&display=swap&display=swap');
+
+h1 {
+    font-family: 'IM Fell English SC', Georgia, serif;
+    font-family: 'Monomakh', Georgia, serif;
+    font-display: swap; /* 🔥 Показываем текст сразу, а потом подгружаем шрифт */
+}
 
 /* По умолчанию используем IM Fell English SC */
 body {
