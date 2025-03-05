@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100..900&family=Monomakh&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100..900&family=Monomakh&display=swap&display=swap');
 
 /* По умолчанию используем IM Fell English SC */
 body {
@@ -24,7 +24,7 @@ body.ru .english-text {
     left: 0;
     width: 100%;
     height: 120vh; /* Увеличиваем высоту фона, чтобы он всегда заполнял экран */
-    background: url('media/TopfHelm\ -\ Sanguis\ Et\ Mulsum.png') no-repeat center center;
+    background: url('media/blurred-bg.webp') no-repeat center center;
     background-size: cover;
     filter: blur(15px);
     z-index: -1;
@@ -617,6 +617,30 @@ body.ru #countdown-text {
     background: #ffcc00;
     color: #121212;
     font-weight: bold;
+}
+
+/* Общие стили для видео */
+.album-video {
+    width: 30%; /* Адаптивная ширина */
+    max-width: 250px; /* Ограничиваем максимальный размер */
+    border-radius: 10px; /* Скругляем углы */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Добавляем тень */
+    display: block;
+    margin: 10px auto; /* Центрируем */
+}
+
+/* Для мобильных устройств */
+@media (max-width: 768px) {
+    .album-video {
+        max-width: 180px; /* Меньше размер на мобильных */
+    }
+}
+
+/* Для больших экранов */
+@media (min-width: 1024px) {
+    .album-video {
+        max-width: 300px; /* Увеличиваем на больших экранах */
+    }
 }
 
 /* Медиа-запросы для адаптивности */

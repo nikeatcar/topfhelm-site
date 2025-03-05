@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     //Разные шрифты
     document.addEventListener("DOMContentLoaded", function () {
-        if (window.location.href.includes("index-ru.html")) {
+        if (getLangFromURL() === "ru") {
             document.body.classList.add("ru");
         }
     });
@@ -33,7 +33,7 @@ if (presaveBtn) {
         this.style.transition = "background-color 0.3s ease-in-out";
         this.style.backgroundColor = "#FF6666"; // Меняем цвет при наведении
         setTimeout(() => {
-            this.innerHTML = window.location.href.includes("index-ru.html") 
+            this.innerHTML = (getLangFromURL() === "ru") 
                 ? "<span>❤️Спасибо!❤️</span>" 
                 : "<span>❤️Thank You!❤️</span>";
         }, 200);
@@ -43,7 +43,7 @@ if (presaveBtn) {
         this.style.transition = "background-color 0.3s ease-in-out";
         this.style.backgroundColor = "#1DB954"; // Возвращаем стандартный цвет
         setTimeout(() => {
-            this.innerHTML = window.location.href.includes("index-ru.html") 
+            this.innerHTML = (getLangFromURL() === "ru")
                 ? "<span>Предсохраняй</span>" 
                 : "<span>Presave Now</span>";
         }, 200);
@@ -79,7 +79,7 @@ if (presaveBtn) {
                 const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
                 const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
         
-                if (window.location.href.includes("index-ru.html")) {
+                if (getLangFromURL() === "ru") {
                     countdownText.innerHTML = `⏳ Великий пир начнётся через: 
                     <span class="time">${days}</span>д 
                     <span class="time">${hours}</span>ч 
@@ -216,7 +216,7 @@ if (presaveBtn) {
         
         // Перевод текстов для русской версии
         document.addEventListener("DOMContentLoaded", function () {
-            if (window.location.href.includes("index-ru.html")) {
+            if (getLangFromURL() === "ru") {
                 document.getElementById("share-title").textContent = "Поделись нашим проектом с друзьями!";
                 document.querySelector(".copy-btn").textContent = "🔗 Скопировать ссылку";
             }
