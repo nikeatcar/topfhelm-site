@@ -2,14 +2,44 @@ document.addEventListener("DOMContentLoaded", function () {
     const buttons = document.querySelectorAll(".button");
     const presaveBtn = document.getElementById("presave-btn");
 
-    //Разные шрифты
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;             ----==| А Н И М А Ц И Я   З А Г Р У З К И |==----              ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+
+document.addEventListener("DOMContentLoaded", () => {
+    const sections = document.querySelectorAll(".fade-in");
+  
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("visible");
+        }
+      });
+    }, { threshold: 0.1 });
+  
+    sections.forEach((section) => observer.observe(section));
+  });
+
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                 ----==| Р А З Н Ы Е   Ш Р И Ф Т Ы |==----                  ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+
     document.addEventListener("DOMContentLoaded", function () {
         if (getLangFromURL() === "ru") {
             document.body.classList.add("ru");
         }
     });
 
-    // Анимация кнопок при наведении
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;; ----==| А Н И М А Ц И Я   К Н О П О К   П Р И   Н А В Е Д Е Н И И |==----  ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+
     buttons.forEach(button => {
         button.addEventListener("mouseenter", () => {
             let intensity = 3;
@@ -26,8 +56,12 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     });
 
-    // Изменение текста кнопки Presave Now
-    // Изменение текста кнопки Presave Now
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;  ----==| И З М Е Н Е Н И Е   Т Е К С Т А   P R E S A V E   N O W |==----   ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+
 if (presaveBtn) {
     presaveBtn.addEventListener("mouseenter", function () {
         this.style.transition = "background-color 0.3s ease-in-out";
@@ -50,6 +84,11 @@ if (presaveBtn) {
     });
     }
     });
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                         ----==| V I D E O |==----                          ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
 
     document.addEventListener("DOMContentLoaded", function () {
         document.querySelectorAll(".youtube-placeholder").forEach(container => {
@@ -66,14 +105,24 @@ if (presaveBtn) {
         });
     });
 
-    // Параллакс-эффект для фона
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                ----==| П А Р А Л Л А К С   Ф О Н А |==----                 ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+
     window.addEventListener("scroll", function () {
         let scrollTop = window.scrollY;
         let parallaxSpeed = 0.01;
         document.querySelector(".blurred-bg").style.transform = `translateY(${scrollTop * parallaxSpeed}px)`;
     });
 
-        //Таймер релиза
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                 ----==| Т А Й М Е Р   Р Е Л И З А |==----                  ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+
         document.addEventListener("DOMContentLoaded", function () {
             // Указываем дату релиза альбома
             const releaseDate = new Date("March 28, 2025 08:00:00").getTime();
@@ -114,7 +163,12 @@ if (presaveBtn) {
             updateCountdown(); // Вызываем сразу, чтобы не ждать 1 секунду
         });
 
-        //Переключение языков
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;           ----==| П Е Р Е К Л Ю Ч Е Н И Е   Я З Ы К О В |==----            ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+
         document.addEventListener("DOMContentLoaded", function () {
             // Проверяем, был ли ранее выбран язык пользователем
             const savedLang = localStorage.getItem("lang");
@@ -146,7 +200,12 @@ if (presaveBtn) {
                 window.location.href = "index.html";
             }
         }
-        
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                        ----==| Ш А Р И Н Г |==----                         ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+
         // Копирование ссылки
         function copyLink() {
             navigator.clipboard.writeText(window.location.href).then(() => {

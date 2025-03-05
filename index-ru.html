@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <head>
-        <!-- Google tag (gtag.js) -->
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                    ----==| G O O G L E   T A G |==----                     ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
         <script defer src="https://www.googletagmanager.com/gtag/js?id=G-8Y96LHKN6L"></script>
         <script defer>
         window.dataLayer = window.dataLayer || [];
@@ -10,7 +14,11 @@
         </script>
 
     <link rel="icon" type="image/x-icon" href="icons/favicon.ico">
-    <!-- Стандартный Favicon -->
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                                 ;;
+;;                       ----==| И К О Н К И |==----                               ;;
+;;                                                                                 ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
     <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32x32.png">
 
     <!-- Apple Touch Icon (для iOS) -->
@@ -38,6 +46,11 @@
     <meta name="twitter:card" content="summary_large_image">
 </head>
 <body class="ru">
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                  ----==| С М Е Н А   Я З Ы К О В |==----                   ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
     <div class="language-switcher">
         <button onclick="switchLanguage('en')">
             <img src="icons/guard.svg" alt="English">
@@ -46,9 +59,14 @@
             <img src="icons/ushanka.svg" alt="Русский">
         </button>
     </div>
-    <div class="blurred-bg"></div> <!-- Новый слой для размытого фона -->
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;         ----==| Р А З М Ы Т Ы Й   Ф О Н  |==----          ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+    <div class="blurred-bg"></div>
     <div class="container">
-        <img src="media/Avatar2.webp" alt="TopfHelm Logo" class="avatar" width="200" height="200">
+        <img src="media/Avatar2.webp" alt="TopfHelm Logo" class="avatar" width="200" height="200" loading="lazy">
         <h1><span class="english-text">TopfHelm - Dungeon Folk и Dungeon Synth</span> Музыка</h1>
         <h2 class="genre">Атмосферная музыка в средневековом стиле для любителей DnD, фэнтезийных миров и дарк-фолка</h2>
         <h3>Скоро выйдет новый альбом <span class="english-text">"Sanguis et Mulsum"! ⚔️🍺</span></h3>
@@ -57,7 +75,11 @@
             <span id="countdown-text">Готовимся к попойке...</span>
         </div>
 
-        <!-- Album Section -->
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;        ----==| A L B U M   S E C T I O N |==----         ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
         <div class="album-section">
             <div class="album-text">
                 <div class="album-text">
@@ -69,13 +91,17 @@
                 </div>
             </div>
             <div class="album-media">
-                <img src="media/TopfHelm - Sanguis Et Mulsum.webp" alt="TopfHelm - Sanguis et Mulsum album cover" class="album-cover">
+                <img src="media/TopfHelm - Sanguis Et Mulsum.webp" alt="TopfHelm - Sanguis et Mulsum album cover" class="album-cover" loading="lazy">
                 <a id="presave-btn" href="https://distrokid.com/hyperfollow/topfhelm/sanguis-et-mulsum" class="button presave">
                     <span>Предсохраняй</span>
                 </a>
             </div>
         </div>
-
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                         ----==| В И Д Е О |==----                          ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
         <section class="video-section">
             <h2>Тизер альбома</h2>
             <section class="video-section">
@@ -88,7 +114,11 @@
             </section>
         </section>
 
-        <!-- Support the Project Section -->
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                       ----==| S U P P O R T |==----                        ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
         <div class="support-section">
             <h2>Поддержи проект</h2>
             <div class="support-icons">
@@ -98,7 +128,11 @@
                 <a href="https://www.donationalerts.com/c/topfhelm" class="support-icon">
                     <img src="https://vectorseek.com/wp-content/uploads/2024/01/DonationAlerts-Logo-Vector.svg-.png" alt="DonationAlerts">
                 </a>
-        <!-- Share Button -->
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                  ----==| S H A R E   B U T T O N |==----                   ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
             <div class="share-section">
                 <button onclick="openShareModal()" class="share-main">
                     <div class="share-button-content">
@@ -110,7 +144,11 @@
             </div>
         </div>
 
-        <!-- Share Modal -->
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;          ----==|    S H A R E   M O D A L    |==----                       ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
 <div id="share-modal" class="share-modal">
     <div class="share-content">
         <div class="close-container">
@@ -167,7 +205,11 @@
     </div>
 </div>
 
-        <!-- Links Section -->
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                 ----==| L I N K S   S E C T I O N |==----                  ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
         <div class="links">
             <a href="https://topfhelm.bandcamp.com/" class="button">
                 <img src="icons/icons8-bandcamp.svg" alt="Bandcamp"> <span lang="en">Bandcamp</span>
@@ -191,7 +233,11 @@
                 <img src="icons/icons8-discord.svg" alt="Discord"> <span>Discord</span>
             </a>-->
         </div>
-
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                           ----==| S E O |==----                            ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
         <div class="seo-text">
             <h2>TopfHelm – Средневековый Dungeon Folk, Dungeon Synth и Dark Folk</h2>
             <p>
@@ -203,7 +249,11 @@
             <p>🔗 Слушай на <a href="https://topfhelm.bandcamp.com/" target="_blank">Bandcamp</a>, Spotify, и остальных платформах.</p>
         </div>
 
-        <!-- Contact Button -->
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                ----==| C O N T A C T   B U T T O N |==----                 ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
         <a href="mailto:topfhelmmusic@gmail.com" class="button contact">Связаться</a>
     </div>
 

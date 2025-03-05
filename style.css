@@ -1,13 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100..900&family=Monomakh&display=swap&display=swap');
 
-h1 {
-    font-family: 'IM Fell English SC', Georgia, serif;
-    font-display: swap; /* 🔥 Показываем текст сразу, а потом подгружаем шрифт */
-    font-family: 'Monomakh', Georgia, serif;
-    font-display: swap; /* 🔥 Показываем текст сразу, а потом подгружаем шрифт */
-}
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;             ----==| А Н И М А Ц И Я   З А Г Р У З К И |==----              ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
 
+.fade-in {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+  }
+  
+  .fade-in.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                        ----==| Ш Р И Ф Т Ы |==----                         ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
 /* По умолчанию используем IM Fell English SC */
 body {
     font-family: 'IM Fell English SC', serif;
@@ -24,7 +39,11 @@ body.ru .english-text {
     font-family: 'IM Fell English SC', serif;
 }
 
-/* Размытый фон с параллаксом */
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;               ----==| Ф О Н   +   П А Р А Л Л А К С |==----                ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
 .blurred-bg {
     position: fixed;
     top: -10vh; /* Смещаем фон вверх, чтобы не было белой полосы */
@@ -44,7 +63,11 @@ body.ru .english-text {
     transition: transform 0.1s linear;
 }
 
-/*Переключалки языков*/
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;           ----==| П Е Р Е К Л Ю Ч А Л К И   Я З Ы К О В |==----            ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
 .language-switcher {
     position: fixed;
     top: 15px;
@@ -82,7 +105,27 @@ body.ru .english-text {
     border-color: white;
 }
 
-/* Аватар */
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;            ----==| К О Н Т Е Й Н Е Р   К О Н Т Е Н Т А |==----             ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+.container {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                        ----==| А В А Т А Р |==----                         ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
 .avatar {
     width: 200px;
     height: 200px;
@@ -106,6 +149,23 @@ body {
     font-size: 20px;
 }
 
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                     ----==| З А Г О Л О В О К |==----                      ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+h1 {
+    font-family: 'IM Fell English SC', Georgia, serif;
+    font-display: swap; /* 🔥 Показываем текст сразу, а потом подгружаем шрифт */
+    font-family: 'Monomakh', Georgia, serif;
+    font-display: swap; /* 🔥 Показываем текст сразу, а потом подгружаем шрифт */
+}
+
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                        ----==| Т А Й М Е Р |==----                         ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
 .countdown-banner {
     width: 100%;
     text-align: center;
@@ -136,19 +196,11 @@ body.ru #countdown-text {
     font-family: 'Monomakh', serif;
 }
 
-/* Контейнер контента */
-.container {
-    max-width: 900px;
-    margin: 50px auto;
-    padding: 20px;
-    background: rgba(0, 0, 0, 0.7);
-    border-radius: 10px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-/* Блок альбома */
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                  ----==| Б Л О К   А Л Ь Б О М А |==----                   ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
 .album-section {
     display: flex;
     align-items: center;
@@ -261,7 +313,66 @@ body.ru #countdown-text {
     text-align: left; /* Теперь текст точно будет по левому краю */
 }
 
-/*Плеер Ютуб*/
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                       ----==| P R E S A V E |==----                        ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+.button.presave {
+    background-color: #1DB954;
+    color: #121212;
+    border: 2px solid #1DB954;
+    font-weight: bold;
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 220px;
+    height: 50px;
+}
+
+.button.presave span {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+.button.presave:hover {
+    background-color: #19a74b;
+    color: #fff;
+}
+
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                    ----==| П Л Е Е Р   Ю Т У Б |==----                     ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+/* Секция видео */
+.video-section {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.video-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px; /* Максимальная ширина видео */
+    margin: 0 0 20px 0;
+    background: #000;
+    border-radius: 10px; /* Округление */
+    overflow: hidden; /* Чтобы не было выходов за рамки */
+}
+
+.video-container iframe {
+    width: 100%;
+    height: auto;
+    min-height: 316px; /* Минимальная высота, чтобы не становилось слишком маленьким */
+    aspect-ratio: 16 / 9; /* Сохраняем соотношение сторон */
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
 .youtube-placeholder {
     position: relative;
     width: 100%;
@@ -290,156 +401,11 @@ body.ru #countdown-text {
     cursor: pointer;
 }
 
-/* Кнопки соцсетей */
-
-.links {
-    display: flex;
-    flex-direction: column;
-    align-items: center; /* Центрирует кнопки по горизонтали */
-    justify-content: center; /* Центрирует кнопки */
-    width: 100%;
-    text-align: center;
-}
-
-.links .button {
-    width: 360px;
-    height: 20px;
-}
-
-/* Анимация кнопок */
-.button {
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: rgba(0, 0, 0, 0.8);
-    color: #fff;
-    text-decoration: none;
-    padding: 15px;
-    margin: 10px auto;
-    width: 180px;
-    border-radius: 8px;
-    font-size: 22px;
-    font-weight: bold;
-    transition: all 0.5s;
-    overflow: hidden;
-    border: 2px solid rgba(255,255,255,0.5);
-}
-
-.button::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(255,255,255,0.1);
-    transition: all 0.3s;
-    border-radius: 8px;
-}
-
-.button:hover::before {
-    opacity: 0;
-    transform: scale(0.9);
-}
-
-.button::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    opacity: 0;
-    transition: all 0.3s;
-    border: 2px solid rgba(255,255,255,0.5);
-    transform: scale(1.1);
-}
-
-.button:hover::after {
-    opacity: 1;
-    transform: scale(1);
-}
-
-/* Presave */
-.button.presave {
-    background-color: #1DB954;
-    color: #121212;
-    border: 2px solid #1DB954;
-    font-weight: bold;
-    font-size: 22px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 220px;
-    height: 50px;
-}
-
-.button.presave span {
-    display: block;
-    width: 100%;
-    text-align: center;
-}
-
-.button.presave:hover {
-    background-color: #19a74b;
-    color: #fff;
-}
-
-/* Секция видео */
-.video-section {
-    text-align: center;
-    margin: 20px 0;
-}
-
-.video-container {
-    position: relative;
-    width: 100%;
-    max-width: 800px; /* Максимальная ширина видео */
-    margin: 0 0 20px 0;
-    background: #000;
-    border-radius: 10px; /* Округление */
-    overflow: hidden; /* Чтобы не было выходов за рамки */
-}
-
-.video-container iframe {
-    width: 100%;
-    height: auto;
-    min-height: 316px; /* Минимальная высота, чтобы не становилось слишком маленьким */
-    aspect-ratio: 16 / 9; /* Сохраняем соотношение сторон */
-    position: relative;
-    top: 0;
-    left: 0;
-}
-
-/* Кнопка контактов */
-.button.contact {
-    font-size: 18px;
-    width: 150px;  /* Сделал такой же ширины, как Presave Now */
-    height: 10px;  /* Чуть меньше по высоте */
-    background-color: #1DB954;  /* Цвет Presave Now */
-    color: #121212;  /* Тёмный текст */
-    border: 2px solid #1DB954;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out;
-    margin-top: 20px;
-}
-
-/* При наведении цвет меняется */
-.button.contact:hover {
-    background-color: #189f40; /* Чуть затемнённый вариант зелёного */
-    transform: scale(1.05); /* Небольшое увеличение */
-}
-
-.footer {
-    margin-top: 40px;
-    font-size: 16px;
-    opacity: 0.8;
-}
-
-/* Support the Project Section */
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                       ----==| S U P P O R T |==----                        ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
 .support-section {
     text-align: center;
     margin: 0 0 50px 0;
@@ -473,39 +439,11 @@ body.ru #countdown-text {
     filter: brightness(1.5);
 }
 
-/* SEO-текст внизу страницы */
-.seo-text {
-    font-family: "Arial", sans-serif;
-    font-size: 14px;
-    color: #ddd;
-    text-align: center;
-    max-width: 800px;
-    margin: 40px auto;
-    padding: 20px;
-    background: rgba(0, 0, 0, 0.5);
-    border-radius: 8px;
-    line-height: 1.6;
-}
-
-/* Заголовок SEO-блока */
-.seo-text h2 {
-    font-size: 18px;
-    color: #fff;
-    margin-bottom: 10px;
-}
-
-/* Ссылки в тексте */
-.seo-text a {
-    color: #ffcc00;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-.seo-text a:hover {
-    text-decoration: underline;
-}
-
-/*Шаринг*/
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                        ----==| Ш А Р И Н Г |==----                         ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
 /* Стили для блока шаринга */
 .share-button {
     display: flex;
@@ -655,31 +593,160 @@ body.ru #countdown-text {
     font-weight: bold;
 }
 
-/* Общие стили для видео */
-.album-video {
-    width: 30%; /* Адаптивная ширина */
-    max-width: 250px; /* Ограничиваем максимальный размер */
-    border-radius: 10px; /* Скругляем углы */
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Добавляем тень */
-    display: block;
-    margin: 10px auto; /* Центрируем */
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;               ----==| К Н О П К И   С О Ц С Е Т Е Й |==----                ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+
+.links {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Центрирует кнопки по горизонтали */
+    justify-content: center; /* Центрирует кнопки */
+    width: 100%;
+    text-align: center;
 }
 
-/* Для мобильных устройств */
-@media (max-width: 768px) {
-    .album-video {
-        max-width: 180px; /* Меньше размер на мобильных */
-    }
+.links .button {
+    width: 360px;
+    height: 20px;
 }
 
-/* Для больших экранов */
+/* Анимация кнопок */
+.button {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    text-decoration: none;
+    padding: 15px;
+    margin: 10px auto;
+    width: 180px;
+    border-radius: 8px;
+    font-size: 22px;
+    font-weight: bold;
+    transition: all 0.5s;
+    overflow: hidden;
+    border: 2px solid rgba(255,255,255,0.5);
+}
+
+.button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255,255,255,0.1);
+    transition: all 0.3s;
+    border-radius: 8px;
+}
+
+.button:hover::before {
+    opacity: 0;
+    transform: scale(0.9);
+}
+
+.button::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: all 0.3s;
+    border: 2px solid rgba(255,255,255,0.5);
+    transform: scale(1.1);
+}
+
+.button:hover::after {
+    opacity: 1;
+    transform: scale(1);
+}
+
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                           ----==| S E O |==----                            ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+.seo-text {
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    color: #ddd;
+    text-align: center;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    line-height: 1.6;
+}
+
+/* Заголовок SEO-блока */
+.seo-text h2 {
+    font-size: 18px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+/* Ссылки в тексте */
+.seo-text a {
+    color: #ffcc00;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.seo-text a:hover {
+    text-decoration: underline;
+}
+
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                      ----==| C O N T A C T S |==----                       ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+.button.contact {
+    font-size: 18px;
+    width: 150px;  /* Сделал такой же ширины, как Presave Now */
+    height: 10px;  /* Чуть меньше по высоте */
+    background-color: #1DB954;  /* Цвет Presave Now */
+    color: #121212;  /* Тёмный текст */
+    border: 2px solid #1DB954;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out;
+    margin-top: 20px;
+}
+
+/* При наведении цвет меняется */
+.button.contact:hover {
+    background-color: #189f40; /* Чуть затемнённый вариант зелёного */
+    transform: scale(1.05); /* Небольшое увеличение */
+}
+
+.footer {
+    margin-top: 40px;
+    font-size: 16px;
+    opacity: 0.8;
+}
+
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                         ----==| M E D I A |==----                          ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+
 @media (min-width: 1024px) {
     .album-video {
         max-width: 300px; /* Увеличиваем на больших экранах */
     }
 }
 
-/* Медиа-запросы для адаптивности */
 @media (max-width: 768px) {
     .language-switcher {
         top: 10px;
@@ -698,7 +765,9 @@ body.ru #countdown-text {
     .container {
         max-width: 95%;
     }
-
+    .album-video {
+        max-width: 180px; /* Меньше размер на мобильных */
+    }
     .genre{
         font-size: 14px;
     }
