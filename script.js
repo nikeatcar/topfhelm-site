@@ -1,3 +1,5 @@
+/* jshint esversion: 6 */
+/* jshint -W014 */
 document.addEventListener("DOMContentLoaded", function () {
     const buttons = document.querySelectorAll(".button");
     const presaveBtn = document.getElementById("presave-btn");
@@ -67,8 +69,8 @@ if (presaveBtn) {
         this.style.transition = "background-color 0.3s ease-in-out";
         this.style.backgroundColor = "#FF6666"; // Меняем цвет при наведении
         setTimeout(() => {
-            this.innerHTML = (getLangFromURL() === "ru") 
-                ? "<span>❤️Спасибо!❤️</span>" 
+            this.innerHTML = (getLangFromURL() === "ru") ?
+                 "<span>❤️Спасибо!❤️</span>" 
                 : "<span>❤️Thank You!❤️</span>";
         }, 200);
     });
@@ -77,8 +79,8 @@ if (presaveBtn) {
         this.style.transition = "background-color 0.3s ease-in-out";
         this.style.backgroundColor = "#1DB954"; // Возвращаем стандартный цвет
         setTimeout(() => {
-            this.innerHTML = (getLangFromURL() === "ru")
-                ? "<span>Предсохраняй</span>" 
+            this.innerHTML = (getLangFromURL() === "ru") ?
+                 "<span>Предсохраняй</span>" 
                 : "<span>Presave Now</span>";
         }, 200);
     });
