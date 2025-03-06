@@ -3,6 +3,116 @@
 document.addEventListener("DOMContentLoaded", function () {
     const buttons = document.querySelectorAll(".button");
     const presaveBtn = document.getElementById("presave-btn");
+});
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                     ----==| П Р Е Л О А Д Е Р |==----                      ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+document.addEventListener("DOMContentLoaded", function () {
+    console.log("DOM загружен");
+
+    // Убираем прелоадер при загрузке
+    setTimeout(() => {
+        console.log("Закрываю прелоадер вручную");
+        $("#preloader").fadeOut();
+    }, 1000);
+
+    // Запуск анимации появления контента
+    const sections = document.querySelectorAll(".fade-in");
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add("visible");
+            }
+        });
+    }, { threshold: 0.1 });
+
+    sections.forEach((section) => observer.observe(section));
+
+    // Определение языка страницы
+    if (getLangFromURL() === "ru") {
+        document.body.classList.add("ru");
+    }
+
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                       ----==| P R E S A V E |==----                        ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+setTimeout(() => {
+    const presaveBtn = document.getElementById("presave-btn");
+
+    if (presaveBtn) {
+        presaveBtn.addEventListener("mouseenter", function () {
+            this.style.transition = "background-color 0.3s ease-in-out";
+            this.style.backgroundColor = "#FF6666"; // Меняем цвет при наведении
+
+            setTimeout(() => {
+                this.innerHTML = (getLangFromURL() === "ru") ?
+                    "<span>❤️Спасибо!❤️</span>" 
+                    : "<span>❤️Thank You!❤️</span>";
+            }, 200);
+
+            // Анимация дёргания
+            let intensity = 3;
+            let shakeInterval = setInterval(() => {
+                let x = (Math.random() * intensity * 2) - intensity;
+                let y = (Math.random() * intensity * 2) - intensity;
+                presaveBtn.style.transform = `translate(${x}px, ${y}px)`;
+            }, 50);
+
+            setTimeout(() => {
+                clearInterval(shakeInterval);
+                presaveBtn.style.transform = "translate(0, 0)";
+            }, 300);
+        });
+
+        presaveBtn.addEventListener("mouseleave", function () {
+            this.style.transition = "background-color 0.3s ease-in-out";
+            this.style.backgroundColor = "#1DB954"; // Возвращаем стандартный цвет
+
+            setTimeout(() => {
+                this.innerHTML = (getLangFromURL() === "ru") ?
+                    "<span>Предсохраняй</span>" 
+                    : "<span>Presave Now</span>";
+            }, 200);
+            });
+        }
+    }, 500);
+
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                              ;;
+;;                 ----==| Т А Й М Е Р   Р Е Л И З А |==----                    ;;
+;;                                                                              ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+    setTimeout(() => {
+        const releaseDate = new Date("March 28, 2025 08:00:00").getTime();
+        const countdownText = document.getElementById("countdown-text");
+        if (!countdownText) return;
+
+        function updateCountdown() {
+            const now = new Date().getTime();
+            const timeLeft = releaseDate - now;
+            if (timeLeft <= 0) {
+                countdownText.innerHTML = "The feast has begun! 🍻⚔️";
+                return;
+            }
+
+            const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
+
+            countdownText.innerHTML = (getLangFromURL() === "ru") ?
+                `⏳ Великий пир начнётся через: <span class="time">${days}</span>д <span class="time">${hours}</span>ч <span class="time">${minutes}</span>м <span class="time">${seconds}</span>с`
+                : `⏳ The grand feast begins in: <span class="time">${days}</span>d <span class="time">${hours}</span>h <span class="time">${minutes}</span>m <span class="time">${seconds}</span>s`;
+        }
+
+        updateCountdown();
+        setInterval(updateCountdown, 1000);
+    }, 500);
+});
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
@@ -60,34 +170,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
-;;  ----==| И З М Е Н Е Н И Е   Т Е К С Т А   P R E S A V E   N O W |==----   ;;
-;;                                                                            ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-
-if (presaveBtn) {
-    presaveBtn.addEventListener("mouseenter", function () {
-        this.style.transition = "background-color 0.3s ease-in-out";
-        this.style.backgroundColor = "#FF6666"; // Меняем цвет при наведении
-        setTimeout(() => {
-            this.innerHTML = (getLangFromURL() === "ru") ?
-                 "<span>❤️Спасибо!❤️</span>" 
-                : "<span>❤️Thank You!❤️</span>";
-        }, 200);
-    });
-    
-    presaveBtn.addEventListener("mouseleave", function () {
-        this.style.transition = "background-color 0.3s ease-in-out";
-        this.style.backgroundColor = "#1DB954"; // Возвращаем стандартный цвет
-        setTimeout(() => {
-            this.innerHTML = (getLangFromURL() === "ru") ?
-                 "<span>Предсохраняй</span>" 
-                : "<span>Presave Now</span>";
-        }, 200);
-    });
-    }
-    });
-/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
 ;;                         ----==| V I D E O |==----                          ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
@@ -112,58 +194,15 @@ if (presaveBtn) {
 ;;                ----==| П А Р А Л Л А К С   Ф О Н А |==----                 ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-
-    window.addEventListener("scroll", function () {
+window.addEventListener("scroll", function () {
+    requestAnimationFrame(() => {
         let scrollTop = window.scrollY;
-        let parallaxSpeed = 0.01;
-        document.querySelector(".blurred-bg").style.transform = `translateY(${scrollTop * parallaxSpeed}px)`;
+        let parallaxSpeed = -0.3; // Двигаем фон в обратную сторону
+        let offset = scrollTop * parallaxSpeed;
+
+        document.querySelector(".parallax-container").style.transform = `translateY(${offset}px)`;
     });
-
-/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
-;;                 ----==| Т А Й М Е Р   Р Е Л И З А |==----                  ;;
-;;                                                                            ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-
-        document.addEventListener("DOMContentLoaded", function () {
-            // Указываем дату релиза альбома
-            const releaseDate = new Date("March 28, 2025 08:00:00").getTime();
-            const countdownText = document.getElementById("countdown-text");
-        
-            function updateCountdown() {
-                const now = new Date().getTime();
-                const timeLeft = releaseDate - now;
-        
-                if (timeLeft <= 0) {
-                    countdownText.innerHTML = "The feast has begun! 🍻⚔️";
-                    return;
-                }
-        
-                // Вычисляем дни, часы, минуты и секунды
-                const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
-                const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-                const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
-                const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
-        
-                if (getLangFromURL() === "ru") {
-                    countdownText.innerHTML = `⏳ Великий пир начнётся через: 
-                    <span class="time">${days}</span>д 
-                    <span class="time">${hours}</span>ч 
-                    <span class="time">${minutes}</span>м 
-                    <span class="time">${seconds}</span>с`;
-                } else {
-                    countdownText.innerHTML = `⏳ The grand feast begins in: 
-                    <span class="time">${days}</span>d 
-                    <span class="time">${hours}</span>h 
-                    <span class="time">${minutes}</span>m 
-                    <span class="time">${seconds}</span>s`;
-                }
-            }
-        
-            // Обновляем каждую секунду
-            setInterval(updateCountdown, 1000);
-            updateCountdown(); // Вызываем сразу, чтобы не ждать 1 секунду
-        });
+});
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;

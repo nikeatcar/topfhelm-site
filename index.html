@@ -3,8 +3,16 @@
 <head>
 <!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
-;; ----==| G O O G L E   T A G |==----  ;;
+;;                     ----==| П Р Е Л О А Д Е Р |==----                      ;;
 ;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+    <link rel="stylesheet" href="preloader.css">
+    <link rel="stylesheet" href="style.css" media="print" onload="this.media='all'">
+
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                               ;;
+;;                   ----==| G O O G L E   T A G |==----                         ;;
+;;                                                                               ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
 
         <script defer src="https://www.googletagmanager.com/gtag/js?id=G-8Y96LHKN6L"></script>
@@ -18,23 +26,25 @@
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
-            "@type": "MusicGroup",
-            "name": "TopfHelm",
-            "genre": ["Dungeon Folk", "Dungeon Synth", "Dark Folk"],
-            "description": "Dungeon Folk & Dungeon Synth inspired by medieval music, crusader battles, and fortress revelry. Perfect for DnD and fantasy soundtracks.",
-            "url": "https://topfhelm.com",
-            "sameAs": [
+            "@type": "MusicAlbum",
+            "name": "Sanguis et Mulsum",
+            "byArtist": {
+              "@type": "MusicGroup",
+              "name": "TopfHelm",
+              "genre": ["Dungeon Folk", "Dungeon Synth", "Dark Folk"],
+              "description": "Dungeon Synth & Dark Folk, inspired by medieval music, crusader battles, and fortress revelry.",
+              "url": "https://topfhelm.com",
+              "sameAs": [
                 "https://topfhelm.bandcamp.com/",
                 "https://www.instagram.com/topfhelmmusic/",
                 "https://www.youtube.com/@TopfHelmMusic"
-            ],
-            "album": {
-                "@type": "MusicAlbum",
-                "name": "Sanguis et Mulsum",
-                "datePublished": "2025-03-28",
-                "url": "https://topfhelm.com"
-            }
-        }
+              ]
+            },
+            "datePublished": "2025-03-28",
+            "description": "The upcoming album 'Sanguis et Mulsum' blends Dungeon Synth & Dark Folk with medieval atmospheres.",
+            "image": "https://topfhelm.com/media/TopfHelm-Sanguis-et-Mulsum.webp",
+            "url": "https://topfhelm.com"
+          }
         </script>
 <!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
@@ -60,17 +70,50 @@
 
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap" as="style">
 
-    <meta name="description" content="TopfHelm is a Dungeon Synth & Dark Folk project inspired by medieval music, crusader battles, and fortress revelry. New album 'Sanguis et Mulsum' out soon!">
-    <meta name="keywords" content="Dungeon Synth, Dark Folk, Medieval Music, Crusader Music, Fantasy Soundtrack, Black Metal Aesthetic">
-    <meta name="author" content="TopfHelm">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://topfhelm.com">
+    <meta name="description" content="TopfHelm is a Dungeon Folk & Dungeon Synth project inspired by medieval music, crusader battles, and fortress revelry. New album 'Sanguis et Mulsum' out March 28! Listen now!">
     <meta property="og:title" content="TopfHelm - Dungeon Folk & Dungeon Synth">
-    <meta property="og:description" content="Medieval-inspired Dungeon Synth & Dark Folk. New album 'Sanguis et Mulsum' out March 28!">
-    <meta property="og:image" content="https://topfhelm.com/media/TopfHelm%20-%20Sanguis%20Et%20Mulsum.png">
-    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:description" content="Dungeon Synth & Dark Folk in medieval style. Inspired by crusader battles and fortress revelry. New album 'Sanguis et Mulsum' out March 28!">
+    <meta property="og:image" content="https://topfhelm.com/media/TopfHelm-Sanguis-et-Mulsum.webp">
+    <meta property="og:locale" content="en_US">
+    <meta name="twitter:title" content="TopfHelm - Dungeon Folk & Dungeon Synth">
+    <meta name="twitter:description" content="Dungeon Synth & Dark Folk in medieval style. Listen to 'Sanguis et Mulsum' now!">
+
 </head>
 <body>
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                     ----==| П Р Е Л О А Д Е Р |==----                      ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+    <div id="preloader">
+        <img src="media/Avatar2.webp" alt="TopfHelm Logo" class="preloader-logo">
+        <div class="loader-bar"></div>
+    </div>
+
+    <div id="content">
+        <!-- Здесь будет загружаться новый контент -->
+    </div>
+
+    <script src="script.js"></script>
+
+
+    <script>
+    $(document).pjax('a', '#content', {
+        fragment: '#content',
+        timeout: 8000
+    });
+
+    $(document).on('pjax:send', function () {
+        $("#preloader").fadeIn();  // Показываем прелоадер при начале загрузки
+    });
+
+    $(document).on('pjax:complete', function () {
+        setTimeout(() => {
+            $("#preloader").fadeOut(); // Скрываем прелоадер плавно
+        }, 1000);
+    });
+    </script>
+
 <!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
 ;;                  ----==| С М Е Н А   Я З Ы К О В |==----                   ;;
@@ -78,11 +121,8 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
 
     <div class="language-switcher">
-        <button onclick="switchLanguage('en')">
-            <img src="icons/guard.svg" alt="English">
-        </button>
         <button onclick="switchLanguage('ru')">
-            <img src="icons/ushanka.svg" alt="Русский">
+            <img src="icons/RU.svg" alt="Русский">
         </button>
     </div>
 
@@ -91,10 +131,16 @@
 ;;         ----==| Р А З М Ы Т Ы Й   Ф О Н  |==----          ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
-    <div class="blurred-bg"></div>
+    <div class="parallax-container">
+        <div class="blurred-bg"></div>
+    </div>
+    <div id="content">
+        <!-- Весь контент страницы -->
+    </div>
+
     <div class="container">
-        <img src="media/Avatar2.webp" alt="TopfHelm Logo" class="avatar" width="200" height="200" loading="lazy">
-        <h1>TopfHelm - Dungeon Folk & Dungeon Synth Music</h1>
+        <img src="media/Avatar2.webp" alt="TopfHelm Logo - Dungeon Folk & Dungeon Synth Project" class="avatar" width="200" height="200" loading="lazy">
+        <h1>TopfHelm - Dungeon Folk & Dungeon Synth from Belarus</h1>
         <h2 class="genre">Medieval-inspired atmospheric music for DnD, fantasy worlds, and dark folk lovers</h2>
         <h3>New album "Sanguis et Mulsum" coming soon! ⚔️🍺</h3>
 
@@ -262,21 +308,42 @@
                 <img src="icons/icons8-discord.svg" alt="Discord"> <span>Discord</span>
             </a>-->
         </div>
+
 <!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
 ;;                           ----==| S E O |==----                            ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
-        <div class="seo-text">
-            <h2>TopfHelm – Medieval Dungeon Folk, Dungeon Synth & Dark Folk</h2>
-            <p>
-                TopfHelm is a <strong>Dungeon Folk</strong> and <strong>Dungeon Synth</strong> project inspired by <strong>medieval music</strong>, <strong>DnD atmosphere</strong>, and <strong>fantasy world soundtracks</strong>.  
-                Our music is perfect for <strong>role-playing games (RPGs), tabletop sessions, and medieval-themed events</strong>.  
-                Rooted in <strong>crusader history</strong>, we create an **atmospheric soundscape** that fits both **fantasy battles** and **ancient fortress feasts**.
-            </p>
-            <p><strong>⚔️ New album "Sanguis et Mulsum" – out March 28!</strong></p>
-            <p>🔗 Listen on <a href="https://topfhelm.bandcamp.com/" target="_blank">Bandcamp</a>, Spotify, and all platforms.</p>
-        </div>
+    <div class="seo-text">
+    <h2>TopfHelm – One-Man Dungeon Folk & Dungeon Synth Project</h2>
+    <p>
+        TopfHelm is a <strong>one-man Dungeon Folk and Dungeon Synth</strong> project, blending medieval atmospheres with dark fantasy soundscapes.  
+        Inspired by <strong>medieval music, DnD, and fantasy world soundtracks</strong>, TopfHelm delivers a unique sound perfect for <strong>tabletop RPG sessions, medieval events, and dark ambient lovers</strong>.
+    </p>
+
+    <h3>🎶 Solo Craftsmanship & Musical Inspirations</h3>
+    <p>
+        As a **one-man project**, TopfHelm combines elements of <strong>Dungeon Synth, Dark Folk, and Medieval Ambient</strong> with influences from **Dark Ambient, Dungeon Wave, and Epic Fantasy Music**.  
+        Each composition is crafted with a deep love for **ancient melodies, battle hymns, and atmospheric storytelling**.
+    </p>
+
+    <h3>📍 Independent & Underground</h3>
+    <p>
+        As an independent musician, TopfHelm is part of the **underground Dungeon Synth & Dark Folk movement**, delivering raw, unfiltered medieval-inspired music without any label restrictions.
+    </p>
+
+    <h3>❓ FAQ: Frequently Asked Questions</h3>
+    <p><strong>🔹 Who is behind TopfHelm?</strong></p>
+    <p>TopfHelm is a <strong>one-man band</strong>, with all music, production, and artwork created independently.</p>
+
+    <p><strong>🔹 Where can I listen to TopfHelm?</strong></p>
+    <p>Music is available on <a href="https://topfhelm.bandcamp.com/">Bandcamp</a>, Spotify, and other platforms.</p>
+
+    <p><strong>🔹 What are the main influences of TopfHelm?</strong></p>
+    <p>Medieval history, <strong>DnD, Black Metal aesthetics, and dark folk traditions</strong> shape the sound of TopfHelm.</p>
+
+    <p>⚔️ <strong>New album "Sanguis et Mulsum" – out March 28!</strong></p>
+</div>
 
 <!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
@@ -285,8 +352,9 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
         <a href="mailto:topfhelmmusic@gmail.com" class="button contact">Contact Us</a>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.pjax/2.0.1/jquery.pjax.min.js"></script>
     <!-- Подключаем JS -->
     <script src="script.js"></script>
-
 </body>
 </html>

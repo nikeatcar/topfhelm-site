@@ -1,0 +1,44 @@
+/* Фон прелоадера */
+#preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: #111;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 99999;
+}
+
+/* Логотип */
+.preloader-logo {
+    width: 120px;
+    height: auto;
+    margin-bottom: 20px;
+    animation: fadeIn 1.5s forwards;
+}
+
+/* Полоса загрузки */
+.loader-bar {
+    width: 0%;
+    max-width: 400px;
+    height: 5px;
+    background: linear-gradient(90deg, #c99b2b, #ffdb4d, #c99b2b);
+    box-shadow: 0 0 10px #ffdb4d;
+    animation: loadBar 1s linear forwards;
+}
+
+/* Анимация заполнения полоски */
+@keyframes loadBar {
+    0% { width: 0%; }
+    100% { width: 100%; }
+}
+
+/* Анимация появления логотипа */
+@keyframes fadeIn {
+    0% { opacity: 0; transform: scale(0.9); }
+    100% { opacity: 1; transform: scale(1); }
+}

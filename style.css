@@ -44,23 +44,32 @@ body.ru .english-text {
 ;;               ----==| Ф О Н   +   П А Р А Л Л А К С |==----                ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-.blurred-bg {
-    position: fixed;
-    top: -10vh; /* Смещаем фон вверх, чтобы не было белой полосы */
+#content {
+    position: relative;
+    z-index: 1;
+}
+
+.parallax-container {
+    position: fixed; /* Оставляем фон зафиксированным */
+    top: 0;
     left: 0;
     width: 100%;
-    height: 120vh; /* Увеличиваем высоту фона, чтобы он всегда заполнял экран */
+    height: 100vh;
+    overflow: hidden;
+    pointer-events: none;
+    z-index: -9999;
+}
+
+.blurred-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 120vh;
     background: url('media/blurred-bg.webp') no-repeat center center;
     background-size: cover;
     filter: blur(15px);
-    z-index: -1;
     will-change: transform;
-}
-
-/* Параллакс при прокрутке */
-.parallax {
-    transform: translateY(0);
-    transition: transform 0.1s linear;
 }
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -159,6 +168,7 @@ h1 {
     font-display: swap; /* 🔥 Показываем текст сразу, а потом подгружаем шрифт */
     font-family: 'Monomakh', Georgia, serif;
     font-display: swap; /* 🔥 Показываем текст сразу, а потом подгружаем шрифт */
+    font-size: 25px;
 }
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
