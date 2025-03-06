@@ -200,7 +200,7 @@ window.addEventListener("scroll", function () {
         let parallaxSpeed = -0.3; // Двигаем фон в обратную сторону
         let offset = scrollTop * parallaxSpeed;
 
-        document.querySelector(".parallax-container").style.transform = `translateY(${offset}px)`;
+        document.querySelector(".blurred-bg").style.transform = `translateY(${offset}px)`;
     });
 });
 
