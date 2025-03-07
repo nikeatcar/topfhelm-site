@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Показываем кнопку при прокрутке вниз
     const scrollToTopBtn = document.getElementById("scrollToTopBtn");
 
-    if (!scrollToTopBtn) return; // Если кнопки нет, ничего не делаем
+    if (!scrollToTopBtn) return; // Если кнопки нет - ничего не делаем
 
     // Функция для показа кнопки с fade-in
     function showScrollButton() {
