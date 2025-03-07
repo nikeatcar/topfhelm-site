@@ -3,15 +3,12 @@
 document.addEventListener("DOMContentLoaded", function () {
     const buttons = document.querySelectorAll(".button");
     const presaveBtn = document.getElementById("presave-btn");
-});
+
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
 ;;                     ----==| П Р Е Л О А Д Е Р |==----                      ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-document.addEventListener("DOMContentLoaded", function () {
-    console.log("DOM загружен");
-
     // Убираем прелоадер при загрузке
     setTimeout(() => {
         console.log("Закрываю прелоадер вручную");
@@ -34,6 +31,81 @@ document.addEventListener("DOMContentLoaded", function () {
     if (getLangFromURL() === "ru") {
         document.body.classList.add("ru");
     }
+
+// ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+// ;;                                                                            ;;
+// ;;                  ----==| К Н О П К А   В В Е Р Х |==----                   ;;
+// ;;                                                                            ;;
+// ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    // Показываем кнопку при прокрутке вниз
+    const scrollToTopBtn = document.getElementById("scrollToTopBtn");
+
+    if (!scrollToTopBtn) return; // Если кнопки нет, ничего не делаем
+
+    // Функция для показа кнопки с fade-in
+    function showScrollButton() {
+        scrollToTopBtn.classList.add("show");
+        scrollToTopBtn.classList.remove("fade-out");
+    }
+
+    // Функция для скрытия кнопки с fade-out
+    function hideScrollButton() {
+        scrollToTopBtn.classList.add("fade-out");
+        scrollToTopBtn.classList.remove("show");
+    }
+
+    // Показываем кнопку при прокрутке вниз
+    window.addEventListener("scroll", function () {
+        if (window.scrollY > 300) {
+            showScrollButton();
+        } else {
+            hideScrollButton();
+        }
+    });
+
+    // Обработчик клика - плавный скролл наверх
+    scrollToTopBtn.addEventListener("click", function () {
+        window.scrollTo({
+            top: 0,
+            behavior: "smooth"
+        });
+    });
+
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;           ----==| П Е Р Е К Л Ю Ч Е Н И Е   Я З Ы К О В |==----            ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+    // Проверяем, был ли ранее выбран язык пользователем
+    const savedLang = localStorage.getItem("lang");
+    if (savedLang) {
+        if (savedLang === "ru" && !window.location.href.includes("index-ru.html")) {
+            window.location.href = "index-ru.html";
+        }
+        if (savedLang === "en" && window.location.href.includes("index-ru.html")) {
+            window.location.href = "index.html";
+        }
+        return;
+    }
+
+    // Определяем язык браузера
+    const userLang = navigator.language || navigator.userLanguage;
+    
+    // Если язык русский, перенаправляем на русскую версию (если ещё не на ней)
+    if (userLang.startsWith("ru") && !window.location.href.includes("index-ru.html")) {
+        window.location.href = "index-ru.html";
+    }
+});
+
+// Функция для смены языка и сохранения выбора
+function switchLanguage(lang) {
+    localStorage.setItem("lang", lang);
+    if (lang === "ru") {
+        window.location.href = "index-ru.html";
+    } else {
+        window.location.href = "index.html";
+    }
+}
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
@@ -112,39 +184,15 @@ setTimeout(() => {
         updateCountdown();
         setInterval(updateCountdown, 1000);
     }, 500);
-});
-
-/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
-;;             ----==| А Н И М А Ц И Я   З А Г Р У З К И |==----              ;;
-;;                                                                            ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-
-document.addEventListener("DOMContentLoaded", () => {
-    const sections = document.querySelectorAll(".fade-in");
-  
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach((entry) => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add("visible");
-        }
-      });
-    }, { threshold: 0.1 });
-  
-    sections.forEach((section) => observer.observe(section));
-  });
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
 ;;                 ----==| Р А З Н Ы Е   Ш Р И Ф Т Ы |==----                  ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-
-    document.addEventListener("DOMContentLoaded", function () {
         if (getLangFromURL() === "ru") {
             document.body.classList.add("ru");
         }
-    });
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
@@ -173,8 +221,6 @@ document.addEventListener("DOMContentLoaded", () => {
 ;;                         ----==| V I D E O |==----                          ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-
-    document.addEventListener("DOMContentLoaded", function () {
         document.querySelectorAll(".youtube-placeholder").forEach(container => {
             container.addEventListener("click", function () {
                 const videoId = this.getAttribute("data-video");
@@ -187,60 +233,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 this.appendChild(iframe);
             });
         });
-    });
 
-/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
-;;                ----==| П А Р А Л Л А К С   Ф О Н А |==----                 ;;
-;;                                                                            ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-window.addEventListener("scroll", function () {
-    requestAnimationFrame(() => {
-        let scrollTop = window.scrollY;
-        let parallaxSpeed = -0.3; // Двигаем фон в обратную сторону
-        let offset = scrollTop * parallaxSpeed;
-
-        document.querySelector(".blurred-bg").style.transform = `translateY(${offset}px)`;
-    });
-});
-
-/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
-;;           ----==| П Е Р Е К Л Ю Ч Е Н И Е   Я З Ы К О В |==----            ;;
-;;                                                                            ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-
-        document.addEventListener("DOMContentLoaded", function () {
-            // Проверяем, был ли ранее выбран язык пользователем
-            const savedLang = localStorage.getItem("lang");
-            if (savedLang) {
-                if (savedLang === "ru" && !window.location.href.includes("index-ru.html")) {
-                    window.location.href = "index-ru.html";
-                }
-                if (savedLang === "en" && window.location.href.includes("index-ru.html")) {
-                    window.location.href = "index.html";
-                }
-                return;
-            }
-        
-            // Определяем язык браузера
-            const userLang = navigator.language || navigator.userLanguage;
-            
-            // Если язык русский, перенаправляем на русскую версию (если ещё не на ней)
-            if (userLang.startsWith("ru") && !window.location.href.includes("index-ru.html")) {
-                window.location.href = "index-ru.html";
-            }
-        });
-        
-        // Функция для смены языка и сохранения выбора
-        function switchLanguage(lang) {
-            localStorage.setItem("lang", lang);
-            if (lang === "ru") {
-                window.location.href = "index-ru.html";
-            } else {
-                window.location.href = "index.html";
-            }
-        }
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
 ;;                        ----==| Ш А Р И Н Г |==----                         ;;
@@ -330,9 +323,7 @@ window.addEventListener("scroll", function () {
         }
         
         // Перевод текстов для русской версии
-        document.addEventListener("DOMContentLoaded", function () {
             if (getLangFromURL() === "ru") {
                 document.getElementById("share-title").textContent = "Поделись нашим проектом с друзьями!";
                 document.querySelector(".copy-btn").textContent = "🔗 Скопировать ссылку";
             }
-        });
