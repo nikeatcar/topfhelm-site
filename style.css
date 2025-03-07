@@ -863,12 +863,12 @@ body.ru #countdown-text {
         height: 24px;
     }
     .countdown-banner {
-        font-size: 16px;
-        padding: 6px;
+        font-size: 14px;
+        padding: 5px;
     }
     
     .countdown-banner .time {
-        font-size: 20px;
+        font-size: 18px;
     }
     .album-text {
         font-size: 22px;
@@ -880,8 +880,8 @@ body.ru #countdown-text {
         font-size: 22px;
     }
     .button {
-        font-size: 18px;
-        padding: 10px;
+        font-size: 16px;
+        padding: 8px;
     }
     .share-content {
         width: 95%;
@@ -906,8 +906,8 @@ body.ru #countdown-text {
     }
 
     .share-main {
-        width: 130px;
-        height: 40px;
+        width: 120px;
+        height: 35px;
         font-size: 14px;
     }
 }
