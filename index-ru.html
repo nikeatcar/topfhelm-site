@@ -369,7 +369,31 @@
 ;;                ----==| C O N T A C T   B U T T O N |==----                 ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
-        <a href="mailto:topfhelmmusic@gmail.com" class="button contact">Связаться</a>
+            <!-- Кнопка "Contact Us" (Остаётся без изменений) -->
+            <a href="#" class="button contact" id="openContactForm">Связаться</a>
+
+    <!-- Всплывающее модальное окно с формой -->
+    <div id="contactModal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <h2>📩 Связаться</h2>
+            <form id="contactForm" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+                <label for="name">Имя:</label>
+                <input type="text" id="name" name="name" required placeholder="Ваше имя">
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required placeholder="Ваш email">
+
+                <label for="message">Сообщение:</label>
+                <textarea id="message" name="message" required placeholder="Ваше сообщение"></textarea>
+
+                <!-- Honeypot (скрытое поле для защиты от ботов) -->
+                <input type="text" name="_gotcha" style="display:none">
+
+                <button type="submit">Отправить</button>
+            </form>
+            <p id="form-status"></p>
+        </div>
     </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
