@@ -358,35 +358,4 @@ setTimeout(() => {
             contactModal.classList.remove("show");
             setTimeout(() => contactModal.style.display = "none", 300);
         }
-
-// ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-// ;;                                                                            ;;
-// ;;     ----==| О Т П Р А В К А   Ф О Р М Ы   Ч Е Р Е З   A J A X |==----      ;;
-// ;;                                                                            ;;
-// ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-if (!contactModal || !openContactBtn || !closeModal) {
-    console.error("❌ Ошибка: Не найдены элементы контактной формы.");
-    return;
-}
-
-// Открытие модального окна
-openContactBtn.addEventListener("click", function (event) {
-    event.preventDefault();
-    contactModal.style.display = "flex";
-    setTimeout(() => contactModal.classList.add("active"), 10);
-});
-
-// Закрытие модального окна
-closeModal.addEventListener("click", function () {
-    contactModal.classList.remove("active");
-    setTimeout(() => contactModal.style.display = "none", 300);
-});
-
-// Закрытие по клику вне формы
-window.addEventListener("click", function (event) {
-    if (event.target === contactModal) {
-        contactModal.classList.remove("active");
-        setTimeout(() => contactModal.style.display = "none", 300);
-    }
-});
 });
