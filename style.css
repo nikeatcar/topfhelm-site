@@ -783,6 +783,11 @@ body.ru #countdown-text {
     justify-content: center;
 }
 
+/* Делаем форму активной */
+.modal.active {
+    display: flex;
+}
+
 /* Контент модального окна */
 .modal-content {
     background: rgba(0, 0, 0, 0.85);
@@ -799,9 +804,14 @@ body.ru #countdown-text {
 }
 
 /* Анимация появления */
-.modal.show .modal-content {
+.modal.active .modal-content {
     transform: scale(1);
     opacity: 1;
+}
+
+/* Блокируем прокрутку при открытом модальном окне */
+.no-scroll {
+    overflow: hidden;
 }
 
 /* Кнопка закрытия */
@@ -812,42 +822,6 @@ body.ru #countdown-text {
     font-size: 24px;
     color: #ffcc00;
     cursor: pointer;
-}
-
-/* Поля формы */
-.modal input, 
-.modal textarea {
-    width: 100%;
-    padding: 10px;
-    border-radius: 5px;
-    border: 1px solid #ffcc00;
-    background: #121212;
-    color: #fff;
-    font-size: 16px;
-    margin-bottom: 10px;
-}
-
-/* Кнопка отправки */
-.modal button {
-    background: #ffcc00;
-    color: #121212;
-    font-size: 18px;
-    padding: 10px 15px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background 0.3s;
-}
-
-.modal button:hover {
-    background: #ffd633;
-}
-
-/* Сообщение о статусе */
-#form-status {
-    margin-top: 10px;
-    font-size: 16px;
-    color: #ffcc00;
 }
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
