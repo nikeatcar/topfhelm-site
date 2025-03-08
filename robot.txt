@@ -4,6 +4,10 @@ Disallow: /cgi-bin/
 Disallow: /private/
 Disallow: /tmp/
 Disallow: /backup/
+Allow: /ru
+Allow: /en
+Disallow: /index.html
+Disallow: /index-ru.html
 
 # Блокируем индексацию параметров URL
 Disallow: /*?*
