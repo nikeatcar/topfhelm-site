@@ -175,6 +175,38 @@ ul li {
     background: #ffd633;
 }
 
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 1rem;
+    text-align: left;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.table thead {
+    background: #8b6f43;
+    font-weight: bold;
+}
+
+.table th,
+.table td {
+    padding: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.table tbody tr:nth-child(even) {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.table tbody tr:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transition: 0.3s;
+}
+
 /* Медиа-запросы для адаптации под мобильные */
 @media (max-width: 768px) {
     .article-container {

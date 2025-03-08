@@ -4,10 +4,13 @@ Disallow: /cgi-bin/
 Disallow: /private/
 Disallow: /tmp/
 Disallow: /backup/
-Allow: /ru
-Allow: /en
 Disallow: /index.html
 Disallow: /index-ru.html
+
+Allow: /articles/dungeon-synth-a-journey-through-dark-fantasy.html
+Allow: /articles/dungeon-synth-a-journey-through-dark-fantasy-ru.html
+Allow: /articles/dungeon-folk-reviving-the-authentic-medieval-sound.html
+Allow: /articles/dungeon-folk-reviving-the-authentic-medieval-sound-ru.html
 
 # Блокируем индексацию параметров URL
 Disallow: /*?*
@@ -25,9 +28,6 @@ Allow: /css/
 Allow: /js/
 Allow: /fonts/
 
-# Указываем карту сайта (для ускоренной индексации)
-Sitemap: https://topfhelm.com/sitemap.xml
-
 # Запрещаем индексацию поисковыми системами для спам-ботов
 User-agent: AhrefsBot
 Disallow: /
@@ -39,5 +39,5 @@ User-agent: dotbot
 Disallow: /
 
 Sitemap: https://topfhelm.com/sitemap.xml
-Security: https://topfhelm.com/.well-known/security.txt
+Security: https://topfhelm.com/security.txt
 Humans: https://topfhelm.com/humans.txt

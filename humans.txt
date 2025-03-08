@@ -1,7 +1,15 @@
 /* TEAM */
-Author: TopfHelm (One-Man Dungeon Folk & Dungeon Synth)
+Creator: Nikita "TopfHelm" Shkurd
 Website: https://topfhelm.com
+Contact: topfhelmmusic@gmail.com
 Location: Belarus
 
 /* THANKS */
-Inspired by Medieval Music, Crusader Battles, and Dark Folk Culture.
+Inspired by: Dungeon Folk, Medieval Music, Dark Folk, and Dungeon Synth communities.
+Special thanks to: The underground folk & synth scene, medieval history enthusiasts, and all supporters of independent music.
+
+/* SITE */
+Last update: 2025-03-10
+Standards: HTML5, CSS3, JS
+Built with: Custom HTML, CSS, JavaScript
+Hosted on: Netlify
