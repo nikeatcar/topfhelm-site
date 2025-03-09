@@ -1,65 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
     <url>
         <loc>https://topfhelm.com/</loc>
         <lastmod>2024-03-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
+
+    <url>
+        <loc>https://topfhelm.com/en</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://topfhelm.com/en"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://topfhelm.com/ru"/>
+    </url>
+
     <url>
         <loc>https://topfhelm.com/ru</loc>
-        <lastmod>2024-03-04</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <url>
-    <loc>https://topfhelm.com/en</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://topfhelm.com/en"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://topfhelm.com/ru"/>
-    </url>
-    <url>
-    <loc>https://topfhelm.com/ru</loc>
         <xhtml:link rel="alternate" hreflang="ru" href="https://topfhelm.com/ru"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://topfhelm.com/en"/>
     </url>
+
     <url>
         <loc>https://topfhelm.com/media/TopfHelm-Sanguis-et-Mulsum.webp</loc>
         <lastmod>2024-03-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+
     <url>
         <loc>https://topfhelm.com/security-policy.html</loc>
         <lastmod>2024-03-04</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>
     </url>
-    <url>
+
     <url>
         <loc>https://topfhelm.com/media/Avatar2.webp</loc>
         <lastmod>2024-03-04</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
     </url>
-    
-<!-- статьи -->
+
+    <!-- статьи -->
     <url>
         <loc>https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy.html</loc>
         <lastmod>2024-03-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy-ru.html"/>
     </url>
+
     <url>
         <loc>https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy-ru.html</loc>
         <lastmod>2024-03-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy.html"/>
     </url>
+
     <url>
         <loc>https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-medieval-sound.html</loc>
         <lastmod>2025-03-10</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-medieval-sound-ru.html"/>
     </url>
 
     <url>
@@ -67,5 +72,7 @@
         <lastmod>2025-03-10</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-medieval-sound.html"/>
     </url>
+
 </urlset>
