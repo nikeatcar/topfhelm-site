@@ -43,7 +43,7 @@
 @media (max-width: 768px){
     #scrollToTopBtn {
 
-        left: 50%;
+        left: 46.5%;
         right: auto;
         transform: translateX(-50%);
     }

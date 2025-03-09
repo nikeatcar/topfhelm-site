@@ -1,0 +1,99 @@
+/* 🌙 Тёмная тема */
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+body.dark-mode .container {
+    background-color: #1e1e1e; /* Темный контейнер */
+    color: #ffffff;
+}
+
+body.dark-mode a {
+    color: #f1c40f; /* Золотистый текст ссылок */
+}
+
+body.dark-mode .button {
+    background: #444;
+    color: white;
+}
+
+body.dark-mode .button:hover {
+    background: #666;
+}
+
+/* ☀️ Светлая тема */
+body.light-mode {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+body.light-mode .container {
+    background-color: #f9f9f9; /* Светлый контейнер */
+    color: #000000;
+}
+
+body.light-mode a {
+    color: #0078D7; /* Синие ссылки */
+}
+
+body.light-mode .button {
+    background: #e0e0e0;
+    color: black;
+}
+
+body.light-mode .button:hover {
+    background: #d0d0d0;
+}
+
+/* 🌙 Тёмная тема */
+body.dark-mode .article-container {
+    background-color: #1e1e1e; /* Темный контейнер */
+    color: #ffffff;
+}
+
+/* ☀️ Светлая тема */
+body.light-mode .article-container {
+    background-color: #f9f9f9; /* Светлый контейнер */
+    color: #000000;
+}
+
+/* 🌙 Тёмная тема */
+body.dark-mode h1, 
+body.dark-mode h2, 
+body.dark-mode h3 {
+    color: #f1c40f; /* Золотистый цвет заголовков */
+}
+
+/* ☀️ Светлая тема */
+body.light-mode h1, 
+body.light-mode h2, 
+body.light-mode h3 {
+    color: #222; /* Темно-серый цвет заголовков */
+}
+
+/* Переключатель темы */
+.theme-switcher {
+    position: fixed;
+    top: 62px;
+    right: 23px;
+    background: #ffcc00;
+    color: #121212;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 8px;
+    z-index: 999;
+    font-size: 16px;
+    transition: background 0.3s;
+}
+
+.theme-switcher:hover {
+    background: #555;
+}
+
+@media (max-width: 768px) {
+.theme-switcher{
+    position: relative;
+}
+}

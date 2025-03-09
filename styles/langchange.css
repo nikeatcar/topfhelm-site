@@ -22,7 +22,7 @@
 }
 
 #switchLangBtn:hover {
-    background: #ffd633;
+    background: #555;
 }
 
 @media (max-width: 768px) {

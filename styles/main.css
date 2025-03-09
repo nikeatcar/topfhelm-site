@@ -3,23 +3,6 @@
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
-;;             ----==| А Н И М А Ц И Я   З А Г Р У З К И |==----              ;;
-;;                                                                            ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-
-.fade-in {
-    opacity: 0;
-    transform: translateY(20px);
-    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
-  }
-  
-  .fade-in.visible {
-    opacity: 1;
-    transform: translateY(0);
-  }
-
-/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
 ;;                        ----==| Ш Р И Ф Т Ы |==----                         ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
@@ -73,31 +56,6 @@ body::before {
     background-size: auto; /* Сохраняем оригинальные размеры */
     filter: blur(5px); /* Размытие */
     z-index: -9999;
-}
-
-/* Кнопки переключения языка */
-.language-switcher button {
-    background: none;
-    border: none;
-    cursor: pointer;
-    padding: 0;
-    transition: 0.3s;
-}
-
-.language-switcher button img {
-    width: 32px;
-    height: 32px;
-    object-fit: contain;
-    transition: transform 0.2s ease-in-out;
-}
-
-.language-switcher button:hover img {
-    transform: scale(1.1);
-}
-
-.language-switcher button:hover {
-    background: rgba(255, 255, 255, 0.2);
-    border-color: white;
 }
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
