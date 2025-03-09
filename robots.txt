@@ -4,8 +4,6 @@ Disallow: /cgi-bin/
 Disallow: /private/
 Disallow: /tmp/
 Disallow: /backup/
-Disallow: /index.html
-Disallow: /index-ru.html
 
 Allow: /articles/dungeon-synth-a-journey-through-dark-fantasy.html
 Allow: /articles/dungeon-synth-a-journey-through-dark-fantasy-ru.html
