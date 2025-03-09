@@ -4,21 +4,28 @@ document.addEventListener("DOMContentLoaded", function () {
     if (!switchLangBtn) return; // Если кнопки нет, выходим
 
     switchLangBtn.addEventListener("click", function (event) {
-        event.preventDefault(); // Предотвращаем стандартное поведение ссылки
+        event.preventDefault(); // Останавливаем стандартный переход
+
         let currentURL = window.location.pathname;
+        let newURL = "";
 
         if (currentURL === "/" || currentURL === "/en") {
-            window.location.href = "/ru"; // Переключаем на русскую версию
+            newURL = "/ru"; // Главная → русская версия
         } else if (currentURL === "/ru") {
-            window.location.href = "/en"; // Переключаем на английскую версию
+            newURL = "/en"; // Русская версия → английская
         } else {
             if (currentURL.includes("-ru")) {
-                let newURL = currentURL.replace("-ru", ""); // Убираем -ru
-                window.location.href = newURL;
+                newURL = currentURL.replace("-ru", ""); // Убираем -ru, переключая на английский
             } else {
-                let newURL = currentURL.replace(/(\/[a-zA-Z0-9-]+)(\.html)?$/, "$1-ru$2"); // Добавляем -ru перед .html
-                window.location.href = newURL;
+                newURL = currentURL.replace(/(\/[a-zA-Z0-9-]+)(\.html)?$/, "$1-ru$2"); // Добавляем -ru перед .html
             }
+        }
+
+        if (newURL !== window.location.pathname) {
+            console.log(`Переключение языка: ${window.location.pathname} → ${newURL}`);
+            window.location.href = newURL; // Перенаправляем
+        } else {
+            console.log("Язык уже выбран, редирект не выполняется.");
         }
     });
 
