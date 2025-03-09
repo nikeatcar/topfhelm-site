@@ -183,7 +183,7 @@
     /* Иконки соцсетей - уменьшаем на мобильных */
     .share-item img {
         width: 60px;
-        height: 40px;
+        height: 60px;
     }
 
     .share-main {
@@ -209,7 +209,7 @@
     /* Ещё сильнее уменьшаем иконки */
     .share-item img {
         width: 50px;
-        height: 35px;
+        height: 50px;
     }
     
     /* Заголовок ещё меньше */
