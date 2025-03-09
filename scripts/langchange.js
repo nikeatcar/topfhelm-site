@@ -9,7 +9,6 @@ document.addEventListener("DOMContentLoaded", function () {
         let currentURL = window.location.pathname;
         let newURL = "";
 
-        // Проверяем текущий URL и переключаем язык
         if (currentURL === "/" || currentURL === "/en") {
             newURL = "/ru"; // Главная → русская версия
         } else if (currentURL === "/ru") {
@@ -22,7 +21,6 @@ document.addEventListener("DOMContentLoaded", function () {
             }
         }
 
-        // Обновляем URL только если он действительно изменился
         if (newURL !== currentURL) {
             console.log(`Переключение языка: ${currentURL} → ${newURL}`);
             localStorage.setItem("selectedLanguage", newURL); // Запоминаем язык в локальном хранилище
@@ -44,9 +42,14 @@ document.addEventListener("DOMContentLoaded", function () {
         console.log("Применён английский шрифт IM Fell English SC");
     }
 
-    // Убираем автоматический редирект назад
-    let storedLang = localStorage.getItem("selectedLanguage");
-    if (storedLang && storedLang !== window.location.pathname) {
-        console.log(`Авто-редирект отменён: ${storedLang} ≠ ${window.location.pathname}`);
-    }
+    // **Гарантируем, что jQuery и другие скрипты загружены корректно**
+    setTimeout(() => {
+        console.log("Проверка загрузки скриптов...");
+        if (typeof $ === "undefined") {
+            console.warn("⚠ jQuery не загружен!");
+        }
+        if (typeof getLangFromURL === "undefined") {
+            console.warn("⚠ getLangFromURL не определён!");
+        }
+    }, 2000);
 });

@@ -3,46 +3,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     const buttons = document.querySelectorAll(".button");
     const presaveBtn = document.getElementById("presave-btn");
-
-/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
-;;           ----==| П Е Р Е К Л Ю Ч Е Н И Е   Я З Ы К О В |==----            ;;
-;;                                                                            ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-function getLangFromHTML() {
-    return document.documentElement.lang || "en";
-}
-
-function switchLanguage(lang) {
-    localStorage.setItem("lang", lang);
-    document.documentElement.lang = lang; // Меняем lang в <html>
-
-    // Обновляем URL без index.html
-    const newURL = lang === "ru" ? "/ru" : "/en";
-    history.pushState(null, "", newURL);
-    location.reload(); // Перезагрузка страницы
-}
-
-// Заменяем index.html и index-ru.html на /en и /ru
-if (window.location.pathname.includes("index-ru.html")) {
-    history.replaceState(null, "", "/ru");
-    document.documentElement.lang = "ru";
-} else if (window.location.pathname.includes("index.html")) {
-    history.replaceState(null, "", "/en");
-    document.documentElement.lang = "en";
-}
-
-// Добавляем обработчики на кнопки переключения языка
-document.querySelectorAll(".language-switcher button").forEach(button => {
-    button.addEventListener("click", function () {
-        const lang = this.dataset.lang;
-        switchLanguage(lang);
-    });
-});
-
-// Добавляем класс ru/en на body для смены шрифтов
-const currentLang = getLangFromHTML();
-document.body.classList.add(currentLang);
 });
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
