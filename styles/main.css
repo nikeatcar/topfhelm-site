@@ -117,23 +117,6 @@ body::before {
     z-index: -9999;
 }
 
-/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
-;;           ----==| П Е Р Е К Л Ю Ч А Л К И   Я З Ы К О В |==----            ;;
-;;                                                                            ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-.language-switcher {
-    position: fixed;
-    top: 15px;
-    right: 15px;
-    background: rgba(0, 0, 0, 0.7);
-    padding: 5px 10px;
-    border-radius: 8px;
-    z-index: 9999;
-    display: flex;
-    gap: 8px;
-}
-
 /* Кнопки переключения языка */
 .language-switcher button {
     background: none;

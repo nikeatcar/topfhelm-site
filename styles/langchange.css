@@ -1,6 +1,13 @@
 .language-switcher {
-    text-align: right;
-    margin: 10px;
+    position: fixed;
+    top: 15px;
+    right: 15px;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 5px 10px;
+    border-radius: 8px;
+    z-index: 999;
+    display: flex;
+    gap: 8px;
 }
 
 #switchLangBtn {
@@ -16,4 +23,10 @@
 
 #switchLangBtn:hover {
     background: #ffd633;
+}
+
+@media (max-width: 768px) {
+.language-switcher{
+    position: relative;
+}
 }
