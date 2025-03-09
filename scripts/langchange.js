@@ -21,8 +21,9 @@ document.addEventListener("DOMContentLoaded", function () {
             }
         }
 
-        if (newURL !== window.location.pathname) {
-            console.log(`Переключение языка: ${window.location.pathname} → ${newURL}`);
+        // Убираем зацикливание: меняем URL только если он действительно новый
+        if (newURL !== currentURL) {
+            console.log(`Переключение языка: ${currentURL} → ${newURL}`);
             window.location.href = newURL; // Перенаправляем
         } else {
             console.log("Язык уже выбран, редирект не выполняется.");
@@ -40,4 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
         document.body.classList.add("en");
         console.log("Применён английский шрифт IM Fell English SC");
     }
+
+    // **Важно:** Убедимся, что код НЕ делает автоматический редирект обратно
+    console.log(`Текущий язык страницы: ${lang}, URL: ${window.location.pathname}`);
 });
