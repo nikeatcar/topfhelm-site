@@ -58,48 +58,6 @@ body.ru .english-text {
 }
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                              ;;
-;;          ----==| / *   К Н О П К А   " В В Е Р Х "   * / |==----             ;;
-;;                                                                              ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-/* Кнопка "UP" */
-#scrollToTopBtn {
-    display: block;
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    width: 50px;
-    height: 50px;
-    background-color: rgba(255, 204, 0, 0.8);
-    color: black;
-    font-size: 24px;
-    text-align: center;
-    border: none;
-    border-radius: 50%;
-    cursor: pointer;
-    box-shadow: 0 0 10px rgba(255, 204, 0, 0.4);
-    z-index: 1000; /* Поверх всего */
-    opacity: 0;
-    visibility: hidden;
-    transform: translateY(10px);
-    transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out, visibility 0.5s;
-}
-
-/* Анимация появления */
-#scrollToTopBtn.show {
-    opacity: 1;
-    visibility: visible;
-    transform: translateY(0);
-}
-
-/* Анимация исчезновения */
-#scrollToTopBtn.fade-out {
-    opacity: 0;
-    visibility: hidden;
-    transform: translateY(10px);
-}
-
-/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
 ;;               ----==| Ф О Н   +   П А Р А Л Л А К С |==----                ;;
 ;;                                                                            ;;
@@ -683,13 +641,7 @@ body.ru #countdown-text {
         width: 28px;
         height: 28px;
     }
-    #scrollToTopBtn {
-        width: 40px;
-        height: 40px;
-        font-size: 20px;
-        bottom: 15px;
-        right: 15px;
-    }
+    
     .container {
         max-width: 95%;
     }
@@ -758,21 +710,17 @@ body.ru #countdown-text {
         padding: 3px 6px;
         gap: 3px;
     }
+
     .language-switcher button {
         font-size: 10px;
         padding: 4px 8px;
     }
+    
     .language-switcher button img {
         width: 24px;
         height: 24px;
     }
-    #scrollToTopBtn {
-        width: 35px;
-        height: 35px;
-        font-size: 18px;
-        bottom: 10px;
-        right: 10px;
-    }
+
     .countdown-banner {
         font-size: 14px;
         padding: 5px;

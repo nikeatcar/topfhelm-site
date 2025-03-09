@@ -1,0 +1,58 @@
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                              ;;
+;;          ----==| / *   К Н О П К А   " В В Е Р Х "   * / |==----             ;;
+;;                                                                              ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+/* Кнопка "UP" */
+#scrollToTopBtn {
+    display: block;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: rgba(255, 204, 0, 0.8);
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(255, 204, 0, 0.4);
+    z-index: 1000; /* Поверх всего */
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(10px);
+    transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out, visibility 0.5s;
+}
+
+/* Анимация появления */
+#scrollToTopBtn.show {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+/* Анимация исчезновения */
+#scrollToTopBtn.fade-out {
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(10px);
+}
+
+@media (max-width: 768px){
+    #scrollToTopBtn {
+
+        left: 50%;
+        right: auto;
+        transform: translateX(-50%);
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #scrollToTopBtn {
+        width: 35px;
+        height: 35px;
+        font-size: 18px;
+    }
+}
