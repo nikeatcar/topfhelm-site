@@ -1,21 +1,26 @@
 document.addEventListener("DOMContentLoaded", function () {
     const switchLangBtn = document.getElementById("switchLangBtn");
 
-    if (!switchLangBtn) return; // Если кнопки нет, ничего не делаем
+    if (!switchLangBtn) return; // Если кнопки нет, выходим
 
     switchLangBtn.addEventListener("click", function () {
-        let currentURL = window.location.href;
+        let currentURL = window.location.pathname;
 
-        if (currentURL.includes("-ru")) {
-            let newURL = currentURL.replace("-ru", "");
-            window.location.href = newURL;
+        if (currentURL === "/" || currentURL === "/en") {
+            // Если текущая главная страница — переключаем на русскую версию
+            window.location.href = "/ru";
+        } else if (currentURL === "/ru") {
+            // Если русская версия — переключаем на английскую
+            window.location.href = "/en";
         } else {
-            let urlParts = currentURL.split("/");
-            let filename = urlParts[urlParts.length - 1];
-            let newFilename = filename.replace(".html", "-ru.html");
-            urlParts[urlParts.length - 1] = newFilename;
-            let newURL = urlParts.join("/");
-            window.location.href = newURL;
+            // Если внутри страниц (например, /articles/article.html), меняем en на ru и наоборот
+            if (currentURL.includes("-ru")) {
+                let newURL = currentURL.replace("-ru", ""); // Убираем -ru для английской версии
+                window.location.href = newURL;
+            } else {
+                let newURL = currentURL.replace(/(\/[a-zA-Z0-9-]+)(\.html)?$/, "$1-ru$2"); // Добавляем -ru перед .html
+                window.location.href = newURL;
+            }
         }
     });
 
