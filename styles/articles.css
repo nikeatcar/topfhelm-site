@@ -155,26 +155,6 @@ ul li {
     background: #ffd633;
 }
 
-.language-switcher {
-    text-align: right;
-    margin: 10px;
-}
-
-#switchLangBtn {
-    background: #ffcc00;
-    color: #121212;
-    border: none;
-    padding: 8px 15px;
-    font-size: 16px;
-    cursor: pointer;
-    border-radius: 5px;
-    transition: background 0.3s;
-}
-
-#switchLangBtn:hover {
-    background: #ffd633;
-}
-
 .table {
     width: 100%;
     border-collapse: collapse;

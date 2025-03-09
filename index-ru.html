@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="styles/main.css" media="print" onload="this.media='all'">
     <link rel="stylesheet" href="styles/social.css">
     <link rel="stylesheet" href="styles/sharing.css">
+    <link rel="stylesheet" href="styles/langchange.css">
 
 <!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
@@ -155,16 +156,6 @@
 
 <!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
-;;                  ----==| С М Е Н А   Я З Ы К О В |==----                   ;;
-;;                                                                            ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
-    <div class="language-switcher">
-        <button data-lang="en">
-            <img src="icons/en.svg" alt="English">
-        </button>
-    </div>
-<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
 ;;         ----==| Р А З М Ы Т Ы Й   Ф О Н  |==----          ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
@@ -176,7 +167,22 @@
     </div>
 
     <div class="container">
-        <img src="media/Avatar2.webp" alt="TopfHelm Logo - Dungeon Folk & Dungeon Synth Project" class="avatar" width="200" height="200" loading="lazy">
+
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                  ----==| С М Е Н А   Я З Ы К О В |==----                   ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+<div class="language-switcher">
+    <button id="switchLangBtn">🌍 Read in English</button>
+</div>
+
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                                ;;
+;;                        ----==| А В А Т А Р |==----                             ;;
+;;                                                                                ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; -->
+<img src="media/Avatar2.webp" alt="TopfHelm Logo - Dungeon Folk & Dungeon Synth Project" class="avatar" width="200" height="200" loading="lazy">
 
 <!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                                ;;
@@ -440,6 +446,7 @@
     <script src="scripts/up_buton.js" defer></script>
     <script src="scripts/share.js" defer></script>
     <script src="scripts/social.js" defer></script>
+    <script src="scripts/langchange.js" defer></script>
     
     <footer>
         <p>© 2025 TopfHelm. All rights reserved.</p>

@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="styles/main.css" media="print" onload="this.media='all'">
     <link rel="stylesheet" href="styles/social.css">
     <link rel="stylesheet" href="styles/sharing.css">
+    <link rel="stylesheet" href="styles/langchange.css">
 
 <!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                               ;;
@@ -144,18 +145,6 @@
     </script>
 
 <!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
-;;                  ----==| С М Е Н А   Я З Ы К О В |==----                   ;;
-;;                                                                            ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
-
-    <div class="language-switcher">
-        <button data-lang="ru">
-            <img src="icons/RU.svg" alt="Русский">
-        </button>
-    </div>
-
-<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                                ;;
 ;;                    ----==| Р А З М Ы Т Ы Й   Ф О Н  |==----                    ;;
 ;;                                                                                ;;
@@ -167,12 +156,24 @@
         <!-- Весь контент страницы -->
     </div>
 
+
+    <div class="container">
+
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                  ----==| С М Е Н А   Я З Ы К О В |==----                   ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+
+        <div class="language-switcher">
+            <button id="switchLangBtn">🌍 Читать на русском</button>
+        </div>
+
 <!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                                ;;
 ;;                        ----==| А В А Т А Р |==----                             ;;
 ;;                                                                                ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; -->
-    <div class="container">
         <img src="media/Avatar2.webp" alt="TopfHelm Logo - Dungeon Folk & Dungeon Synth Project" class="avatar" width="200" height="200" loading="lazy">
 
 <!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -436,6 +437,7 @@
     <script src="scripts/contact.js" defer></script>
     <script src="scripts/up_buton.js" defer></script>
     <script src="scripts/social.js" defer></script>
+    <script src="scripts/langchange.js" defer></script>
     
     
 
