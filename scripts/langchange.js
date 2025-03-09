@@ -3,19 +3,17 @@ document.addEventListener("DOMContentLoaded", function () {
 
     if (!switchLangBtn) return; // Если кнопки нет, выходим
 
-    switchLangBtn.addEventListener("click", function () {
+    switchLangBtn.addEventListener("click", function (event) {
+        event.preventDefault(); // Предотвращаем стандартное поведение ссылки
         let currentURL = window.location.pathname;
 
         if (currentURL === "/" || currentURL === "/en") {
-            // Если текущая главная страница — переключаем на русскую версию
-            window.location.href = "/ru";
+            window.location.href = "/ru"; // Переключаем на русскую версию
         } else if (currentURL === "/ru") {
-            // Если русская версия — переключаем на английскую
-            window.location.href = "/en";
+            window.location.href = "/en"; // Переключаем на английскую версию
         } else {
-            // Если внутри страниц (например, /articles/article.html), меняем en на ru и наоборот
             if (currentURL.includes("-ru")) {
-                let newURL = currentURL.replace("-ru", ""); // Убираем -ru для английской версии
+                let newURL = currentURL.replace("-ru", ""); // Убираем -ru
                 window.location.href = newURL;
             } else {
                 let newURL = currentURL.replace(/(\/[a-zA-Z0-9-]+)(\.html)?$/, "$1-ru$2"); // Добавляем -ru перед .html
