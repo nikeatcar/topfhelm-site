@@ -3,30 +3,24 @@ document.addEventListener("DOMContentLoaded", function () {
 
     if (!switchLangBtn) return; // Если кнопки нет, выходим
 
-    switchLangBtn.addEventListener("click", function (event) {
-        event.preventDefault(); // Останавливаем стандартный переход
-
+    switchLangBtn.addEventListener("click", function () {
         let currentURL = window.location.pathname;
-        let newURL = "";
 
         if (currentURL === "/" || currentURL === "/en") {
-            newURL = "/ru"; // Главная → русская версия
+            // Если текущая главная страница — переключаем на русскую версию
+            window.location.href = "/ru";
         } else if (currentURL === "/ru") {
-            newURL = "/en"; // Русская версия → английская
+            // Если русская версия — переключаем на английскую
+            window.location.href = "/en";
         } else {
+            // Если внутри страниц (например, /articles/article.html), меняем en на ru и наоборот
             if (currentURL.includes("-ru")) {
-                newURL = currentURL.replace("-ru", ""); // Убираем -ru, переключая на английский
+                let newURL = currentURL.replace("-ru", ""); // Убираем -ru для английской версии
+                window.location.href = newURL;
             } else {
-                newURL = currentURL.replace(/(\/[a-zA-Z0-9-]+)(\.html)?$/, "$1-ru$2"); // Добавляем -ru перед .html
+                let newURL = currentURL.replace(/(\/[a-zA-Z0-9-]+)(\.html)?$/, "$1-ru$2"); // Добавляем -ru перед .html
+                window.location.href = newURL;
             }
-        }
-
-        if (newURL !== currentURL) {
-            console.log(`Переключение языка: ${currentURL} → ${newURL}`);
-            localStorage.setItem("selectedLanguage", newURL); // Запоминаем язык в локальном хранилище
-            window.location.href = newURL; // Перенаправляем
-        } else {
-            console.log("Язык уже выбран, редирект не выполняется.");
         }
     });
 
@@ -41,15 +35,4 @@ document.addEventListener("DOMContentLoaded", function () {
         document.body.classList.add("en");
         console.log("Применён английский шрифт IM Fell English SC");
     }
-
-    // **Гарантируем, что jQuery и другие скрипты загружены корректно**
-    setTimeout(() => {
-        console.log("Проверка загрузки скриптов...");
-        if (typeof $ === "undefined") {
-            console.warn("⚠ jQuery не загружен!");
-        }
-        if (typeof getLangFromURL === "undefined") {
-            console.warn("⚠ getLangFromURL не определён!");
-        }
-    }, 2000);
 });
