@@ -7,8 +7,8 @@
 ;;                     ----==| П Р Е Л О А Д Е Р |==----                      ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
-    <link rel="stylesheet" href="preloader.css">
-    <link rel="stylesheet" href="style.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="styles/preloader.css">
+    <link rel="stylesheet" href="styles/main.css" media="print" onload="this.media='all'">
 
 <!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                               ;;
@@ -69,8 +69,8 @@
     <link rel="canonical" href="https://topfhelm.com/en">
     <link rel="alternate" hreflang="en" href="https://topfhelm.com/en">
     <link rel="alternate" hreflang="ru" href="https://topfhelm.com/ru">
-    <link rel="stylesheet" href="style.css" media="print" onload="this.media='all'">
-    <noscript><link rel="stylesheet" href="style.css"></noscript>
+    <link rel="stylesheet" href="styles/main.css" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="styles/main.css"></noscript>
         <meta author="Nikita Shkurd">
     <meta name="description" content="TopfHelm is a one-man Dungeon Folk & Dark Folk project inspired by medieval music, DnD, and crusader battles. New album 'Sanguis et Mulsum' out March 28!">
     <meta property="og:title" content="TopfHelm - Dungeon Folk & Dungeon Synth">
@@ -96,9 +96,6 @@
     <div id="content">
         <!-- Здесь будет загружаться новый контент -->
     </div>
-
-    <script src="script.js"></script>
-
 
     <script>
     $(document).pjax('a', '#content', {
@@ -390,10 +387,13 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.pjax/2.0.1/jquery.pjax.min.js"></script>
     <!-- Подключаем JS -->
+    <script src="scripts/preloader.js" defer></script>
     <script src="scripts/main.js" defer></script>
+    <script src="scripts/share.js" defer></script>
     <script src="scripts/contact.js" defer></script>
     <script src="scripts/up_buton.js" defer></script>
     
+
     <footer>
         <p>© 2025 TopfHelm. All rights reserved.</p>
     </footer>

@@ -11,12 +11,18 @@
 
     <url>
         <loc>https://topfhelm.com/en</loc>
+        <lastmod>2024-03-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
         <xhtml:link rel="alternate" hreflang="en" href="https://topfhelm.com/en"/>
         <xhtml:link rel="alternate" hreflang="ru" href="https://topfhelm.com/ru"/>
     </url>
 
     <url>
         <loc>https://topfhelm.com/ru</loc>
+        <lastmod>2024-03-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
         <xhtml:link rel="alternate" hreflang="ru" href="https://topfhelm.com/ru"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://topfhelm.com/en"/>
     </url>
@@ -29,7 +35,7 @@
     </url>
 
     <url>
-        <loc>https://topfhelm.com/security-policy.html</loc>
+        <loc>https://topfhelm.com/security/security-policy.html</loc>
         <lastmod>2024-03-04</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>

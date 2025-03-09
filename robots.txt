@@ -39,5 +39,3 @@ User-agent: dotbot
 Disallow: /
 
 Sitemap: https://topfhelm.com/sitemap.xml
-Security: https://topfhelm.com/security.txt
-Humans: https://topfhelm.com/humans.txt
