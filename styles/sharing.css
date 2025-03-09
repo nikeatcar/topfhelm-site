@@ -170,6 +170,11 @@
 
 @media (max-width: 768px){
 
+    .social-icons img {
+        width: 60px; /* Увеличено в 1.5 раза */
+        height: 60px;
+    }
+
     .share-content {
         width: 90%; /* Уменьшаем ширину окна на мобильных */
         max-width: 350px;
@@ -183,7 +188,7 @@
     /* Иконки соцсетей - уменьшаем на мобильных */
     .share-item img {
         width: 60px;
-        height: 60px;
+        height: 40px;
     }
 
     .share-main {
@@ -201,6 +206,11 @@
 
 @media screen and (max-width: 480px){
 
+    .social-icons img {
+        width: 60px; /* Увеличено в 1.5 раза */
+        height: 60px;
+    }
+
     .share-content {
         width: 95%;
         max-width: 300px;
@@ -209,7 +219,7 @@
     /* Ещё сильнее уменьшаем иконки */
     .share-item img {
         width: 50px;
-        height: 50px;
+        height: 35px;
     }
     
     /* Заголовок ещё меньше */
