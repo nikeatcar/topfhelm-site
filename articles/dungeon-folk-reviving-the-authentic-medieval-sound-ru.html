@@ -2,10 +2,7 @@
 <html lang="ru">
 <head>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Monomakh&display=swap">
-    <link rel="stylesheet" href="../styles/articles.css">
-    <link rel="stylesheet" href="../styles/langchange.css">
-    <link rel="stylesheet" href="../styles/up_button.css">
-    <link rel="stylesheet" href="../styles/theme.css">
+
     <meta charset="UTF-8">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -63,6 +60,19 @@
 
     <!-- Android Chrome -->
     <link rel="icon" type="image/png" sizes="192x192" href="../icons/android-chrome-192x192.png">
+
+    <script>
+        document.write('<link rel="stylesheet" href="../styles/articles.css">');
+        document.write('<link rel="stylesheet" href="../styles/langchange.css" media="print" onload="this.media=\'all\'">');
+        document.write('<link rel="stylesheet" href="../styles/langchange.css">');
+        document.write('<link rel="stylesheet" href="../styles/up_button.css">');
+        document.write('<link rel="stylesheet" href="../styles/theme.css">');
+        
+        document.write('<script src="../scripts/langchange.js" defer><\/script>');
+        document.write('<script src="../scripts/up_buton.js" defer><\/script>');
+        document.write('<script src="../scripts/theme.js" defer><\/script>');
+    </script>
+
 </head>
     <!-- Кнопка вверх -->
     <button id="scrollToTopBtn" title="UP">⬆</button>
@@ -73,7 +83,10 @@
                 <button id="themeToggle" class="theme-switcher">🌙 Dark Mode</button>
             </div>
         <section>
-            <h1>Dungeon Folk: Возвращение к подлинному средневековому звучанию</h1>
+
+            <div class="article-banner" style="--banner-image: url('../articles/dungeonfolk.webp');">
+                <h1><span class="english-text">Dungeon Folk:</span> Возвращение к подлинному средневековому звучанию</h1>
+            </div>
 
             <h2>Что такое Dungeon Folk?</h2>
             <p>Dungeon Folk — это музыкальный жанр, который появился на стыке Dungeon Synth и неофолка. В отличие от традиционного Dungeon Synth, основанного на синтезаторных звуках, Dungeon Folk делает акцент на акустических народных инструментах, придавая музыке аутентичную средневековую атмосферу.</p>
@@ -171,13 +184,10 @@
             <p>🔸 Хотите услышать, как звучал бы средневековый пир, объятый хаосом? Добро пожаловать в Dungeon Folk!</strong></p>
         </section>
 
-            <a href="https://topfhelm.com" class="back-to-home">🏰 Вернуться на главную</a>
+        <a href="https://topfhelm.com" class="back-to-home"><span>🏰 Вернуться на главную</span></a>
     </div>
     <footer>
         <p>© 2025 TopfHelm. All rights reserved.</p>
     </footer>
     </body>
-    <script src="../scripts/langchange.js" defer></script>
-    <script src="../scripts/up_buton.js" defer></script>
-    <script src="../scripts/theme.js"></script>
 </html>

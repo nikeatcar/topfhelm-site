@@ -39,6 +39,47 @@
     transform: translateY(10px);
 }
 
+.article-banner {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+/* Подключение фона через атрибут data-banner */
+.article-banner::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: var(--banner-image);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    filter: brightness(0.6); /* Затемнение для читабельности текста */
+}
+
+/* Стили для заголовка */
+.article-banner h1 {
+    position: relative;
+    font-size: 48px;
+    font-family: 'IM Fell English SC', serif;
+    color: #ffcc00;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+
 /* 🌍 По умолчанию английская версия - IM Fell English SC для заголовков, но основной текст должен быть читаемым */
 body {
     font-family: 'Merriweather', serif; /* Читаемый шрифт для основного текста */
@@ -151,6 +192,10 @@ ul li {
     transition: background 0.3s;
 }
 
+.back-to-home span{
+    color: #121212;
+}
+
 .back-to-home:hover {
     background: #ffd633;
 }
@@ -189,9 +234,19 @@ ul li {
 
 /* Медиа-запросы для адаптации под мобильные */
 @media (max-width: 768px) {
-    .article-container {
-        max-width: 90%;
-        padding: 15px;
+
+    .article-banner {
+        height: 250px;
+        background-attachment: scroll;
+    }
+    
+    .article-banner::before {
+        background-attachment: scroll;
+    }
+
+    .article-banner h1 {
+        font-size: 28px;
+        padding: 8px 15px;
     }
 
     #scrollToTopBtn {

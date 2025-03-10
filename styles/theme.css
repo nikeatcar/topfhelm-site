@@ -59,14 +59,12 @@ body.light-mode .article-container {
 }
 
 /* 🌙 Тёмная тема */
-body.dark-mode h1, 
 body.dark-mode h2, 
 body.dark-mode h3 {
     color: #f1c40f; /* Золотистый цвет заголовков */
 }
 
 /* ☀️ Светлая тема */
-body.light-mode h1, 
 body.light-mode h2, 
 body.light-mode h3 {
     color: #222; /* Темно-серый цвет заголовков */

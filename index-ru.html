@@ -2,17 +2,6 @@
 <html lang="ru">
 <head>
     <link rel="manifest" href="/manifest.json">
-<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
-;;                     ----==| П Р Е Л О А Д Е Р |==----                      ;;
-;;                                                                            ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
-    <link rel="stylesheet" href="styles/preloader.css">
-    <link rel="stylesheet" href="styles/main.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="styles/social.css">
-    <link rel="stylesheet" href="styles/sharing.css">
-    <link rel="stylesheet" href="styles/langchange.css">
-    <link rel="stylesheet" href="styles/up_button.css">
 
 <!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
@@ -92,6 +81,23 @@
     <meta property="og:locale" content="ru_RU">
     <meta name="twitter:title" content="TopfHelm - Dungeon Folk & Dungeon Synth">
     <meta name="twitter:description" content="Dungeon Synth & Dark Folk в средневековом стиле. Слушайте 'Sanguis et Mulsum' уже сейчас!">
+
+    <script>
+        document.write('<link rel="stylesheet" href="styles/preloader.css">');
+        document.write('<link rel="stylesheet" href="styles/main.css" media="print" onload="this.media=\'all\'">');
+        document.write('<link rel="stylesheet" href="styles/social.css">');
+        document.write('<link rel="stylesheet" href="styles/sharing.css">');
+        document.write('<link rel="stylesheet" href="styles/langchange.css">');
+        document.write('<link rel="stylesheet" href="styles/up_button.css">');
+        
+        document.write('<script src="scripts/langchange.js" defer><\/script>');
+        document.write('<script src="scripts/preloader.js" defer><\/script>');
+        document.write('<script src="scripts/main.js" defer><\/script>');
+        document.write('<script src="scripts/share.js" defer><\/script>');
+        document.write('<script src="scripts/contact.js" defer><\/script>');
+        document.write('<script src="scripts/up_buton.js" defer><\/script>');
+        document.write('<script src="scripts/social.js" defer><\/script>');
+    </script>
 
 </head>
     <button id="scrollToTopBtn" title="Наверх">⬆</button>
@@ -441,15 +447,6 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.pjax/2.0.1/jquery.pjax.min.js"></script>
-
-    <!-- Подключаем JS -->
-    <script src="scripts/langchange.js" defer></script>
-    <script src="scripts/preloader.js" defer></script>
-    <script src="scripts/main.js" defer></script>
-    <script src="scripts/share.js" defer></script>
-    <script src="scripts/contact.js" defer></script>
-    <script src="scripts/up_buton.js" defer></script>
-    <script src="scripts/social.js" defer></script>
     
     <footer>
         <p>© 2025 TopfHelm. All rights reserved.</p>

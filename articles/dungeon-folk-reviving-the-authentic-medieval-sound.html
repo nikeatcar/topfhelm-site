@@ -2,10 +2,7 @@
 <html lang="en">
 <head>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap">
-    <link rel="stylesheet" href="../styles/articles.css">
-    <link rel="stylesheet" href="../styles/langchange.css">
-    <link rel="stylesheet" href="../styles/up_button.css">
-    <link rel="stylesheet" href="../styles/theme.css">
+
     <meta charset="UTF-8">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -63,6 +60,19 @@
 
     <!-- Android Chrome -->
     <link rel="icon" type="image/png" sizes="192x192" href="../icons/android-chrome-192x192.png">
+
+    <script>
+        document.write('<link rel="stylesheet" href="../styles/articles.css">');
+        document.write('<link rel="stylesheet" href="../styles/langchange.css" media="print" onload="this.media=\'all\'">');
+        document.write('<link rel="stylesheet" href="../styles/langchange.css">');
+        document.write('<link rel="stylesheet" href="../styles/up_button.css">');
+        document.write('<link rel="stylesheet" href="../styles/theme.css">');
+        
+        document.write('<script src="../scripts/langchange.js" defer><\/script>');
+        document.write('<script src="../scripts/up_buton.js" defer><\/script>');
+        document.write('<script src="../scripts/theme.js" defer><\/script>');
+    </script>
+
 </head>
     <!-- Кнопка вверх -->
     <button id="scrollToTopBtn" title="UP">⬆</button>
@@ -73,8 +83,11 @@
                 <button id="themeToggle" class="theme-switcher">🌙 Dark Mode</button>
             </div>
         <section>
-            <h1>Dungeon Folk: Reviving the Authentic Medieval Sound</h1>
 
+            <div class="article-banner" style="--banner-image: url('../articles/dungeonfolk.webp');">
+                <h1>Dungeon Folk: Reviving the Authentic Medieval Sound</h1>
+            </div>
+            
             <h2>What is Dungeon Folk?</h2>
             <p>Dungeon Folk is a musical genre that blends Dungeon Synth with folk traditions. Unlike classic Dungeon Synth, which relies on synthesizers, Dungeon Folk emphasizes acoustic folk instruments, creating a more authentic medieval atmosphere.</p>
             <p>This genre stands at the crossroads of neofolk, dark ambient, and medieval music, using instruments such as lute, hurdy-gurdy, violin, jaw harp, bagpipes, and flutes—either played live or recreated through high-quality digital emulations.</p>
@@ -171,13 +184,10 @@
             <p>🔸 Want to hear what a medieval feast in the midst of chaos would sound like? Welcome to Dungeon Folk!</strong></p>
         </section>
 
-            <a href="https://topfhelm.com" class="back-to-home">🏰 Return to Main Page</a>
+        <a href="https://topfhelm.com" class="back-to-home"><span>🏰 Return to Main Page</span></a>
     </div>
     <footer>
         <p>© 2025 TopfHelm. All rights reserved.</p>
     </footer>
     </body>
-    <script src="../scripts/langchange.js" defer></script>
-    <script src="../scripts/up_buton.js" defer></script>
-    <script src="../scripts/theme.js"></script>
 </html>
