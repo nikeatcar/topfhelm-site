@@ -4,22 +4,19 @@ Disallow: /cgi-bin/
 Disallow: /private/
 Disallow: /tmp/
 Disallow: /backup/
-Disallow: /index.html
-Disallow: /index-ru.html
+Disallow: /*?*
+Disallow: /*.php$
+Disllow: /index.html
+Disllow: /index-ru.html
 
 Allow: /articles/dungeon-synth-a-journey-through-dark-fantasy.html
 Allow: /articles/dungeon-synth-a-journey-through-dark-fantasy-ru.html
 Allow: /articles/dungeon-folk-reviving-the-authentic-medieval-sound.html
 Allow: /articles/dungeon-folk-reviving-the-authentic-medieval-sound-ru.html
-
-# Блокируем индексацию параметров URL
-Disallow: /*?*
-Disallow: /*.php$
-
-# Разрешаем индексировать главную страницу и основные каталоги
 Allow: /
-Allow: /ru/
-Allow: /en/
+Allow: /en
+Allow: /ru
+Allow: /security/security-policy.html
 
 # Разрешаем кэширование и ускоренный доступ
 User-agent: Googlebot
