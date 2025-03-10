@@ -7,14 +7,7 @@
         <lastmod>2024-03-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-    </url>
-
-    <url>
-        <loc>https://topfhelm.com/en</loc>
-        <lastmod>2024-03-04</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://topfhelm.com/en"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://topfhelm.com/"/>
         <xhtml:link rel="alternate" hreflang="ru" href="https://topfhelm.com/ru"/>
     </url>
 
@@ -24,7 +17,7 @@
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
         <xhtml:link rel="alternate" hreflang="ru" href="https://topfhelm.com/ru"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://topfhelm.com/en"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://topfhelm.com/"/>
     </url>
 
     <url>
