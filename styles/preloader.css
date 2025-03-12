@@ -42,7 +42,8 @@
 .loader-bar {
     width: 0%;
     max-width: 600px;
-    height: 5px;
+    height: 4px;
+    min-height: 4px;
     background: linear-gradient(90deg, #c99b2b, #ffdb4d, #c99b2b);
     box-shadow: 0 0 10px #ffdb4d;
     animation: loadBar 1s linear forwards;
