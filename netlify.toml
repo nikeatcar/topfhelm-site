@@ -43,11 +43,11 @@
 [[redirects]]
   from = "https://topfhelm.com/index.html"
   to = "https://www.topfhelm.com/en"
-  status = 301
+  status = 200
   force = true
 
 [[redirects]]
   from = "https://topfhelm.com/index-ru.html"
   to = "https://www.topfhelm.com/ru"
-  status = 301
+  status = 200
   force = true
