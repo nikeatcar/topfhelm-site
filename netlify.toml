@@ -7,7 +7,7 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Cache-Control = "public, max-age=2592000, immutable"
+    Cache-Control = "no-transform"
 
 # 🔹 Оптимизация кеша для HTML (чтобы обновления работали)
 [[headers]]
@@ -19,7 +19,7 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Encoding = "br, gzip"
+    Content-Encoding = "gzip, br"
 
 # 🔹 Предзагрузка шрифтов (замени URL шрифтов на свои)
 [[headers]]
