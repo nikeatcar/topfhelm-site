@@ -7,7 +7,7 @@
     setTimeout(() => {
         console.log("Закрываю прелоадер вручную");
         $("#preloader").fadeOut();
-    }, 1000);
+    }, 500);
 
     // Запуск анимации появления контента
     const sections = document.querySelectorAll(".fade-in");
