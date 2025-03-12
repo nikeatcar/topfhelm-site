@@ -139,8 +139,8 @@
 }
 
 .share-item img {
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
 }
 
 /* Кнопка копирования */
@@ -200,11 +200,6 @@
 }
 
 @media screen and (max-width: 480px){
-
-    .social-icons img {
-        width: 60px; /* Увеличено в 1.5 раза */
-        height: 60px;
-    }
 
     .share-content {
         width: 95%;
