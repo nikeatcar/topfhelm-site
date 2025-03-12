@@ -9,17 +9,20 @@
   [headers.values]
     Accept-Encoding = "gzip, br" # Автоматическое сжатие
 
-# 🔹 Улучшенная поддержка Brotli и Gzip
-[[headers]]
-  for = "/*"
-  [headers.values]
-    Content-Encoding = "br, gzip"
-
 # 🔹 Оптимизация кеша для HTML (уменьшили кеширование)
 [[headers]]
   for = "/*.html"
   [headers.values]
     Cache-Control = "public, max-age=300, must-revalidate"
+
+# 🔹 Edge Functions (ускоряет ответы сервера)
+[functions]
+  node_bundler = "esbuild"
+
+[edge_functions]
+  [edge_functions.optimize_cache]
+    path = "/*"
+    function = "optimize_cache"
 
 # 🔹 Предзагрузка шрифтов
 [[headers]]
