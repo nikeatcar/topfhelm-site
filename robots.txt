@@ -6,8 +6,8 @@ Disallow: /tmp/
 Disallow: /backup/
 Disallow: /*?*
 Disallow: /*.php$
-Disllow: /index.html
-Disllow: /index-ru.html
+Disallow: /index.html
+Disallow: /index-ru.html
 
 Allow: /articles/dungeon-synth-a-journey-through-dark-fantasy.html
 Allow: /articles/dungeon-synth-a-journey-through-dark-fantasy-ru.html
@@ -18,14 +18,14 @@ Allow: /en
 Allow: /ru
 Allow: /security/security-policy.html
 
-# Разрешаем кэширование и ускоренный доступ
+# Разрешаем кэширование
 User-agent: Googlebot
 Allow: /media/
 Allow: /css/
 Allow: /js/
 Allow: /fonts/
 
-# Запрещаем индексацию поисковыми системами для спам-ботов
+# Запрещаем ботам спамерам
 User-agent: AhrefsBot
 Disallow: /
 User-agent: SemrushBot
@@ -36,3 +36,4 @@ User-agent: dotbot
 Disallow: /
 
 Sitemap: https://topfhelm.com/sitemap.xml
+Host: https://topfhelm.com
