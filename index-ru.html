@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js" data-cfasync="false"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.pjax/2.0.1/jquery.pjax.min.js" data-cfasync="false"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" defer></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.pjax/2.0.1/jquery.pjax.min.js" defer></script>
     <link rel="manifest" href="/manifest.json">
 
     <style>
@@ -18,7 +18,7 @@
 ;;                    ----==| G O O G L E   T A G |==----                     ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
-        <script defer src="https://www.googletagmanager.com/gtag/js?id=G-8Y96LHKN6L"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8Y96LHKN6L"></script>
         <script defer>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
@@ -92,7 +92,7 @@
     <meta name="twitter:title" content="TopfHelm - Dungeon Folk & Dungeon Synth">
     <meta name="twitter:description" content="Dungeon Synth & Dark Folk в средневековом стиле. Слушайте 'Sanguis et Mulsum' уже сейчас!">
 
-    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/main.css" media="print" onload="this.media='all'">
     <noscript><link rel="stylesheet" href="styles/main.css"></noscript>
 
     <link rel="stylesheet" href="styles/preloader.css" media="print" onload="this.media='all'">
@@ -167,7 +167,7 @@
 
 <!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
-;;         ----==| Р А З М Ы Т Ы Й   Ф О Н  |==----          ;;
+;;                   ----==| Р А З М Ы Т Ы Й   Ф О Н  |==----                 ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
     <div class="parallax-container">
@@ -193,7 +193,11 @@
 ;;                        ----==| А В А Т А Р |==----                             ;;
 ;;                                                                                ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; -->
-<img src="media/Avatar2.webp" alt="TopfHelm Logo - Dungeon Folk & Dungeon Synth Project" class="avatar" width="200" height="200" loading="lazy">
+    <img src="media/Avatar2.webp" 
+        alt="TopfHelm Logo - Dungeon Folk & Dungeon Synth Project" 
+        class="avatar" 
+        width="200" height="200" 
+        fetchpriority="high">
 
 <!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                                ;;
@@ -254,9 +258,9 @@
                 </div>
             </div>
             <div class="album-media">
-                <img src="media/TopfHelm_Sanguis_Et_Mulsum.webp" fetchpriority="high" width="250" height="250" alt="TopfHelm - Sanguis et Mulsum album cover" class="album-cover" loading="lazy">
+                <img src="media/TopfHelm_Sanguis_Et_Mulsum.webp" width="250" height="250" alt="TopfHelm - Sanguis et Mulsum album cover" fetchpriority="high">
                 <a id="presave-btn" href="https://distrokid.com/hyperfollow/topfhelm/sanguis-et-mulsum" class="button presave">
-                    <span>Предсохраняй</span>
+                    <span>Presave Now</span>
                 </a>
             </div>
         </div>

@@ -9,7 +9,7 @@
   [headers.values]
     Accept-Encoding = "gzip, br" # Автоматическое сжатие
 
-# 🔹 Оптимизация кеша для HTML (уменьшили кеширование)
+# 🔹 Оптимизация кеша для HTML (уменьшенное кеширование)
 [[headers]]
   for = "/*.html"
   [headers.values]
@@ -26,6 +26,10 @@
   for = "/*"
   [headers.values]
     Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://code.jquery.com https://www.googletagmanager.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://img.youtube.com; connect-src 'self' https://www.google-analytics.com https://www.googletagmanager.com;"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
 
 # 🔹 Оптимизация изображений (ленивая загрузка)
 [[headers]]
@@ -38,6 +42,18 @@
   for = "/*.css"
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
+
+# 🔹 Оптимизация кеширования JS
+[[headers]]
+  for = "/*.js"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# 🔹 Улучшенная поддержка Brotli и Gzip
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Encoding = "br, gzip"
 
 # 🔹 Редиректы (учитываем www и https)
 [[redirects]]
@@ -62,4 +78,16 @@
   from = "https://www.topfhelm.com/ru"
   to = "https://topfhelm.com/ru"
   status = 301
+  force = true
+
+[[redirects]]
+  from = "/robots.txt"
+  to = "/robots.txt"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/sitemap.xml"
+  status = 200
   force = true
