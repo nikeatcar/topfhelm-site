@@ -41,13 +41,25 @@
 
 # 🔹 Редиректы (учитываем www и https)
 [[redirects]]
-  from = "https://topfhelm.com/index.html"
-  to = "https://www.topfhelm.com/en"
+  from = "/en"
+  to = "/index.html"
   status = 200
   force = true
 
 [[redirects]]
-  from = "https://topfhelm.com/index-ru.html"
-  to = "https://www.topfhelm.com/ru"
+  from = "/ru"
+  to = "/index-ru.html"
   status = 200
+  force = true
+
+[[redirects]]
+  from = "https://www.topfhelm.com/en"
+  to = "https://topfhelm.com/en"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.topfhelm.com/ru"
+  to = "https://topfhelm.com/ru"
+  status = 301
   force = true
