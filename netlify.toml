@@ -1,36 +1,25 @@
 # 🔹 Основные настройки Netlify
 [build]
-  publish = "/"  # Укажи папку, где лежат HTML-файлы
-  command = ""        # Убираем команду сборки, т.к. нет Webpack/Vite
+  publish = "/"  # Папка с HTML-файлами
+  command = ""   # Нет Webpack/Vite, сборка не нужна
 
 # 🔹 Кэширование статических файлов (CSS, JS, изображения)
 [[headers]]
   for = "/*"
   [headers.values]
-    Cache-Control = "no-transform"
+    Accept-Encoding = "gzip, br" # Автоматическое сжатие
 
-# 🔹 Оптимизация кеша для HTML (чтобы обновления работали)
+# 🔹 Оптимизация кеша для HTML (уменьшили кеширование)
 [[headers]]
   for = "/*.html"
   [headers.values]
-    Cache-Control = "public, max-age=600, must-revalidate"
+    Cache-Control = "public, max-age=300, must-revalidate"
 
-# 🔹 Включаем Brotli + Gzip сжатие
-[[headers]]
-  for = "/*"
-  [headers.values]
-    Content-Encoding = "gzip, br"
-
-# 🔹 Предзагрузка шрифтов (замени URL шрифтов на свои)
+# 🔹 Предзагрузка шрифтов
 [[headers]]
   for = "/fonts/*.woff2"
   [headers.values]
     Link = "</fonts/your-font.woff2>; rel=preload; as=font; type=font/woff2; crossorigin=anonymous"
-
-# 🔹 Включаем Netlify Edge Functions для быстрой раздачи контента
-[[edge_functions]]
-  path = "/*"
-  function = "server"
 
 # 🔹 Защита сайта (CSP + HTTPS + XSS защита)
 [[headers]]
@@ -48,22 +37,21 @@
   [headers.values]
     Cache-Control = "public, max-age=604800, immutable"
 
-# 🔹 Убираем FOUC (Flash of Unstyled Content) для CSS
+# 🔹 Оптимизация CSS
 [[headers]]
   for = "/*.css"
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
 
-# 🔹 Редирректы
-
+# 🔹 Редиректы (учитываем www и https)
 [[redirects]]
-  from = "/en"
-  to = "/index.html"
-  status = 200
+  from = "https://www.topfhelm.com/en"
+  to = "https://topfhelm.com/index.html"
+  status = 301
   force = true
 
 [[redirects]]
-  from = "/ru"
-  to = "/index-ru.html"
-  status = 200
+  from = "https://www.topfhelm.com/ru"
+  to = "https://topfhelm.com/index-ru.html"
+  status = 301
   force = true
