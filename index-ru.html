@@ -2,6 +2,7 @@
 <html lang="ru">
 <head>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" data-cfasync="false"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.pjax/2.0.1/jquery.pjax.min.js" data-cfasync="false"></script>
     <link rel="manifest" href="/manifest.json">
 
 <!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -138,9 +139,6 @@
     <div id="content">
         <!-- Здесь будет загружаться новый контент -->
     </div>
-
-    <script src="script.js"></script>
-
 
     <script>
     $(document).pjax('a', '#content', {
@@ -443,8 +441,6 @@
             <p id="form-status"></p>
         </div>
     </div>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.pjax/2.0.1/jquery.pjax.min.js"></script>
     
     <footer>
         <p>© 2025 TopfHelm. All rights reserved.</p>

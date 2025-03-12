@@ -20,8 +20,3 @@
     }, { threshold: 0.1 });
 
     sections.forEach((section) => observer.observe(section));
-
-    // Определение языка страницы
-    if (getLangFromURL() === "ru") {
-        document.body.classList.add("ru");
-    }
