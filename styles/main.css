@@ -13,6 +13,10 @@ body {
     background-color: black; /* Чёрный фон, если картинка не загрузится */
 }
 
+body.en {
+    min-height: 100vh;
+}
+
 /* Применяем русский шрифт, если есть класс ru */
 body.ru {
     font-family: 'Monomakh', serif;

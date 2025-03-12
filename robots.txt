@@ -18,14 +18,14 @@ Allow: /en
 Allow: /ru
 Allow: /security/security-policy.html
 
-# Разрешаем кэширование
+# Разрешаем кэширование ресурсов
 User-agent: Googlebot
 Allow: /media/
 Allow: /css/
 Allow: /js/
 Allow: /fonts/
 
-# Запрещаем ботам спамерам
+# Запрещаем ботам-спамерам
 User-agent: AhrefsBot
 Disallow: /
 User-agent: SemrushBot

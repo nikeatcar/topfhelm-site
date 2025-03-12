@@ -75,22 +75,14 @@
     <meta name="twitter:title" content="TopfHelm - Dungeon Folk & Dungeon Synth">
     <meta name="twitter:description" content="Dungeon Synth & Dark Folk in medieval style. Listen to 'Sanguis et Mulsum' now!">
 
-    <script>
-        document.write('<link rel="stylesheet" href="styles/preloader.css">');
-        document.write('<link rel="stylesheet" href="styles/main.css" media="print" onload="this.media=\'all\'">');
-        document.write('<link rel="stylesheet" href="styles/social.css">');
-        document.write('<link rel="stylesheet" href="styles/sharing.css">');
-        document.write('<link rel="stylesheet" href="styles/langchange.css">');
-        document.write('<link rel="stylesheet" href="styles/up_button.css">');
-        
-        document.write('<script src="scripts/langchange.js" defer><\/script>');
-        document.write('<script src="scripts/preloader.js" defer><\/script>');
-        document.write('<script src="scripts/main.js" defer><\/script>');
-        document.write('<script src="scripts/share.js" defer><\/script>');
-        document.write('<script src="scripts/contact.js" defer><\/script>');
-        document.write('<script src="scripts/up_buton.js" defer><\/script>');
-        document.write('<script src="scripts/social.js" defer><\/script>');
-    </script>
+    <link rel="stylesheet" href="styles/main.css" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="styles/main.css"></noscript>
+
+    <link rel="stylesheet" href="styles/preloader.css">
+    <link rel="stylesheet" href="styles/social.css">
+    <link rel="stylesheet" href="styles/sharing.css">
+    <link rel="stylesheet" href="styles/langchange.css">
+    <link rel="stylesheet" href="styles/up_button.css">
 
 </head>
     <button id="scrollToTopBtn" title="UP">⬆</button>
@@ -252,7 +244,7 @@
                 </div>
             </div>
             <div class="album-media">
-                <img src="media/TopfHelm_Sanguis_Et_Mulsum.webp" alt="TopfHelm - Sanguis et Mulsum album cover" class="album-cover" loading="lazy">
+                <img src="media/TopfHelm_Sanguis_Et_Mulsum.webp" fetchpriority="high" width="250" height="250" alt="TopfHelm - Sanguis et Mulsum album cover" loading="lazy">
                 <a id="presave-btn" href="https://distrokid.com/hyperfollow/topfhelm/sanguis-et-mulsum" class="button presave">
                     <span>Presave Now</span>
                 </a>
@@ -448,5 +440,15 @@
     <footer>
         <p>© 2025 TopfHelm. All rights reserved.</p>
     </footer>
+
+    <!-- JS-скрипты -->
+    <script src="scripts/langchange.js" defer></script>
+    <script src="scripts/preloader.js" defer></script>
+    <script src="scripts/main.js" defer></script>
+    <script src="scripts/share.js" defer></script>
+    <script src="scripts/contact.js" defer></script>
+    <script src="scripts/up_button.js" defer></script>
+    <script src="scripts/social.js" defer></script>
+
 </body>
 </html>
