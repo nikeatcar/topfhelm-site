@@ -45,19 +45,6 @@
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
 
-# 🔹 Улучшенная поддержка Brotli и Gzip
-[[headers]]
-  for = "/*"
-  [headers.values]
-    Content-Encoding = "br, gzip"
-
-# 🔹 Редиректы (учитываем www и https)
-[[redirects]]
-  from = "/en"
-  to = "/index.html"
-  status = 200
-  force = true
-
   # 🔹 Edge Functions (ускоряет ответы сервера)
 [functions]
   node_bundler = "esbuild"
