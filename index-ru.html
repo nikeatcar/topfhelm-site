@@ -1,8 +1,22 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js" defer></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.pjax/2.0.1/jquery.pjax.min.js" defer></script>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" async></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            let script = document.createElement("script");
+            script.src = "https://cdnjs.cloudflare.com/ajax/libs/jquery.pjax/2.0.1/jquery.pjax.min.js";
+            script.onload = function () {
+                $(document).pjax('a', '#content', {
+                    fragment: '#content',
+                    timeout: 8000
+                });
+            };
+            document.head.appendChild(script);
+        });
+    </script>
+
     <link rel="manifest" href="/manifest.json">
 
     <style>
