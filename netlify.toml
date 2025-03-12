@@ -15,15 +15,6 @@
   [headers.values]
     Cache-Control = "public, max-age=300, must-revalidate"
 
-# 🔹 Edge Functions (ускоряет ответы сервера)
-[functions]
-  node_bundler = "esbuild"
-
-[edge_functions]
-  [edge_functions.optimize_cache]
-    path = "/*"
-    function = "optimize_cache"
-
 # 🔹 Предзагрузка шрифтов
 [[headers]]
   for = "/fonts/*.woff2"
@@ -35,7 +26,11 @@
   for = "/*"
   [headers.values]
     Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://code.jquery.com https://www.googletagmanager.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://img.youtube.com; connect-src 'self' https://www.google-analytics.com https://www.googletagmanager.com;"
-
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    
 # 🔹 Оптимизация изображений (ленивая загрузка)
 [[headers]]
   for = "/media/*"
