@@ -2,20 +2,40 @@
 <html lang="en">
 <head>
     
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js" async></script>
-<script>
-    document.addEventListener("DOMContentLoaded", function () {
-        let script = document.createElement("script");
-        script.src = "https://cdnjs.cloudflare.com/ajax/libs/jquery.pjax/2.0.1/jquery.pjax.min.js";
-        script.onload = function () {
-            $(document).pjax('a', '#content', {
-                fragment: '#content',
-                timeout: 8000
-            });
-        };
-        document.head.appendChild(script);
-    });
-</script>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            function loadPJAX() {
+                if (typeof jQuery === "undefined") {
+                    console.error("❌ jQuery не загружен! PJAX не будет работать.");
+                    return;
+                }
+
+                let script = document.createElement("script");
+                script.src = "https://cdnjs.cloudflare.com/ajax/libs/jquery.pjax/2.0.1/jquery.pjax.min.js";
+                script.onload = function () {
+                    console.log("✅ PJAX загружен!");
+
+                    $(document).pjax('a', '#content', {
+                        fragment: '#content',
+                        timeout: 8000
+                    });
+                };
+                document.head.appendChild(script);
+            }
+
+            if (typeof jQuery !== "undefined") {
+                loadPJAX();
+            } else {
+                let checkJQ = setInterval(function () {
+                    if (typeof jQuery !== "undefined") {
+                        clearInterval(checkJQ);
+                        loadPJAX();
+                    }
+                }, 50);
+            }
+        });
+    </script>
 
     <link rel="manifest" href="/manifest.json">
 
