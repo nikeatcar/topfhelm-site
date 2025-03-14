@@ -310,6 +310,29 @@ body.ru #countdown-text {
     color: #fff;
 }
 
+/* 🔥 Улучшенный Call-to-Action (CTA) */
+.button.presaveSEO {
+    display: inline-block;
+    background: linear-gradient(45deg, #b8860b, #ffcc00);
+    color: #000;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 12px 20px;
+    font-size: 18px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0 4px 10px rgba(255, 204, 0, 0.5);
+    border: 2px solid #9c7600;
+    text-align: center;
+}
+
+.button.presaveSEO:hover {
+    background: linear-gradient(45deg, #ffcc00, #b8860b);
+    transform: scale(1.05);
+    box-shadow: 0 6px 15px rgba(255, 204, 0, 0.7);
+}
+
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
 ;;                    ----==| П Л Е Е Р   Ю Т У Б |==----                     ;;
@@ -407,6 +430,47 @@ body.ru #countdown-text {
     filter: brightness(1.5);
 }
 
+/* ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                        ----==| С Т А Т Ь И |==----                         ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+/* 📖 Блок "Read More" для внутренней перелинковки */
+.read-more {
+    margin-top: 40px;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5); /* Затемнённый фон */
+    border-left: 5px solid #b8860b; /* Акцентная золотая линия */
+    border-radius: 8px;
+}
+
+.read-more h3 {
+    font-size: 22px;
+    color: #ffcc00;
+    margin-bottom: 12px;
+}
+
+.read-more ul {
+    list-style: none;
+    padding: 0;
+}
+
+.read-more li {
+    margin-bottom: 8px;
+}
+
+.read-more a {
+    color: #ffcc00;
+    font-weight: bold;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+}
+
+.read-more a:hover {
+    color: #ffd700;
+    text-decoration: underline;
+}
+
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
 ;;                           ----==| S E O |==----                            ;;
@@ -441,6 +505,27 @@ body.ru #countdown-text {
 
 .seo-text a:hover {
     text-decoration: underline;
+}
+
+/* 📖 Список перелинковки */
+.seo-text ul {
+    list-style: none;
+    padding: 0;
+}
+
+.seo-text ul li {
+    margin: 10px 0;
+}
+
+.seo-text ul a {
+    color: #ffcc00;
+    font-weight: bold;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+}
+
+.seo-text ul a:hover {
+    color: #a67c00;
 }
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -664,6 +749,36 @@ body.ru #countdown-text {
     .avatar {
         width: 150px;
         height: 150px;
+    }
+
+    .button.presaveSEO {
+        font-size: 16px;
+        padding: 10px 15px;
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+
+    .read-more {
+        padding: 15px;
+    }
+
+    .read-more h3 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .read-more ul {
+        text-align: center;
+    }
+
+    .read-more li {
+        font-size: 16px;
+        padding: 5px 0;
+    }
+
+    .read-more a {
+        font-size: 16px;
     }
 
     .seo-text {
