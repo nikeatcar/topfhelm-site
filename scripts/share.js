@@ -1,112 +1,106 @@
-/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
-;;                        ----==| Ш А Р И Н Г |==----                         ;;
-;;                                                                            ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-        // Копирование ссылки
-        function copyLink() {
-            navigator.clipboard.writeText(window.location.href).then(() => {
-                alert("Link copied to clipboard!");
-            });
-        }
+// Универсальный путь к иконкам
+function getIconPath(icon) {
+    return (window.location.pathname.includes("/articles/")) ? `../icons/${icon}` : `icons/${icon}`;
+}
 
-        //Шаринг
-        function openShareModal() {
-            document.getElementById("share-modal").classList.add("active");
-            document.body.classList.add("no-scroll");
-        }
-        
-        function closeShareModal() {
-            document.getElementById("share-modal").classList.remove("active");
-            document.body.classList.remove("no-scroll");
-        }
-        
-        // Определяем язык из URL
-        function getLangFromURL() {
-            if (window.location.pathname.includes("/ru") || window.location.href.includes("index-ru.html")) {
-                return "ru";
-            }
-            return "en"; // По умолчанию английский
-        }
+document.addEventListener("DOMContentLoaded", function () {
 
-        // Функция для отправки в соцсети с правильным текстом
-        function shareTo(platform) {
-        const url = encodeURIComponent(window.location.href);
-        const lang = getLangFromURL(); // Определяем язык
-        let shareText = lang === "ru" ? "Зацените крутой Dungeon Folk проект TopfHelm!" : "Check out this awesome Dungeon Folk project!";
-
-        let shareUrl = "";
-
-    switch (platform) {
-        case "facebook":
-            shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${url}&quote=${encodeURIComponent(shareText)}`;
-            break;
-        case "vk":
-            shareUrl = `https://vk.com/share.php?url=${url}&title=${encodeURIComponent(shareText)}`;
-            break;
-        case "telegram":
-            shareUrl = `https://t.me/share/url?url=${url}&text=${encodeURIComponent(shareText)}`;
-            break;
-        case "x":
-            shareUrl = `https://twitter.com/intent/tweet?url=${url}&text=${encodeURIComponent(shareText)}`;
-            break;
-        case "reddit":
-            shareUrl = `https://www.reddit.com/submit?url=${url}&title=${encodeURIComponent(shareText)}`;
-            break;
-        case "discord":
-            shareUrl = `https://discord.com/channels/@me`;
-            break;
-        case "ok":
-            shareUrl = `https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&st.shareUrl=${url}`;
-            break;
-        case "tumblr":
-            shareUrl = `https://www.tumblr.com/share/link?url=${url}&name=${encodeURIComponent(shareText)}`;
-            break;
-        case "whatsapp":
-            shareUrl = `https://api.whatsapp.com/send?text=${encodeURIComponent(shareText + " " + url)}`;
-            break;
-        case "viber":
-            shareUrl = `viber://forward?text=${encodeURIComponent(shareText + " " + url)}`;
-            break;
-        case "email":
-            shareUrl = `mailto:?subject=${encodeURIComponent(shareText)}&body=${url}`;
-            break;
+    // Определение языка страницы
+    function getLangFromURL() {
+        return document.documentElement.lang || "en";
     }
 
-    if (shareUrl) {
-        window.open(shareUrl, "_blank");
+    // Универсальный путь к иконкам
+    function getIconPath(icon) {
+        return (window.location.pathname.includes("/articles/")) ? `../icons/${icon}` : `icons/${icon}`;
     }
-    }   
-   
-        // Перевод текстов для русской версии
-            if (getLangFromURL() === "ru") {
-                document.getElementById("share-title").textContent = "Поделись нашим проектом с друзьями!";
-                document.querySelector(".copy-btn").textContent = "🔗 Скопировать ссылку";
-            }
 
-    const contactModal = document.getElementById("contactModal");
-    const openContactBtn = document.getElementById("openContactForm");
-    const closeModal = document.querySelector(".close-modal");
-    const form = document.getElementById("contactForm");
-    const statusText = document.getElementById("form-status");
+    // Создаём кнопку "Поделиться" динамически
+    const shareSection = document.querySelector(".share-section");
+    if (shareSection) {
+        const shareButton = document.createElement("button");
+        shareButton.classList.add("share-main");
+        shareButton.innerHTML = `
+            <div class="share-button-content">
+                <img src="${getIconPath('SShare.svg')}" alt="Share Icon" width="24" height="24" loading="lazy">
+                <span>${getLangFromURL() === "ru" ? "Поделиться" : "Share"}</span>
+            </div>
+        `;
+        shareButton.addEventListener("click", openShareModal);
+        shareSection.appendChild(shareButton);
+    }
 
-    // Открытие модального окна
-    openContactBtn.addEventListener("click", function (event) {
-        event.preventDefault(); // Отмена стандартного перехода по ссылке
-        contactModal.style.display = "flex";
-        setTimeout(() => contactModal.classList.add("show"), 10);
+    // Создаём модальное окно для шаринга
+    if (!document.getElementById("share-modal")) {
+        const shareModal = document.createElement("div");
+        shareModal.id = "share-modal";
+        shareModal.classList.add("share-modal");
+        shareModal.innerHTML = `
+            <div class="share-content">
+                <div class="close-container">
+                    <span class="close-btn">✖</span>
+                </div>
+                <h2 id="share-title">${getLangFromURL() === "ru" ? "Поделись этой страницей!" : "Share this page!"}</h2>
+                <div class="share-icons">
+                    ${generateShareLinks()}
+                </div>
+                <button class="button copy-btn">🔗 ${getLangFromURL() === "ru" ? "Копировать URL" : "Copy URL"}</button>
+            </div>
+        `;
+        document.body.appendChild(shareModal);
+
+        // Назначаем обработчики событий
+        shareModal.querySelector(".close-btn").addEventListener("click", closeShareModal);
+        shareModal.querySelector(".copy-btn").addEventListener("click", copyLink);
+    }
+});
+
+// Функция для генерации кнопок соцсетей
+function generateShareLinks() {
+    const platforms = [
+        { name: "Facebook", icon: "SFacebook.svg", url: "https://www.facebook.com/sharer/sharer.php?u=" },
+        { name: "VK", icon: "SVK.svg", url: "https://vk.com/share.php?url=" },
+        { name: "Telegram", icon: "STelegram.svg", url: "https://t.me/share/url?url=" },
+        { name: "X", icon: "SX.svg", url: "https://twitter.com/intent/tweet?url=" },
+        { name: "Reddit", icon: "SReddit.svg", url: "https://www.reddit.com/submit?url=" },
+        { name: "Discord", icon: "SDiscord.svg", url: "https://discord.com/channels/@me" },
+        { name: "OK.ru", icon: "SOK.svg", url: "https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&st.shareUrl=" },
+        { name: "Tumblr", icon: "STumblr.svg", url: "https://www.tumblr.com/share/link?url=" },
+        { name: "WhatsApp", icon: "SWhatsapp.svg", url: "https://api.whatsapp.com/send?text=" },
+        { name: "Viber", icon: "Sviber.svg", url: "viber://forward?text=" },
+        { name: "Email", icon: "SEmail.svg", url: "mailto:?subject=Check this out!&body=" }
+    ];
+
+    const pageUrl = encodeURIComponent(window.location.href);
+    return platforms.map(p => `
+        <a href="${p.url}${pageUrl}" class="share-item" target="_blank">
+            <img src="${getIconPath(p.icon)}" alt="Share on ${p.name}" loading="lazy">
+            <span>${p.name}</span>
+        </a>
+    `).join("");
+}
+
+// Открытие модального окна
+function openShareModal() {
+    const modal = document.getElementById("share-modal");
+    if (modal) {
+        modal.classList.add("active");
+        document.body.classList.add("no-scroll");
+    }
+}
+
+// Закрытие модального окна
+function closeShareModal() {
+    const modal = document.getElementById("share-modal");
+    if (modal) {
+        modal.classList.remove("active");
+        document.body.classList.remove("no-scroll");
+    }
+}
+
+// Функция копирования ссылки
+function copyLink() {
+    navigator.clipboard.writeText(window.location.href).then(() => {
+        alert(getLangFromURL() === "ru" ? "Ссылка скопирована!" : "Link copied to clipboard!");
     });
-
-    // Закрытие модального окна
-    closeModal.addEventListener("click", function () {
-        contactModal.classList.remove("show");
-        setTimeout(() => contactModal.style.display = "none", 300);
-    });
-
-    // Закрытие окна по клику вне формы
-    window.addEventListener("click", function (event) {
-        if (event.target === contactModal) {
-            contactModal.classList.remove("show");
-            setTimeout(() => contactModal.style.display = "none", 300);
-        }
-    });
+}

@@ -1,3 +1,10 @@
+function getLangFromURL() {
+    if (window.location.pathname.includes("/ru") || window.location.href.includes("index-ru.html")) {
+        return "ru";
+    }
+    return "en"; // По умолчанию английский
+}
+
 document.addEventListener("DOMContentLoaded", function () {
     const switchLangBtn = document.getElementById("switchLangBtn");
 
