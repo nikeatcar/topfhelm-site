@@ -1,13 +1,12 @@
-const fs = require('fs');
-const path = require('path');
-
 exports.handler = async (event) => {
     const lang = event.queryStringParameters.lang || "en";
-    
+
     try {
         const articlesPath = path.join(__dirname, "..", "articles.json");
         const articlesData = fs.readFileSync(articlesPath, "utf-8");
         const articles = JSON.parse(articlesData);
+
+        console.log("Loaded articles:", articles);  // Добавили лог
 
         if (!articles[lang]) {
             return {

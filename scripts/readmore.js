@@ -6,31 +6,20 @@ document.addEventListener("DOMContentLoaded", function () {
     const lang = document.documentElement.lang || 'en';
 
     fetch('/.netlify/functions/articles?lang=' + lang)
-    .then(response => response.json())
-    .then(data => {
-        console.log("Articles response:", data);
+.then(response => response.json())
+.then(data => {
+    console.log("Articles response:", data);
 
-        if (!data || !Array.isArray(data)) {
-            console.error("Unexpected response format:", data);
-            return;
-        }
+    if (!data || !Array.isArray(data)) {
+        console.error("Unexpected response format:", data);
+        return;
+    }
 
-        data.forEach(article => {
-            if (currentUrl.includes(article.url)) return;
-
-            const listItem = document.createElement("li");
-            const link = document.createElement("a");
-
-            link.href = article.url;
-            link.textContent = article.title;
-            listItem.appendChild(link);
-
-            const squareIcon = document.createElement("span");
-            squareIcon.textContent = "⬜ "; 
-            listItem.prepend(squareIcon);
-
-            readMoreContainer.appendChild(listItem);
-        });
-    })
-    .catch(error => console.error("Error loading articles:", error));
+    data.forEach(article => {
+        const listItem = document.createElement("li");
+        listItem.innerHTML = `<span class="square-icon">⬜</span> <a href="${article.url}">${article.title}</a>`;
+        document.getElementById("read-more").appendChild(listItem);
+    });
+})
+.catch(error => console.error("Error loading articles:", error));
 });
