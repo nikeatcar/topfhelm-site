@@ -79,4 +79,20 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-medieval-sound.html"/>
     </url>
 
+    <url>
+        <loc>https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era.html</loc>
+        <lastmod>2025-03-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era-ru.html"/>
+    </url>
+
+    <url>
+        <loc>https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era-ru.html</loc>
+        <lastmod>2025-03-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era.html"/>
+    </url>
+
 </urlset>

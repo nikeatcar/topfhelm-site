@@ -9,10 +9,13 @@ Disallow: /*.php$
 Disallow: /index.html
 Disallow: /index-ru.html
 
+Allow: /articles/
 Allow: /articles/dungeon-synth-a-journey-through-dark-fantasy.html
 Allow: /articles/dungeon-synth-a-journey-through-dark-fantasy-ru.html
 Allow: /articles/dungeon-folk-reviving-the-authentic-medieval-sound.html
 Allow: /articles/dungeon-folk-reviving-the-authentic-medieval-sound-ru.html
+Allow: /articles/medieval-music-from-origins-to-the-modern-era.html
+Allow: /articles/medieval-music-from-origins-to-the-modern-era-ru.html
 Allow: /
 Allow: /en
 Allow: /ru

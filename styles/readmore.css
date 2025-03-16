@@ -1,0 +1,35 @@
+/* Read More Section Styles */
+.read-more {
+    margin-top: 40px;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+    text-align: left;
+}
+
+.read-more h3 {
+    color: #f4c542;
+    font-size: 22px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.read-more ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.read-more ul li {
+    margin-bottom: 10px;
+}
+
+.read-more ul li a {
+    color: #ddd;
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s;
+}
+
+.read-more ul li a:hover {
+    color: #f4c542;
+}
