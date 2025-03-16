@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const lang = document.documentElement.lang || "en"; // Определяем язык страницы
     const currentUrl = window.location.pathname; // Текущая страница
 
-    fetch("../articles.json")
+    fetch("../articles/articles.json")
         .then((response) => response.json())
         .then((data) => {
             const articles = data[lang] || [];
