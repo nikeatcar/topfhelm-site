@@ -4,11 +4,13 @@ exports.handler = async function (event, context) {
         const fs = require('fs');
         const path = require('path');
 
-        const articlesDir = path.resolve(process.cwd(), 'articles');
+        const articlesDir = path.resolve(__dirname, '../articles');
+        console.log("Checking directory:", articlesDir);
         if (!fs.existsSync(articlesDir)) {
             throw new Error("Articles directory not found");
         }
 
+        console.log("Looking for articles in:", articlesDir);
         const files = fs.readdirSync(articlesDir);
         const filteredFiles = files
             .filter(file => file.endsWith('.html') && file.includes(lang))
