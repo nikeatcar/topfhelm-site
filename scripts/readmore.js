@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const currentUrl = window.location.pathname;
     const lang = document.documentElement.lang || 'en'; // Определяем язык страницы
 
-    fetch('/articles?lang=' + lang)
+    fetch('https://topfhelm.com/articles?lang=' + lang)
         .then(response => response.json())
         .then(data => {
             const articles = data[lang] || [];

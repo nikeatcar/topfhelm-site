@@ -54,6 +54,12 @@
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
 
+[[headers]]
+  for = "/articles"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Content-Type = "application/json"
+
 # 🔹 Редиректы (учитываем www и https)
 [[redirects]]
   from = "/en"
