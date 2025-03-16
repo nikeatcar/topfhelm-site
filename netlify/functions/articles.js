@@ -1,33 +1,30 @@
-exports.handler = async function (event, context) {
+const fs = require('fs');
+const path = require('path');
+
+exports.handler = async (event) => {
+    const lang = event.queryStringParameters.lang || "en";
+    
     try {
-        const lang = event.queryStringParameters.lang || 'en';
-        const fs = require('fs');
-        const path = require('path');
+        const articlesPath = path.join(__dirname, "..", "articles.json");
+        const articlesData = fs.readFileSync(articlesPath, "utf-8");
+        const articles = JSON.parse(articlesData);
 
-        const articlesDir = path.resolve(__dirname, '../articles');
-        console.log("Checking directory:", articlesDir);
-        if (!fs.existsSync(articlesDir)) {
-            throw new Error("Articles directory not found");
+        if (!articles[lang]) {
+            return {
+                statusCode: 404,
+                body: JSON.stringify({ error: "No articles found for this language" })
+            };
         }
-
-        console.log("Looking for articles in:", articlesDir);
-        const files = fs.readdirSync(articlesDir);
-        const filteredFiles = files
-            .filter(file => file.endsWith('.html') && file.includes(lang))
-            .map(file => ({
-                title: file.replace('.html', '').replace(/-/g, ' '), // Форматируем имя
-                url: `/articles/${file}`
-            }));
 
         return {
             statusCode: 200,
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify(filteredFiles)
+            body: JSON.stringify(articles[lang])
         };
     } catch (error) {
+        console.error("Error loading articles:", error);
         return {
             statusCode: 500,
-            body: JSON.stringify({ error: "Failed to load articles", details: error.message })
+            body: JSON.stringify({ error: "Failed to load articles" })
         };
     }
 };
