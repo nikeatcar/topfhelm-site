@@ -6,8 +6,18 @@ document.addEventListener("DOMContentLoaded", function () {
     const lang = document.documentElement.lang || 'en';
 
     fetch('/.netlify/functions/articles?lang=' + lang)
-        .then(response => response.json())
-        .then(articles => {
+    .then(response => response.json())
+    .then(data => {
+        console.log("Articles response:", data);
+        if (!Array.isArray(data)) {
+            console.error("Unexpected response format:", data);
+            return;
+        }
+        data.forEach(article => {
+            console.log("Article:", article);
+        });
+    })
+    .catch(error => console.error("Error loading articles:", error));
             articles.forEach(article => {
                 if (currentUrl.includes(article.url)) return;
 
@@ -26,4 +36,3 @@ document.addEventListener("DOMContentLoaded", function () {
             });
         })
         .catch(error => console.error("Error loading articles:", error));
-});
