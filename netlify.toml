@@ -9,6 +9,11 @@
   [headers.values]
     Accept-Encoding = "gzip, br" # Автоматическое сжатие
 
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "connect-src 'self' https://www.google-analytics.com https://www.googletagmanager.com https://topfhelm.com"
+
 # 🔹 Оптимизация кеша для HTML (уменьшили кеширование)
 [[headers]]
   for = "/*.html"
