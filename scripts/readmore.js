@@ -3,14 +3,13 @@ document.addEventListener("DOMContentLoaded", function () {
     if (!readMoreContainer) return;
 
     const currentUrl = window.location.pathname;
-    const lang = document.documentElement.lang || 'en'; // Определяем язык страницы
+    const lang = document.documentElement.lang || 'en';
 
     fetch('/.netlify/functions/articles?lang=' + lang)
         .then(response => response.json())
-        .then(data => {
-            const articles = data[lang] || [];
+        .then(articles => {
             articles.forEach(article => {
-                if (currentUrl.includes(article.url)) return; // Исключаем текущую статью
+                if (currentUrl.includes(article.url)) return;
 
                 const listItem = document.createElement("li");
                 const link = document.createElement("a");
@@ -19,7 +18,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 link.textContent = article.title;
                 listItem.appendChild(link);
 
-                // Добавляем белый квадратик перед названием
                 const squareIcon = document.createElement("span");
                 squareIcon.textContent = "⬜ "; 
                 listItem.prepend(squareIcon);
