@@ -1,0 +1,12 @@
+{
+    "en": [
+      { "title": "Dungeon Synth: A Journey Through Dark Fantasy", "url": "/articles/dungeon-synth-a-journey-through-dark-fantasy.html" },
+      { "title": "Dungeon Folk: Reviving the Authentic Medieval Sound", "url": "/articles/dungeon-folk-reviving-the-authentic-medieval-sound.html" },
+      { "title": "Medieval Music: From Origins to the Modern Era", "url": "/articles/medieval-music-from-origins-to-the-modern-era.html" }
+    ],
+    "ru": [
+      { "title": "Dungeon Synth: Путешествие сквозь тёмное фэнтези", "url": "/articles/dungeon-synth-a-journey-through-dark-fantasy-ru.html" },
+      { "title": "Dungeon Folk: Возрождение подлинного средневекового звучания", "url": "/articles/dungeon-folk-reviving-the-authentic-medieval-sound-ru.html" },
+      { "title": "Средневековая музыка: от истоков до современности", "url": "/articles/medieval-music-from-origins-to-the-modern-era-ru.html" }
+    ]
+  }

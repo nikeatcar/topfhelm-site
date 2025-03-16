@@ -1,16 +1,14 @@
 document.addEventListener("DOMContentLoaded", function () {
     const readMoreContainer = document.getElementById("read-more");
-
     if (!readMoreContainer) return;
 
-    const currentUrl = window.location.href;
+    const currentUrl = window.location.pathname;
     const lang = document.documentElement.lang || 'en'; // Определяем язык страницы
 
-    const API_URL = `https://topfhelm.com/articles-list?lang=${lang}`; // Указываем правильный API-адрес
-
-    fetch(API_URL)
+    fetch('/articles.json')
         .then(response => response.json())
-        .then(articles => {
+        .then(data => {
+            const articles = data[lang] || [];
             articles.forEach(article => {
                 if (currentUrl.includes(article.url)) return; // Исключаем текущую статью
 
