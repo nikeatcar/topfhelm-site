@@ -60,6 +60,14 @@
     Access-Control-Allow-Origin = "*"
     Content-Type = "application/json"
 
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'self'; frame-src 'self' https://open.spotify.com"
+
+
+
 # 🔹 Редиректы (учитываем www и https)
 [[redirects]]
   from = "/en"
