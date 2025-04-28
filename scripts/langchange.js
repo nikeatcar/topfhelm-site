@@ -99,7 +99,7 @@ window.addEventListener("load", function () {
       const countdownText = document.getElementById("countdown-text");
       if (!countdownText) return;
   
-      const releaseDate = new Date("May 9, 2025 08:00:00").getTime();
+      const releaseDate = new Date(Date.UTC(2025, 4, 9, 5, 0, 0)); 
   
       function updateCountdown() {
         const now = new Date().getTime();
