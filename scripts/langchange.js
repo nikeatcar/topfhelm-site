@@ -94,36 +94,39 @@ setTimeout(() => {
 ;;                 ----==| Т А Й М Е Р   Р Е Л И З А |==----                    ;;
 ;;                                                                              ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-window.addEventListener("load", function () {
-    setTimeout(() => {
-      const countdownText = document.getElementById("countdown-text");
-      if (!countdownText) return;
+window.addEventListener("load", function() {
+    const releaseDate = new Date(Date.UTC(2025, 4, 9, 5, 0, 0)).getTime();
+    const countdownText = document.getElementById("countdown-text");
   
-      const releaseDate = new Date(Date.UTC(2025, 4, 9, 5, 0, 0)); 
+    if (!countdownText) {
+      console.warn("Countdown element not found!");
+      return;
+    }
   
-      function updateCountdown() {
-        const now = new Date().getTime();
-        const timeLeft = releaseDate - now;
+    function updateCountdown() {
+      const now = new Date().getTime();
+      const timeLeft = releaseDate - now;
   
-        if (timeLeft <= 0) {
-          countdownText.innerHTML = "The story has begun! 🍻⚔️";
-          clearInterval(timerInterval); // Останавливаем таймер после завершения
-          return;
-        }
-  
-        const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
-        const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-        const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
-        const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
-  
-        countdownText.innerHTML = (getLangFromURL() === "ru") ?
-          `⏳ Новая история начнётся через: <span class="time">${days}</span>д <span class="time">${hours}</span>ч <span class="time">${minutes}</span>м <span class="time">${seconds}</span>с`
-          : `⏳ The new story begins in: <span class="time">${days}</span>d <span class="time">${hours}</span>h <span class="time">${minutes}</span>m <span class="time">${seconds}</span>s`;
+      if (timeLeft <= 0) {
+        countdownText.innerHTML = (getLangFromURL() === "ru")
+          ? "История началась! 🍻⚔️"
+          : "The story has begun! 🍻⚔️";
+        clearInterval(timerInterval); // Остановить обновление
+        return;
       }
   
-      updateCountdown();
-      const timerInterval = setInterval(updateCountdown, 1000);
-    }, 500);
+      const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
+      const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
+      const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
+  
+      countdownText.innerHTML = (getLangFromURL() === "ru")
+        ? `⏳ Новая история начнётся через: <span class="time">${days}</span>д <span class="time">${hours}</span>ч <span class="time">${minutes}</span>м <span class="time">${seconds}</span>с`
+        : `⏳ The new story begins in: <span class="time">${days}</span>d <span class="time">${hours}</span>h <span class="time">${minutes}</span>m <span class="time">${seconds}</span>s`;
+    }
+  
+    updateCountdown();
+    const timerInterval = setInterval(updateCountdown, 1000);
   });
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
