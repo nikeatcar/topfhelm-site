@@ -94,32 +94,37 @@ setTimeout(() => {
 ;;                 ----==| Т А Й М Е Р   Р Е Л И З А |==----                    ;;
 ;;                                                                              ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-setTimeout(() => {
-    const releaseDate = new Date("May 9, 2025 08:00:00").getTime();
-    const countdownText = document.getElementById("countdown-text");
-    if (!countdownText) return;
-
-    function updateCountdown() {
+window.addEventListener("load", function () {
+    setTimeout(() => {
+      const countdownText = document.getElementById("countdown-text");
+      if (!countdownText) return;
+  
+      const releaseDate = new Date("May 9, 2025 08:00:00").getTime();
+  
+      function updateCountdown() {
         const now = new Date().getTime();
         const timeLeft = releaseDate - now;
+  
         if (timeLeft <= 0) {
-            countdownText.innerHTML = "The story has begun! 🍻⚔️";
-            return;
+          countdownText.innerHTML = "The story has begun! 🍻⚔️";
+          clearInterval(timerInterval); // Останавливаем таймер после завершения
+          return;
         }
-
+  
         const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
         const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
         const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
         const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
-
+  
         countdownText.innerHTML = (getLangFromURL() === "ru") ?
-            `⏳ Новая история начнётся через: <span class="time">${days}</span>д <span class="time">${hours}</span>ч <span class="time">${minutes}</span>м <span class="time">${seconds}</span>с`
-            : `⏳ The new story begins in: <span class="time">${days}</span>d <span class="time">${hours}</span>h <span class="time">${minutes}</span>m <span class="time">${seconds}</span>s`;
-    }
-
-    updateCountdown();
-    setInterval(updateCountdown, 1000);
-}, 500);
+          `⏳ Новая история начнётся через: <span class="time">${days}</span>д <span class="time">${hours}</span>ч <span class="time">${minutes}</span>м <span class="time">${seconds}</span>с`
+          : `⏳ The new story begins in: <span class="time">${days}</span>d <span class="time">${hours}</span>h <span class="time">${minutes}</span>m <span class="time">${seconds}</span>s`;
+      }
+  
+      updateCountdown();
+      const timerInterval = setInterval(updateCountdown, 1000);
+    }, 500);
+  });
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
