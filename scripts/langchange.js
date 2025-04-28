@@ -95,7 +95,7 @@ setTimeout(() => {
 ;;                                                                              ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
 setTimeout(() => {
-    const releaseDate = new Date("March 28, 2025 08:00:00").getTime();
+    const releaseDate = new Date("May 9, 2025 08:00:00").getTime();
     const countdownText = document.getElementById("countdown-text");
     if (!countdownText) return;
 
@@ -103,7 +103,7 @@ setTimeout(() => {
         const now = new Date().getTime();
         const timeLeft = releaseDate - now;
         if (timeLeft <= 0) {
-            countdownText.innerHTML = "The feast has begun! 🍻⚔️";
+            countdownText.innerHTML = "The story has begun! 🍻⚔️";
             return;
         }
 
@@ -113,8 +113,8 @@ setTimeout(() => {
         const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
 
         countdownText.innerHTML = (getLangFromURL() === "ru") ?
-            `⏳ Великий пир начнётся через: <span class="time">${days}</span>д <span class="time">${hours}</span>ч <span class="time">${minutes}</span>м <span class="time">${seconds}</span>с`
-            : `⏳ The grand feast begins in: <span class="time">${days}</span>d <span class="time">${hours}</span>h <span class="time">${minutes}</span>m <span class="time">${seconds}</span>s`;
+            `⏳ Новая история начнётся через: <span class="time">${days}</span>д <span class="time">${hours}</span>ч <span class="time">${minutes}</span>м <span class="time">${seconds}</span>с`
+            : `⏳ The new story begins in: <span class="time">${days}</span>d <span class="time">${hours}</span>h <span class="time">${minutes}</span>m <span class="time">${seconds}</span>s`;
     }
 
     updateCountdown();
