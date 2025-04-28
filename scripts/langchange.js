@@ -2,7 +2,7 @@ function getLangFromURL() {
     if (window.location.pathname.includes("/ru") || window.location.href.includes("index-ru.html")) {
         return "ru";
     }
-    return "en"; // По умолчанию английский
+    return "en";
 }
 
 document.addEventListener("DOMContentLoaded", function () {
@@ -94,40 +94,51 @@ setTimeout(() => {
 ;;                 ----==| Т А Й М Е Р   Р Е Л И З А |==----                    ;;
 ;;                                                                              ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-window.addEventListener("load", function() {
-    const releaseDate = new Date(Date.UTC(2025, 4, 9, 5, 0, 0)).getTime();
+function initializeCountdown() {
+    const releaseDate = new Date(Date.UTC(2025, 4, 9, 5, 0, 0)).getTime(); // МАЙ = 4, потому что месяцы с 0
     const countdownText = document.getElementById("countdown-text");
-  
+
     if (!countdownText) {
-      console.warn("Countdown element not found!");
-      return;
-    }
-  
-    function updateCountdown() {
-      const now = new Date().getTime();
-      const timeLeft = releaseDate - now;
-  
-      if (timeLeft <= 0) {
-        countdownText.innerHTML = (getLangFromURL() === "ru")
-          ? "История началась! 🍻⚔️"
-          : "The story has begun! 🍻⚔️";
-        clearInterval(timerInterval); // Остановить обновление
+        console.warn("Countdown element not found!");
         return;
-      }
-  
-      const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
-      const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-      const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
-      const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
-  
-      countdownText.innerHTML = (getLangFromURL() === "ru")
-        ? `⏳ Новая история начнётся через: <span class="time">${days}</span>д <span class="time">${hours}</span>ч <span class="time">${minutes}</span>м <span class="time">${seconds}</span>с`
-        : `⏳ The new story begins in: <span class="time">${days}</span>d <span class="time">${hours}</span>h <span class="time">${minutes}</span>m <span class="time">${seconds}</span>s`;
     }
-  
+
+    function updateCountdown() {
+        const now = new Date().getTime();
+        const timeLeft = releaseDate - now;
+
+        if (timeLeft <= 0) {
+            countdownText.innerHTML = (getLangFromURL() === "ru")
+                ? "История началась! 🍻⚔️"
+                : "The story has begun! 🍻⚔️";
+            clearInterval(timerInterval);
+            return;
+        }
+
+        const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
+
+        countdownText.innerHTML = (getLangFromURL() === "ru")
+            ? `⏳ Новая история начнётся через: <span class="time">${days}</span>д <span class="time">${hours}</span>ч <span class="time">${minutes}</span>м <span class="time">${seconds}</span>с`
+            : `⏳ The new story begins in: <span class="time">${days}</span>d <span class="time">${hours}</span>h <span class="time">${minutes}</span>m <span class="time">${seconds}</span>s`;
+    }
+
     updateCountdown();
     const timerInterval = setInterval(updateCountdown, 1000);
-  });
+}
+
+
+
+    initializeCountdown(); // Запуск таймера при первой загрузке
+});
+
+// Перезапуск таймера после PJAX подгрузки
+$(document).on('pjax:complete', function () {
+    console.log("PJAX complete — пересоздаём таймер");
+    initializeCountdown();
+});
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
@@ -138,4 +149,10 @@ window.addEventListener("load", function() {
         document.body.classList.add("ru");
     }
 
+    initializeCountdown(); // Запуск таймера при первой загрузке
+
+// Перезапуск таймера после PJAX подгрузки
+$(document).on('pjax:complete', function () {
+    console.log("PJAX complete — пересоздаём таймер");
+    initializeCountdown();
 });
