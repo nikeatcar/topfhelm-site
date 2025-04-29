@@ -20,6 +20,7 @@ Allow: /
 Allow: /en
 Allow: /ru
 Allow: /security/security-policy.html
+Allow: /shop/
 
 # Разрешаем кэширование ресурсов
 User-agent: Googlebot

@@ -90,6 +90,12 @@
   force = true
 
 [[redirects]]
+  from = "/shop"
+  to = "/shop/shop.html"
+  status = 200
+  force = true
+
+[[redirects]]
   from = "https://www.topfhelm.com/en"
   to = "https://topfhelm.com/en"
   status = 301

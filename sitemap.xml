@@ -22,6 +22,13 @@
     </url>
 
     <url>
+        <loc>https://topfhelm.com/shop</loc>
+        <lastmod>2024-04-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://topfhelm.com/media/TopfHelm_Sanguis_Et_Mulsum.webp</loc>
         <lastmod>2024-03-04</lastmod>
         <changefreq>monthly</changefreq>
