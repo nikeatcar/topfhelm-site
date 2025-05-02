@@ -56,7 +56,7 @@ orderButtons.forEach(button => {
     }
     
     if (premiumSelected) {
-      orderMessage += `\nPremium Oversized: Yes (+€5)`;
+      orderMessage += `\nPremium Oversized: Yes (+€10)`;
     }
     
     orderText.value = orderMessage;
