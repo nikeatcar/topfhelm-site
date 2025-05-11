@@ -82,8 +82,8 @@ setTimeout(() => {
 
             setTimeout(() => {
                 this.innerHTML = (getLangFromURL() === "ru") ?
-                    "<span>Предсохраняй</span>" 
-                    : "<span>Presave Now</span>";
+                    "<span>Слушать</span>" 
+                    : "<span>Listen</span>";
             }, 200);
             });
         }
