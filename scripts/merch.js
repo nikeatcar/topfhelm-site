@@ -85,16 +85,19 @@ window.addEventListener('click', (e) => {
   }
 });
 
-window.addEventListener('load', function(){
-  new Glider(document.querySelector('.glider'), {
-    slidesToShow: 1,
-    dots: '.dots',
-    arrows: {
-      prev: '.glider-prev',
-      next: '.glider-next'
-    },
-    draggable: true,
-    scrollLock: true
+window.addEventListener('load', function () {
+    document.querySelectorAll('.glider').forEach((gliderEl, i) => {
+      new Glider(gliderEl, {
+        slidesToShow: 1,
+        dots: gliderEl.parentElement.querySelector('.dots'),
+        arrows: {
+          prev: gliderEl.parentElement.querySelector('.glider-prev'),
+          next: gliderEl.parentElement.querySelector('.glider-next')
+        },
+        draggable: true,
+        scrollLock: true
+      });
+    });
   });
 
   function addTshirtToCart(button) {
