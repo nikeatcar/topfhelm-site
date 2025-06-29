@@ -98,7 +98,6 @@ window.addEventListener('load', function () {
         scrollLock: true
       });
     });
-  });
 
   function addTshirtToCart(button) {
     const name = button.dataset.name;
