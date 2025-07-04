@@ -40,4 +40,4 @@ User-agent: dotbot
 Disallow: /
 
 Sitemap: https://topfhelm.com/sitemap.xml
-Host: https://topfhelm.com
+Host: topfhelm.com
