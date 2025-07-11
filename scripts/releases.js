@@ -14,6 +14,18 @@ const albumData = {
           <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3veuEvIr7Pl4UseL8UxLa9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         </div>
 
+                <!-- Социальные сети -->
+                <div id="social-container">
+                    <div class="social-icons">
+                        <a href="https://topfhelm.bandcamp.com/album/40" target="_blank">
+                            <img src="icons/Bandcamp_icon.svg" alt="Listen to 40 by TopfHelm on BandCamp" loading="lazy">
+                        </a>
+                        <a href="https://soundcloud.com/topfhelmmusic/sets/40symphony" target="_blank">
+                            <img src="icons/Soundcloud_icon.svg" alt="Listen to 40 by TopfHelm on Soundcloud" loading="lazy">
+                        </a>
+                    </div>
+                </div>
+
         <h2>🎥 Watch</h2>
         <section class="video-section">
             <div class="video-container">
@@ -48,6 +60,18 @@ const albumData = {
         <div class="players">
             <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/4KsZMaOI7RAtHqus19DaOP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         </div>
+        
+                <!-- Социальные сети -->
+                <div id="social-container">
+                    <div class="social-icons">
+                        <a href="https://topfhelm.bandcamp.com/album/sir-godric" target="_blank">
+                            <img src="icons/Bandcamp_icon.svg" alt="Listen to Sir Godric by TopfHelm on BandCamp" loading="lazy">
+                        </a>
+                        <a href="https://soundcloud.com/topfhelmmusic/sets/sir-godric" target="_blank">
+                            <img src="icons/Soundcloud_icon.svg" alt="Listen to Sir Godric by TopfHelm on Soundcloud" loading="lazy">
+                        </a>
+                    </div>
+                </div>
 
         <h2>🎥 Watch</h2>
         <section class="video-section">
@@ -81,6 +105,18 @@ const albumData = {
         <div class="players">
             <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5MQbQmcU1hE2nAOtoikPMV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         </div>
+        
+                <!-- Социальные сети -->
+                <div id="social-container">
+                    <div class="social-icons">
+                        <a href="https://topfhelm.bandcamp.com/album/sanguis-et-mulsum" target="_blank">
+                            <img src="icons/Bandcamp_icon.svg" alt="Listen to Sanguis et Mulsum by TopfHelm on BandCamp" loading="lazy">
+                        </a>
+                        <a href="https://soundcloud.com/topfhelmmusic/sets/sanguisetmulsum" target="_blank">
+                            <img src="icons/Soundcloud_icon.svg" alt="Listen to Sanguis et Mulsum by TopfHelm on Soundcloud" loading="lazy">
+                        </a>
+                    </div>
+                </div>
 
         <h2>🎥 Watch</h2>
         <section class="video-section">
