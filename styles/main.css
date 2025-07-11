@@ -189,9 +189,108 @@ body.ru #countdown-text {
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
+;;                  ----==| Б Л О К   М У З Ы К И |==----                     ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+
+#album-detail {
+  display: none;
+  min-height: 300px;
+  background: #111;
+  color: white;
+  padding: 20px;
+  border: 1px solid #555;
+  margin-top: 20px;
+  opacity: 0;
+  transition: opacity 0.4s ease-in-out;
+}
+
+#album-detail.visible {
+  display: block;
+  opacity: 1;
+}
+
+.album-icon {
+  transition: box-shadow 0.3s ease, transform 0.2s ease;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+.album-icon.active {
+  box-shadow: 0 0 15px 4px rgba(255, 215, 0, 0.8); /* золотая подсветка */
+  transform: scale(1.05);
+  z-index: 2;
+}
+
+.album-card.fade-in {
+  animation: fadeIn 0.5s ease-in-out forwards;
+  opacity: 0;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.players {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: center;
+  align-items: stretch;
+  margin-top: 1.5rem;
+}
+
+.players iframe {
+  border-radius: 12px;
+  border: none;
+  background-color: #1a1a1a;
+  width: 100%;
+  max-width: 250px;
+  height: 320px;
+  flex-grow: 1;
+}
+
+.players iframe[src*="soundcloud"] {
+  height: 320px;
+  max-width: 250px;
+}
+
+.players iframe[src*="bandcamp"] {
+  background-color: transparent; /* У Bandcamp своё оформление */
+}
+
+@media (max-width: 768px) {
+  .players {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
 ;;                  ----==| Б Л О К   А Л Ь Б О М А |==----                   ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+.bandcamp-merch-card {
+  width: 300px;
+  background-color: #1a1a1a;
+  padding: 1rem;
+  border-radius: 12px;
+  text-align: center;
+  color: #eee;
+  margin: 1rem auto;
+  box-shadow: 0 0 8px rgba(255, 255, 255, 0.05);
+}
+
+.bandcamp-merch-card .merch-cover {
+  width: 60%;
+  height: 140px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 8px;
+}
+
 .album-section {
     display: flex;
     align-items: center;
@@ -233,6 +332,39 @@ body.ru #countdown-text {
     color: #f8d210;
     text-shadow: 0px 0px 10px rgba(248, 210, 16, 0.8);
 }
+
+.album-icons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem; /* Расстояние между иконками */
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.album-icon {
+  width: 160px;
+  height: 160px;
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.3s, box-shadow 0.3s;
+  border: 2px solid transparent;
+}
+
+.album-icon img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 10px;
+}
+
+.album-icon.active {
+  box-shadow: 0 0 12px #fff4, 0 0 5px #ffd000;
+  border-color: rgba(255, 208, 0, 0.863);
+  transform: scale(1.05);
+}
+
 
 .release-date {
     font-size: 30px;
@@ -363,56 +495,42 @@ body.ru #countdown-text {
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
 /* Секция видео */
 .video-section {
-    text-align: center;
-    margin: 20px 0;
+  margin-top: 2rem;
+  text-align: center;
 }
 
 .video-container {
-    position: relative;
-    width: 100%;
-    max-width: 800px; /* Максимальная ширина видео */
-    margin: 0 0 20px 0;
-    background: #000;
-    border-radius: 10px; /* Округление */
-    overflow: hidden; /* Чтобы не было выходов за рамки */
-}
-
-.video-container iframe {
-    width: 100%;
-    height: auto;
-    min-height: 316px; /* Минимальная высота, чтобы не становилось слишком маленьким */
-    aspect-ratio: 16 / 9; /* Сохраняем соотношение сторон */
-    position: relative;
-    top: 0;
-    left: 0;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
 }
 
 .youtube-placeholder {
-    position: relative;
-    width: 100%;
-    max-width: 800px;
-    height: 300px;
-    background-color: #000;
-    cursor: pointer;
+  position: relative;
+  width: 100%;
+  max-width: 250px;
+  cursor: pointer;
 }
 
 .youtube-placeholder img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+  width: 100%;
+  border-radius: 8px;
+  display: block;
 }
 
 .youtube-placeholder .play-btn {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background: rgba(0, 0, 0, 0.7);
-    color: white;
-    font-size: 24px;
-    padding: 10px 20px;
-    border: none;
-    cursor: pointer;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  border: none;
+  font-size: 2rem;
+  padding: 10px 20px;
+  border-radius: 50%;
+  cursor: pointer;
 }
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
