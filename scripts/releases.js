@@ -1,4 +1,4 @@
-const isRussian = window.location.pathname.includes('index-ru');
+const isRussian = window.location.pathname.includes('/ru');
 
 const albumData = {
   
