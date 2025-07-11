@@ -244,10 +244,8 @@ body.ru #countdown-text {
 .players iframe {
   border-radius: 12px;
   border: none;
-  background-color: #1a1a1a;
   width: 100%;
-  max-width: 250px;
-  height: 320px;
+  max-width: 550px;
   flex-grow: 1;
 }
 
