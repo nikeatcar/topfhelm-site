@@ -2,6 +2,25 @@ const isRussian = window.location.pathname.includes('/ru');
 
 const albumData = {
   
+        solemnis: {
+    getHtml: (isRussian) => `
+      <div class="album-card fade-in">
+        <h3>"Solemnis" – ${isRussian ? 'Торжественный Dungeon Synth' : 'Majestic Dungeon Synth'}</h3>
+        <p>
+          ${isRussian
+            ? 'Энергичный и величественный EP, вдохновлённый саундтреками 70-х. Dungeon Synth и Dungeon Folk в торжественной форме.'
+            : 'An energetic and majestic EP inspired by 70s film scores. Dungeon Synth and Dungeon Folk in ceremonial form.'}
+        </p>
+
+        <div class="cta-buttons">
+          <a href="https://distrokid.com/hyperfollow/topfhelm/solemnis" target="_blank" class="shop-btn">
+            ${isRussian ? '🎧 Предсохранить в Spotify' : '🎧 Presave on Spotify'}
+          </a>
+        </div>
+      </div>
+    `
+  },
+  
   forty: {
   getHtml: (isRussian) => `
     <div class="album-card fade-in">
@@ -139,6 +158,7 @@ const albumData = {
       </div>
     `
   }
+
 };
 
 // Основной скрипт
