@@ -17,6 +17,20 @@ const albumData = {
             ${isRussian ? '🎧 Предсохранить в Spotify' : '🎧 Presave on Spotify'}
           </a>
         </div>
+
+        <h2>${isRussian ? '🎁 Мерч' : '🎁 Related Merch'}</h2>
+        <div class="merch-preview">
+          <div class="bandcamp-merch-card">
+            <img class="merch-cover" src="media/merch/solemnis_cd_5.webp" alt="Solemnis CD">
+            <p><strong>"Solemnis" – ${isRussian ? 'Коллекционное издание на CD' : "Collector's CD Edition"}</strong></p>
+            <p>${isRussian
+              ? 'Фирменный CD в Jewel box с вкладышем, оформленным в торжественном стиле альбома. Лимитированный тираж.'
+              : 'Official CD in Jewel box with an insert in the album’s ceremonial style. Limited edition.'}</p>
+            <a href="https://www.instagram.com/direct/t/17843928615430368" target="_blank" class="shop-btn">
+              ${isRussian ? '🛒 Предзаказ' : '🛒 Pre-order'}
+            </a>
+          </div>
+        </div>
       </div>
     `
   },
