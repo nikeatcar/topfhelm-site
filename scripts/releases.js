@@ -12,11 +12,30 @@ const albumData = {
             : 'An energetic and majestic EP inspired by 70s film scores. Dungeon Synth and Dungeon Folk in ceremonial form.'}
         </p>
 
-        <div class="cta-buttons">
-          <a href="https://distrokid.com/hyperfollow/topfhelm/solemnis" target="_blank" class="shop-btn">
-            ${isRussian ? '🎧 Предсохранить в Spotify' : '🎧 Presave on Spotify'}
+        <div class="players">
+        <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/album/5wp4FkIgpd9fVTTiW5b2ar" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+      </div>
+
+      <div id="social-container">
+        <div class="social-icons">
+          <a href="https://topfhelm.bandcamp.com/album/solemnis" target="_blank">
+            <img src="icons/Bandcamp_icon.svg" alt="Listen to Solemnis by TopfHelm on BandCamp" loading="lazy">
+          </a>
+          <a href="https://soundcloud.com/topfhelmmusic/sets/solemnis" target="_blank">
+            <img src="icons/Soundcloud_icon.svg" alt="Listen to Solemnis by TopfHelm on Soundcloud" loading="lazy">
           </a>
         </div>
+      </div>
+
+      <h2>${isRussian ? '🎥 Смотреть' : '🎥 Watch'}</h2>
+      <section class="video-section">
+        <div class="video-container">
+          <div class="youtube-placeholder" data-video="X2EVGPrelVA">
+            <img src="https://img.youtube.com/vi/X2EVGPrelVA/hqdefault.jpg" alt="Preview of TopfHelm album teaser video on YouTube" loading="lazy">
+            <button class="play-btn">▶ Play</button>
+          </div>
+        </div>
+      </section>
 
         <h2>${isRussian ? '🎁 Мерч' : '🎁 Related Merch'}</h2>
         <div class="merch-preview">
@@ -26,8 +45,7 @@ const albumData = {
             <p>${isRussian
               ? 'Фирменный CD в Jewel box с вкладышем, оформленным в торжественном стиле альбома. Лимитированный тираж.'
               : 'Official CD in Jewel box with an insert in the album’s ceremonial style. Limited edition.'}</p>
-            <a href="https://www.instagram.com/direct/t/17843928615430368" target="_blank" class="shop-btn">
-              ${isRussian ? '🛒 Предзаказ' : '🛒 Pre-order'}
+            <a href="https://topfhelm.bandcamp.com/album/solemnis" target="_blank" class="shop-btn">Buy on Bandcamp</a>
             </a>
           </div>
         </div>
