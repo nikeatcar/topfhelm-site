@@ -113,6 +113,17 @@ const albumData = {
               : 'A grim yet absurd medieval tale told through Dungeon Synth & Dungeon Folk. Journey with a cursed knight as he descends into madness, battle, and tragicomedy.'}
           </p>
 
+          <h2>${isRussian ? '📰 Обзоры' : '📰 Reviews'}</h2>
+          <div class="reviews-section">
+            <ul>
+              <li>
+                <a href="https://www.blacforjemagazine.com/reviews/sir-godric-by-topfhelm" target="_blank">
+                  ${isRussian ? 'Обзор от журнала Blacforje Magazine' : 'Blacforje Magazine Review'}
+                </a>
+              </li>
+            </ul>
+          </div>
+
           <div class="players">
             <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/4KsZMaOI7RAtHqus19DaOP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
           </div>
