@@ -2,6 +2,30 @@ const isRussian = window.location.pathname.includes('/ru');
 
 const albumData = {
   
+spadcyna: {
+  getHtml: (isRussian) => `
+    <div class="album-card fade-in">
+      <h3>"Spadčyna" – ${isRussian ? 'Наследие' : 'Heritage'}</h3>
+      <p>
+        ${isRussian
+          ? 'Полноформатный альбом из 25 треков, основанный на белорусском фольклоре. Более 80 минут атмосферной музыки, где переплетаются древние обряды, лесные духи, женские напевы и ритуальные мотивы. Осмысленное путешествие в культурное наследие Беларуси, выполненное в стиле Dungeon Folk и Medieval Ambient.'
+          : 'A full-length 25-track album rooted in Belarusian folklore. Over 80 minutes of atmospheric music shaped by ancient rituals, forest spirits, traditional chants and mystical Slavic motifs. A deep journey into Belarusian cultural heritage, crafted through Dungeon Folk and Medieval Ambient.'}
+      </p>
+
+       
+          <div class="cta-buttons">
+            <a href="https://distrokid.com/hyperfollow/topfhelm/spadyna" target="_blank" class="shop-btn">
+              ${isRussian ? '🎧 Предсохранить альбом' : '🎧 Presave'}
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  `
+},
+
+
+
         solemnis: {
     getHtml: (isRussian) => `
       <div class="album-card fade-in">
@@ -26,16 +50,6 @@ const albumData = {
           </a>
         </div>
       </div>
-
-      <h2>${isRussian ? '🎥 Смотреть' : '🎥 Watch'}</h2>
-      <section class="video-section">
-        <div class="video-container">
-          <div class="youtube-placeholder" data-video="X2EVGPrelVA">
-            <img src="https://img.youtube.com/vi/X2EVGPrelVA/hqdefault.jpg" alt="Preview of TopfHelm album teaser video on YouTube" loading="lazy">
-            <button class="play-btn">▶ Play</button>
-          </div>
-        </div>
-      </section>
 
         <h2>${isRussian ? '🎁 Мерч' : '🎁 Related Merch'}</h2>
         <div class="merch-preview">
@@ -77,16 +91,6 @@ const albumData = {
           </a>
         </div>
       </div>
-
-      <h2>${isRussian ? '🎥 Смотреть' : '🎥 Watch'}</h2>
-      <section class="video-section">
-        <div class="video-container">
-          <div class="youtube-placeholder" data-video="qX5yWEfDsas">
-            <img src="https://img.youtube.com/vi/qX5yWEfDsas/hqdefault.jpg" alt="Preview of TopfHelm album teaser video on YouTube" loading="lazy">
-            <button class="play-btn">▶ Play</button>
-          </div>
-        </div>
-      </section>
 
       <h2>${isRussian ? '🎁 Мерч' : '🎁 Related Merch'}</h2>
       <div class="merch-preview">
@@ -139,16 +143,6 @@ const albumData = {
             </div>
           </div>
 
-          <h2>${isRussian ? '🎥 Смотреть' : '🎥 Watch'}</h2>
-          <section class="video-section">
-            <div class="video-container">
-              <div class="youtube-placeholder" data-video="fcD2Mm-Yn-Q">
-                <img src="https://img.youtube.com/vi/fcD2Mm-Yn-Q/hqdefault.jpg" alt="Sir Godric Cassette Preview" loading="lazy">
-                <button class="play-btn">▶ Play</button>
-              </div>
-            </div>
-          </section>
-
           <h2>${isRussian ? '🎁 Мерч' : '🎁 Related Merch'}</h2>
           <div class="merch-preview">
             <div class="bandcamp-merch-card">
@@ -188,17 +182,6 @@ const albumData = {
             </a>
           </div>
         </div>
-
-        <h2>${isRussian ? '🎥 Смотреть' : '🎥 Watch'}</h2>
-        <section class="video-section">
-          <div class="video-container">
-            <div class="youtube-placeholder" data-video="2KSd2DAOC90">
-              <img src="https://img.youtube.com/vi/2KSd2DAOC90/hqdefault.jpg" alt="Sanguis et Mulsum Teaser" loading="lazy">
-              <button class="play-btn">▶ Play</button>
-            </div>
-          </div>
-        </section>
-      </div>
     `
   }
 
