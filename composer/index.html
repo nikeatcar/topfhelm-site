@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- jQuery + PJAX (как на главной) -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" data-cfasync="false"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.pjax/2.0.1/jquery.pjax.min.js" data-cfasync="false"></script>
+
+    <link rel="manifest" href="../manifest.json">
+
+    <title>Game Music Composer — Medieval, RPG & Dark Fantasy OST | TopfHelm</title>
+    <link rel="canonical" href="https://topfhelm.com/composer">
+
+    <meta name="description" content="Hire TopfHelm as a game music composer for medieval RPGs, dark fantasy, roguelikes and pixel art games. Dungeon Synth, Dungeon Folk and dark medieval ambient for indie games.">
+    <meta name="keywords" content="game music composer, indie game composer, medieval rpg music, dungeon synth for games, hire composer for indie rpg, dark fantasy soundtrack, medieval game ost, TopfHelm">
+    <meta name="author" content="TopfHelm">
+
+    <meta property="og:title" content="Game Music Composer — Medieval, RPG & Dark Fantasy OST | TopfHelm">
+    <meta property="og:description" content="Medieval, dark folk and dungeon synth soundtracks for indie RPGs, roguelikes and fantasy worlds. Hire TopfHelm as game music composer.">
+    <meta property="og:image" content="https://topfhelm.com/media/TopfHelm-logoBlack.webp">
+    <meta property="og:url" content="https://topfhelm.com/composer">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <link rel="alternate" hreflang="en" href="https://topfhelm.com/composer">
+    <link rel="alternate" hreflang="ru" href="https://topfhelm.com/composer">
+    <link rel="alternate" hreflang="x-default" href="https://topfhelm.com/composer">
+
+    <!-- Основные стили сайта -->
+    <link rel="stylesheet" href="../styles/main.css" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="../styles/main.css"></noscript>
+
+    <link rel="stylesheet" href="../styles/preloade.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="../styles/social.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="../styles/sharing.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="../styles/langchange.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="../styles/up_button.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="../styles/readmore.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="../styles/composer.css" media="print" onload="this.media='all'">
+
+    <!-- JSON-LD для композитора игр -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "TopfHelm",
+      "jobTitle": "Game Music Composer",
+      "url": "https://topfhelm.com/composer",
+      "description": "Medieval, dungeon folk and dark fantasy music for indie RPGs, roguelikes and pixel art games.",
+      "knowsAbout": [
+        "Game music",
+        "Indie game audio",
+        "Medieval RPG music",
+        "Dungeon Synth",
+        "Dungeon Folk",
+        "Dark Fantasy Soundtracks",
+        "Roguelike music",
+        "Pixel art game OST"
+      ],
+      "sameAs": [
+        "https://topfhelm.bandcamp.com/",
+        "https://www.instagram.com/topfhelmmusic/",
+        "https://www.youtube.com/@TopfHelmMusic",
+        "https://open.spotify.com/artist/5NHkqDnmyOUMMUrHy2n9Mq"
+      ]
+    }
+    </script>
+</head>
+
+<button id="scrollToTopBtn" title="UP">⬆</button>
+
+<!-- Фиксированная панель соцсетей -->
+<div id="fixed-social-bar">
+    <div class="social-icons">
+        <a href="https://open.spotify.com/artist/5NHkqDnmyOUMMUrHy2n9Mq" target="_blank">
+            <img src="../icons/icons8-spotify.svg" alt="Spotify" loading="lazy">
+        </a>
+        <a href="https://topfhelm.bandcamp.com/" target="_blank">
+            <img src="../icons/icons8-bandcamp.svg" alt="Bandcamp" loading="lazy">
+        </a>
+        <a href="https://www.instagram.com/topfhelmmusic/" target="_blank">
+            <img src="../icons/icons8-insta.svg" alt="Instagram" loading="lazy">
+        </a>
+        <a href="https://www.tiktok.com/@topfhelmmusic" target="_blank">
+            <img src="../icons/icons8-tiktok.svg" alt="TikTok" loading="lazy">
+        </a>
+        <a href="https://vk.com/topfhelmmusic" target="_blank">
+            <img src="../icons/6214734_logo_vk_vkontakte_icon.svg" alt="VK" loading="lazy">
+        </a>
+        <a href="https://www.youtube.com/@TopfHelmMusic" target="_blank">
+            <img src="../icons/icons8-youtube.svg" alt="YouTube" loading="lazy">
+        </a>
+    </div>
+</div>
+
+<body lang="en" class="en">
+    <!-- Прелоадер -->
+    <div id="preloader">
+        <img src="vmedia/TopfHelm-logo.webp" alt="TopfHelm Logo" class="preloader-logo" width="200" height="200">
+        <div class="loader-bar"></div>
+    </div>
+
+    <!-- Для PJAX -->
+    <div id="content">
+        <!-- Весь контент страницы -->
+        <div class="parallax-container">
+            <div class="blurred-bg"></div>
+        </div>
+
+        <div class="container">
+
+            <!-- Аватар / логотип -->
+            <img src="../media/TopfHelm-logo.webp" 
+                alt="TopfHelm Logo - Dungeon Folk & Dungeon Synth Project"
+                class="avatar"
+                width="200" 
+                height="200" 
+                fetchpriority="high" 
+                decoding="async">
+
+            <!-- Соцсети -->
+            <div id="social-container">
+                <div class="social-icons">
+                    <a href="https://open.spotify.com/artist/5NHkqDnmyOUMMUrHy2n9Mq" target="_blank">
+                        <img src="../icons/icons8-spotify.svg" alt="Spotify" loading="lazy">
+                    </a>
+                    <a href="https://topfhelm.bandcamp.com/" target="_blank">
+                        <img src="../icons/icons8-bandcamp.svg" alt="Listen to TopfHelm on Bandcamp" loading="lazy">
+                    </a>
+                    <a href="https://www.instagram.com/topfhelmmusic/" target="_blank">
+                        <img src="../icons/icons8-insta.svg" alt="Subscribe to TopfHelm's Instagram" loading="lazy">
+                    </a>
+                    <a href="https://www.tiktok.com/@topfhelmmusic" target="_blank">
+                        <img src="../icons/icons8-tiktok.svg" alt="Subscribe to TopfHelm's TikTok" loading="lazy">
+                    </a>
+                    <a href="https://vk.com/topfhelmmusic" target="_blank">
+                        <img src="../icons/6214734_logo_vk_vkontakte_icon.svg" alt="Subscribe to TopfHelm's VK" loading="lazy">
+                    </a>
+                    <a href="https://www.youtube.com/@TopfHelmMusic" target="_blank">
+                        <img src="../icons/icons8-youtube.svg" alt="Watch TopfHelm on YouTube" loading="lazy">
+                    </a>
+                </div>
+            </div>
+
+            <!-- H1 для SEO -->
+            <h1>Game Music Composer — Medieval, RPG & Dark Fantasy OST | TopfHelm</h1>
+            <h2 class="genre">Medieval & dungeon folk soundtracks for indie RPGs, roguelikes and dark fantasy worlds</h2>
+
+            <!-- Краткий "кто я": EN + RU -->
+            <section class="composer-intro">
+                <p lang="en" class="english-text">
+                    I compose dark medieval, dungeon folk and atmospheric music for indie RPGs, fantasy adventures and survival games.
+                </p>
+            </section>
+
+            <!-- CTA "Hire as Composer" скроллит к контактам -->
+            <div class="cta-buttons">
+                <a href="#composer-contact" class="shop-btn">🎼 Hire as Composer</a>
+            </div>
+
+            <!-- Примеры музыки (локальные mp3) -->
+            <section class="composer-examples">
+                <hr class="composer-divider">
+    <h2>🎵 Full Themes & Background Versions</h2>
+    <p>
+        Each track includes a full OST composition and a background version,
+        showing how music can adapt to menus, combat, exploration and ambient scenes.
+    </p>
+
+    <div class="players-grid">
+
+        <!-- Main Menu Theme -->
+        <div class="example-block">
+            <h3>🏰 Main Menu Theme / OST</h3>
+
+            <p><strong>Full Theme</strong></p>
+            <audio data-tp-player preload="metadata">
+                <source src="../media/music/01_The Warrior’s Fate.mp3" type="audio/mpeg">
+            </audio>
+
+            <p><strong>Background Version</strong></p>
+            <audio data-tp-player preload="metadata">
+                <source src="../media/music/01_The Warrior’s Fate_BG.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+
+        <!-- Battle for Medieval Town -->
+        <div class="example-block">
+            <h3>⚔️ Battle for Medieval Town</h3>
+
+            <p><strong>Full Theme</strong></p>
+            <audio data-tp-player preload="metadata">
+                <source src="../media/music/02_Siege of Jerusalem.mp3" type="audio/mpeg">
+            </audio>
+
+            <p><strong>Background Version</strong></p>
+            <audio data-tp-player preload="metadata">
+                <source src="../media/music/02_Siege of Jerusalem_BG.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+
+        <!-- Wandering the Ocean -->
+        <div class="example-block">
+            <h3>🌊 Wandering the Ocean</h3>
+
+            <p><strong>Full Theme</strong></p>
+            <audio data-tp-player preload="metadata">
+                <source src="../media/music/03_Father Ocean.mp3" type="audio/mpeg">
+            </audio>
+
+            <p><strong>Background Version</strong></p>
+            <audio data-tp-player preload="metadata">
+                <source src="../media/music/03_Father Ocean_BG.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+
+        <!-- Night in the Forest River -->
+        <div class="example-block">
+            <h3>🌲 Night in the Forest River</h3>
+
+            <p><strong>Full Theme</strong></p>
+            <audio data-tp-player preload="metadata">
+                <source src="../media/music/05_Black Waters.mp3" type="audio/mpeg">
+            </audio>
+
+            <p><strong>Background Version</strong></p>
+            <audio data-tp-player preload="metadata">
+                <source src="../media/music/05_Black Waters_BG.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+
+        <!-- Going to the Ancient Cave -->
+        <div class="example-block">
+            <h3>🕯 The Ancient Cave</h3>
+
+            <p><strong>Full Theme</strong></p>
+            <audio data-tp-player preload="metadata">
+                <source src="../media/music/07_The Nightmare Realm.mp3" type="audio/mpeg">
+            </audio>
+
+            <p><strong>Background Version</strong></p>
+            <audio data-tp-player preload="metadata">
+                <source src="../media/music/07_The Nightmare Realm_BG.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+
+        <!-- Boss Fight -->
+        <div class="example-block">
+            <h3>🔥 Boss Fight</h3>
+
+            <p><strong>Full Theme</strong></p>
+            <audio data-tp-player preload="metadata">
+                <source src="../media/music/08_Bog of Wailing.mp3" type="audio/mpeg">
+            </audio>
+
+            <p><strong>Background Version</strong></p>
+            <audio data-tp-player preload="metadata">
+                <source src="../media/music/08_Bog of Wailing_BG.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+
+        <!-- Boss Fight 2 -->
+        <div class="example-block">
+            <h3>🔥 Boss Fight II</h3>
+
+            <p><strong>Full Theme</strong></p>
+            <audio data-tp-player preload="metadata">
+                <source src="../media/music/09_Hive of Rot.mp3" type="audio/mpeg">
+            </audio>
+
+            <p><strong>Background Version</strong></p>
+            <audio data-tp-player preload="metadata">
+                <source src="../media/music/09_Hive of Rot_BG.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+
+        <!-- Boss Fight 3 -->
+        <div class="example-block">
+            <h3>🔥 Boss Fight III</h3>
+
+            <p><strong>Full Theme</strong></p>
+            <audio data-tp-player preload="metadata">
+                <source src="../media/music/12_The Faceless Crone.mp3" type="audio/mpeg">
+            </audio>
+
+            <p><strong>Background Version</strong></p>
+            <audio data-tp-player preload="metadata">
+                <source src="../media/music/12_The Faceless Crone_BG.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+
+        <!-- The Other World -->
+        <div class="example-block">
+            <h3>🌑 The Other World</h3>
+
+            <p><strong>Full Theme</strong></p>
+            <audio data-tp-player preload="metadata">
+                <source src="../media/music/13_Somnia.mp3" type="audio/mpeg">
+            </audio>
+
+            <p><strong>Background Version</strong></p>
+            <audio data-tp-player preload="metadata">
+                <source src="../media/music/13_Somnia_BG.mp3" type="audio/mpeg">
+            </audio>
+        </div>
+
+    </div>
+            </section>
+
+                        <!-- Жанры и настроения -->
+                        <section class="composer-section">
+                            <hr class="composer-divider">
+                <div class="composer-container">
+
+                    <!-- Genres -->
+                    <h2 class="composer-heading">🎼 Genres & Moods</h2>
+                    <ul class="composer-list">
+                        <li>Medieval Ambient for castles, ruins and sacred places</li>
+                        <li>Dark Folk & Dungeon Folk for taverns, villages and folk rituals</li>
+                        <li>Dungeon Synth & dark fantasy soundscapes</li>
+                        <li>Forest / Ritual themes with mystical choirs and drones</li>
+                        <li>Atmosphere for RPG, roguelikes, survival and pixel-art games</li>
+                    </ul>
+<section id="composer-contact"></section>
+                    <!-- Games Fit -->
+                    <h2 class="composer-heading">🎮 Games My Music Fits</h2>
+                    <p class="composer-text">
+                        My music fits games like: <strong>Darkest Dungeon, Baldur’s Gate, Dark Souls fan-projects, Loop Hero, Stoneshard</strong> — 
+                        and other titles with dark fantasy, medieval, grim or low-magic settings.
+                    </p>
+
+                    <!-- Hire -->
+                    <h2 class="composer-heading">📝 Hire TopfHelm as Composer</h2>
+                    <p class="composer-text">
+                        If you’re working on an indie game and need a medieval / dark fantasy soundtrack, send a message with:
+                    </p>
+                    <ul class="composer-list">
+                        <li>Short description of your game (genre, setting, platforms)</li>
+                        <li>What kind of music you need (ambient, combat, tavern, menu, full OST)</li>
+                        <li>Estimated length (number of tracks / minutes)</li>
+                        <li>Timeline and budget</li>
+                        <li>Any references (games, films, albums you like)</li>
+                    </ul>
+<hr class="composer-divider">
+                    <!-- Contact -->
+                    <div class="contact-block">
+    <h2 class="contact-title">Contact</h2>
+
+    <div class="contact-item">
+        <span class="contact-label">Email</span>
+        <a href="mailto:topfhelmmusic@gmail.com" class="contact-link">
+            topfhelmmusic@gmail.com
+        </a>
+    </div>
+
+    <div class="contact-item">
+        <span class="contact-label">Discord</span>
+        <span class="contact-value">nikeatcar</span>
+    </div>
+                    <a href="#" id="openContactForm" class="contact-button">Contact Me</a>
+            </section>
+
+            <!-- SEO-блок с текстом под игровые запросы -->
+            <section class="seo-text">
+                <h2>Indie Game Music Composer for Medieval, Dark Fantasy & RPG Projects</h2>
+                <p>
+                    As <strong>a freelance game music composer</strong>, I create custom soundtracks for
+                    <strong>indie RPGs, roguelikes, survival games and pixel art projects</strong>.  
+                    My style is rooted in <strong>medieval music, Dungeon Synth, Dungeon Folk and Dark Folk</strong>, 
+                    which makes it a perfect fit for atmospheric, story-driven and hardcore games.
+                </p>
+
+                <p>
+                    If you are looking for a <strong>medieval RPG music composer</strong> or want to 
+                    <strong>hire a composer for your indie game</strong>, I can write:
+                </p>
+                <ul>
+                    <li>Exploration themes for overworld, towns and dungeons</li>
+                    <li>Combat tracks for bosses, battles and arenas</li>
+                    <li>Menu, character creation and campfire music</li>
+                    <li>Loops and stingers tailored to your game engine</li>
+                </ul>
+
+                <p>
+                    I work with developers worldwide and deliver music in formats ready for Unity, Unreal Engine, Godot 
+                    and custom engines. Whether you need <strong>dungeon synth for games, medieval ambient or dark fantasy OST</strong>, 
+                    you can hire TopfHelm as your <strong>indie game composer</strong>.
+                </p>
+            </section>
+
+            <!-- Модалка контакта (как на главной) -->
+            <div id="contactModal" class="modal">
+                <div class="modal-content">
+                    <span class="close-modal">&times;</span>
+                    <h2>📩 Contact Me</h2>
+                    <form id="contactForm" action="https://formspree.io/f/xanewaek" method="POST">
+                        <label for="name">Your Name:</label>
+                        <input type="text" id="name" name="name" required>
+
+                        <label for="email">Your Email:</label>
+                        <input type="email" id="email" name="email" required>
+
+                        <label for="message">Message:</label>
+                        <textarea id="message" name="message" required></textarea>
+
+                        <input type="text" name="_gotcha" style="display:none">
+                        <button type="submit">Send</button>
+                    </form>
+                    <p id="form-status"></p>
+                </div>
+            </div>
+
+            <footer>
+                <p>© 2025 TopfHelm. All rights reserved.</p>
+            </footer>
+        </div>
+    </div>
+
+    <!-- PJAX init -->
+    <script>
+    $(document).pjax('a', '#content', {
+        fragment: '#content',
+        timeout: 8000
+    });
+
+    $(document).on('pjax:send', function () {
+        $("#preloader").fadeIn();
+    });
+
+    $(document).on('pjax:complete', function () {
+        setTimeout(() => {
+            $("#preloader").fadeOut();
+        }, 1000);
+    });
+    </script>
+
+    <!-- JS сайта -->
+    <script src="../scripts/langchange.js" defer></script>
+    <script src="../scripts/preloader.js" defer></script>
+    <script src="../scripts/main.js" defer></script>
+    <script src="../scripts/share.js" defer></script>
+    <script src="../scripts/contact.js" defer></script>
+    <script src="../scripts/up_button.js" defer></script>
+    <script src="../scripts/social.js" defer></script>
+    <script src="../scripts/composer-player.js" defer></script>
+
+</body>
+</html>

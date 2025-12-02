@@ -1,0 +1,372 @@
+/* ---------------------------
+   COMPOSER BLOCK
+---------------------------- */
+
+.composer-section {
+    padding: 40px 0;
+}
+
+.composer-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.composer-heading {
+    font-family: "IM Fell English SC", serif;
+    font-size: 28px;
+    text-align: center;
+    margin: 50px 0 20px;
+    letter-spacing: 1px;
+}
+
+.composer-text {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.composer-list {
+    max-width: 700px;
+    margin: 0 auto 30px auto;
+    padding-left: 20px;
+    line-height: 1.6;
+    font-size: 18px;
+}
+
+.composer-list li {
+    margin-bottom: 10px;
+}
+
+.composer-button-wrap {
+    text-align: center;
+    margin-top: 35px;
+}
+
+.contact-button {
+    background: #2ecc71;
+    color: black;
+    padding: 12px 30px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    display: inline-block;
+    text-transform: uppercase;
+    transition: 0.2s ease;
+}
+
+.contact-button:hover {
+    background: #27ae60;
+}
+
+.composer-divider {
+    border: none;
+    border-top: 1px solid rgba(255,255,255,0.1);
+    margin: 50px auto;
+    max-width: 700px;
+}
+
+.example-block {
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    background: rgba(0, 0, 0, 0.45);
+    padding: 25px 25px;
+    border-radius: 14px;
+
+    /* Медиевальная глубина + объём */
+    box-shadow:
+        0 0 20px rgba(0, 0, 0, 0.6),
+        inset 0 0 8px rgba(255, 255, 255, 0.05);
+
+    backdrop-filter: blur(4px);
+
+    margin-bottom: 40px;
+}
+
+.example-block h3 {
+    font-family: "IM Fell English SC", serif;
+    font-size: 20px;
+    margin-bottom: 16px;
+    text-align: center;
+    letter-spacing: 0.5px;
+    line-height: 1.3;
+}
+
+.example-block p strong {
+    font-size: 16px;
+    letter-spacing: 0.3px;
+    margin: 10px 0 4px;
+}
+
+.example-block audio {
+    width: 100%;
+    margin-bottom: 18px;
+}
+
+/* GRID for music blocks */
+.players-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 35px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px 20px;
+}
+
+/* Mobile: 1 column */
+@media (max-width: 900px) {
+    .players-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* ===========================
+   TopfHelm Custom Audio Player
+   =========================== */
+
+.tp-player {
+    box-sizing: border-box;
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    padding: 8px 12px;
+    border-radius: 999px;
+
+    background: #111111; /* тёмный, как в Spotify */
+    border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+
+/* Кнопка play */
+.tp-player-play {
+    position: relative;
+    width: 30px;
+    height: 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 0;
+    margin: 0;
+
+    border-radius: 50%;
+    border: none;
+
+    background: #1DB954;   /* Spotify зелёный */
+    color: #000;
+    cursor: pointer;
+
+    font-size: 14px;
+    line-height: 0;
+
+    transition: transform 0.08s ease, box-shadow 0.08s ease, background 0.08s ease;
+    box-shadow: 0 0 8px rgba(0,0,0,0.6);
+}
+
+.tp-player-play:hover {
+    transform: scale(1.05);
+    background: #1ed760;
+    box-shadow: 0 0 10px rgba(0,0,0,0.8);
+}
+
+.tp-player-play.is-paused {
+    background: #fff;
+    color: #3a3a3a;
+}
+
+.tp-player-play .tp-player-icon {
+    position: relative;
+    top: -1px; /* пиксель вверх, чтобы треугольник выглядел по центру */
+}
+
+/* Полоса прогресса */
+
+.tp-player-bar {
+    position: relative;
+    flex: 1;
+    height: 4px;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.18);
+    /* overflow: hidden;  <-- ЭТО УБРАТЬ */
+    cursor: pointer;
+}
+
+.tp-player-fill {
+    position: relative;
+    height: 100%;
+    width: 0%;
+    background: #1DB954;
+}
+
+/* Кружок-ползунок */
+.tp-player-fill::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translate(50%, -50%) scale(0.4);
+
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #ffffff;
+    box-shadow: 0 0 4px rgba(0,0,0,0.7);
+
+    opacity: 0;
+    transition: opacity 0.15s ease, transform 0.15s ease;
+}
+
+/* Появляется только при наведении на плеер */
+.tp-player:hover .tp-player-fill::after {
+    opacity: 1;
+    transform: translate(50%, -50%) scale(1);
+}
+
+
+/* Время */
+
+.tp-player-time {
+    flex-shrink: 0;
+    width: 80px;
+    text-align: right;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: rgba(255,255,255,0.85);
+}
+
+.tp-player-time span {
+    display: inline-block;
+}
+
+/* Спрятать нативный плеер */
+audio[data-tp-player] {
+    display: none;
+}
+
+/* Мобилка */
+
+@media (max-width: 600px) {
+    .tp-player {
+        padding: 8px 10px;
+        gap: 8px;
+    }
+
+    .tp-player-time {
+        display: none;
+    }
+}
+
+/* Контейнер */
+.contact-block {
+    width: 100%;
+    max-width: 420px;
+    margin: 60px auto 100px;
+    text-align: center;
+    font-family: "IM Fell English", serif;
+}
+
+/* Заголовок */
+.contact-title {
+    font-size: 32px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 35px;
+}
+
+/* Один контактный элемент */
+.contact-item {
+    margin-bottom: 32px;
+}
+
+/* Подписи (Email, Discord) */
+.contact-label {
+    display: block;
+    font-size: 17px;
+    opacity: 0.75;
+    margin-bottom: 6px;
+    letter-spacing: 0.5px;
+}
+
+/* Адреса */
+.contact-link,
+.contact-value {
+    font-size: 28px;
+    color: #ffffff;
+}
+
+/* Email — кликабельная ссылка */
+.contact-link {
+    color: #6fa8ff;
+    text-decoration: none;
+    transition: 0.25s ease;
+}
+
+.contact-link:hover {
+    color: #bcd9ff;
+    text-shadow: 0 0 6px rgba(150,180,255,0.6);
+}
+
+.contact-btn:hover {
+    background: #19cc60;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.4);
+}
+
+/* Списки на странице composer */
+.genres-list,
+.games-list {
+    list-style: disc;
+    padding-left: 22px;     /* отступ слева */
+    margin: 25px auto 40px;
+    max-width: 900px;       /* чтобы не тянулись на полэкрана */
+    text-align: left;       /* левое выравнивание */
+}
+
+/* Каждый пункт */
+.genres-list li,
+.games-list li {
+    font-family: Arial, Helvetica, sans-serif;  /* обычный, читабельный шрифт */
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #dcdcdc;
+
+    margin-bottom: 10px;
+}
+
+/* Маркеры (●) – более мягкий стиль */
+.genres-list li::marker,
+.games-list li::marker {
+    color: #aaaaaa;
+}
+
+/* Универсальные списки на странице composer */
+.composer-list {
+    list-style: disc;
+    padding-left: 28px;
+    margin: 25px auto 40px;
+    max-width: 900px;
+
+    text-align: left;
+}
+
+/* Элементы */
+.composer-list li {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 1.55;
+    color: #e5e5e5;
+    margin-bottom: 12px;
+}
+
+/* Мягкие маркеры */
+.composer-list li::marker {
+    color: #888;
+    font-size: 20px;
+}

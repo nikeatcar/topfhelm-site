@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TopfHelm Merch Store – Official Dungeon Folk Merchandise</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap" rel="stylesheet">
+
+  <link rel="canonical" href="https://topfhelm.com/shop">
+
+  <meta property="og:title" content="TopHelm Dungeon Synth & Dungeon Folk Merch Shop">
+  <meta property="og:description" content="The Best merch in Dungeon Synth & Dungeon Folk provided by TopfHelm">
+  <meta property="og:image" content="https://topfhelm.com/media/TopfHelm-logoBlack.webp">
+  <meta property="og:url" content="https://topfhelm.com/shop">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="stylesheet" href="../styles/merch.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.css">
+</head>
+
+  <script src="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.js"></script>
+
+<body>
+  <div id="cart-fixed">
+    <button id="view-cart">🛒 Cart (<span id="cart-count">0</span>)</button>
+  </div>
+<header>
+  <h1>TopfHelm Merch Store</h1>
+  <nav>
+    <a href="/">Home</a>
+  </nav>
+</header>
+
+<section id="merch-intro">
+  <p>Official TopfHelm merchandise. Handcrafted with medieval spirit. 🏰✨</p>
+  <p>Choose your relic and send your order via <strong>Instagram Direct</strong>!</p>
+</section>
+
+<!-- <section id="merch-filters">
+  <button class="filter-btn" data-filter="all">🔍 All</button>
+  <button class="filter-btn" data-filter="apparel">👕 Apparel</button>
+  <button class="filter-btn" data-filter="music">🎵 Music</button>
+</section> -->
+
+<section id="merch-grid">
+  <!-- Пример карточки товара -->
+
+  <div class="merch-item music">
+    <div class="glider-contain">
+      <div class="glider">
+        <img src="../media/merch/solemnis_cd_5.webp" alt="Solemnis CD Bundle">
+        <img src="../media/merch/solemnis_cd_1.webp" alt="Solemnis CD Box">
+        <img src="../media/merch/solemnis_cd_2.webp" alt="Solemnis CD Box + Jewel">
+        <img src="../media/merch/solemnis_cd_3.webp" alt="Solemnis CD Jewel Back">
+        <img src="../media/merch/solemnis_cd_4.webp" alt="Solemnis CD">
+
+      </div>
+      <button aria-label="Previous" class="glider-prev">«</button>
+      <button aria-label="Next" class="glider-next">»</button>
+      <div role="tablist" class="dots"></div>
+    </div>
+  
+    <h2>"Solemnis" CD Bundle</h2>
+    <p>Handmade, limited edition.</p>
+    <p class="price">€9</p>
+    <button class="cart-btn" onclick="addToCart('Solemnis Cassette')">Add to Order</button>
+  </div>
+
+  <div class="merch-item music">
+    <div class="glider-contain">
+      <div class="glider">
+        <img src="../media/merch/40_cassette_1.webp" alt="40 Box Front">
+        <img src="../media/merch/40_cassette_2.webp" alt="40 Box Side">
+        <img src="../media/merch/40_cassette_3.webp" alt="40 Cassette Box">
+        <img src="../media/merch/40_cassette_4.webp" alt="40 Cassette Dark">
+        <img src="../media/merch/40_cassette_5.webp" alt="40 Cassette Light">
+
+      </div>
+      <button aria-label="Previous" class="glider-prev">«</button>
+      <button aria-label="Next" class="glider-next">»</button>
+      <div role="tablist" class="dots"></div>
+    </div>
+  
+    <h2>"40" Collector's Edition</h2>
+    <p>Handmade, limited edition.</p>
+    <p class="price">€18</p>
+    <button class="cart-btn" onclick="addToCart('40 Cassette')">Add to Order</button>
+  </div>
+
+  <div class="merch-item music">
+    <div class="glider-contain">
+      <div class="glider">
+        <img src="../media/merch/sir_godric_cassette_1.webp" alt="Sir Godric Set">
+        <img src="../media/merch/sir_godric_cassette_2.webp" alt="Sir Godric Box Front">
+        <img src="../media/merch/sir_godric_cassette_3.webp" alt="Sir Godric Box Side">
+        <img src="../media/merch/sir_godric_cassette_4.webp" alt="Sir Godric Cassette">
+      </div>
+      <button aria-label="Previous" class="glider-prev">«</button>
+      <button aria-label="Next" class="glider-next">»</button>
+      <div role="tablist" class="dots"></div>
+    </div>
+  
+    <h2>"Sir Godric" Collector's Edition</h2>
+    <p>Handmade, limited edition.</p>
+    <p class="price">€15</p>
+    <button class="cart-btn" onclick="addToCart('Sir Godric Cassette')">Add to Order</button>
+  </div>
+
+  <!-- <div class="merch-item apparel">
+    <img src="/media/merch/sir_godric_tshirt.webp" alt="Sir Godric T-shirt">
+    <h2>"Sir Godric" T-shirt</h2>
+    <p>Color: Black</p>
+  
+    <div class="size-options">
+      <label>
+        <input type="radio" name="size-tshirt" value="S"> S
+      </label>
+      <label>
+        <input type="radio" name="size-tshirt" value="M"> M
+      </label>
+      <label>
+        <input type="radio" name="size-tshirt" value="L"> L
+      </label>
+      <label>
+        <input type="radio" name="size-tshirt" value="XL"> XL
+      </label>
+      <label>
+        <input type="radio" name="size-tshirt" value="XXL"> XXL
+      </label>
+    </div>
+  
+    <div class="premium-option">
+      <label><input type="checkbox" name="premium-tshirt" value="Premium"> Premium Oversized (+€10)</label>
+    </div>
+  
+    <p class="price">€20</p>
+    <button
+  class="cart-btn"
+  onclick="addTshirtToCart(this)"
+  data-name="Sir Godric T-shirt"
+  data-size-group="size-tshirt"
+  data-premium-group="premium-tshirt"
+  >Add to Order</button>
+
+  </div>
+
+
+  <div class="merch-item apparel">
+    <img src="/media/merch/miss_tshirt.webp" alt="Final Blow T-shirt">
+    <h2>"Final Blow" T-shirt</h2>
+    <p>Color: Black</p>
+  
+    <div class="size-options">
+      <label>
+        <input type="radio" name="size-tshirt" value="S"> S
+      </label>
+      <label>
+        <input type="radio" name="size-tshirt" value="M"> M
+      </label>
+      <label>
+        <input type="radio" name="size-tshirt" value="L"> L
+      </label>
+      <label>
+        <input type="radio" name="size-tshirt" value="XL"> XL
+      </label>
+      <label>
+        <input type="radio" name="size-tshirt" value="XXL"> XXL
+      </label>
+    </div>
+  
+    <div class="premium-option">
+      <label><input type="checkbox" name="premium-tshirt" value="Premium"> Premium Oversized (+€10)</label>
+    </div>
+  
+    <p class="price">€20</p>
+    <button
+  class="cart-btn"
+  onclick="addTshirtToCart(this)"
+  data-name="Final Blow T-shirt"
+  data-size-group="size-tshirt"
+  data-premium-group="premium-tshirt"
+  >Add to Order</button>
+
+  </div>
+
+  <div class="merch-item apparel">
+    <img src="/media/merch/medicine_tshirt.webp" alt="Medicine T-shirt">
+    <h2>"Medicine" T-shirt</h2>
+    <p>Color: Black</p>
+  
+    <div class="size-options">
+      <label>
+        <input type="radio" name="size-tshirt" value="S"> S
+      </label>
+      <label>
+        <input type="radio" name="size-tshirt" value="M"> M
+      </label>
+      <label>
+        <input type="radio" name="size-tshirt" value="L"> L
+      </label>
+      <label>
+        <input type="radio" name="size-tshirt" value="XL"> XL
+      </label>
+      <label>
+        <input type="radio" name="size-tshirt" value="XXL"> XXL
+      </label>
+    </div>
+  
+    <div class="premium-option">
+      <label><input type="checkbox" name="premium-tshirt" value="Premium"> Premium Oversized (+€10)</label>
+    </div>
+  
+    <p class="price">€20</p>
+    <button
+  class="cart-btn"
+  onclick="addTshirtToCart(this)"
+  data-name="Medicine T-shirt"
+  data-size-group="size-tshirt"
+  data-premium-group="premium-tshirt"
+  >Add to Order</button>
+  
+  </div> -->
+
+    
+</section>
+
+<section id="merch-grid"></section>
+
+</section>
+
+
+
+
+<!-- <h2>🔥 New T-shirts prints are coming soon 🔥</h2> -->
+
+<!-- Popup окно для заказа -->
+<div id="order-popup" class="hidden">
+  <div class="order-content">
+    <span id="close-popup">&times;</span>
+    <h2>Order Details</h2>
+    <textarea id="order-text" readonly></textarea>
+    <ul id="order-list" class="order-list"></ul>
+    <button id="copy-order">Copy Order Text</button>
+    <a href="https://www.instagram.com/direct/t/17843928615430368" target="_blank" id="send-instagram">Submit Order</a>
+  </div>
+</div>
+
+<script src="../scripts/merch.js"></script>
+<script src="../scripts/cart.js"></script>
+</body>
+</html>

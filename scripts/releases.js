@@ -13,9 +13,8 @@ spadcyna: {
       </p>
 
        
-          <div class="cta-buttons">
             <a href="https://distrokid.com/hyperfollow/topfhelm/spadyna" target="_blank" class="shop-btn">
-              ${isRussian ? '🎧 Предсохранить альбом' : '🎧 Presave'}
+              ${isRussian ? '🎧 Предсохранить' : '🎧 Presave'}
             </a>
           </div>
         </div>
