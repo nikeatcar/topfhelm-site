@@ -359,6 +359,31 @@
         <span class="contact-value">nikeatcar</span>
     </div>
                     <a href="#" id="openContactForm" class="contact-button">Contact Me</a>
+
+    <!-- Всплывающее модальное окно с формой -->
+    <div id="contactModal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <h2>📩 Contact Me</h2>
+            <form id="contactForm" action="https://formspree.io/f/xanewaek" method="POST">
+                <label for="name">Your Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Your Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea>
+
+                <!-- Honeypot (скрытое поле для защиты от ботов) -->
+                <input type="text" name="_gotcha" style="display:none">
+                
+                <button type="submit">Send</button>
+            </form>
+            <p id="form-status"></p>
+        </div>
+    </div>
+    </div>
             </section>
 
             <!-- SEO-блок с текстом под игровые запросы -->
@@ -388,28 +413,6 @@
                     you can hire TopfHelm as your <strong>indie game composer</strong>.
                 </p>
             </section>
-
-            <!-- Модалка контакта (как на главной) -->
-            <div id="contactModal" class="modal">
-                <div class="modal-content">
-                    <span class="close-modal">&times;</span>
-                    <h2>📩 Contact Me</h2>
-                    <form id="contactForm" action="https://formspree.io/f/xanewaek" method="POST">
-                        <label for="name">Your Name:</label>
-                        <input type="text" id="name" name="name" required>
-
-                        <label for="email">Your Email:</label>
-                        <input type="email" id="email" name="email" required>
-
-                        <label for="message">Message:</label>
-                        <textarea id="message" name="message" required></textarea>
-
-                        <input type="text" name="_gotcha" style="display:none">
-                        <button type="submit">Send</button>
-                    </form>
-                    <p id="form-status"></p>
-                </div>
-            </div>
 
             <footer>
                 <p>© 2025 TopfHelm. All rights reserved.</p>
