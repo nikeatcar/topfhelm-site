@@ -168,10 +168,10 @@
     
 
     <script>
-    $(document).pjax('a', '#content', {
-        fragment: '#content',
-        timeout: 8000
-    });
+ $(document).pjax('a[data-pjax!="no"]', '#content', {
+    fragment: '#content',
+    timeout: 8000
+});
 
     $(document).on('pjax:send', function () {
         $("#preloader").fadeIn();  // Показываем прелоадер при начале загрузки
@@ -282,7 +282,7 @@
             <a href="/shop" class="shop-btn">🤑 В Магазин 🤑</a>
           </div>
         <div class="cta-buttons">
-            <a href="/composer" class="shop-btn">🎼 Композитор</a>
+            <a href="/composer" class="shop-btn" data-pjax="no">🎼 Композитор</a>
           </div>
 <!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
