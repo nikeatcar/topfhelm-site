@@ -12,17 +12,40 @@ spadcyna: {
           : 'A full-length 25-track album rooted in Belarusian folklore. Over 80 minutes of atmospheric music shaped by ancient rituals, forest spirits, traditional chants and mystical Slavic motifs. A deep journey into Belarusian cultural heritage, crafted through Dungeon Folk and Medieval Ambient.'}
       </p>
 
-       
-            <a href="https://distrokid.com/hyperfollow/topfhelm/spadyna" target="_blank" class="shop-btn">
-              ${isRussian ? '🎧 Предсохранить' : '🎧 Presave'}
-            </a>
+      <div class="players">
+       <iframe data-testid="embed-iframe" style="border-radius:12px"
+         src="https://open.spotify.com/embed/album/5CYvq8tt4ndont6zxrHRcg?utm_source=generator"
+         width="100%" height="352" frameBorder="0" allowfullscreen=""
+         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+         loading="lazy">
+       </iframe>
+     </div>
+
+     <div id="social-container">
+       <div class="social-icons">
+         <a href="https://topfhelm.bandcamp.com/album/spad-yna" target="blank">
+           <img src="icons/Bandcamp_icon.svg" alt="Listen to Spadčyna by TopfHelm on BandCamp" loading="lazy">
+         </a>
+         <a href="https://soundcloud.com/topfhelmmusic/sets/spadchyna" target="blank">
+         <img src="icons/Soundcloud_icon.svg" alt="Listen to Spadčyna by TopfHelm on Soundcloud" loading="lazy">
+         </a>
+       </div>
+     </div>
+     <h2>${isRussian ? '🎁 Мерч' : '🎁 Related Merch'}</h2>
+     <div class="merch-preview">
+       <div class="bandcamp-merch-card">
+         <img class="merch-cover" src="media/merch/spadcyna_cassette_1.webp" alt="Spadčyna Cassette">
+         <p><strong>"Spadčyna" – ${isRussian ? 'Коллекционное издание на кассете' : "Collector's Cassette Edition"}</strong></p>
+         <p>${isRussian
+           ? 'Ручная запись кассеты, деревянная коробка и льняной вкладыш с вышивкой. Эксклюзивный тираж, созданный местными мастерами. В комплект входят стикеры и коллекционные карточки.'
+           : 'Hand-recorded cassette, wooden box, and a linen embroidered insert crafted by local artisans. An exclusive limited edition that also includes stickers and collectible cards.'}</p>
+         <a href="https://topfhelm.bandcamp.com/album/spad-yna" target="_blank" class="shop-btn">Buy on Bandcamp</a>
           </div>
         </div>
       </div>
     </div>
   `
 },
-
 
 
         solemnis: {
