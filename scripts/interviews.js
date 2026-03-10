@@ -35,6 +35,11 @@
              target="_blank" rel="noopener">
             ${t('Интервью каналу "Mayhem Facts & Quotes"', '"Mayhem Facts & Quotes" channel Interview')}
           </a>
+          <a class="interview-link"
+             href="https://youtu.be/He7gtqbDm9Q?si=puN8-qpaSijjpbdQ"
+             target="_blank" rel="noopener">
+            ${t('Интервью каналу "BUGURT"', '"BUGURT" channel Interview')}
+          </a>
         </div>
       </div>
     `;
