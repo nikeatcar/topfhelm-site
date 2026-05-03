@@ -90,6 +90,24 @@
   force = true
 
 [[redirects]]
+  from = "/the-emerald-saga"
+  to = "/the-emerald-saga/index.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/the-emerald-saga/ru"
+  to = "/the-emerald-saga/index-ru.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/the-emerald-saga/ru/"
+  to = "/the-emerald-saga/index-ru.html"
+  status = 200
+  force = true
+
+[[redirects]]
   from = "/shop"
   to = "/shop.html"
   status = 200
