@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'Blackcraft';
+    src: url('../the-emerald-saga/media/Blackcraft.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
 /* =========================
    GLOBAL FIX (ВАЖНО)
 ========================= */
@@ -567,4 +576,13 @@ body.tes-body footer p {
     .tes-description {
         grid-column: auto;
     }
+}
+
+.tes-intro h1,
+.tes-description h2,
+.tes-section-inner h2,
+.tes-tracklist h3,
+.tes-ending p {
+    font-family: 'Blackcraft', serif;
+    letter-spacing: 1px;
 }
