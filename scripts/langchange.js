@@ -11,25 +11,37 @@ document.addEventListener("DOMContentLoaded", function () {
     if (!switchLangBtn) return; // Если кнопки нет, выходим
 
     switchLangBtn.addEventListener("click", function () {
-        let currentURL = window.location.pathname;
+    let currentURL = window.location.pathname;
 
-        if (currentURL === "/" || currentURL === "/en") {
-            // Если текущая главная страница — переключаем на русскую версию
-            window.location.href = "/ru";
-        } else if (currentURL === "/ru") {
-            // Если русская версия — переключаем на английскую
-            window.location.href = "/en";
-        } else {
-            // Если внутри страниц (например, /articles/article.html), меняем en на ru и наоборот
-            if (currentURL.includes("-ru")) {
-                let newURL = currentURL.replace("-ru", ""); // Убираем -ru для английской версии
-                window.location.href = newURL;
-            } else {
-                let newURL = currentURL.replace(/(\/[a-zA-Z0-9-]+)(\.html)?$/, "$1-ru$2"); // Добавляем -ru перед .html
-                window.location.href = newURL;
-            }
-        }
-    });
+    // The Emerald Saga
+    if (currentURL === "/the-emerald-saga/" || currentURL === "/the-emerald-saga") {
+        window.location.href = "/the-emerald-saga/ru";
+        return;
+    }
+
+    if (currentURL === "/the-emerald-saga/ru" || currentURL === "/the-emerald-saga/ru/") {
+        window.location.href = "/the-emerald-saga/";
+        return;
+    }
+
+    // Главная
+    if (currentURL === "/" || currentURL === "/en") {
+        window.location.href = "/ru";
+        return;
+    }
+
+    if (currentURL === "/ru") {
+        window.location.href = "/en";
+        return;
+    }
+
+    // Старые страницы через -ru
+    if (currentURL.includes("-ru")) {
+        window.location.href = currentURL.replace("-ru", "");
+    } else {
+        window.location.href = currentURL.replace(/(\/[a-zA-Z0-9-]+)(\.html)?$/, "$1-ru$2");
+    }
+});
 
     console.log("Определение языка страницы...");
 
