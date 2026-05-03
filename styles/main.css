@@ -266,6 +266,43 @@ body.ru #countdown-text {
   }
 }
 
+#album-detail {
+  position: relative;
+}
+
+#album-detail .album-card {
+  position: relative;
+  padding-top: 32px;
+}
+
+.album-detail-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 50;
+
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  background: rgba(0, 0, 0, 0.85);
+  color: #fff;
+
+  font-size: 26px;
+  line-height: 1;
+  cursor: pointer;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.album-detail-close:hover {
+  background: #e2c15a;
+  color: #000;
+}
+
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
 ;;                  ----==| Б Л О К   А Л Ь Б О М А |==----                   ;;

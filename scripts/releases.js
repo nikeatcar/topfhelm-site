@@ -212,48 +212,81 @@ spadcyna: {
 // Основной скрипт
 document.querySelectorAll('.album-icon').forEach(icon => {
   icon.addEventListener('click', () => {
+
     const selected = icon.dataset.album;
     if (!albumData[selected]) return;
 
     const container = document.getElementById('album-detail');
     if (!container) return;
 
-    // Удаляем активный класс с других
-    document.querySelectorAll('.album-icon').forEach(el => el.classList.remove('active'));
+    // Если повторно нажали на уже открытый альбом — закрываем секцию
+    if (icon.classList.contains('active')) {
+      container.classList.remove('visible');
+
+      setTimeout(() => {
+        container.innerHTML = '';
+        icon.classList.remove('active');
+      }, 250);
+
+      return;
+    }
+
+    // Удаляем active у других иконок
+    document.querySelectorAll('.album-icon').forEach(el => {
+      el.classList.remove('active');
+    });
+
     icon.classList.add('active');
 
     // Плавная замена
     container.classList.remove('visible');
+
     setTimeout(() => {
-    container.innerHTML = albumData[selected].getHtml(isRussian);
-    initYouTubePlaceholders();
-    container.classList.add('visible');
+      container.innerHTML = `
+        <button class="album-detail-close" type="button" aria-label="Close album section">×</button>
+        ${albumData[selected].getHtml(isRussian)}
+      `;
+
+      initYouTubePlaceholders();
+      container.classList.add('visible');
+
+      const closeBtn = container.querySelector('.album-detail-close');
+
+      if (closeBtn) {
+        closeBtn.addEventListener('click', () => {
+          container.classList.remove('visible');
+
+          setTimeout(() => {
+            container.innerHTML = '';
+
+            document.querySelectorAll('.album-icon').forEach(el => {
+              el.classList.remove('active');
+            });
+          }, 250);
+        });
+      }
     }, 100);
 
-
-    document.querySelectorAll('.album-icon').forEach(el =>
-    el.classList.remove('active')
-    );
-    icon.classList.add('active');
-
-    function initYouTubePlaceholders() {
-    document.querySelectorAll('.youtube-placeholder').forEach(placeholder => {
-        if (placeholder.dataset.initialized) return;
-        placeholder.dataset.initialized = true;
-
-        placeholder.addEventListener('click', () => {
-        const videoId = placeholder.dataset.video;
-        const iframe = document.createElement('iframe');
-        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
-        iframe.frameBorder = '0';
-        iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
-        iframe.allowFullscreen = true;
-        iframe.width = '100%';
-        iframe.height = '315';
-
-        placeholder.replaceWith(iframe);
-        });
-    });
-    }
   });
 });
+
+function initYouTubePlaceholders() {
+  document.querySelectorAll('.youtube-placeholder').forEach(placeholder => {
+    if (placeholder.dataset.initialized) return;
+    placeholder.dataset.initialized = true;
+
+    placeholder.addEventListener('click', () => {
+      const videoId = placeholder.dataset.video;
+
+      const iframe = document.createElement('iframe');
+      iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+      iframe.frameBorder = '0';
+      iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+      iframe.allowFullscreen = true;
+      iframe.width = '100%';
+      iframe.height = '315';
+
+      placeholder.replaceWith(iframe);
+    });
+  });
+}

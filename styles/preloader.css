@@ -1,62 +1,61 @@
-/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
-;;             ----==| А Н И М А Ц И Я   З А Г Р У З К И |==----              ;;
-;;                                                                            ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-
-.fade-in {
-    opacity: 0;
-    transform: translateY(20px);
-    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
-  }
-  
-  .fade-in.visible {
-    opacity: 1;
-    transform: translateY(0);
-  }
-
-/* Фон прелоадера */
 #preloader {
     position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background: #111;
+    inset: 0;
+
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    z-index: 99999;
+
+    background: #000;
+    z-index: 9999;
+
+    opacity: 1;
+    visibility: visible;
 }
 
-/* Логотип */
 .preloader-logo {
     width: 200px;
     height: auto;
-    margin-bottom: 40px;
-    animation: fadeIn 1.5s forwards;
+    opacity: 0.9;
 }
 
-/* Полоса загрузки */
 .loader-bar {
-    width: 0%;
-    max-width: 600px;
+    position: relative;
+    margin-top: 22px;
+
+    width: 20%;
     height: 4px;
-    min-height: 4px;
-    background: linear-gradient(90deg, #c99b2b, #ffdb4d, #c99b2b);
-    box-shadow: 0 0 10px #ffdb4d;
-    animation: loadBar 1s linear forwards;
+
+    overflow: hidden;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.12);
 }
 
-/* Анимация заполнения полоски */
-@keyframes loadBar {
-    0% { width: 0%; }
-    100% { width: 100%; }
+.loader-bar::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -45%;
+
+    width: 45%;
+    height: 100%;
+
+    background: linear-gradient(
+        90deg,
+        transparent,
+        #e2c15a,
+        transparent
+    );
+
+    animation: loaderMove 1.1s infinite linear;
 }
 
-/* Анимация появления логотипа */
-@keyframes fadeIn {
-    0% { opacity: 0; transform: scale(0.9); }
-    100% { opacity: 1; transform: scale(1); }
+@keyframes loaderMove {
+    from {
+        left: -45%;
+    }
+    to {
+        left: 100%;
+    }
 }
