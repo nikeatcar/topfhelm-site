@@ -25,28 +25,36 @@
     filter: invert(1) brightness(1.5);
 }
 
-/* ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
-;;                        ----==| П А Н Е Л Ь |==----                         ;;
-;;                                                                            ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; */
 /* 📌 Фиксированная панель соцсетей */
 #fixed-social-bar {
     position: fixed;
-    top: -70px; /* Начинаем выше экрана */
+    top: -70px;
     left: 50%;
     transform: translateX(-50%);
     background: rgba(0, 0, 0, 0.9);
     padding: 0px 10px;
     border-radius: 0 0 20px 20px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+
+    /* ТЕКУЩАЯ ТЕНЬ */
+    box-shadow:
+        0 4px 10px rgba(0, 0, 0, 0.5),
+
+        /* ПОДСВЕТКА ПО КОНТУРУ */
+        0 0 12px rgba(216, 192, 139, 0.35),
+        0 0 24px rgba(216, 192, 139, 0.15);
+
+    /* ТОНКАЯ РАМКА */
+    border: 1px solid rgba(216, 192, 139, 0.25);
+
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 15px;
     width: fit-content;
     z-index: 1000;
-    transition: top 0.3s ease-in-out;
+    transition:
+        top 0.3s ease-in-out,
+        box-shadow 0.3s ease;
 }
 
 /* Показываем панель при скролле */

@@ -1,168 +1,262 @@
 /* ---------------------------
-   COMPOSER BLOCK
+   COMPOSER PAGE BASE
 ---------------------------- */
 
+.composer-page {
+    max-width: 1180px;
+}
+
+.composer-page p,
+.composer-page li,
+.composer-page label,
+.composer-page input,
+.composer-page textarea,
+.composer-page select {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .composer-section {
-    padding: 40px 0;
-}
-
-.composer-container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 0 20px;
-}
-
-.composer-heading {
-    font-family: "IM Fell English SC", serif;
-    font-size: 28px;
-    text-align: center;
-    margin: 50px 0 20px;
-    letter-spacing: 1px;
-}
-
-.composer-text {
-    font-size: 18px;
-    line-height: 1.6;
-    text-align: center;
-    margin-bottom: 25px;
-}
-
-.composer-list {
-    max-width: 700px;
-    margin: 0 auto 30px auto;
-    padding-left: 20px;
-    line-height: 1.6;
-    font-size: 18px;
-}
-
-.composer-list li {
-    margin-bottom: 10px;
-}
-
-.composer-button-wrap {
-    text-align: center;
-    margin-top: 35px;
-}
-
-.contact-button {
-    background: #2ecc71;
-    color: black;
-    padding: 12px 30px;
-    border-radius: 10px;
-    font-size: 18px;
-    font-weight: bold;
-    display: inline-block;
-    text-transform: uppercase;
-    transition: 0.2s ease;
-}
-
-.contact-button:hover {
-    background: #27ae60;
+    padding: 46px 0;
 }
 
 .composer-divider {
     border: none;
-    border-top: 1px solid rgba(255,255,255,0.1);
-    margin: 50px auto;
-    max-width: 700px;
+    border-top: 1px solid rgba(255,255,255,0.12);
+    margin: 56px auto;
+    max-width: 760px;
+}
+
+.composer-heading {
+    font-family: "IM Fell English SC", serif;
+    font-size: 34px;
+    text-align: center;
+    margin: 0 0 22px;
+    letter-spacing: 1px;
+}
+
+.composer-text {
+    max-width: 820px;
+    margin: 0 auto 30px;
+    font-size: 18px;
+    line-height: 1.65;
+    text-align: center;
+    color: #ddd;
+}
+
+/* ---------------------------
+   HERO
+---------------------------- */
+
+.composer-hero {
+    max-width: 920px;
+    margin: 0 auto 40px;
+    padding: 35px 20px 20px;
+    text-align: center;
+}
+
+.composer-hero h1 {
+    max-width: 920px;
+    margin: 20px auto 14px;
+    font-family: "IM Fell English SC", serif;
+    font-size: clamp(34px, 5vw, 56px);
+    line-height: 1.1;
+    letter-spacing: 1px;
+}
+
+.composer-hero .genre {
+    max-width: 780px;
+    margin: 0 auto 24px;
+    font-size: clamp(20px, 3vw, 28px);
+    line-height: 1.35;
+    opacity: 0.95;
+}
+
+.composer-hero-text {
+    max-width: 760px;
+    margin: 0 auto 32px;
+    font-size: 19px;
+    line-height: 1.65;
+    color: #e0e0e0;
+}
+
+.composer-hero-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.composer-secondary-btn {
+    background: transparent !important;
+    color: #fff !important;
+    border: 1px solid rgba(255,255,255,0.25);
+}
+
+.composer-secondary-btn:hover {
+    border-color: rgba(255,255,255,0.55);
+    background: rgba(255,255,255,0.06) !important;
+}
+
+/* ---------------------------
+   CARDS COMMON
+---------------------------- */
+
+.commission-card,
+.commission-type-card,
+.workflow-step,
+.pricing-card,
+.terms-grid > div,
+.example-block,
+.commission-form,
+.contact-block {
+    border: 1px solid rgba(255, 255, 255, 0.16);
+    background: rgba(0, 0, 0, 0.48);
+    border-radius: 14px;
+    box-shadow:
+        0 0 22px rgba(0, 0, 0, 0.65),
+        inset 0 0 10px rgba(255, 255, 255, 0.04);
+    backdrop-filter: blur(4px);
+}
+
+.commission-card h3,
+.commission-type-card h3,
+.workflow-step h3,
+.pricing-card h3,
+.terms-grid h3 {
+    font-family: "IM Fell English SC", serif;
+    letter-spacing: 0.7px;
+}
+
+/* ---------------------------
+   CUSTOM COMMISSIONS
+---------------------------- */
+
+.commission-grid,
+.commission-type-grid,
+.workflow-grid,
+.terms-grid {
+    max-width: 1120px;
+    margin: 34px auto 0;
+    padding: 0 20px;
+    display: grid;
+    gap: 22px;
+}
+
+.commission-grid {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.commission-card {
+    padding: 26px 22px;
+    text-align: center;
+    transition: transform 0.22s ease, border-color 0.22s ease, box-shadow 0.22s ease;
+}
+
+.commission-card:hover {
+    transform: translateY(-3px);
+    border-color: rgba(226, 193, 90, 0.35);
+    box-shadow:
+        0 0 28px rgba(0, 0, 0, 0.8),
+        0 0 18px rgba(226, 193, 90, 0.08);
+}
+
+.commission-card h3 {
+    margin: 0 0 12px;
+    font-size: 24px;
+}
+
+.commission-card p {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.55;
+    color: #d7d7d7;
+}
+
+/* ---------------------------
+   AUDIO EXAMPLES
+---------------------------- */
+
+.players-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 30px;
+    max-width: 1320px;
+    margin: 0 auto;
+    padding: 12px 20px;
 }
 
 .example-block {
-    border: 1px solid rgba(255, 255, 255, 0.18);
-    background: rgba(0, 0, 0, 0.45);
-    padding: 25px 25px;
-    border-radius: 14px;
-
-    /* Медиевальная глубина + объём */
-    box-shadow:
-        0 0 20px rgba(0, 0, 0, 0.6),
-        inset 0 0 8px rgba(255, 255, 255, 0.05);
-
-    backdrop-filter: blur(4px);
-
-    margin-bottom: 40px;
+    padding: 28px 26px;
+    position: relative;
 }
 
 .example-block h3 {
     font-family: "IM Fell English SC", serif;
-    font-size: 20px;
-    margin-bottom: 16px;
+    font-size: 23px;
+    margin: 10px 0 18px;
     text-align: center;
     letter-spacing: 0.5px;
     line-height: 1.3;
 }
 
+.example-block p {
+    margin: 16px 0 8px;
+}
+
 .example-block p strong {
-    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
     letter-spacing: 0.3px;
-    margin: 10px 0 4px;
+    color: #e5e5e5;
 }
 
-.example-block audio {
-    width: 100%;
-    margin-bottom: 18px;
+.composer-tag {
+    display: block;
+    width: fit-content;
+    margin: 0 auto 10px;
+    padding: 5px 12px;
+    border: 1px solid rgba(226, 193, 90, 0.28);
+    border-radius: 999px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #e2c15a;
+    background: rgba(226, 193, 90, 0.06);
 }
 
-/* GRID for music blocks */
-.players-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 35px;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 10px 20px;
-}
-
-/* Mobile: 1 column */
-@media (max-width: 900px) {
-    .players-grid {
-        grid-template-columns: 1fr;
-    }
-}
-
-/* ===========================
-   TopfHelm Custom Audio Player
-   =========================== */
+/* ---------------------------
+   CUSTOM AUDIO PLAYER
+---------------------------- */
 
 .tp-player {
     box-sizing: border-box;
     width: 100%;
-
     display: flex;
     align-items: center;
     gap: 10px;
-
     padding: 8px 12px;
     border-radius: 999px;
-
-    background: #111111; /* тёмный, как в Spotify */
+    background: #111111;
     border: 1px solid rgba(255, 255, 255, 0.08);
 }
 
-
-/* Кнопка play */
 .tp-player-play {
     position: relative;
     width: 30px;
     height: 30px;
-
     display: flex;
     align-items: center;
     justify-content: center;
-
     padding: 0;
     margin: 0;
-
     border-radius: 50%;
     border: none;
-
-    background: #1DB954;   /* Spotify зелёный */
+    background: #1DB954;
     color: #000;
     cursor: pointer;
-
     font-size: 14px;
     line-height: 0;
-
     transition: transform 0.08s ease, box-shadow 0.08s ease, background 0.08s ease;
     box-shadow: 0 0 8px rgba(0,0,0,0.6);
 }
@@ -180,10 +274,8 @@
 
 .tp-player-play .tp-player-icon {
     position: relative;
-    top: -1px; /* пиксель вверх, чтобы треугольник выглядел по центру */
+    top: -1px;
 }
-
-/* Полоса прогресса */
 
 .tp-player-bar {
     position: relative;
@@ -191,7 +283,6 @@
     height: 4px;
     border-radius: 999px;
     background: rgba(255, 255, 255, 0.18);
-    /* overflow: hidden;  <-- ЭТО УБРАТЬ */
     cursor: pointer;
 }
 
@@ -202,104 +293,345 @@
     background: #1DB954;
 }
 
-/* Кружок-ползунок */
 .tp-player-fill::after {
     content: "";
     position: absolute;
     right: 0;
     top: 50%;
     transform: translate(50%, -50%) scale(0.4);
-
     width: 10px;
     height: 10px;
     border-radius: 50%;
     background: #ffffff;
     box-shadow: 0 0 4px rgba(0,0,0,0.7);
-
     opacity: 0;
     transition: opacity 0.15s ease, transform 0.15s ease;
 }
 
-/* Появляется только при наведении на плеер */
 .tp-player:hover .tp-player-fill::after {
     opacity: 1;
     transform: translate(50%, -50%) scale(1);
 }
 
-
-/* Время */
-
 .tp-player-time {
     flex-shrink: 0;
     width: 80px;
     text-align: right;
-
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
     color: rgba(255,255,255,0.85);
 }
 
-.tp-player-time span {
-    display: inline-block;
-}
-
-/* Спрятать нативный плеер */
 audio[data-tp-player] {
     display: none;
 }
 
-/* Мобилка */
+/* ---------------------------
+   TYPES OF COMMISSIONS
+---------------------------- */
 
-@media (max-width: 600px) {
-    .tp-player {
-        padding: 8px 10px;
-        gap: 8px;
-    }
-
-    .tp-player-time {
-        display: none;
-    }
+.commission-type-grid {
+    grid-template-columns: repeat(3, 1fr);
 }
 
-/* Контейнер */
+.commission-type-card {
+    padding: 24px 22px;
+}
+
+.commission-type-card h3 {
+    margin: 0 0 12px;
+    font-size: 23px;
+    text-align: center;
+}
+
+.commission-type-card p {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.55;
+    text-align: center;
+    color: #d8d8d8;
+}
+
+/* ---------------------------
+   WORKFLOW
+---------------------------- */
+
+.workflow-grid {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.workflow-step {
+    padding: 26px 22px;
+    position: relative;
+}
+
+.workflow-step span {
+    display: block;
+    margin-bottom: 12px;
+    font-family: "IM Fell English SC", serif;
+    font-size: 28px;
+    color: #e2c15a;
+    opacity: 0.85;
+}
+
+.workflow-step h3 {
+    margin: 0 0 12px;
+    font-size: 22px;
+}
+
+.workflow-step p {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.55;
+    color: #d8d8d8;
+}
+
+/* ---------------------------
+   LISTS
+---------------------------- */
+
+.composer-list {
+    list-style: disc;
+    padding-left: 28px;
+    margin: 28px auto 40px;
+    max-width: 900px;
+    text-align: left;
+}
+
+.composer-list li {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.55;
+    color: #e5e5e5;
+    margin-bottom: 12px;
+}
+
+.composer-list li::marker {
+    color: #888;
+    font-size: 20px;
+}
+
+/* ---------------------------
+   PRICING
+---------------------------- */
+
+.pricing-grid {
+    max-width: 1120px;
+    margin: 40px auto 0;
+    padding: 0 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    align-items: stretch;
+}
+
+.pricing-card {
+    padding: 30px 24px;
+    text-align: center;
+    position: relative;
+}
+
+.pricing-card-featured {
+    border-color: rgba(226, 193, 90, 0.5);
+    box-shadow:
+        0 0 32px rgba(0, 0, 0, 0.85),
+        0 0 22px rgba(226, 193, 90, 0.12),
+        inset 0 0 12px rgba(255, 255, 255, 0.05);
+    transform: translateY(-8px);
+}
+
+.pricing-badge {
+    display: inline-block;
+    margin-bottom: 16px;
+    padding: 5px 12px;
+    border-radius: 999px;
+    background: rgba(226, 193, 90, 0.12);
+    border: 1px solid rgba(226, 193, 90, 0.35);
+    color: #e2c15a;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.pricing-card h3 {
+    margin: 0 0 10px;
+    font-size: 30px;
+}
+
+.pricing-price {
+    margin: 0 0 16px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #e2c15a;
+}
+
+.pricing-for {
+    min-height: 82px;
+    margin: 0 0 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #d7d7d7;
+}
+
+.pricing-card ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 26px;
+    text-align: left;
+}
+
+.pricing-card li {
+    padding: 8px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+    font-size: 15px;
+    color: #e0e0e0;
+}
+
+.pricing-card li::before {
+    content: "✓";
+    margin-right: 8px;
+    color: #e2c15a;
+}
+
+.pricing-note {
+    max-width: 820px;
+    margin: 28px auto 0;
+    padding: 0 20px;
+    font-size: 15px;
+    line-height: 1.55;
+    text-align: center;
+    color: #aaa;
+}
+
+/* ---------------------------
+   COMMISSION FORM
+---------------------------- */
+
+.commission-form-section {
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+.commission-form {
+    max-width: 760px;
+    margin: 36px auto 0;
+    padding: 32px 28px;
+}
+
+.commission-form label {
+    display: block;
+    margin-bottom: 20px;
+    text-align: left;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+    color: #ddd;
+}
+
+.commission-form input,
+.commission-form textarea,
+.commission-form select {
+    box-sizing: border-box;
+    width: 100%;
+    margin-top: 8px;
+    padding: 13px 14px;
+    border-radius: 10px;
+    border: 1px solid rgba(255,255,255,0.14);
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    font-size: 15px;
+    outline: none;
+}
+
+.commission-form textarea {
+    resize: vertical;
+}
+
+.commission-form input:focus,
+.commission-form textarea:focus,
+.commission-form select:focus {
+    border-color: rgba(226, 193, 90, 0.55);
+    box-shadow: 0 0 0 2px rgba(226, 193, 90, 0.08);
+}
+
+.commission-form-row {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 18px;
+}
+
+.commission-submit {
+    display: block;
+    margin: 28px auto 0;
+    border: none;
+    cursor: pointer;
+}
+
+/* ---------------------------
+   TERMS
+---------------------------- */
+
+.terms-grid {
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.terms-grid > div {
+    padding: 24px 20px;
+    text-align: center;
+}
+
+.terms-grid h3 {
+    margin: 0 0 12px;
+    font-size: 22px;
+}
+
+.terms-grid p {
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.55;
+    color: #d7d7d7;
+}
+
+/* ---------------------------
+   CONTACT
+---------------------------- */
+
 .contact-block {
     width: 100%;
-    max-width: 420px;
-    margin: 60px auto 100px;
+    max-width: 480px;
+    margin: 40px auto 90px;
+    padding: 34px 26px;
     text-align: center;
-    font-family: "IM Fell English", serif;
 }
 
-/* Заголовок */
 .contact-title {
-    font-size: 32px;
+    font-family: "IM Fell English SC", serif;
+    font-size: 34px;
     text-transform: uppercase;
     letter-spacing: 1px;
-    margin-bottom: 35px;
+    margin-bottom: 34px;
 }
 
-/* Один контактный элемент */
 .contact-item {
-    margin-bottom: 32px;
+    margin-bottom: 30px;
 }
 
-/* Подписи (Email, Discord) */
 .contact-label {
     display: block;
-    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
     opacity: 0.75;
-    margin-bottom: 6px;
+    margin-bottom: 8px;
     letter-spacing: 0.5px;
 }
 
-/* Адреса */
 .contact-link,
 .contact-value {
-    font-size: 28px;
+    font-size: clamp(20px, 4vw, 28px);
     color: #ffffff;
 }
 
-/* Email — кликабельная ссылка */
 .contact-link {
     color: #6fa8ff;
     text-decoration: none;
@@ -311,62 +643,185 @@ audio[data-tp-player] {
     text-shadow: 0 0 6px rgba(150,180,255,0.6);
 }
 
-.contact-btn:hover {
-    background: #19cc60;
-    transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(0,0,0,0.4);
-}
-
-/* Списки на странице composer */
-.genres-list,
-.games-list {
-    list-style: disc;
-    padding-left: 22px;     /* отступ слева */
-    margin: 25px auto 40px;
-    max-width: 900px;       /* чтобы не тянулись на полэкрана */
-    text-align: left;       /* левое выравнивание */
-}
-
-/* Каждый пункт */
-.genres-list li,
-.games-list li {
-    font-family: Arial, Helvetica, sans-serif;  /* обычный, читабельный шрифт */
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 1.6;
-    color: #dcdcdc;
-
-    margin-bottom: 10px;
-}
-
-/* Маркеры (●) – более мягкий стиль */
-.genres-list li::marker,
-.games-list li::marker {
-    color: #aaaaaa;
-}
-
-/* Универсальные списки на странице composer */
-.composer-list {
-    list-style: disc;
-    padding-left: 28px;
-    margin: 25px auto 40px;
-    max-width: 900px;
-
-    text-align: left;
-}
-
-/* Элементы */
-.composer-list li {
+.contact-button {
+    display: inline-block;
+    margin-top: 8px;
+    padding: 13px 30px;
+    border-radius: 10px;
+    background: #2ecc71;
+    color: #000;
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: 400;
-    font-size: 19px;
-    line-height: 1.55;
-    color: #e5e5e5;
-    margin-bottom: 12px;
+    font-size: 17px;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.2s ease;
 }
 
-/* Мягкие маркеры */
-.composer-list li::marker {
-    color: #888;
-    font-size: 20px;
+.contact-button:hover {
+    background: #27ae60;
+    transform: translateY(-2px);
+}
+
+/* ---------------------------
+   SEO TEXT
+---------------------------- */
+
+.seo-text {
+    max-width: 900px;
+    margin: 40px auto 80px;
+    padding: 0 20px;
+}
+
+.seo-text h2 {
+    font-family: "IM Fell English SC", serif;
+    text-align: center;
+}
+
+.seo-text p,
+.seo-text li {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.65;
+}
+
+.commission-form-status {
+    margin: 22px auto 0;
+    max-width: 640px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.commission-form-status.is-success {
+    color: #7ee29a;
+}
+
+.commission-form-status.is-error {
+    color: #ff8a8a;
+}
+
+.commission-submit:disabled {
+    opacity: 0.65;
+    cursor: wait;
+}
+
+.commission-form label.has-error input,
+.commission-form label.has-error textarea,
+.commission-form label.has-error select {
+    border-color: rgba(255, 90, 90, 0.75);
+    box-shadow: 0 0 0 2px rgba(255, 90, 90, 0.12);
+}
+
+.field-error {
+    display: block;
+    margin-top: 7px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 1.4;
+
+    color: #ff8a8a;
+}
+
+.commission-form-status {
+    margin: 22px auto 0;
+    max-width: 640px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.commission-form-status.is-success {
+    color: #7ee29a;
+}
+
+.commission-form-status.is-error {
+    color: #ff8a8a;
+}
+
+.commission-submit:disabled {
+    opacity: 0.65;
+    cursor: wait;
+}
+
+/* ---------------------------
+   MOBILE
+---------------------------- */
+
+@media (max-width: 1050px) {
+    .commission-grid,
+    .commission-type-grid,
+    .workflow-grid,
+    .pricing-grid,
+    .terms-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .pricing-card-featured {
+        transform: none;
+    }
+}
+
+@media (max-width: 1100px) {
+    .players-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media (max-width: 720px) {
+    .players-grid {
+        grid-template-columns: 1fr;
+        gap: 30px;
+    }
+}
+
+@media (max-width: 680px) {
+    .composer-section {
+        padding: 34px 0;
+    }
+
+    .composer-heading {
+        font-size: 29px;
+    }
+
+    .composer-text,
+    .composer-hero-text {
+        font-size: 16px;
+    }
+
+    .commission-grid,
+    .commission-type-grid,
+    .workflow-grid,
+    .pricing-grid,
+    .terms-grid,
+    .commission-form-row {
+        grid-template-columns: 1fr;
+    }
+
+    .commission-card,
+    .commission-type-card,
+    .workflow-step,
+    .pricing-card,
+    .commission-form,
+    .contact-block {
+        padding: 24px 18px;
+    }
+
+    .tp-player {
+        padding: 8px 10px;
+        gap: 8px;
+    }
+
+    .tp-player-time {
+        display: none;
+    }
+
+    .contact-link,
+    .contact-value {
+        font-size: 20px;
+        word-break: break-word;
+    }
 }
