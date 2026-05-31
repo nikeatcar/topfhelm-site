@@ -1,4 +1,8 @@
-const isRussian = window.location.pathname.includes('/ru');
+const isRussian =
+  document.documentElement.lang.toLowerCase().startsWith('ru') ||
+  document.body.getAttribute('lang')?.toLowerCase().startsWith('ru') ||
+  window.location.pathname.includes('/ru') ||
+  window.location.pathname.includes('-ru');
 
 const albumData = {
   
@@ -290,3 +294,35 @@ function initYouTubePlaceholders() {
     });
   });
 }
+
+window.openAlbumFromTimeline = function (albumKey) {
+  const container = document.getElementById('album-detail');
+  if (!container) return;
+
+  if (!albumData[albumKey]) return;
+
+  container.classList.remove('visible');
+
+  setTimeout(() => {
+    container.innerHTML = `
+      <button class="album-detail-close" type="button" aria-label="Close album section">×</button>
+      ${albumData[albumKey].getHtml(isRussian)}
+    `;
+
+    initYouTubePlaceholders();
+    container.classList.add('visible');
+
+
+    const closeBtn = container.querySelector('.album-detail-close');
+
+    if (closeBtn) {
+      closeBtn.addEventListener('click', () => {
+        container.classList.remove('visible');
+
+        setTimeout(() => {
+          container.innerHTML = '';
+        }, 250);
+      });
+    }
+  }, 120);
+};

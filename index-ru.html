@@ -144,6 +144,9 @@
 <!-- Фиксированная панель соцсетей -->
 <div id="fixed-social-bar">
     <div class="social-icons">
+        <a href="topfhelm.com" target="_blank">
+            <img src="icons/home.png" alt="Home" loading="lazy">
+        </a>
         <a href="https://open.spotify.com/artist/5NHkqDnmyOUMMUrHy2n9Mq" target="_blank">
             <img src="icons/icons8-spotify.svg" alt="Spotify" loading="lazy">
         </a>
@@ -249,15 +252,6 @@
         <a href="https://www.youtube.com/@TopfHelmMusic" target="_blank">
             <img src="icons/icons8-youtube.svg" alt="Watch TopfHelm on YouTube" loading="lazy">
         </a>
-        <a href="https://www.facebook.com/profile.php?id=61573969173517" target="_blank">
-            <img src="icons/icons8-facebook.svg" alt="Subscribe to TopfHelm's Facebook" loading="lazy">
-        </a>
-        <!-- <a href="https://t.me/topfhelmmusic" target="_blank">
-            <img src="icons/telegram_icon.svg" alt="Subscribe to TopfHelm's Telegram" loading="lazy">
-         </a>
-        <a href="https://discord.gg/dchKDwfU" target="_blank">
-            <img src="icons/icons8-discord.svg" alt="Subscribe to TopfHelm's Discord" loading="lazy">
-        </a> -->
     </div>
 </div>
 
@@ -273,20 +267,28 @@
         Проект в жанрах Dungeon Synth и средневекового фолка. Музыка для DnD, фэнтези и погружения в древние миры.
         </p>
 
-        <!-- <h3>Новый альбом <span class="english-text">"Sanguis et Mulsum"! ⚔️🍺</span> уже в сети!</h3>
 
-        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5MQbQmcU1hE2nAOtoikPMV?utm_source=generator&theme=0" width="100%" height="520px" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-        <div id="countdown-banner" class="countdown-banner">
-            <span id="countdown-text">Готовимся к попойке...</span>
-        </div> -->
-
-        <div class="cta-buttons">
-            <a href="/shop" class="shop-btn">🤑 В Магазин 🤑</a>
-          </div>
         <div class="cta-buttons">
             <a href="/composer" class="shop-btn" data-pjax="no">🎼 Композитор 🎼</a>
           </div>
+
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                       ----==| Т А Й М Л А Й Н |==----                      ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; -->
+
+<section class="timeline-section">
+    <h2 data-timeline-title>The Chronicle</h2>
+    <p class="timeline-subtitle" data-timeline-subtitle>
+        A brief path through TopfHelm releases and worlds.
+    </p>
+
+    <div id="topfhelm-timeline"></div>
+</section>
+
+<section id="album-detail"></section>
+
 <!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
 ;;                ----==| I N T E R V I E W S E C T I O N |==----             ;;
@@ -323,87 +325,6 @@
 
 <!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
-;;                ----==| R E L E A S E S   S E C T I O N |==----             ;;
-;;                                                                            ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->          
-<section id="releases" class="releases-section">
-  <h2 class="section-title">🎵 Релизы 🎵</h2>
-  <div class="album-icons">
-    <img src="media/TopfHelm_Spadcyna.webp" alt="Spadcyna" class="album-icon" data-album="spadcyna">
-    <img src="media/TopfHelm_Solemnis.webp" alt="Solemnis" class="album-icon" data-album="solemnis">
-    <img src="media/40.webp" alt="Dungeon Synth Symphony 40" class="album-icon" data-album="forty">
-    <img src="media/TopfHelm_Sir_Godric.webp" alt="Sir Godric Tragicomedy" class="album-icon" data-album="sirgodric">
-    <img src="media/TopfHelm_Sanguis_Et_Mulsum.webp" alt="Sanguis et Mulsum" class="album-icon" data-album="sanguis">
-  </div>
-
-  <div id="album-detail" class="album-detail"></div>
-</section>
-
-<section class="emerald-saga-preview">
-    
-    <img src="/the-emerald-saga/media/TES_Logo.svg"
-         alt="The Emerald Saga"
-         class="emerald-saga-logo"
-         loading="lazy">
-
-    <p>
-        Мрачная средневековая аудио-сага о мире, изменённом локальной катастрофой, чьи последствия вышли далеко за её пределы.
-    </p>
-
-    <a href="/the-emerald-saga/ru" class="shop-btn emerald-saga-btn">
-        Войти в Мир
-    </a>
-</section>
-<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
-;;        ----==| A L B U M   S E C T I O N |==----         ;;
-;;                                                                            ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
-       <!-- <div class="album-section">
-
-            <iframe data-testid="embed-iframe"
-           style="border-radius:12px"
-           src="https://open.spotify.com/embed/album/3veuEvIr7Pl4UseL8UxLa9?utm_source=generator"
-           width="100%" height="352" frameBorder="0" allowfullscreen=""
-           allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-           loading="lazy"></iframe>-->
-
-            <!--<div class="album-text">
-                <div class="album-text">
-                    <div class="album-header">
-                        <span class="album-text">Новая симфония</span>
-                    </div>
-                    <p><strong lang="en">"40"</strong></p>
-                    <p>выйдет <span class="release-date">11 Июля</span>!</p>
-                </div>
-            </div>-->
-            <!-- <div class="album-media">
-                <img src="media/40.webp" alt="TopfHelm - 40 album cover"
-                    class="album-cover" width="250" height="250" fetchpriority="high">
-                    <a id="presave-btn" href="https://distrokid.com/hyperfollow/topfhelm/40" class="button presave" alt="Предсохранить Sanguis et Mulsum – Dungeon Folk и Dungeon Synth">
-                    <span>Предсохрани</span>
-                </a>
-            </div>
-        </div>-->
-<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
-;;                         ----==| В И Д Е О |==----                          ;;
-;;                                                                            ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
-       <!-- <section class="video-section">
-            <h2>Смотри на <span class="english-text">YouTube! ⚔️🍺</span></h2>
-            <section class="video-section">
-                <div class="video-container">
-                    <div class="youtube-placeholder" data-video="2VXxqCUBnA4">
-                        <img src="https://img.youtube.com/vi/2VXxqCUBnA4/hqdefault.jpg" alt="Просмотреть тизер видео альбома на YouTube" loading="lazy">
-                        <button class="play-btn">▶ Play</button>
-                    </div>
-                </div>
-            </section>
-        </section>-->
-
-<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
 ;;                       ----==| S U P P O R T |==----                        ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
@@ -412,6 +333,9 @@
             <div class="support-icons">
                 <a href="https://boosty.to/topfhelm/donate" class="support-icon">
                     <img src="icons/boostyLogo.svg" alt="Boosty" loading="lazy">
+                </a>
+                <a href="paypal.me/topfhelmmsc" class="support-icon">
+                    <img src="icons/PayPal_Logo_Icon_2014.svg" alt="PayPal" loading="lazy">
                 </a>
 <!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
@@ -510,9 +434,51 @@
         </div>
     </div>
     </div>
-    <footer>
-        <p>© 2025 TopfHelm. All rights reserved.</p>
-    </footer>
+
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                         ----==| F O O T E R |==----                        ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+
+<footer class="site-footer">
+
+    <div class="footer-logo">
+        TopfHelm
+    </div>
+
+    <div class="footer-links">
+
+        <div class="footer-column">
+            <h4>Explore</h4>
+
+            <a href="/">Home</a>
+            <a href="/the-emerald-saga/">The Emerald Saga</a>
+            <a href="/composer">Composer</a>
+        </div>
+
+        <div class="footer-column">
+            <h4>Music</h4>
+
+            <a href="https://open.spotify.com/artist/5NHkqDnmyOUMMUrHy2n9Mq">Spotify</a>
+            <a href="https://topfhelm.bandcamp.com/">Bandcamp</a>
+            <a href="https://www.instagram.com/topfhelmmusic/">Instagram</a>
+        </div>
+
+        <div class="footer-column">
+            <h4>Support</h4>
+
+            <a href="https://boosty.to/topfhelm/donate">Boosty</a>
+            <a href="paypal.me/topfhelmmsc">PayPal</a>
+        </div>
+
+    </div>
+
+    <div class="footer-copy">
+        © 2026 TopfHelm. All rights reserved.
+    </div>
+
+</footer>
 
     <!-- JS-скрипты -->
     <script src="scripts/langchange.js" defer></script>
@@ -526,6 +492,7 @@
     <script src="scripts/releases.js" defer></script>
     <script src="scripts/interviews.js" defer></script>
     <script src="scripts/composer-player.js" defer></script>
+    <script src="scripts/timeline.js" defer></script>
 
 
 </body>
