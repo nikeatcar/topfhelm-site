@@ -108,6 +108,24 @@
   force = true
 
 [[redirects]]
+  from = "/composer"
+  to = "/composer/index.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/composer/ru"
+  to = "/composer/index-ru.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/composer/ru/"
+  to = "/composer/index-ru.html"
+  status = 200
+  force = true
+
+[[redirects]]
   from = "/shop"
   to = "/shop.html"
   status = 200
