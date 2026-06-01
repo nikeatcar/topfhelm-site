@@ -1,4 +1,4 @@
-(function () {
+function initTpPlayers() {
     function formatTime(sec) {
         sec = Math.floor(sec || 0);
         const m = Math.floor(sec / 60);
@@ -6,31 +6,48 @@
         return m + ":" + (s < 10 ? "0" + s : s);
     }
 
-    function setupPlayer(audio) {
-        // Уже инициализирован? Выходим.
-        if (audio.dataset.tpInit === "1") return;
-        audio.dataset.tpInit = "1";
+    function resetOtherPlayers(currentAudio) {
+        document.querySelectorAll("audio[data-tp-player]").forEach((audio) => {
+            if (audio !== currentAudio) {
+                audio.pause();
 
+                const player = audio.nextElementSibling;
+
+                if (player && player.classList.contains("tp-player")) {
+                    const btn = player.querySelector(".tp-player-play");
+
+                    if (btn) {
+                        btn.classList.add("is-paused");
+                        btn.classList.remove("is-playing");
+                        btn.innerHTML = '<span class="tp-player-icon">▶</span>';
+                    }
+                }
+            }
+        });
+    }
+
+    function setupPlayer(audio) {
+        if (audio.dataset.tpInit === "1") return;
+
+        audio.dataset.tpInit = "1";
         audio.controls = false;
 
         const wrapper = document.createElement("div");
         wrapper.className = "tp-player";
 
-        // Кнопка play/pause
         const playBtn = document.createElement("button");
         playBtn.className = "tp-player-play is-paused";
         playBtn.type = "button";
         playBtn.innerHTML = '<span class="tp-player-icon">▶</span>';
 
-        // Прогресс-бар
         const bar = document.createElement("div");
         bar.className = "tp-player-bar";
 
         const fill = document.createElement("div");
         fill.className = "tp-player-fill";
+
         bar.appendChild(fill);
 
-        // Время
         const timeBox = document.createElement("div");
         timeBox.className = "tp-player-time";
 
@@ -49,21 +66,16 @@
         wrapper.appendChild(bar);
         wrapper.appendChild(timeBox);
 
-        // Вставляем после audio
         audio.parentNode.insertBefore(wrapper, audio.nextSibling);
         audio.style.display = "none";
 
-        // Обновление длительности
-        function setDuration() {
-            if (isFinite(audio.duration) && durSpan.textContent === "0:00") {
+        function updateDuration() {
+            if (isFinite(audio.duration)) {
                 durSpan.textContent = formatTime(audio.duration);
             }
         }
 
-        audio.addEventListener("loadedmetadata", setDuration);
-
-        // Обновление прогресса
-        audio.addEventListener("timeupdate", () => {
+        function updateProgress() {
             const current = audio.currentTime || 0;
             const duration = isFinite(audio.duration) ? audio.duration : 0;
             const percent = duration ? (current / duration) * 100 : 0;
@@ -71,44 +83,57 @@
             fill.style.width = percent + "%";
             curSpan.textContent = formatTime(current);
 
-            if (duration && durSpan.textContent === "0:00") {
+            if (duration) {
                 durSpan.textContent = formatTime(duration);
             }
-        });
+        }
 
-        // Play/Pause
+        audio.addEventListener("loadedmetadata", updateDuration);
+        audio.addEventListener("durationchange", updateDuration);
+        audio.addEventListener("timeupdate", updateProgress);
+
         playBtn.addEventListener("click", () => {
-            // Останавливаем другие плееры
-            document.querySelectorAll("audio[data-tp-player]").forEach(a => {
-                if (a !== audio) {
-                    a.pause();
-                }
-            });
+            resetOtherPlayers(audio);
 
             if (audio.paused) {
-                audio.play();
-                playBtn.classList.remove("is-paused");
-                playBtn.classList.add("is-playing");
-                playBtn.innerHTML = '<span class="tp-player-icon">❚❚</span>';
+                audio.play()
+                    .then(() => {
+                        playBtn.classList.remove("is-paused");
+                        playBtn.classList.add("is-playing");
+                        playBtn.innerHTML = '<span class="tp-player-icon">❚❚</span>';
+                    })
+                    .catch((error) => {
+                        console.warn("Audio playback failed:", error);
+                    });
             } else {
                 audio.pause();
+
                 playBtn.classList.add("is-paused");
                 playBtn.classList.remove("is-playing");
                 playBtn.innerHTML = '<span class="tp-player-icon">▶</span>';
             }
         });
 
-        // Сбрасываем кнопку в паузу по окончании
+        audio.addEventListener("pause", () => {
+        if (isSeekingPause) return;
+
+        playBtn.classList.add("is-paused");
+        playBtn.classList.remove("is-playing");
+        playBtn.innerHTML = '<span class="tp-player-icon">▶</span>';
+        });
+
         audio.addEventListener("ended", () => {
             playBtn.classList.add("is-paused");
             playBtn.classList.remove("is-playing");
             playBtn.innerHTML = '<span class="tp-player-icon">▶</span>';
+
+            fill.style.width = "0%";
+            curSpan.textContent = "0:00";
         });
 
-        // Перемотка по клику/перетаскиванию
-        function seekFromEvent(e) {
+        function seekFromEvent(event) {
             const rect = bar.getBoundingClientRect();
-            const x = e.clientX - rect.left;
+            const x = event.clientX - rect.left;
             const ratio = Math.min(Math.max(x / rect.width, 0), 1);
 
             if (isFinite(audio.duration)) {
@@ -118,26 +143,47 @@
 
         let seeking = false;
         let wasPlaying = false;
+        let isSeekingPause = false;
 
-        bar.addEventListener("pointerdown", (e) => {
-            e.preventDefault();
+        bar.addEventListener("pointerdown", (event) => {
+            event.preventDefault();
+
             seeking = true;
             wasPlaying = !audio.paused;
 
-            if (wasPlaying) audio.pause();
+            if (wasPlaying) {
+            audio.play()
+                .then(() => {
+                    isSeekingPause = false;
 
-            seekFromEvent(e);
+                    playBtn.classList.remove("is-paused");
+                    playBtn.classList.add("is-playing");
+                    playBtn.innerHTML = '<span class="tp-player-icon">❚❚</span>';
+                })
+                .catch((error) => {
+                    isSeekingPause = false;
+                    console.warn("Audio resume failed:", error);
+                });
+                } else {
+                    isSeekingPause = false;
+                }
 
-            const handleMove = (ev) => {
+            seekFromEvent(event);
+
+            const handleMove = (moveEvent) => {
                 if (!seeking) return;
-                seekFromEvent(ev);
+                seekFromEvent(moveEvent);
             };
 
-            const handleUp = (ev) => {
-                seekFromEvent(ev);
+            const handleUp = (upEvent) => {
+                seekFromEvent(upEvent);
                 seeking = false;
 
-                if (wasPlaying) audio.play();
+                if (wasPlaying) {
+                    audio.play().catch((error) => {
+                        console.warn("Audio resume failed:", error);
+                    });
+                }
 
                 document.removeEventListener("pointermove", handleMove);
                 document.removeEventListener("pointerup", handleUp);
@@ -146,22 +192,13 @@
             document.addEventListener("pointermove", handleMove);
             document.addEventListener("pointerup", handleUp);
         });
+
+        if (audio.readyState >= 1) {
+            updateDuration();
+        }
     }
 
-    function initTpPlayers() {
-        const audios = document.querySelectorAll('audio[data-tp-player]');
-        if (!audios.length) return;
+    const audios = document.querySelectorAll("audio[data-tp-player]");
 
-        audios.forEach(setupPlayer);
-    }
-
-    // Инициализация при первой загрузке
-    document.addEventListener("DOMContentLoaded", initTpPlayers);
-
-    // Инициализация после PJAX-перехода
-    if (window.$ && $(document).on) {
-        $(document).on("pjax:complete", function () {
-            initTpPlayers();
-        });
-    }
-})();
+    audios.forEach(setupPlayer);
+}

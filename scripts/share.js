@@ -1,61 +1,17 @@
-// Универсальный путь к иконкам
-function getIconPath(icon) {
-    return (window.location.pathname.includes("/articles/")) ? `../icons/${icon}` : `icons/${icon}`;
+function getShareLang() {
+    return (
+        document.documentElement.lang?.toLowerCase().startsWith("ru") ||
+        window.location.pathname.includes("/ru") ||
+        window.location.pathname.includes("-ru")
+    ) ? "ru" : "en";
 }
 
-document.addEventListener("DOMContentLoaded", function () {
+function getIconPath(icon) {
+    return window.location.pathname.includes("/articles/")
+        ? `../icons/${icon}`
+        : `icons/${icon}`;
+}
 
-    // Определение языка страницы
-    function getLangFromURL() {
-        return document.documentElement.lang || "en";
-    }
-
-    // Универсальный путь к иконкам
-    function getIconPath(icon) {
-        return (window.location.pathname.includes("/articles/")) ? `../icons/${icon}` : `icons/${icon}`;
-    }
-
-    // Создаём кнопку "Поделиться" динамически
-    const shareSection = document.querySelector(".share-section");
-    if (shareSection) {
-        const shareButton = document.createElement("button");
-        shareButton.classList.add("share-main");
-        shareButton.innerHTML = `
-            <div class="share-button-content">
-                <img src="${getIconPath('SShare.svg')}" alt="Share Icon" width="24" height="24" loading="lazy">
-                <span>${getLangFromURL() === "ru" ? "Поделиться" : "Share"}</span>
-            </div>
-        `;
-        shareButton.addEventListener("click", openShareModal);
-        shareSection.appendChild(shareButton);
-    }
-
-    // Создаём модальное окно для шаринга
-    if (!document.getElementById("share-modal")) {
-        const shareModal = document.createElement("div");
-        shareModal.id = "share-modal";
-        shareModal.classList.add("share-modal");
-        shareModal.innerHTML = `
-            <div class="share-content">
-                <div class="close-container">
-                    <span class="close-btn">✖</span>
-                </div>
-                <h2 id="share-title">${getLangFromURL() === "ru" ? "Поделись этой страницей!" : "Share this page!"}</h2>
-                <div class="share-icons">
-                    ${generateShareLinks()}
-                </div>
-                <button class="button copy-btn">🔗 ${getLangFromURL() === "ru" ? "Копировать URL" : "Copy URL"}</button>
-            </div>
-        `;
-        document.body.appendChild(shareModal);
-
-        // Назначаем обработчики событий
-        shareModal.querySelector(".close-btn").addEventListener("click", closeShareModal);
-        shareModal.querySelector(".copy-btn").addEventListener("click", copyLink);
-    }
-});
-
-// Функция для генерации кнопок соцсетей
 function generateShareLinks() {
     const platforms = [
         { name: "Facebook", icon: "SFacebook.svg", url: "https://www.facebook.com/sharer/sharer.php?u=" },
@@ -72,35 +28,120 @@ function generateShareLinks() {
     ];
 
     const pageUrl = encodeURIComponent(window.location.href);
-    return platforms.map(p => `
-        <a href="${p.url}${pageUrl}" class="share-item" target="_blank">
-            <img src="${getIconPath(p.icon)}" alt="Share on ${p.name}" loading="lazy">
-            <span>${p.name}</span>
+
+    return platforms.map(platform => `
+        <a href="${platform.url}${pageUrl}" class="share-item" target="_blank" rel="noopener">
+            <img src="${getIconPath(platform.icon)}" alt="Share on ${platform.name}" loading="lazy">
+            <span>${platform.name}</span>
         </a>
     `).join("");
 }
 
-// Открытие модального окна
+function initShare() {
+    const shareSection = document.querySelector(".share-section");
+    const lang = getShareLang();
+
+    if (shareSection) {
+        const existingButton = shareSection.querySelector(".share-main");
+
+        if (existingButton) {
+            existingButton.remove();
+        }
+
+        const shareButton = document.createElement("button");
+
+        shareButton.className = "share-main";
+        shareButton.type = "button";
+
+        shareButton.innerHTML = `
+            <div class="share-button-content">
+                <img src="${getIconPath("SShare.svg")}" alt="Share Icon" width="24" height="24" loading="lazy">
+                <span>${lang === "ru" ? "Поделиться" : "Share"}</span>
+            </div>
+        `;
+
+        shareButton.addEventListener("click", openShareModal);
+
+        shareSection.appendChild(shareButton);
+    }
+
+    const oldModal = document.getElementById("share-modal");
+
+    if (oldModal) {
+        oldModal.remove();
+    }
+
+    const shareModal = document.createElement("div");
+
+    shareModal.id = "share-modal";
+    shareModal.className = "share-modal";
+
+    shareModal.innerHTML = `
+        <div class="share-content">
+            <div class="close-container">
+                <span class="close-btn">✖</span>
+            </div>
+
+            <h2 id="share-title">
+                ${lang === "ru" ? "Поделись этой страницей!" : "Share this page!"}
+            </h2>
+
+            <div class="share-icons">
+                ${generateShareLinks()}
+            </div>
+
+            <button class="button copy-btn" type="button">
+                🔗 ${lang === "ru" ? "Копировать URL" : "Copy URL"}
+            </button>
+        </div>
+    `;
+
+    document.body.appendChild(shareModal);
+
+    const closeBtn = shareModal.querySelector(".close-btn");
+    const copyBtn = shareModal.querySelector(".copy-btn");
+
+    if (closeBtn) {
+        closeBtn.addEventListener("click", closeShareModal);
+    }
+
+    if (copyBtn) {
+        copyBtn.addEventListener("click", copyLink);
+    }
+}
+
 function openShareModal() {
     const modal = document.getElementById("share-modal");
-    if (modal) {
-        modal.classList.add("active");
-        document.body.classList.add("no-scroll");
-    }
+
+    if (!modal) return;
+
+    modal.classList.add("active");
+    document.body.classList.add("no-scroll");
 }
 
-// Закрытие модального окна
 function closeShareModal() {
     const modal = document.getElementById("share-modal");
-    if (modal) {
-        modal.classList.remove("active");
-        document.body.classList.remove("no-scroll");
-    }
+
+    if (!modal) return;
+
+    modal.classList.remove("active");
+    document.body.classList.remove("no-scroll");
 }
 
-// Функция копирования ссылки
 function copyLink() {
-    navigator.clipboard.writeText(window.location.href).then(() => {
-        alert(getLangFromURL() === "ru" ? "Ссылка скопирована!" : "Link copied to clipboard!");
-    });
+    navigator.clipboard.writeText(window.location.href)
+        .then(() => {
+            alert(
+                getShareLang() === "ru"
+                    ? "Ссылка скопирована!"
+                    : "Link copied to clipboard!"
+            );
+        })
+        .catch(() => {
+            alert(
+                getShareLang() === "ru"
+                    ? "Не удалось скопировать ссылку."
+                    : "Could not copy the link."
+            );
+        });
 }

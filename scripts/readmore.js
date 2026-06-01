@@ -1,21 +1,55 @@
-document.addEventListener("DOMContentLoaded", function () {
-    const lang = document.documentElement.lang || "en"; // Определяем язык страницы
-    const currentUrl = window.location.pathname; // Текущая страница
+function initReadMore() {
+    const articlesList = document.getElementById("read-more-list");
 
-    fetch("../articles/articles.json")
-        .then((response) => response.json())
+    if (!articlesList) return;
+
+    if (articlesList.dataset.loading === "true") return;
+
+    articlesList.dataset.loading = "true";
+    articlesList.innerHTML = "";
+
+    const lang =
+        document.documentElement.lang?.toLowerCase().startsWith("ru") ||
+        window.location.pathname.includes("/ru") ||
+        window.location.pathname.includes("-ru")
+            ? "ru"
+            : "en";
+
+    const currentPath = window.location.pathname.replace(/\/$/, "");
+
+    fetch("/articles/articles.json", { cache: "no-cache" })
+        .then((response) => {
+            if (!response.ok) {
+                throw new Error("Could not load articles.json");
+            }
+
+            return response.json();
+        })
         .then((data) => {
             const articles = data[lang] || [];
-            const articlesList = document.getElementById("read-more-list");
-            
-            articlesList.innerHTML = ""; // Очищаем список перед добавлением
-            
+
+            articlesList.innerHTML = "";
+
             articles.forEach((article) => {
-                if (article.url !== currentUrl) {
-                    const listItem = document.createElement("li");
-                    listItem.innerHTML = `<a href="${article.url}">⬜ ${article.title}</a>`;
-                    articlesList.appendChild(listItem);
-                }
+                const articlePath = article.url.replace(/\/$/, "");
+
+                if (articlePath === currentPath) return;
+
+                const listItem = document.createElement("li");
+
+                listItem.innerHTML = `
+                    <a href="${article.url}">
+                        ⬜ ${article.title}
+                    </a>
+                `;
+
+                articlesList.appendChild(listItem);
             });
         })
-});
+        .catch((error) => {
+            console.warn("Read more articles failed:", error);
+        })
+        .finally(() => {
+            articlesList.dataset.loading = "false";
+        });
+}

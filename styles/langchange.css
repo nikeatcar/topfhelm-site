@@ -1,46 +1,67 @@
 .language-switcher {
     position: fixed;
-    top: 15px;
-    right: 15px;
-    background: rgba(0, 0, 0, 0.7);
-    padding: 5px 10px;
-    border-radius: 8px;
-    z-index: 999;
-    font-size: 16px;
+    top: 14px;
+    right: 14px;
+
+    z-index: 1100;
+
     display: flex;
+    align-items: center;
     gap: 8px;
+
+    padding: 6px 8px;
+
+    background: rgba(0, 0, 0, 0.78);
+    border: 1px solid rgba(216, 192, 139, 0.25);
+    border-radius: 10px;
+
+    box-shadow:
+        0 4px 10px rgba(0, 0, 0, 0.45),
+        0 0 12px rgba(216, 192, 139, 0.18);
+
+    backdrop-filter: blur(4px);
 }
 
 #switchLangBtn {
-    background: #ffcc00;
-    color: #121212;
+    background: rgba(216, 192, 139, 0.95);
+    color: #111;
+
     border: none;
-    padding: 8px 15px;
-    font-size: 16px;
+    border-radius: 7px;
+
+    padding: 8px 14px;
+
+    font-size: 14px;
+    font-weight: bold;
+
     cursor: pointer;
-    border-radius: 5px;
-    transition: background 0.3s;
+
+    transition:
+        background 0.25s ease,
+        transform 0.25s ease,
+        box-shadow 0.25s ease;
 }
 
 #switchLangBtn:hover {
-    background: #555;
+    background: #f0d99f;
+    transform: translateY(-1px);
+    box-shadow: 0 0 12px rgba(216, 192, 139, 0.28);
 }
 
+/* Mobile */
 @media (max-width: 768px) {
     .language-switcher {
-        position: relative;
-        display: flex;
-        flex-direction: row;
-        justify-content: center; /* Выравнивание по центру */
-        align-items: center;
-        flex-wrap: wrap;
-        width: 100%; /* Растягиваем на всю ширину */
+        top: auto;
+        right: 10px;
+        bottom: 10px;
+
+        padding: 5px 7px;
+
+        border-radius: 10px;
     }
 
-    #switchLangBtn, 
-    .theme-switcher {
-        font-size: 14px; /* Уменьшаем размер шрифта */
-        padding: 9px 20px; /* Уменьшаем отступы */
-        margin: 5px; /* Добавляем отступ между кнопками */
+    #switchLangBtn {
+        font-size: 13px;
+        padding: 7px 11px;
     }
 }

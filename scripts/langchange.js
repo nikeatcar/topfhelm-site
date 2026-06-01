@@ -1,170 +1,101 @@
 function getLangFromURL() {
-    if (window.location.pathname.includes("/ru") || window.location.href.includes("index-ru.html")) {
+    const path = window.location.pathname.toLowerCase();
+    const href = window.location.href.toLowerCase();
+    const htmlLang = document.documentElement.lang?.toLowerCase() || "";
+
+    if (
+        htmlLang.startsWith("ru") ||
+        path === "/ru" ||
+        path.includes("/ru/") ||
+        path.includes("-ru") ||
+        href.includes("index-ru.html")
+    ) {
         return "ru";
     }
+
     return "en";
 }
 
-document.addEventListener("DOMContentLoaded", function () {
-    const switchLangBtn = document.getElementById("switchLangBtn");
-
-    if (!switchLangBtn) return; // Если кнопки нет, выходим
-
-    switchLangBtn.addEventListener("click", function () {
-    let currentURL = window.location.pathname;
+function getLanguageTargetURL() {
+    const currentURL = window.location.pathname;
 
     // The Emerald Saga
     if (currentURL === "/the-emerald-saga/" || currentURL === "/the-emerald-saga") {
-        window.location.href = "/the-emerald-saga/ru";
-        return;
+        return "/the-emerald-saga/ru";
     }
 
     if (currentURL === "/the-emerald-saga/ru" || currentURL === "/the-emerald-saga/ru/") {
-        window.location.href = "/the-emerald-saga/";
-        return;
+        return "/the-emerald-saga/";
     }
 
     // Главная
-    if (currentURL === "/" || currentURL === "/en") {
-        window.location.href = "/ru";
-        return;
+    if (currentURL === "/" || currentURL === "/en" || currentURL === "/index.html") {
+        return "/ru";
     }
 
-    if (currentURL === "/ru") {
-        window.location.href = "/en";
-        return;
+    if (currentURL === "/ru" || currentURL === "/index-ru.html") {
+        return "/en";
     }
+
+    // Composer
+    if (
+        currentURL === "/composer/" ||
+        currentURL === "/composer" ||
+        currentURL === "/composer/index.html"
+    ) {
+        return "/composer-ru.html";
+    }
+
+    if (currentURL === "/composer-ru.html") {
+        return "/composer/";
+    }
+
+    // Articles
+if (currentURL.includes("/articles/")) {
+    let articleURL = currentURL.replace(/\/$/, "");
+
+    // RU → EN
+    if (articleURL.endsWith("-ru.html")) {
+        return articleURL.replace("-ru.html", ".html");
+    }
+
+    if (articleURL.endsWith("-ru")) {
+        return articleURL.replace("-ru", ".html");
+    }
+
+    // EN → RU
+    if (articleURL.endsWith(".html")) {
+        return articleURL.replace(".html", "-ru.html");
+    }
+
+    return articleURL + "-ru.html";
+}
 
     // Старые страницы через -ru
     if (currentURL.includes("-ru")) {
-        window.location.href = currentURL.replace("-ru", "");
-    } else {
-        window.location.href = currentURL.replace(/(\/[a-zA-Z0-9-]+)(\.html)?$/, "$1-ru$2");
-    }
-});
-
-    console.log("Определение языка страницы...");
-
-    let lang = document.documentElement.lang; // Получаем язык страницы
-
-    if (lang === "ru") {
-        document.body.classList.add("ru");
-        console.log("Применён русский шрифт Monomakh");
-    } else {
-        document.body.classList.add("en");
-        console.log("Применён английский шрифт IM Fell English SC");
+        return currentURL.replace("-ru", "");
     }
 
-    /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
-;;                       ----==| P R E S A V E |==----                        ;;
-;;                                                                            ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-setTimeout(() => {
-    const presaveBtn = document.getElementById("presave-btn");
-
-    if (presaveBtn) {
-        presaveBtn.addEventListener("mouseenter", function () {
-            this.style.transition = "background-color 0.3s ease-in-out";
-            this.style.backgroundColor = "#FF6666"; // Меняем цвет при наведении
-
-            setTimeout(() => {
-                this.innerHTML = (getLangFromURL() === "ru") ?
-                    "<span>❤️Спасибо!❤️</span>" 
-                    : "<span>❤️Thank You!❤️</span>";
-            }, 200);
-
-            // Анимация дёргания
-            let intensity = 3;
-            let shakeInterval = setInterval(() => {
-                let x = (Math.random() * intensity * 2) - intensity;
-                let y = (Math.random() * intensity * 2) - intensity;
-                presaveBtn.style.transform = `translate(${x}px, ${y}px)`;
-            }, 50);
-
-            setTimeout(() => {
-                clearInterval(shakeInterval);
-                presaveBtn.style.transform = "translate(0, 0)";
-            }, 300);
-        });
-
-        presaveBtn.addEventListener("mouseleave", function () {
-            this.style.transition = "background-color 0.3s ease-in-out";
-            this.style.backgroundColor = "#1DB954"; // Возвращаем стандартный цвет
-
-            setTimeout(() => {
-                this.innerHTML = (getLangFromURL() === "ru") ?
-                    "<span>Предсохрани</span>" 
-                    : "<span>Presave</span>";
-            }, 200);
-            });
-        }
-    }, 500);
-
-    /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                              ;;
-;;                 ----==| Т А Й М Е Р   Р Е Л И З А |==----                    ;;
-;;                                                                              ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-function initializeCountdown() {
-    const releaseDate = new Date(Date.UTC(2025, 4, 9, 5, 0, 0)).getTime(); // МАЙ = 4, потому что месяцы с 0
-    const countdownText = document.getElementById("countdown-text");
-
-    if (!countdownText) {
-        console.warn("Countdown element not found!");
-        return;
-    }
-
-    function updateCountdown() {
-        const now = new Date().getTime();
-        const timeLeft = releaseDate - now;
-
-        if (timeLeft <= 0) {
-            countdownText.innerHTML = (getLangFromURL() === "ru")
-                ? "История началась! 🍻⚔️"
-                : "The story has begun! 🍻⚔️";
-            clearInterval(timerInterval);
-            return;
-        }
-
-        const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
-        const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-        const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
-        const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
-
-        countdownText.innerHTML = (getLangFromURL() === "ru")
-            ? `⏳ Новая история начнётся через: <span class="time">${days}</span>д <span class="time">${hours}</span>ч <span class="time">${minutes}</span>м <span class="time">${seconds}</span>с`
-            : `⏳ The new story begins in: <span class="time">${days}</span>d <span class="time">${hours}</span>h <span class="time">${minutes}</span>m <span class="time">${seconds}</span>s`;
-    }
-
-    updateCountdown();
-    const timerInterval = setInterval(updateCountdown, 1000);
+    return currentURL.replace(
+        /(\/[a-zA-Z0-9-]+)(\.html)?$/,
+        "$1-ru$2"
+    );
 }
 
+function initLangChange() {
+    const switchLangBtn = document.getElementById("switchLangBtn");
 
+    document.body.classList.remove("ru", "en");
 
-    initializeCountdown(); // Запуск таймера при первой загрузке
-});
-
-// Перезапуск таймера после PJAX подгрузки
-$(document).on('pjax:complete', function () {
-    console.log("PJAX complete — пересоздаём таймер");
-    initializeCountdown();
-});
-
-/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
-;;                 ----==| Р А З Н Ы Е   Ш Р И Ф Т Ы |==----                  ;;
-;;                                                                            ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
     if (getLangFromURL() === "ru") {
         document.body.classList.add("ru");
+    } else {
+        document.body.classList.add("en");
     }
 
-    initializeCountdown(); // Запуск таймера при первой загрузке
+    if (!switchLangBtn) return;
 
-// Перезапуск таймера после PJAX подгрузки
-$(document).on('pjax:complete', function () {
-    console.log("PJAX complete — пересоздаём таймер");
-    initializeCountdown();
-});
+    switchLangBtn.onclick = function () {
+        window.location.href = getLanguageTargetURL();
+    };
+}

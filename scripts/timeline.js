@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+function initTimeline() {
     const container = document.getElementById("topfhelm-timeline");
     if (!container) return;
 
@@ -179,4 +179,10 @@ coverLink.addEventListener("click", openCurrentTimelineItem);
     });
 
     renderTimelineItem(timelineData.length - 1);
+}
+
+document.addEventListener("DOMContentLoaded", initTimeline);
+
+$(document).on("pjax:complete", function () {
+    initTimeline();
 });

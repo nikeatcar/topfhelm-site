@@ -1,18 +1,76 @@
-document.addEventListener("DOMContentLoaded", function () {
-    const socialBar = document.getElementById("fixed-social-bar");
-    let lastScrollTop = 0;
+function initSocialBar() {
+    let socialBar = document.getElementById("fixed-social-bar");
 
-    window.addEventListener("scroll", function () {
-        let scrollTop = window.scrollY;
+    if (!socialBar) {
+        socialBar = document.createElement("div");
+        socialBar.id = "fixed-social-bar";
+
+        socialBar.innerHTML = `
+            <div class="social-icons">
+                <a href="/" aria-label="Home">
+                    <img src="${getSocialIconPath("home.svg")}" alt="Home" loading="lazy">
+                </a>
+
+                <a href="https://open.spotify.com/artist/5NHkqDnmyOUMMUrHy2n9Mq" target="_blank" rel="noopener" aria-label="Spotify">
+                    <img src="${getSocialIconPath("icons8-spotify.svg")}" alt="Spotify" loading="lazy">
+                </a>
+
+                <a href="https://topfhelm.bandcamp.com/" target="_blank" rel="noopener" aria-label="Bandcamp">
+                    <img src="${getSocialIconPath("icons8-bandcamp.svg")}" alt="Bandcamp" loading="lazy">
+                </a>
+
+                <a href="https://www.instagram.com/topfhelmmusic/" target="_blank" rel="noopener" aria-label="Instagram">
+                    <img src="${getSocialIconPath("icons8-insta.svg")}" alt="Instagram" loading="lazy">
+                </a>
+
+                <a href="https://www.tiktok.com/@topfhelmmusic" target="_blank" rel="noopener" aria-label="TikTok">
+                    <img src="${getSocialIconPath("icons8-tiktok.svg")}" alt="TikTok" loading="lazy">
+                </a>
+
+                <a href="https://vk.com/topfhelmmusic" target="_blank" rel="noopener" aria-label="VK">
+                    <img src="${getSocialIconPath("6214734_logo_vk_vkontakte_icon.svg")}" alt="VK" loading="lazy">
+                </a>
+
+                <a href="https://www.youtube.com/@TopfHelmMusic" target="_blank" rel="noopener" aria-label="YouTube">
+                    <img src="${getSocialIconPath("icons8-youtube.svg")}" alt="YouTube" loading="lazy">
+                </a>
+            </div>
+        `;
+
+        document.body.appendChild(socialBar);
+    }
+
+    if (window.socialBarScrollHandler) {
+        window.removeEventListener("scroll", window.socialBarScrollHandler);
+    }
+
+    let lastScrollTop = window.scrollY || 0;
+
+    window.socialBarScrollHandler = function () {
+        const scrollTop = window.scrollY || 0;
 
         if (scrollTop > 300 && scrollTop > lastScrollTop) {
-            // Показываем панель при прокрутке вниз
             socialBar.classList.add("show");
         } else if (scrollTop < 350) {
-            // Прячем панель при возврате наверх
             socialBar.classList.remove("show");
         }
 
         lastScrollTop = scrollTop;
-    });
-});
+    };
+
+    window.addEventListener("scroll", window.socialBarScrollHandler);
+}
+
+function getSocialIconPath(icon) {
+    const path = window.location.pathname;
+
+    if (path.includes("/articles/")) {
+        return `../icons/${icon}`;
+    }
+
+    if (path.includes("/the-emerald-saga/")) {
+        return `../icons/${icon}`;
+    }
+
+    return `icons/${icon}`;
+}
