@@ -1,12 +1,19 @@
+function getSocialIconPath(icon) {
+    return `/icons/${icon}`;
+}
+
 function initSocialBar() {
+
     let socialBar = document.getElementById("fixed-social-bar");
 
     if (!socialBar) {
+
         socialBar = document.createElement("div");
         socialBar.id = "fixed-social-bar";
 
         socialBar.innerHTML = `
             <div class="social-icons">
+
                 <a href="/" aria-label="Home">
                     <img src="${getSocialIconPath("home.svg")}" alt="Home" loading="lazy">
                 </a>
@@ -34,6 +41,7 @@ function initSocialBar() {
                 <a href="https://www.youtube.com/@TopfHelmMusic" target="_blank" rel="noopener" aria-label="YouTube">
                     <img src="${getSocialIconPath("icons8-youtube.svg")}" alt="YouTube" loading="lazy">
                 </a>
+
             </div>
         `;
 
@@ -41,36 +49,36 @@ function initSocialBar() {
     }
 
     if (window.socialBarScrollHandler) {
-        window.removeEventListener("scroll", window.socialBarScrollHandler);
+        window.removeEventListener(
+            "scroll",
+            window.socialBarScrollHandler
+        );
     }
 
     let lastScrollTop = window.scrollY || 0;
 
     window.socialBarScrollHandler = function () {
+
         const scrollTop = window.scrollY || 0;
 
-        if (scrollTop > 300 && scrollTop > lastScrollTop) {
+        if (
+            scrollTop > 300 &&
+            scrollTop > lastScrollTop
+        ) {
             socialBar.classList.add("show");
-        } else if (scrollTop < 350) {
+        }
+        else if (scrollTop < 350) {
             socialBar.classList.remove("show");
         }
 
         lastScrollTop = scrollTop;
     };
 
-    window.addEventListener("scroll", window.socialBarScrollHandler);
-}
+    window.addEventListener(
+        "scroll",
+        window.socialBarScrollHandler
+    );
 
-function getSocialIconPath(icon) {
-    const path = window.location.pathname;
-
-    if (path.includes("/articles/")) {
-        return `../icons/${icon}`;
-    }
-
-    if (path.includes("/the-emerald-saga/")) {
-        return `../icons/${icon}`;
-    }
-
-    return `icons/${icon}`;
+    // Проверяем состояние сразу после загрузки
+    window.socialBarScrollHandler();
 }
