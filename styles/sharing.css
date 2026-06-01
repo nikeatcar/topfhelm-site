@@ -3,236 +3,362 @@
 ;;                        ----==| Ш А Р И Н Г |==----                         ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-/* Центрирование кнопки на страницах статей */
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                        ----==| Ш А Р И Н Г |==----                         ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+
+/* =======================================================
+   SHARE BUTTON
+======================================================= */
+
 .article-container .share-section {
     display: flex;
     justify-content: center;
-    margin-top: 20px; /* Отступ сверху */
-}
-/* Стили для блока шаринга */
-.share-button {
-    display: flex;
-    justify-content: center; /* Центрируем кнопку */
-    align-items: center;
-    width: 100%;
     margin-top: 20px;
 }
 
-/* Контейнер для выравнивания внутри кнопки */
-.share-button-content {
+.share-section {
     display: flex;
     align-items: center;
-    gap: 8px; /* Добавляет небольшой отступ между иконкой и текстом */
+    justify-content: center;
 }
 
-/* Стили для кнопки Share (НЕ наследует стили от .button) */
 .share-main {
+
     display: flex;
     align-items: center;
-    justify-content: center; /* Центрируем иконку и текст */
-    background-color: rgba(0, 0, 0, 0.8);
-    color: #fff;
-    font-size: 18px;
-    font-weight: bold;
-    border: 2px solid #ffcc00;
-    padding: 12px 20px;
-    border-radius: 8px;
-    transition: all 0.3s ease-in-out;
+    justify-content: center;
+
+    gap: 12px;
+
     width: 180px;
-    height: 50px;
-    text-decoration: none;
+    height: 58px;
+
+    padding: 0 20px;
+
+    background: rgba(15,15,15,.75);
+
+    border: 1px solid rgba(215,179,122,.18);
+
+    border-radius: 14px;
+
+    color: #e9dfc4;
+
     cursor: pointer;
+
+    transition:
+        transform .25s ease,
+        border-color .25s ease,
+        box-shadow .25s ease;
+
+    text-decoration: none;
 }
 
-/* Контейнер для иконки и текста */
-.share-main .share-button-content {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-}
-
-/* Иконка в кнопке Share */
-.share-main img {
-    width: 40px;
-    height: 40px;
-    filter: brightness(0) invert(1);
-}
-
-/* Текст внутри кнопки */
-.share-main span {
-    display: inline-block;
-    text-align: center;
-}
-
-/* Эффект при наведении */
 .share-main:hover {
-    background-color: #ffcc00;
-    color: #121212;
-    transform: scale(1.05);
+
+    transform: translateY(-3px);
+
+    border-color: rgba(215,179,122,.75);
+
+    box-shadow:
+        0 0 18px rgba(215,179,122,.12);
 }
 
-/* Убираем наследование от .button */
+.share-main img {
+
+    width: 22px;
+    height: 22px;
+
+    filter:
+        brightness(0)
+        saturate(100%)
+        invert(75%)
+        sepia(26%)
+        saturate(528%)
+        hue-rotate(356deg)
+        brightness(92%)
+        contrast(87%);
+}
+
+.share-main span {
+
+    font-size: 16px;
+    font-weight: 600;
+}
+
 .button.share-main {
-    all: unset; /* Убирает ВСЕ стандартные стили кнопки */
+    all: unset;
+
     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-/* Затемнение фона */
+/* =======================================================
+   MODAL
+======================================================= */
+
 .share-modal {
+
     display: none;
+
     position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0, 0, 0, 0.8);
+
+    inset: 0;
+
+    background: rgba(0,0,0,.88);
+
+    backdrop-filter: blur(4px);
+
     justify-content: center;
     align-items: center;
-    z-index: 1000;
+
+    z-index: 9999;
 }
 
 .share-modal.active {
     display: flex;
 }
 
-/* Контейнер окна */
+/* =======================================================
+   CONTENT
+======================================================= */
+
 .share-content {
-    position: relative; /* Обязательно для позиционирования креста */
-    background: rgba(0, 0, 0, 0.9);
-    border: 2px solid #ffcc00;
-    padding: 20px;
+
+    position: relative;
+
+    width: min(92vw, 540px);
+
+    padding: 32px;
+
+    border-radius: 18px;
+
+    background:
+        linear-gradient(
+            180deg,
+            rgba(20,20,20,.98),
+            rgba(10,10,10,.98)
+        );
+
+    border: 1px solid rgba(215,179,122,.25);
+
+    box-shadow:
+        0 0 25px rgba(215,179,122,.08);
+
     text-align: center;
-    border-radius: 12px;
-    width: 80%;
-    max-width: 400px;
 }
 
-/* Крестик закрытия */
+/* =======================================================
+   TITLE
+======================================================= */
+
+#share-title {
+
+    margin: 0 0 28px;
+
+    color: #f2e3be;
+
+    font-size: 32px;
+}
+
+/* =======================================================
+   CLOSE BUTTON
+======================================================= */
+
 .close-btn {
+
     position: absolute;
-    top: 10px;
-    right: 10px;
-    font-size: 28px;
-    font-weight: bold;
-    color: #ffcc00;
+
+    top: 16px;
+    right: 18px;
+
+    color: #d7b37a;
+
+    font-size: 24px;
+
     cursor: pointer;
-    transition: transform 0.2s ease-in-out, color 0.3s ease-in-out;
+
+    transition:
+        color .25s ease,
+        transform .25s ease;
 }
 
-/* Эффект при наведении */
 .close-btn:hover {
-    transform: scale(1.2);
-    color: #fff;
+
+    color: #f2e3be;
+
+    transform: rotate(90deg);
 }
 
-/* Иконки соцсетей */
+/* =======================================================
+   SOCIAL ICONS
+======================================================= */
+
 .share-icons {
+
     display: flex;
+
     flex-wrap: wrap;
+
     justify-content: center;
-    gap: 10px;
-    margin: 20px 0;
+
+    gap: 14px;
+
+    margin: 24px 0;
 }
 
 .share-item {
+
     display: flex;
+
     flex-direction: column;
+
     align-items: center;
+
+    gap: 8px;
+
+    padding: 10px;
+
+    border-radius: 12px;
+
     text-decoration: none;
-    color: #ffcc00;
-    font-size: 14px;
+
+    color: #d7b37a;
+
+    transition:
+        transform .25s ease,
+        background .25s ease;
+}
+
+.share-item:hover {
+
+    transform: translateY(-3px);
+
+    background: rgba(215,179,122,.06);
 }
 
 .share-item img {
-    width: 50px;
-    height: 50px;
+
+    width: 48px;
+    height: 48px;
 }
 
-/* Кнопка копирования */
+.share-item span {
+
+    font-size: 13px;
+}
+
+/* =======================================================
+   COPY BUTTON
+======================================================= */
+
 .copy-btn {
-    display: flex; /* Делаем кнопку flex-контейнером */
-    justify-content: center; /* Выравниваем текст по центру */
-    align-items: center; /* Выравниваем по вертикали */
-    width: 100%;
-    margin-top: 10px;
-    background: #ffcc00;
-    color: #121212;
-    font-weight: bold;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    gap: 10px;
+
+    width: 240px;
+    height: 52px;
+
+    margin: 24px auto 0;
+
+    padding: 0 20px;
+
+    border-radius: 12px;
+
+    background: rgba(15,15,15,.75);
+
+    border: 1px solid rgba(215,179,122,.25);
+
+    color: #e9dfc4;
+
     font-size: 16px;
-    text-align: center;
-    padding: 10px 15px;
-    border: none;
-    border-radius: 5px;
+    font-weight: 600;
+
     cursor: pointer;
-    transition: background 0.3s ease-in-out, transform 0.2s ease-in-out;
+
+    transition:
+        transform .25s ease,
+        border-color .25s ease,
+        box-shadow .25s ease;
 }
 
-/* Эффект при наведении */
 .copy-btn:hover {
-    background: #e6b800;
-    transform: scale(1.05);
+
+    transform: translateY(-2px);
+
+    border-color: rgba(215,179,122,.8);
+
+    box-shadow:
+        0 0 18px rgba(215,179,122,.12);
 }
 
-@media (max-width: 768px){
+/* =======================================================
+   MOBILE
+======================================================= */
+
+@media (max-width: 768px) {
 
     .share-content {
-        width: 90%; /* Уменьшаем ширину окна на мобильных */
-        max-width: 350px;
-    }
-    
-    /* Уменьшаем размер заголовка в окне "Поделиться" */
-    #share-title {
-        font-size: 18px;
+
+        width: 92vw;
+
+        padding: 24px;
     }
 
-    /* Иконки соцсетей - уменьшаем на мобильных */
-    .share-item img {
-        width: 40px;
-        height: 40px;
+    #share-title {
+
+        font-size: 24px;
     }
 
     .share-main {
-        width: 150px; /* Немного уменьшаем ширину */
-        height: 45px;
-        font-size: 16px;
+
+        width: 160px;
+        height: 52px;
     }
 
-    .share-main img {
-        width: 20px;
-        height: 20px;
-    }
+    .share-item img {
 
+        width: 42px;
+        height: 42px;
+    }
 }
 
-@media screen and (max-width: 480px){
+@media (max-width: 480px) {
 
     .share-content {
-        width: 95%;
-        max-width: 300px;
+
+        width: 95vw;
+
+        padding: 20px;
     }
 
-    /* Ещё сильнее уменьшаем иконки */
-    .share-item img {
-        width: 35px;
-        height: 35px;
-    }
-    
-    /* Заголовок ещё меньше */
     #share-title {
-        font-size: 16px;
+
+        font-size: 20px;
     }
-    
-    /* Уменьшаем кнопку "Копировать ссылку" */
+
+    .share-main {
+
+        width: 140px;
+        height: 48px;
+    }
+
+    .share-item img {
+
+        width: 38px;
+        height: 38px;
+    }
+
     .copy-btn {
-        font-size: 14px;
-        padding: 8px;
-    }
 
-    .share-main {
-        width: 120px;
-        height: 35px;
         font-size: 14px;
     }
-
 }

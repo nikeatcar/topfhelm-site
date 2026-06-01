@@ -1,6 +1,15 @@
+let topfhelmTimelineAutoplay = null;
+let topfhelmTimelineResumeTimeout = null;
+
 function initTimeline() {
     const container = document.getElementById("topfhelm-timeline");
     if (!container) return;
+
+    clearInterval(topfhelmTimelineAutoplay);
+    clearTimeout(topfhelmTimelineResumeTimeout);
+
+    topfhelmTimelineAutoplay = null;
+    topfhelmTimelineResumeTimeout = null;
 
     const pageLang =
         document.documentElement.lang ||
@@ -24,55 +33,37 @@ function initTimeline() {
 
     const timelineData = [
         {
-            date: {
-                en: "Mar 28, 2025",
-                ru: "28 марта 2025"
-            },
+            date: { en: "Mar 28, 2025", ru: "28 марта 2025" },
             title: "Sanguis Et Mulsum",
             cover: "media/TopfHelm_Sanguis_Et_Mulsum.webp",
             albumKey: "sanguis"
         },
         {
-            date: {
-                en: "May 9, 2025",
-                ru: "9 мая 2025"
-            },
+            date: { en: "May 9, 2025", ru: "9 мая 2025" },
             title: "Sir Godric",
             cover: "media/TopfHelm_Sir_Godric.webp",
             albumKey: "sirgodric"
         },
         {
-            date: {
-                en: "Jul 11, 2025",
-                ru: "11 июля 2025"
-            },
+            date: { en: "Jul 11, 2025", ru: "11 июля 2025" },
             title: "40",
             cover: "media/40.webp",
             albumKey: "forty"
         },
         {
-            date: {
-                en: "Aug 15, 2025",
-                ru: "15 августа 2025"
-            },
+            date: { en: "Aug 15, 2025", ru: "15 августа 2025" },
             title: "Solemnis",
             cover: "media/TopfHelm_Solemnis.webp",
             albumKey: "solemnis"
         },
         {
-            date: {
-                en: "Dec 12, 2025",
-                ru: "12 декабря 2025"
-            },
+            date: { en: "Dec 12, 2025", ru: "12 декабря 2025" },
             title: "Spadčyna",
             cover: "media/TopfHelm_Spadcyna.webp",
             albumKey: "spadcyna"
         },
         {
-            date: {
-                en: "2026",
-                ru: "2026"
-            },
+            date: { en: "2026", ru: "2026" },
             title: "TES: The Still Place",
             cover: "media/TopfHelm_TES_Still_Place.webp",
             link: "/the-emerald-saga/"
@@ -113,76 +104,124 @@ function initTimeline() {
     const link = container.querySelector(".timeline-link");
     const buttons = container.querySelectorAll(".timeline-point");
 
+    let currentIndex = timelineData.length - 1;
+
+    function setActiveButton(index) {
+        buttons.forEach(btn => btn.classList.remove("active"));
+
+        const activeButton = container.querySelector(`[data-index="${index}"]`);
+
+        if (activeButton) {
+            activeButton.classList.add("active");
+        }
+    }
+
     function renderTimelineItem(index) {
+        const item = timelineData[index];
+        const currentDate = item.date[isRu ? "ru" : "en"];
 
-    const item = timelineData[index];
-    const currentDate = item.date[isRu ? "ru" : "en"];
+        container.dataset.activeIndex = index;
+        currentIndex = index;
 
-    container.dataset.activeIndex = index;
+        container.classList.add("is-changing");
 
-    container.classList.add("is-changing");
+        setTimeout(() => {
+            cover.src = item.cover;
+            cover.alt = item.title;
 
-    setTimeout(() => {
+            title.textContent = item.title;
+            date.textContent = currentDate;
 
-        cover.src = item.cover;
-        cover.alt = item.title;
+            if (item.albumKey) {
+                coverLink.href = "#";
+                link.href = "#";
+            } else {
+                coverLink.href = item.link || "#";
+                link.href = item.link || "#";
+            }
 
-        title.textContent = item.title;
-        date.textContent = currentDate;
+            container.classList.remove("is-changing");
+        }, 160);
+    }
 
-        if (item.albumKey) {
-    coverLink.href = "#";
-    link.href = "#";
-} else {
-    coverLink.href = item.link || "#";
-    link.href = item.link || "#";
-}
+    function startTimelineAutoplay() {
+        clearInterval(topfhelmTimelineAutoplay);
 
-        container.classList.remove("is-changing");
+        topfhelmTimelineAutoplay = setInterval(() => {
+            currentIndex++;
 
-    }, 160);
-}
+            if (currentIndex >= timelineData.length) {
+                currentIndex = 0;
+            }
 
-function openCurrentTimelineItem(event) {
-    const activeIndex = Number(container.dataset.activeIndex);
-    const item = timelineData[activeIndex];
+            setActiveButton(currentIndex);
+            renderTimelineItem(currentIndex);
+        }, 5000);
+    }
 
-    if (!item) return;
+    function stopTimelineAutoplay() {
+        clearInterval(topfhelmTimelineAutoplay);
+        topfhelmTimelineAutoplay = null;
+    }
 
-    if (item.albumKey) {
+    function pauseTimelineAutoplayWithResume() {
+        stopTimelineAutoplay();
+
+        clearTimeout(topfhelmTimelineResumeTimeout);
+
+        topfhelmTimelineResumeTimeout = setTimeout(() => {
+            startTimelineAutoplay();
+        }, 15000);
+    }
+
+    function openCurrentTimelineItem(event) {
         event.preventDefault();
 
-        if (typeof window.openAlbumFromTimeline === "function") {
-            window.openAlbumFromTimeline(item.albumKey);
-        } else {
-            console.warn("openAlbumFromTimeline is not available. Check releases.js connection/order.");
+        const activeIndex = Number(container.dataset.activeIndex);
+        const item = timelineData[activeIndex];
+
+        if (!item) return;
+
+        stopTimelineAutoplay();
+        clearTimeout(topfhelmTimelineResumeTimeout);
+
+        if (item.albumKey) {
+            if (typeof window.openAlbumFromTimeline === "function") {
+                window.openAlbumFromTimeline(item.albumKey);
+            } else {
+                console.warn("openAlbumFromTimeline is not available. Check releases.js connection/order.");
+            }
+
+            return;
         }
 
-        return;
+        if (item.link) {
+            window.location.href = item.link;
+        }
     }
 
-    if (item.link) {
-        window.location.href = item.link;
-    }
-}
-
-link.addEventListener("click", openCurrentTimelineItem);
-coverLink.addEventListener("click", openCurrentTimelineItem);
+    link.addEventListener("click", openCurrentTimelineItem);
+    coverLink.addEventListener("click", openCurrentTimelineItem);
 
     buttons.forEach((button) => {
         button.addEventListener("click", () => {
-            buttons.forEach(btn => btn.classList.remove("active"));
-            button.classList.add("active");
+            const index = Number(button.dataset.index);
 
-            renderTimelineItem(Number(button.dataset.index));
+            setActiveButton(index);
+            renderTimelineItem(index);
+
+            pauseTimelineAutoplayWithResume();
         });
     });
 
     renderTimelineItem(timelineData.length - 1);
+    startTimelineAutoplay();
 }
 
 document.addEventListener("DOMContentLoaded", initTimeline);
 
-$(document).on("pjax:complete", function () {
-    initTimeline();
-});
+if (window.$ && $(document).on) {
+    $(document).on("pjax:complete", function () {
+        initTimeline();
+    });
+}

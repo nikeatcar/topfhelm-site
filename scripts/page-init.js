@@ -44,3 +44,7 @@ document.addEventListener("DOMContentLoaded", initializePage);
 $(document).on("pjax:complete", function () {
     initializePage();
 });
+
+window.addEventListener("popstate", function () {
+    window.location.reload();
+});

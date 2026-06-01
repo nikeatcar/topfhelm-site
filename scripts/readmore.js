@@ -37,11 +37,12 @@ function initReadMore() {
 
                 const listItem = document.createElement("li");
 
-                listItem.innerHTML = `
-                    <a href="${article.url}">
-                        ⬜ ${article.title}
-                    </a>
-                `;
+               listItem.innerHTML = `
+    <a class="article-card" href="${article.url}">
+        <span class="article-arrow">→</span>
+        <span class="article-title">${article.title}</span>
+    </a>
+`;
 
                 articlesList.appendChild(listItem);
             });

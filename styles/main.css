@@ -49,22 +49,44 @@ body.ru .english-text {
     text-align: center;
   }
   
-  .shop-btn {
-    display: inline-block;
-    background-color: rgb(255, 204, 0);
-    color: #111;
-    padding: 1rem 5rem;
-    font-size: 1.5rem;
-    border-radius: 8px;
-    text-decoration: none;
-    font-weight: bold;
-    transition: background-color 0.3s;
-  }
-  
-  .shop-btn:hover {
-    background-color: #189f40; /* Чуть затемнённый вариант зелёного */
-    transform: scale(1.05); /* Небольшое увеличение */
-  }
+  .shop-btn{
+
+    display:inline-flex;
+
+    align-items:center;
+    justify-content:center;
+
+    padding:14px 28px;
+
+    margin-top:18px;
+
+    border-radius:10px;
+
+    text-decoration:none;
+
+    color:#d7b37a;
+
+    background:rgba(20,20,20,.95);
+
+    border:1px solid rgba(215,179,122,.35);
+
+    transition:
+        transform .25s ease,
+        border-color .25s ease,
+        box-shadow .25s ease;
+}
+
+.shop-btn:hover{
+
+    transform:translateY(-2px);
+
+    color:#f2e3be;
+
+    border-color:rgba(215,179,122,.9);
+
+    box-shadow:
+        0 0 12px rgba(215,179,122,.18);
+}
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
@@ -676,23 +698,43 @@ body.ru #countdown-text {
 ;;                  ----==| Б Л О К   А Л Ь Б О М А |==----                   ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-.bandcamp-merch-card {
-  width: 300px;
-  background-color: #1a1a1a;
-  padding: 1rem;
-  border-radius: 12px;
-  text-align: center;
-  color: #eee;
-  margin: 1rem auto;
-  box-shadow: 0 0 8px rgba(255, 255, 255, 0.05);
+.bandcamp-merch-card{
+    max-width:420px;
+
+    margin:40px auto;
+
+    padding:24px;
+
+    background:rgba(15,15,15,.8);
+
+    border:1px solid rgba(215,179,122,.18);
+
+    border-radius:16px;
+
+    text-align:center;
+
+    transition:
+        border-color .25s ease,
+        transform .25s ease,
+        box-shadow .25s ease;
 }
 
-.bandcamp-merch-card .merch-cover {
-  width: 60%;
-  height: 140px;
-  object-fit: cover;
-  object-position: center;
-  border-radius: 8px;
+.bandcamp-merch-card:hover{
+    transform:translateY(-4px);
+
+    border-color:rgba(215,179,122,.7);
+
+    box-shadow:
+        0 0 20px rgba(215,179,122,.12);
+}
+
+.bandcamp-merch-card .merch-cover{
+    width:100%;
+    height:auto;
+
+    border-radius:10px;
+
+    margin-bottom:20px;
 }
 
 .album-section {
@@ -792,154 +834,190 @@ body.ru #countdown-text {
 }
 
 /* Блок обзоров */
-.reviews-section ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+.review-card{
+    display:block;
+
+    max-width:500px;
+
+    margin:20px auto;
+
+    padding:20px;
+
+    text-decoration:none;
+
+    border-radius:12px;
+
+    background:rgba(15,15,15,.75);
+
+    border:1px solid rgba(215,179,122,.2);
+
+    color:#f2e3be;
+
+    transition:.25s;
 }
 
-.reviews-section li {
-  margin: 12px 0;
+.review-card:hover{
+    transform:translateY(-3px);
+
+    border-color:rgba(215,179,122,.8);
+
+    box-shadow:
+      0 0 16px rgba(215,179,122,.15);
 }
 
-.reviews-section a {
-  display: inline-block;
-  padding: 12px 18px;
-  font-size: 1.2rem;          /* увеличиваем шрифт */
-  font-weight: 600;
-  background: rgba(255, 215, 0, 0.1); /* лёгкая золотистая подсветка */
-  color: #f5f5f5;
-  text-decoration: none;
-  border-left: 4px solid #ffd700;    /* акцентная полоса слева */
-  border-radius: 4px;
-  transition: all 0.3s ease;
+/* =======================================================
+   FEATURED IN
+======================================================= */
+
+.interviews-section {
+    max-width: 1100px;
+    margin: 120px auto 0;
+    padding: 0 20px;
 }
 
-.reviews-section a:hover {
-  background: rgba(255, 215, 0, 0.2); /* чуть ярче подсветка при наведении */
-  color: #ffd700;
-  transform: translateX(4px);         /* лёгкий сдвиг вправо */
+.featured-header {
+    text-align: center;
+    margin-bottom: 50px;
 }
 
-/* ------------------------------------
-   Interviews
------------------------------------- */
+.featured-label {
+    display: inline-block;
 
-/* ===== Interviews ===== */
-.interviews-section{
-  max-width: 1100px;
-  margin: 100px auto 0;
-  padding: 0 16px;
+    padding: 8px 16px;
+
+    border: 1px solid rgba(215,179,122,.25);
+    border-radius: 999px;
+
+    color: #d7b37a;
+
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    margin-bottom: 18px;
 }
 
-.interviews-title{
-  text-align:center;
-  font-size: clamp(28px, 4vw, 44px);
-  margin-bottom: 22px;
+.featured-title {
+    font-size: clamp(34px, 4vw, 52px);
+    margin-bottom: 12px;
 }
 
-.interviews-grid{
-  display: grid;
-  grid-template-columns: 1fr;        /* мобилки */
-  gap: 22px;                          /* расстояние между колонками/строками */
+.featured-subtitle {
+    color: rgba(255,255,255,.75);
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1.7;
 }
 
-@media (min-width: 900px){
-  .interviews-grid{
-    grid-template-columns: 1fr 1fr;   /* две колонки */
-  }
+/* =======================================================
+   CARDS
+======================================================= */
+
+.featured-grid {
+    display: grid;
+    gap: 24px;
+    grid-template-columns: 1fr;
 }
 
-.interview-col{
-  display: flex;
-  flex-direction: column;
-  gap: 14px;
-  min-width: 0;                       /* чтобы контент не распирал сетку */
+@media (min-width: 900px) {
+    .featured-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
 }
 
-.interview-col h3{
-  display:flex;
-  align-items:center;
-  gap:10px;
-  justify-content:center;
-  font-size: clamp(18px, 2.2vw, 26px);
-  margin: 0 0 6px 0;
+.featured-card {
+    text-decoration: none;
+
+    padding: 28px;
+
+    border-radius: 16px;
+
+    background:
+        linear-gradient(
+            180deg,
+            rgba(255,255,255,.03),
+            rgba(255,255,255,.01)
+        );
+
+    border: 1px solid rgba(215,179,122,.18);
+
+    transition:
+        transform .25s ease,
+        border-color .25s ease,
+        box-shadow .25s ease;
+
+    min-height: 230px;
+
+    display: flex;
+    flex-direction: column;
 }
 
-/* Карточка-ссылка */
-.interview-link{
-  display: block;
-  width: 100% !important;             /* снимет фикс. ширину, если была */
-  box-sizing: border-box;
-  padding: 14px 18px;
-  text-decoration: none;
-  text-align: center;
-  line-height: 1.25;
-  font-weight: 700;
-  border-radius: 10px;
-  border: 1px solid rgba(255,215,0,.18);
-  background: rgba(20,20,20,.6);
-  color: #e9e0c0;
-  box-shadow: 0 2px 10px rgba(0,0,0,.25) inset, 0 1px 6px rgba(0,0,0,.25);
-  transition: transform .18s ease, box-shadow .18s ease, background .18s ease;
-  overflow: hidden;                    /* на всякий, если текст длиннее */
+.featured-card:hover {
+    transform: translateY(-5px);
+
+    border-color: rgba(215,179,122,.65);
+
+    box-shadow:
+        0 0 20px rgba(215,179,122,.12),
+        0 0 40px rgba(215,179,122,.05);
 }
 
-.interview-link:hover{
-  transform: translateY(-2px);
-  background: rgba(35,35,35,.75);
-  box-shadow: 0 3px 14px rgba(0,0,0,.35), 0 2px 0 rgba(255,215,0,.08) inset;
-  color: #fff3bf;
+.featured-type {
+    color: #d7b37a;
+
+    font-size: 12px;
+
+    text-transform: uppercase;
+
+    letter-spacing: 2px;
+
+    margin-bottom: 18px;
 }
 
+.featured-name {
+    color: #f2e3be;
 
+    font-size: 30px;
 
+    line-height: 1.2;
 
-/* Карточка со ссылкой */
-#interviews .interview-card {
-  background: rgba(255, 215, 96, 0.05);
-  border: 1px solid rgba(255, 215, 96, 0.22);
-  border-radius: 14px;
-  padding: 14px;
-  box-shadow: 0 6px 18px rgba(0,0,0,.28);
+    margin-bottom: 16px;
 }
 
-#interviews .interview-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 10px;
-  width: 100%;
-  padding: 14px 16px;
-  border-radius: 10px;
-  text-decoration: none;
-  color: #eee;
-  font-weight: 700;
-  letter-spacing: .2px;
-  background: rgba(255, 215, 96, 0.06);
-  border: 1px solid rgba(255, 215, 96, 0.26);
-  transition: transform .18s ease, box-shadow .18s ease, background-color .18s ease, color .18s ease;
+.featured-description {
+    color: rgba(255,255,255,.8);
+
+    line-height: 1.7;
+
+    flex-grow: 1;
 }
 
-#interviews .interview-link:hover {
-  transform: translateY(-2px);
-  background: rgba(255, 215, 96, 0.12);
-  color: #ffe08a;
-  box-shadow:
-    0 0 0 2px rgba(255, 215, 96, 0.35) inset,
-    0 10px 24px rgba(0,0,0,.38);
+.featured-arrow {
+    margin-top: 25px;
+
+    color: #d7b37a;
+
+    font-size: 14px;
+
+    letter-spacing: 1px;
+
+    text-transform: uppercase;
 }
 
-#interviews .interview-link .emoji {
-  font-size: 1.05rem;
-  line-height: 1;
-}
+/* =======================================================
+   STATS
+======================================================= */
 
-/* Небольшая подпись/источник под ссылкой (если решишь добавить) */
-#interviews .source-note {
-  margin-top: 8px;
-  font-size: .92rem;
-  color: #bfb9a4;
-  opacity: .9;
+.featured-stats {
+    margin-top: 40px;
+
+    text-align: center;
+
+    color: rgba(255,255,255,.65);
+
+    font-size: 14px;
+
+    letter-spacing: 1px;
 }
 
 
@@ -1117,14 +1195,35 @@ body.ru #countdown-text {
     gap: 30px;
 }
 
-.support-icon img {
-    height: 50px;
-    transition: transform 0.3s ease-in-out, filter 0.3s ease-in-out;
+.support-icon{
+
+    width:58px;
+    height:58px;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+    background:rgba(15,15,15,.75);
+
+    border:1px solid rgba(215,179,122,.18);
+
+    border-radius:14px;
+
+    transition:
+        transform .25s ease,
+        border-color .25s ease,
+        box-shadow .25s ease;
 }
 
-.support-icon:hover img {
-    transform: scale(1.2);
-    filter: brightness(1.5);
+.support-icon:hover{
+
+    transform:translateY(-3px);
+
+    border-color:rgba(215,179,122,.75);
+
+    box-shadow:
+        0 0 18px rgba(215,179,122,.12);
 }
 
 /* ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -1173,56 +1272,223 @@ body.ru #countdown-text {
 ;;                           ----==| S E O |==----                            ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+
+/* =======================================================
+   SEO / ABOUT
+======================================================= */
+
 .seo-text {
-    font-family: "Arial", sans-serif;
-    font-size: 14px;
-    color: #ddd;
+
+    max-width: 950px;
+
+    margin: 120px auto;
+
+    padding: 0 20px;
+
     text-align: center;
-    max-width: 800px;
-    margin: 100px auto;
-    padding: 20px;
-    background: rgba(0, 0, 0, 0.5);
-    border-radius: 8px;
-    line-height: 1.6;
 }
 
-/* Заголовок SEO-блока */
+/* =======================================================
+   MAIN TITLE
+======================================================= */
+
 .seo-text h2 {
-    font-size: 18px;
-    color: #fff;
-    margin-bottom: 10px;
+
+    color: #f2e3be;
+
+    font-size: clamp(30px, 4vw, 46px);
+
+    margin-bottom: 30px;
+
+    line-height: 1.25;
 }
 
-/* Ссылки в тексте */
+/* =======================================================
+   TAGS
+======================================================= */
+
+.hero-tags {
+
+    display: flex;
+
+    justify-content: center;
+
+    flex-wrap: wrap;
+
+    gap: 12px;
+
+    margin: 30px 0 55px;
+}
+
+.hero-tags span {
+
+    padding: 10px 18px;
+
+    border-radius: 999px;
+
+    border: 1px solid rgba(215,179,122,.25);
+
+    background: rgba(15,15,15,.75);
+
+    color: #d7b37a;
+
+    font-size: 15px;
+
+    transition:
+        border-color .25s ease,
+        box-shadow .25s ease;
+}
+
+.hero-tags span:hover {
+
+    border-color: rgba(215,179,122,.7);
+
+    box-shadow:
+        0 0 12px rgba(215,179,122,.08);
+}
+
+/* =======================================================
+   SUBHEADINGS
+======================================================= */
+
+.seo-text h3 {
+
+    color: #f2e3be;
+
+    font-size: clamp(24px, 3vw, 34px);
+
+    margin-top: 70px;
+    margin-bottom: 25px;
+
+    line-height: 1.3;
+}
+
+/* =======================================================
+   PARAGRAPHS
+======================================================= */
+
+.seo-text p {
+
+    max-width: 850px;
+
+    margin: 0 auto 24px;
+
+    color: rgba(255,255,255,.88);
+
+    font-size: 18px;
+
+    line-height: 1.9;
+}
+
+/* =======================================================
+   STRONG
+======================================================= */
+
+.seo-text strong {
+
+    color: #f2e3be;
+
+    font-weight: 700;
+}
+
+/* =======================================================
+   LINKS
+======================================================= */
+
 .seo-text a {
-    color: #ffcc00;
+
+    color: #d7b37a;
+
     text-decoration: none;
-    font-weight: bold;
+
+    transition:
+        color .25s ease;
 }
 
 .seo-text a:hover {
-    text-decoration: underline;
+
+    color: #f2e3be;
 }
 
-/* 📖 Список перелинковки */
-.seo-text ul {
-    list-style: none;
-    padding: 0;
+/* =======================================================
+   FAQ QUESTIONS
+======================================================= */
+
+.seo-text p strong:first-child {
+
+    display: inline-block;
+
+    margin-top: 10px;
+
+    color: #f2e3be;
 }
 
-.seo-text ul li {
-    margin: 10px 0;
+/* =======================================================
+   SPOTIFY CTA
+======================================================= */
+
+.seo-text p:last-child {
+
+    margin-top: 45px;
 }
 
-.seo-text ul a {
-    color: #ffcc00;
-    font-weight: bold;
-    text-decoration: none;
-    transition: color 0.2s ease-in-out;
+.seo-text p:last-child a {
+
+    display: inline-flex;
+
+    align-items: center;
+    justify-content: center;
+
+    padding: 14px 28px;
+
+    border-radius: 12px;
+
+    border: 1px solid rgba(215,179,122,.25);
+
+    background: rgba(15,15,15,.75);
+
+    color: #d7b37a;
+
+    transition:
+        transform .25s ease,
+        border-color .25s ease,
+        box-shadow .25s ease;
 }
 
-.seo-text ul a:hover {
-    color: #a67c00;
+.seo-text p:last-child a:hover {
+
+    transform: translateY(-2px);
+
+    border-color: rgba(215,179,122,.8);
+
+    box-shadow:
+        0 0 18px rgba(215,179,122,.12);
+
+    color: #f2e3be;
+}
+
+/* =======================================================
+   MOBILE
+======================================================= */
+
+@media (max-width: 768px) {
+
+    .seo-text {
+
+        margin: 80px auto;
+    }
+
+    .seo-text p {
+
+        font-size: 17px;
+
+        line-height: 1.8;
+    }
+
+    .seo-text h3 {
+
+        margin-top: 50px;
+    }
 }
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -1231,140 +1497,312 @@ body.ru #countdown-text {
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
 .button.contact {
+    width: 220px;
+    height: 52px;
+
     font-size: 18px;
-    width: 150px;  /* Сделал такой же ширины, как Presave Now */
-    height: 10px;  /* Чуть меньше по высоте */
-    background-color: #1DB954;  /* Цвет Presave Now */
-    color: #121212;  /* Тёмный текст */
-    border: 2px solid #1DB954;
+    font-weight: 600;
+
+    color: #d7b37a;
+    background: rgba(20, 20, 20, 0.95);
+
+    border: 1px solid rgba(215, 179, 122, 0.45);
+    border-radius: 10px;
+
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out;
+
     margin-top: 20px;
+
+    transition:
+        transform 0.25s ease,
+        border-color 0.25s ease,
+        box-shadow 0.25s ease,
+        color 0.25s ease;
 }
 
-/* При наведении цвет меняется */
 .button.contact:hover {
-    background-color: #189f40; /* Чуть затемнённый вариант зелёного */
-    transform: scale(1.05); /* Небольшое увеличение */
+    color: #f0d39a;
+
+    border-color: rgba(240, 211, 154, 0.9);
+
+    box-shadow:
+        0 0 12px rgba(240, 211, 154, 0.25),
+        0 0 24px rgba(240, 211, 154, 0.12);
+
+    transform: translateY(-2px);
 }
 
-/* Основные стили для модального окна */
+/* =======================================================
+   CONTACT MODAL
+======================================================= */
+
 .modal {
+
     display: none;
+
     position: fixed;
-    z-index: 1000;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.8);
-    backdrop-filter: blur(5px);
-    align-items: center;
+
+    inset: 0;
+
+    z-index: 9999;
+
+    background: rgba(0,0,0,.88);
+
+    backdrop-filter: blur(4px);
+
     justify-content: center;
+    align-items: center;
 }
 
-/* Когда модальное окно активно */
 .modal.active {
     display: flex;
 }
 
-/* Контейнер формы */
+/* =======================================================
+   CONTENT
+======================================================= */
+
 .modal-content {
-    background: rgba(0, 0, 0, 0.95);
-    padding: 25px;
-    border-radius: 10px;
-    box-shadow: 0 0 15px rgba(255, 204, 0, 0.5);
-    max-width: 450px;
-    width: 90%;
-    text-align: center;
+
     position: relative;
-    transform: scale(0.8);
+
+    width: min(92vw, 620px);
+
+    padding: 36px;
+
+    border-radius: 18px;
+
+    background:
+        linear-gradient(
+            180deg,
+            rgba(20,20,20,.98),
+            rgba(10,10,10,.98)
+        );
+
+    border: 1px solid rgba(215,179,122,.25);
+
+    box-shadow:
+        0 0 25px rgba(215,179,122,.08);
+
+    transform: translateY(10px);
+
     opacity: 0;
-    transition: transform 0.3s ease, opacity 0.3s ease;
-}
 
-/* Анимация появления */
-.modal.active .modal-content {
-    transform: scale(1);
-    opacity: 1;
-}
+    transition:
+        opacity .3s ease,
+        transform .3s ease;
 
-/* Заголовок формы */
-.modal-content h2 {
-    font-family: 'Old English', serif;
-    font-size: 24px;
-    margin-bottom: 15px;
-    color: #ffcc00;
-    text-transform: uppercase;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.modal-content h2::before {
-    content: url('media/mail-icon.png'); /* Иконка письма */
-    display: inline-block;
-    margin-right: 8px;
-    vertical-align: middle;
-}
-
-/* Поля формы */
-.modal-content label {
-    display: block;
-    font-family: 'Old English', serif;
-    font-size: 16px;
-    color: #ffcc00;
     text-align: left;
-    margin-top: 10px;
 }
+
+.modal.active .modal-content {
+
+    opacity: 1;
+
+    transform: translateY(0);
+}
+
+/* =======================================================
+   TITLE
+======================================================= */
+
+.modal-content h2 {
+
+    text-align: center;
+
+    color: #f2e3be;
+
+    font-size: 38px;
+
+    margin-bottom: 30px;
+
+    text-transform: none;
+}
+
+.modal-content h2::before,
+.modal-content h2::after {
+
+    content: "✉";
+
+    color: #d7b37a;
+
+    margin: 0 12px;
+
+    font-size: 24px;
+}
+
+/* =======================================================
+   LABELS
+======================================================= */
+
+.modal-content label {
+
+    display: block;
+
+    margin-bottom: 8px;
+
+    color: #f2e3be;
+
+    font-size: 16px;
+
+    font-weight: 600;
+}
+
+/* =======================================================
+   INPUTS
+======================================================= */
 
 .modal-content input,
 .modal-content textarea {
+
     width: 100%;
-    padding: 8px;
-    margin-top: 5px;
-    background: #222;
-    border: 2px solid #ffcc00;
-    border-radius: 5px;
-    font-size: 14px;
-    color: #ffcc00;
-    font-family: 'Monomakh', sans-serif;
+
+    padding: 14px 16px;
+
+    margin-bottom: 20px;
+
+    background: rgba(15,15,15,.75);
+
+    border: 1px solid rgba(215,179,122,.22);
+
+    border-radius: 12px;
+
+    color: #e9dfc4;
+
+    font-size: 16px;
+
+    transition:
+        border-color .25s ease,
+        box-shadow .25s ease;
+
+    box-sizing: border-box;
 }
 
-/* Поле ввода текста */
+.modal-content input:focus,
+.modal-content textarea:focus {
+
+    outline: none;
+
+    border-color: rgba(215,179,122,.8);
+
+    box-shadow:
+        0 0 14px rgba(215,179,122,.10);
+}
+
 .modal-content textarea {
-    min-height: 100px;
+
+    min-height: 180px;
+
     resize: vertical;
 }
 
-/* Кнопка отправки */
+/* =======================================================
+   PLACEHOLDER
+======================================================= */
+
+.modal-content input::placeholder,
+.modal-content textarea::placeholder {
+
+    color: rgba(255,255,255,.35);
+}
+
+/* =======================================================
+   SEND BUTTON
+======================================================= */
+
 .modal-content button {
-    margin-top: 15px;
-    background: #ffcc00;
-    color: #000;
-    font-weight: bold;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    width: 180px;
+    height: 54px;
+
+    margin: 15px auto 0;
+
+    background: rgba(15,15,15,.75);
+
+    border: 1px solid rgba(215,179,122,.25);
+
+    border-radius: 12px;
+
+    color: #e9dfc4;
+
     font-size: 16px;
+
+    font-weight: 600;
+
     cursor: pointer;
-    transition: 0.2s ease-in-out;
+
+    transition:
+        transform .25s ease,
+        border-color .25s ease,
+        box-shadow .25s ease;
 }
 
 .modal-content button:hover {
-    background: #d4a600;
+
+    transform: translateY(-2px);
+
+    border-color: rgba(215,179,122,.8);
+
+    box-shadow:
+        0 0 18px rgba(215,179,122,.12);
 }
 
-/* Кнопка закрытия */
+/* =======================================================
+   CLOSE
+======================================================= */
+
 .close-modal {
+
     position: absolute;
-    top: 10px;
-    right: 15px;
-    font-size: 20px;
-    color: #ffcc00;
+
+    top: 16px;
+    right: 18px;
+
+    color: #d7b37a;
+
+    font-size: 24px;
+
     cursor: pointer;
+
+    transition:
+        color .25s ease,
+        transform .25s ease;
+}
+
+.close-modal:hover {
+
+    color: #f2e3be;
+
+    transform: rotate(90deg);
+}
+
+/* =======================================================
+   MOBILE
+======================================================= */
+
+@media (max-width: 768px) {
+
+    .modal-content {
+
+        padding: 24px;
+    }
+
+    .modal-content h2 {
+
+        font-size: 30px;
+    }
+
+    .modal-content textarea {
+
+        min-height: 140px;
+    }
 }
 
 /*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
