@@ -4,12 +4,13 @@ function getLangFromURL() {
     const htmlLang = document.documentElement.lang?.toLowerCase() || "";
 
     if (
-        htmlLang.startsWith("ru") ||
-        path === "/ru" ||
-        path.includes("/ru/") ||
-        path.includes("-ru") ||
-        href.includes("index-ru.html")
-    ) {
+    htmlLang.startsWith("ru") ||
+    path === "/ru" ||
+    path.includes("/ru/") ||
+    path.endsWith("/ru") ||
+    path.includes("-ru") ||
+    href.includes("index-ru.html")
+) {
         return "ru";
     }
 
@@ -38,17 +39,21 @@ function getLanguageTargetURL() {
     }
 
     // Composer
-    if (
-        currentURL === "/composer/" ||
-        currentURL === "/composer" ||
-        currentURL === "/composer/index.html"
-    ) {
-        return "/composer-ru.html";
-    }
+if (
+    currentURL === "/composer/" ||
+    currentURL === "/composer" ||
+    currentURL === "/composer/index.html"
+) {
+    return "/composer/ru";
+}
 
-    if (currentURL === "/composer-ru.html") {
-        return "/composer/";
-    }
+if (
+    currentURL === "/composer/ru" ||
+    currentURL === "/composer/ru/" ||
+    currentURL === "/composer/index-ru.html"
+) {
+    return "/composer/";
+}
 
     // Articles
 if (currentURL.includes("/articles/")) {
