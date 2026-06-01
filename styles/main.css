@@ -152,6 +152,130 @@ body.ru h1 {
     font-display: swap;
 }
 
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                           ----==| P A T H |==----                          ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+
+.path-section {
+    max-width: 1120px;
+    margin: 70px auto 100px;
+    padding: 0 24px;
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+}
+
+.path-card {
+    position: relative;
+    overflow: hidden;
+
+    min-height: 210px;
+    padding: 32px 26px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+    text-decoration: none;
+
+    background: rgba(0, 0, 0, 0.55);
+    border: 1px solid rgba(216, 192, 139, 0.18);
+    border-radius: 18px;
+
+    box-shadow:
+        0 0 24px rgba(0, 0, 0, 0.7),
+        inset 0 0 10px rgba(255, 255, 255, 0.04);
+
+    transition:
+        transform 0.25s ease,
+        border-color 0.25s ease,
+        box-shadow 0.25s ease,
+        background 0.25s ease;
+}
+
+.path-card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+
+    background: radial-gradient(
+        circle at top,
+        rgba(216, 192, 139, 0.12),
+        transparent 55%
+    );
+
+    opacity: 0;
+    transition: opacity 0.25s ease;
+}
+
+.path-card:hover {
+    transform: translateY(-5px);
+    border-color: rgba(216, 192, 139, 0.45);
+    background: rgba(0, 0, 0, 0.68);
+
+    box-shadow:
+        0 0 30px rgba(0, 0, 0, 0.85),
+        0 0 24px rgba(216, 192, 139, 0.16);
+}
+
+.path-card:hover::before {
+    opacity: 1;
+}
+
+.path-icon {
+    position: relative;
+    z-index: 1;
+
+    font-size: 34px;
+    margin-bottom: 18px;
+}
+
+.path-card h2 {
+    position: relative;
+    z-index: 1;
+
+    margin: 0 0 12px;
+
+    font-family: "IM Fell English SC", serif;
+    font-size: 28px;
+    letter-spacing: 1px;
+
+    color: #d8c08b;
+}
+
+.path-card p {
+    position: relative;
+    z-index: 1;
+
+    margin: 0;
+
+    max-width: 270px;
+
+    font-size: 16px;
+    line-height: 1.5;
+
+    color: rgba(255,255,255,0.76);
+}
+
+/* Mobile */
+@media (max-width: 850px) {
+    .path-section {
+        grid-template-columns: 1fr;
+        margin: 50px auto 80px;
+    }
+
+    .path-card {
+        min-height: 170px;
+        padding: 28px 22px;
+    }
+}
+
+
 /* ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
 ;;                      ----==| T I M E L I N E |==----                       ;;
@@ -159,7 +283,7 @@ body.ru h1 {
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; */
 
 .timeline-section {
-    max-width: 1100px;
+    max-width: 100%;
     margin: 40px auto;
     padding: 0 24px;
     text-align: center;

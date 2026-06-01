@@ -74,7 +74,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 ru: "2026"
             },
             title: "TES: The Still Place",
-            cover: "the-emerald-saga/media/The_Still_Place_cover.png",
+            cover: "media/TopfHelm_TES_Still_Place.webp",
             link: "/the-emerald-saga/"
         }
     ];
