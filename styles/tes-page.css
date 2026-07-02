@@ -522,6 +522,112 @@ body.tes-body footer p {
     color: #666;
 }
 
+.tes-release-date {
+    display: inline-block;
+    margin: 10px auto 22px;
+    padding: 7px 18px;
+
+    border: 1px solid rgba(80, 140, 90, 0.35);
+    border-radius: 999px;
+
+    background: rgba(80, 140, 90, 0.08);
+
+    color: #9fc89f;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+}
+
+/* ===================================
+   TES RELEASE COUNTDOWN
+=================================== */
+
+.tes-release-info{
+    margin:22px 0 28px;
+    text-align:center;
+}
+
+.tes-countdown{
+
+    display:flex;
+    justify-content:center;
+    align-items:flex-start;
+    gap:28px;
+
+    margin-bottom:16px;
+}
+
+.tes-time{
+
+    min-width:56px;
+}
+
+.tes-time span{
+
+    display:block;
+
+    font-size:34px;
+    font-weight:700;
+    line-height:1;
+
+    color:#f5f5f5;
+}
+
+.tes-time small{
+
+    display:block;
+
+    margin-top:6px;
+
+    font-size:12px;
+    letter-spacing:.8px;
+
+    color:#8da88c;
+
+    text-transform:uppercase;
+}
+
+.tes-release-date{
+
+    font-size:14px;
+
+    color:#a5a5a5;
+
+    letter-spacing:.4px;
+}
+
+@media (max-width:640px){
+
+    .tes-countdown{
+
+        gap:16px;
+    }
+
+    .tes-time{
+
+        min-width:44px;
+    }
+
+    .tes-time span{
+
+        font-size:28px;
+    }
+
+    .tes-time small{
+
+        font-size:11px;
+    }
+
+    .tes-release-date{
+
+        font-size:13px;
+    }
+
+}
+
 /* =========================
    RESPONSIVE
 ========================= */
