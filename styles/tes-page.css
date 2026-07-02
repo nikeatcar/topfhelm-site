@@ -81,6 +81,34 @@ body.tes-body::before {
     filter: drop-shadow(0 0 14px rgba(80, 140, 90, 0.35));
 }
 
+@keyframes tesGlow{
+
+0%{
+
+filter:drop-shadow(0 0 8px rgba(70,140,90,.15));
+
+}
+
+50%{
+
+filter:drop-shadow(0 0 16px rgba(70,140,90,.35));
+
+}
+
+100%{
+
+filter:drop-shadow(0 0 8px rgba(70,140,90,.15));
+
+}
+
+}
+
+.tes-logo{
+
+animation:tesGlow 6s ease-in-out infinite;
+
+}
+
 .tes-intro p,
 .tes-section-inner p,
 .tes-description p {
@@ -309,6 +337,19 @@ body.tes-body::before {
 /* =========================
    COVER
 ========================= */
+.tes-cover img{
+
+transition:.35s;
+}
+
+.tes-cover img:hover{
+
+transform:scale(1.03);
+
+box-shadow:
+0 0 35px rgba(90,180,120,.18);
+
+}
 
 .tes-cover img,
 .tes-placeholder-cover {
@@ -426,10 +467,13 @@ body.tes-body::before {
 }
 
 .tes-btn {
-    padding: 13px 30px;
+    padding:16px 42px;
+    font-size:16px;
+    letter-spacing:.7px;
+    min-width:190px;
     border-radius: 10px;
 
-    background: transparent;
+    background: hwb(155 38% 13% / 0.507);
     color: #fff;
     border: 1px solid rgba(255,255,255,0.25);
 
@@ -569,7 +613,7 @@ body.tes-body footer p {
 
     display:block;
 
-    font-size:34px;
+    font-size:40px;
     font-weight:700;
     line-height:1;
 
