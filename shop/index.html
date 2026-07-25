@@ -15,9 +15,24 @@
   <meta property="og:url" content="https://topfhelm.com/shop">
   <meta name="twitter:card" content="summary_large_image">
 
-  <link rel="stylesheet" href="../styles/merch.css">
+  <link rel="stylesheet" href="../styles/merch.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="../styles/preloader.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="../styles/social.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="../styles/up_button.css" media="print" onload="this.media='all'">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.css">
 </head>
+
+ <!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                     ----==| П Р Е Л О А Д Е Р |==----                      ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+    <div id="preloader">
+        <img src="../media/TopfHelm-logo.webp" alt="TopfHelm Logo">
+        <div class="loader-bar"></div>
+    </div>
+
+     <button id="scrollToTopBtn" title="UP">⬆</button>
 
   <script src="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.js"></script>
 
@@ -25,11 +40,38 @@
   <div id="cart-fixed">
     <button id="view-cart">🛒 Cart (<span id="cart-count">0</span>)</button>
   </div>
+
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                                ;;
+;;               ----==| С О Ц И А Л Ь Н Ы Е   С Е Т И |==----                    ;;
+;;                                                                                ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+    <!-- Социальные сети -->
+<div id="social-container">
+    <div class="social-icons">
+        <a href="https://open.spotify.com/artist/5NHkqDnmyOUMMUrHy2n9Mq" target="_blank">
+            <img src="../icons/icons8-spotify.svg" alt="Spotify" loading="lazy">
+        </a>
+        <a href="https://topfhelm.bandcamp.com/" target="_blank">
+            <img src="../icons/icons8-bandcamp.svg" alt="Listen to TopfHelm on Bandcamp" loading="lazy">
+        </a>
+        <a href="https://www.instagram.com/topfhelmmusic/" target="_blank">
+            <img src="../icons/icons8-insta.svg" alt="Subscribe to TopfHelm's Instagram" loading="lazy">
+        </a>
+        <a href="https://www.tiktok.com/@topfhelmmusic" target="_blank">
+            <img src="../icons/icons8-tiktok.svg" alt="Subscribe to TopfHelm's TikTok" loading="lazy">
+        </a>
+        <a href="https://vk.com/topfhelmmusic" target="_blank">
+            <img src="../icons/6214734_logo_vk_vkontakte_icon.svg" alt="Subscribe to TopfHelm's VK" loading="lazy">
+        </a>
+        <a href="https://www.youtube.com/@TopfHelmMusic" target="_blank">
+            <img src="../icons/icons8-youtube.svg" alt="Watch TopfHelm on YouTube" loading="lazy">
+        </a>
+    </div>
+</div>
+
 <header>
   <h1>TopfHelm Merch Store</h1>
-  <nav>
-    <a href="/">Home</a>
-  </nav>
 </header>
 
 <section id="merch-intro">
@@ -49,6 +91,26 @@
   <div class="merch-item music">
     <div class="glider-contain">
       <div class="glider">
+        <img src="../media/merch/TES_TSP_cassette_1.webp" alt="The Emerald Saga: The Still Place | Handcrafted Collector's Cassette Edition">
+        <img src="../media/merch/TES_TSP_cassette_2.webp" alt="The Emerald Saga: The Still Place | Handcrafted Collector's Cassette Edition">
+        <img src="../media/merch/TES_TSP_cassette_3.webp" alt="The Emerald Saga: The Still Place | Handcrafted Collector's Cassette Edition">
+        <img src="../media/merch/TES_TSP_cassette_4.webp" alt="The Emerald Saga: The Still Place | Handcrafted Collector's Cassette Edition">
+
+      </div>
+      <button aria-label="Previous" class="glider-prev">«</button>
+      <button aria-label="Next" class="glider-next">»</button>
+      <div role="tablist" class="dots"></div>
+    </div>
+  
+    <h2>The Emerald Saga: The Still Place | Handcrafted Collector's Cassette Edition</h2>
+    <p>Handmade, limited edition.</p>
+    <p class="price">$24</p>
+    <button class="cart-btn" onclick="addToCart('TES TSP Collectors Cassette')">Add to Order</button>
+  </div>
+
+  <!--<div class="merch-item music">
+    <div class="glider-contain">
+      <div class="glider">
         <img src="../media/merch/spadcyna_cassette_1.webp" alt="Spadcyna limited cassette front">
         <img src="../media/merch/spadcyna_cassette_2.webp" alt="Spadcyna limited cassette engraving">
         <img src="../media/merch/spadcyna_cassette_3.webp" alt="Spadcyna limited cassette embroidery">
@@ -62,9 +124,9 @@
   
     <h2>"Spadcyna" limited cassette</h2>
     <p>Handmade, limited edition.</p>
-    <p class="price">€35</p>
+    <p class="price">$35</p>
     <button class="cart-btn" onclick="addToCart('Spadcyna limited')">Add to Order</button>
-  </div>
+  </div>-->
 
   <div class="merch-item music">
     <div class="glider-contain">
@@ -83,7 +145,7 @@
   
     <h2>"Solemnis" CD Bundle</h2>
     <p>Handmade, limited edition.</p>
-    <p class="price">€9</p>
+    <p class="price">$9</p>
     <button class="cart-btn" onclick="addToCart('Solemnis Cassette')">Add to Order</button>
   </div>
 
@@ -104,7 +166,7 @@
   
     <h2>"40" Collector's Edition</h2>
     <p>Handmade, limited edition.</p>
-    <p class="price">€18</p>
+    <p class="price">$18</p>
     <button class="cart-btn" onclick="addToCart('40 Cassette')">Add to Order</button>
   </div>
 
@@ -126,121 +188,6 @@
     <p class="price">€15</p>
     <button class="cart-btn" onclick="addToCart('Sir Godric Cassette')">Add to Order</button>
   </div>
-
-  <!-- <div class="merch-item apparel">
-    <img src="/media/merch/sir_godric_tshirt.webp" alt="Sir Godric T-shirt">
-    <h2>"Sir Godric" T-shirt</h2>
-    <p>Color: Black</p>
-  
-    <div class="size-options">
-      <label>
-        <input type="radio" name="size-tshirt" value="S"> S
-      </label>
-      <label>
-        <input type="radio" name="size-tshirt" value="M"> M
-      </label>
-      <label>
-        <input type="radio" name="size-tshirt" value="L"> L
-      </label>
-      <label>
-        <input type="radio" name="size-tshirt" value="XL"> XL
-      </label>
-      <label>
-        <input type="radio" name="size-tshirt" value="XXL"> XXL
-      </label>
-    </div>
-  
-    <div class="premium-option">
-      <label><input type="checkbox" name="premium-tshirt" value="Premium"> Premium Oversized (+€10)</label>
-    </div>
-  
-    <p class="price">€20</p>
-    <button
-  class="cart-btn"
-  onclick="addTshirtToCart(this)"
-  data-name="Sir Godric T-shirt"
-  data-size-group="size-tshirt"
-  data-premium-group="premium-tshirt"
-  >Add to Order</button>
-
-  </div>
-
-
-  <div class="merch-item apparel">
-    <img src="/media/merch/miss_tshirt.webp" alt="Final Blow T-shirt">
-    <h2>"Final Blow" T-shirt</h2>
-    <p>Color: Black</p>
-  
-    <div class="size-options">
-      <label>
-        <input type="radio" name="size-tshirt" value="S"> S
-      </label>
-      <label>
-        <input type="radio" name="size-tshirt" value="M"> M
-      </label>
-      <label>
-        <input type="radio" name="size-tshirt" value="L"> L
-      </label>
-      <label>
-        <input type="radio" name="size-tshirt" value="XL"> XL
-      </label>
-      <label>
-        <input type="radio" name="size-tshirt" value="XXL"> XXL
-      </label>
-    </div>
-  
-    <div class="premium-option">
-      <label><input type="checkbox" name="premium-tshirt" value="Premium"> Premium Oversized (+€10)</label>
-    </div>
-  
-    <p class="price">€20</p>
-    <button
-  class="cart-btn"
-  onclick="addTshirtToCart(this)"
-  data-name="Final Blow T-shirt"
-  data-size-group="size-tshirt"
-  data-premium-group="premium-tshirt"
-  >Add to Order</button>
-
-  </div>
-
-  <div class="merch-item apparel">
-    <img src="/media/merch/medicine_tshirt.webp" alt="Medicine T-shirt">
-    <h2>"Medicine" T-shirt</h2>
-    <p>Color: Black</p>
-  
-    <div class="size-options">
-      <label>
-        <input type="radio" name="size-tshirt" value="S"> S
-      </label>
-      <label>
-        <input type="radio" name="size-tshirt" value="M"> M
-      </label>
-      <label>
-        <input type="radio" name="size-tshirt" value="L"> L
-      </label>
-      <label>
-        <input type="radio" name="size-tshirt" value="XL"> XL
-      </label>
-      <label>
-        <input type="radio" name="size-tshirt" value="XXL"> XXL
-      </label>
-    </div>
-  
-    <div class="premium-option">
-      <label><input type="checkbox" name="premium-tshirt" value="Premium"> Premium Oversized (+€10)</label>
-    </div>
-  
-    <p class="price">€20</p>
-    <button
-  class="cart-btn"
-  onclick="addTshirtToCart(this)"
-  data-name="Medicine T-shirt"
-  data-size-group="size-tshirt"
-  data-premium-group="premium-tshirt"
-  >Add to Order</button>
-  
-  </div> -->
 
     
 </section>
@@ -268,5 +215,11 @@
 
 <script src="../scripts/merch.js"></script>
 <script src="../scripts/cart.js"></script>
+<script src="../scripts/social.js"></script>
+<script src="../scripts/preloader.js" defer></script>
+<script src="../scripts/main.js" defer></script>
+<script src="../scripts/up_button.js" defer></script>
+<script src="../scripts/page-init.js" defer></script>
+
 </body>
 </html>

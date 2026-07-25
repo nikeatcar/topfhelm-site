@@ -35,18 +35,6 @@ spadcyna: {
          </a>
        </div>
      </div>
-     <h2>${isRussian ? '🎁 Мерч' : '🎁 Related Merch'}</h2>
-     <div class="merch-preview">
-       <div class="bandcamp-merch-card">
-         <img class="merch-cover" src="media/merch/spadcyna_cassette_1.webp" alt="Spadčyna Cassette">
-         <p><strong>"Spadčyna" – ${isRussian ? 'Коллекционное издание на кассете' : "Collector's Cassette Edition"}</strong></p>
-         <p>${isRussian
-           ? 'Ручная запись кассеты, деревянная коробка и льняной вкладыш с вышивкой. Эксклюзивный тираж, созданный местными мастерами. В комплект входят стикеры и коллекционные карточки.'
-           : 'Hand-recorded cassette, wooden box, and a linen embroidered insert crafted by local artisans. An exclusive limited edition that also includes stickers and collectible cards.'}</p>
-         <a href="https://topfhelm.bandcamp.com/album/spad-yna" target="_blank" class="shop-btn">Buy on Bandcamp</a>
-          </div>
-        </div>
-      </div>
     </div>
   `
 },
@@ -85,7 +73,7 @@ spadcyna: {
             <p>${isRussian
               ? 'Фирменный CD в Jewel box с вкладышем, оформленным в торжественном стиле альбома. Лимитированный тираж.'
               : 'Official CD in Jewel box with an insert in the album’s ceremonial style. Limited edition.'}</p>
-            <a href="https://topfhelm.bandcamp.com/album/solemnis" target="_blank" class="shop-btn">Buy on Bandcamp</a>
+            <a href="https://topfhelm.com/shop" target="_blank" class="shop-btn"><strong>${isRussian ? 'Купить Мерч' : "Buy Merch"}</strong></a>
             </a>
           </div>
         </div>
@@ -126,7 +114,7 @@ spadcyna: {
           <p>${isRussian
             ? '40 минут ручной работы, уникальный арт и вложение с текстом. Для ценителей атмосферной медитативной музыки.'
             : '40-minute handcrafted Dungeon Synth journey. Limited edition with unique art & printed insert.'}</p>
-          <a href="https://topfhelm.bandcamp.com/album/40" target="_blank" class="shop-btn">Buy on Bandcamp</a>
+          <a href="https://topfhelm.com/shop" target="_blank" class="shop-btn"><strong>${isRussian ? 'Купить Мерч' : "Buy Merch"}</strong></a>
         </div>
       </div>
     </div>
@@ -199,7 +187,7 @@ spadcyna: {
               <p>${isRussian
                 ? 'Полная версия с озвучкой, оформлением вручную и кроваво-красными деталями. Ограниченный и личный артефакт.'
                 : 'Includes full narrated version with voice acting, handmade box and blood-red details. Limited & personal.'}</p>
-              <a href="https://topfhelm.bandcamp.com/album/sir-godric" target="_blank" class="shop-btn">Buy on Bandcamp</a>
+              <a href="https://topfhelm.com/shop" target="_blank" class="shop-btn"><strong>${isRussian ? 'Купить Мерч' : "Buy Merch"}</strong></a>
             </div>
           </div>
         </div>

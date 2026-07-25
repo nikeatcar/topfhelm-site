@@ -63,7 +63,7 @@ function initTimeline() {
             albumKey: "spadcyna"
         },
         {
-            date: { en: "2026", ru: "2026" },
+            date: { en: "Jul 24, 2026", ru: "12 Июля 2026" },
             title: "TES: The Still Place",
             cover: "media/TopfHelm_TES_Still_Place.webp",
             link: "/the-emerald-saga/"
