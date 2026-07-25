@@ -43,35 +43,83 @@ function openCartPopup() {
       "\n\nPlease send this message in DM. Thank you!";
 
     cart.forEach((item, index) => {
-      const li = document.createElement('li');
-      let line = `${item.name} ×${item.qty}`;
-      if (item.size) line += ` (Size: ${item.size})`;
-      if (item.premium) line += ` + Premium`;
 
-      const qtyBox = document.createElement('div');
-      qtyBox.classList.add('qty-box');
+    const li = document.createElement("li");
 
-      const minusBtn = document.createElement('button');
-      minusBtn.textContent = '−';
-      minusBtn.onclick = () => changeQuantity(index, -1);
+    // ---------- Название ----------
 
-      const plusBtn = document.createElement('button');
-      plusBtn.textContent = '+';
-      plusBtn.onclick = () => changeQuantity(index, 1);
+    const name = document.createElement("span");
 
-      const removeBtn = document.createElement('button');
-      removeBtn.textContent = "🗑";
-      removeBtn.classList.add('remove-item');
-      removeBtn.onclick = () => removeFromCart(index);
+    name.className = "order-item-name";
 
-      li.textContent = line;
-      li.appendChild(qtyBox);
-      qtyBox.appendChild(minusBtn);
-      qtyBox.appendChild(plusBtn);
-      li.appendChild(removeBtn);
+    let text = item.name;
 
-      orderList.appendChild(li);
-    });
+    if (item.size)
+        text += ` (${item.size})`;
+
+    if (item.premium)
+        text += " + Premium";
+
+    name.textContent = text;
+
+
+    // ---------- Количество ----------
+
+    const controls = document.createElement("div");
+
+    controls.className = "quantity-controls";
+
+
+    const minus = document.createElement("button");
+
+    minus.textContent = "−";
+
+    minus.onclick = () => changeQuantity(index, -1);
+
+
+    const qty = document.createElement("span");
+
+    qty.className = "quantity";
+
+    qty.textContent = item.qty;
+
+
+    const plus = document.createElement("button");
+
+    plus.textContent = "+";
+
+    plus.onclick = () => changeQuantity(index, 1);
+
+
+    controls.appendChild(minus);
+
+    controls.appendChild(qty);
+
+    controls.appendChild(plus);
+
+
+    // ---------- Удалить ----------
+
+    const remove = document.createElement("button");
+
+    remove.className = "remove-btn";
+
+    remove.innerHTML = "🗑";
+
+    remove.onclick = () => removeFromCart(index);
+
+
+    // ---------- Собираем ----------
+
+    li.appendChild(name);
+
+    li.appendChild(controls);
+
+    li.appendChild(remove);
+
+    orderList.appendChild(li);
+
+});
   }
 
   cartPopup.classList.remove('hidden');

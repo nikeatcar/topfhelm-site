@@ -1,366 +1,682 @@
-/* ===== TopfHelm Merch Page Styles ===== */
+@font-face {
+    font-family: 'Blackcraft';
+    src: url('../the-emerald-saga/media/Blackcraft.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 
-body {
-    margin: 0;
-    font-family: 'EB Garamond', serif;
-    background-color: #111;
-    color: #eee;
-  }
+/* =====================================================
+   ROOT
+===================================================== */
 
-  h1 {
-    font-family: 'IM Fell English SC', Georgia, serif;
-  }
-  
-  header, h2 {
-    text-align: center;
-    padding: 2rem 1rem;
-  }
-  
-  header h1 {
-    font-size: 2.5rem;
-    margin-bottom: 0.5rem;
-  }
-  
-  nav a {
-    color: #ccc;
-    margin: 0 10px;
-    text-decoration: none;
-    font-size: 1rem;
-    transition: color 0.3s ease;
-  }
-  
-  nav a:hover {
-    color: #fff;
-  }
-  
-  #merch-intro {
-    text-align: center;
-    margin: 1rem auto;
-    font-size: 1.2rem;
-  }
-  
-  #merch-filters {
-    text-align: center;
-    margin: 2rem 0;
-  }
-  
-  .filter-btn {
-    background: none;
-    border: 1px solid #555;
-    color: #eee;
-    padding: 0.5rem 1rem;
-    margin: 0 5px;
-    cursor: pointer;
-    transition: background 0.3s;
-  }
-  
-  .filter-btn:hover {
-    background: #333;
-  }
-  
-  #merch-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    gap: 2rem;
-    padding: 2rem;
-    max-width: 1200px;
-    margin: auto;
-  }
-  
-  .merch-item {
-    background-color: #1b1b1b;
-    border: 1px solid #333;
-    padding: 1rem;
-    text-align: center;
-    border-radius: 8px;
-    transition: transform 0.3s, background-color 0.3s;
-  }
-  
-  .merch-item:hover {
-    transform: scale(1.03);
-    background-color: #222;
-  }
-  
-  .merch-item img {
-    max-width: 300px;
-    width: 100%;
-    height: auto;
-    border-radius: 6px;
-    margin: 0 auto;
-    display: block;
-  }
+:root{
 
-  .merch-item img:hover {
-    transform: scale(1.5);
-    transition: transform 0.3s;
-  }
-  
-  .merch-item h2 {
-    margin: 1rem 0 0.5rem;
-    font-size: 1.5rem;
-  }
-  
-  .merch-item p.price {
-    color: #1DB954;
-    font-weight: bold;
-    margin: 0.5rem 0;
-  }
-  
-  .cart-btn {
-    background-color: #1DB954;
-    border: none;
-    color: #111;
-    padding: 0.5rem 1rem;
-    font-size: 1rem;
-    cursor: pointer;
-    border-radius: 5px;
-    margin-top: 1rem;
-    transition: background-color 0.3s;
-  }
-  
-  .cart-btn:hover {
-    background-color: #17a74a;
-  }
-  
-  /* Popup Order Window */
-  #order-popup {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: rgba(0, 0, 0, 0.8);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 9999;
-  }
-  
-  #order-popup.hidden {
-    display: none;
-  }
-  
-  .order-content {
-    background: #222;
-    padding: 2rem;
-    border-radius: 10px;
-    max-width: 400px;
-    width: 90%;
-    text-align: center;
-    position: relative;
+    --bg:#090909;
+    --card:#111111;
+
+    --gold:#d7b37a;
+
+    --text:#f2ede2;
+    --muted:#a5a099;
+
+    --border:rgba(215,179,122,.18);
+
+}
+
+*{
+
+    box-sizing:border-box;
+
+}
+
+html{
+
+    scroll-behavior:smooth;
+
+}
+
+body{
+
+    margin:0;
+
+    background:var(--bg);
+
+    color:var(--text);
+
+    font-family:Arial,sans-serif;
+
+}
+
+/* =====================================================
+   HEADER
+===================================================== */
+
+header{
+
+    padding:80px 20px 30px;
+
+    text-align:center;
+
+}
+
+header h1{
+
+    margin:0;
+    font-family: 'Blackcraft', serif;
+    letter-spacing: 1px;
+    font-size:56px;
+    font-weight:400;
+    color:#f4efe5;
+
+}
+
+/* =====================================================
+   INTRO
+===================================================== */
+
+#merch-intro{
+
+    max-width:760px;
+
+    margin:0 auto 70px;
+
+    text-align:center;
+
+    color:var(--muted);
+
+    line-height:1.8;
+
+    font-size:18px;
+
+}
+
+#merch-intro strong{
+
+    color:var(--gold);
+
+}
+
+/* =====================================================
+   GRID
+===================================================== */
+
+#merch-grid{
+
+    width:min(1500px,92vw);
+    margin:0 auto 80px;
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+    gap:36px;
+    align-items:stretch;
+}
+
+/* =====================================================
+   PRODUCT CARD
+===================================================== */
+
+.merch-item {
     display: flex;
     flex-direction: column;
-    align-items: center;
-  }
-  
-  #close-popup {
-    position: absolute;
-    top: 10px;
-    right: 15px;
-    font-size: 1.5rem;
-    cursor: pointer;
-    color: #eee;
-  }
-  
-  #order-text {
-    width: 100%;
-    height: 120px;
-    margin-bottom: 1rem;
-    background: #333;
-    color: #eee;
-    border: none;
-    padding: 1rem;
-    resize: none;
-    border-radius: 5px;
-  }
-  
-  #copy-order, #send-instagram {
-    display: block;
-    width: 100%;
-    margin: 0.5rem 0;
-    padding: 0.7rem;
-    border: none;
-    border-radius: 5px;
-    font-size: 1rem;
-    cursor: pointer;
-    text-decoration: none;
-    text-align: center;
-  }
-  
-  #copy-order {
-    background-color: #555;
-    color: #eee;
-  }
-  
-  #copy-order:hover {
-    background-color: #666;
-  }
-  
-  #send-instagram {
-    background-color: #1DB954;
-    color: #111;
-  }
-  
-  #send-instagram:hover {
-    background-color: #17a74a;
-  }
+    height:100%;
 
-  .size-options {
-    margin: 0.5rem 0;
-  }
-  
-  .size-options label {
-    display: inline-block;
-    background-color: #1b1b1b;
-    border: 1px solid #555;
-    padding: 0.5rem 1rem;
-    margin: 0 5px;
-    border-radius: 8px;
-    cursor: pointer;
-    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
-    font-size: 1rem;
+    background: #111;
+    border: 1px solid rgba(215, 179, 122, .18);
+    border-radius: 18px;
+
+    transition:
+        transform .25s ease,
+        border-color .25s ease,
+        box-shadow .25s ease;
+
+    box-shadow:
+        0 10px 30px rgba(0,0,0,.25);
+}
+
+.merch-item:hover {
+    transform: translateY(-6px);
+
+    border-color: rgba(215,179,122,.45);
+
+    box-shadow:
+        0 18px 40px rgba(0,0,0,.45),
+        0 0 25px rgba(215,179,122,.08);
+}
+
+
+/* =====================================================
+   MEDIA
+===================================================== */
+
+.merch-media {
+
     position: relative;
-  }
-  
-  .size-options input[type="radio"] {
-    position: absolute;
-    opacity: 0;
-    pointer-events: none;
-  }
-  
-  .size-options label:has(input[type="radio"]:checked) {
-    background-color: #1DB954;
-    color: #111;
-    border-color: #1DB954;
-  }
-  
-  .premium-option {
-    margin-top: 0.5rem;
-    font-size: 1rem;
-  }
-  
-  .premium-option label {
-    cursor: pointer;
-  }
 
-  #view-cart {
-    background: rgb(255, 204, 0);
-    color: #111;
-    font-weight: bold;
-    padding: 0.6rem 1rem;
-    border-radius: 6px;
-    border: none;
-    cursor: pointer;
-    font-size: 1rem;
-    box-shadow: 0 0 10px rgba(0,0,0,0.3);
-    transition: background-color 0.3s;
-  }
-  
-  .order-list {
-    list-style: none;
-    padding: 0;
-    margin-top: 1rem;
     width: 100%;
-  }
-  
-  .order-list li {
-    display: flex;
-    justify-content: space-between;
-    padding: 0.5rem 0;
-    border-bottom: 1px solid #444;
-    color: #eee;
-    font-size: 1rem;
-  }
-  
-  .remove-item {
-    background: transparent;
-    border: none;
-    color: #ff4d4d;
-    font-size: 1.2rem;
-    cursor: pointer;
-  }
-  
-  #cart-fixed {
-    position: fixed;
-    top: 1rem;
-    right: 1rem;
-    z-index: 10000;
-  }
-  
-  #view-cart:hover {
-    background: #17a74a;
-  }
 
-/* ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
-;;                          ----==| M E D I A |==----                         ;;
-;;                                                                            ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+    aspect-ratio: 4 / 5;
 
-  @media (max-width: 768px) {
-    header h1 {
-      font-size: 2rem;
-    }
-  
-    nav a {
-      font-size: 0.9rem;
-      margin: 0 5px;
-    }
-  
-    #merch-grid {
-      grid-template-columns: 1fr;
-      padding: 1rem;
-      gap: 1.5rem;
-    }
-  
-    .merch-item {
-      max-width: 320px;
-      margin: 0 auto;
-      box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);
-      border-radius: 10px;
-    }
+    overflow: hidden;
 
-    .merch-item img {
-      max-width: 200px;
-      width: 100%;
-      height: auto;
-      margin: 0 auto;
-      display: block;
-    }
-  
-    .order-btn {
-      font-size: 1.2rem;
-      padding: 0.7rem 1rem;
-    }
-  
-    .filter-btn {
-      font-size: 1rem;
-      padding: 0.5rem 1rem;
-      margin: 5px 2px;
-    }
-  
-    .size-options label {
-      font-size: 1.2rem;
-      padding: 0.7rem 1.2rem;
-      margin: 5px 5px;
-    }
-  
-    .order-content {
-      width: 95%;
-      padding: 1.5rem;
-    }
-  
-    #order-text {
-      height: 100px;
-      font-size: 1rem;
-    }
-  }
+    background: #000;
 
-  @media (max-width: 600px) {
-    #cart-fixed {
-      top: auto;
-      bottom: 1rem;
-      right: 50%;
-      transform: translateX(50%);
-    }
-  }
+}
+
+.merch-media img,
+.merch-media video{
+
+    position:absolute;
+
+    inset:0;
+
+    width:100%;
+
+    height:100%;
+
+    object-fit:cover;
+
+    display:block;
+
+    transition:
+        opacity .35s ease,
+        transform .5s ease;
+
+}
+
+.merch-media video{
+
+    opacity:0;
+
+}
+
+.merch-item:hover .merch-media video{
+
+    opacity:1;
+
+    transform:scale(1.03);
+
+}
+
+.merch-item:hover .merch-media img{
+
+    opacity:0;
+
+}
+
+
+/* =====================================================
+   CONTENT
+===================================================== */
+
+.merch-content{
+    display:flex;
+    flex-direction:column;
+    gap:14px;
+    padding:22px;
+    flex:1;
+}
+
+.merch-title{
+    margin:0;
+    font-family:"Blackcraft", serif;
+    font-size:28px;
+    color:#f2ede2;
+    line-height:1.2;
+}
+
+.merch-subtitle{
+
+    margin:-6px 0 0;
+
+    color:#a8a29b;
+
+    font-size:14px;
+
+    text-transform:uppercase;
+
+    letter-spacing:1.6px;
+
+}
+
+
+/* =====================================================
+   FEATURES
+===================================================== */
+
+.merch-features{
+    flex:1;
+    margin:0;
+    padding:0;
+    list-style:none;
+    display:flex;
+    flex-direction:column;
+    gap:8px;
+}
+
+.merch-features li{
+
+    color:#d8d3ca;
+
+    font-size:15px;
+
+}
+
+.merch-features li::before{
+
+    content:"✓ ";
+
+    color:#d7b37a;
+
+}
+
+/* =====================================================
+   CART
+===================================================== */
+
+#cart-fixed{
+
+    position:fixed;
+
+    top:25px;
+
+    right:25px;
+
+    z-index:999;
+
+}
+
+#view-cart{
+
+    padding:14px 24px;
+
+    border:none;
+
+    border-radius:12px;
+
+    cursor:pointer;
+
+    font-size:16px;
+
+    font-family:"IM Fell English SC",serif;
+
+    background:#181818;
+
+    color:#efe6d5;
+
+    border:1px solid rgba(215,179,122,.35);
+
+    box-shadow:
+        0 10px 30px rgba(0,0,0,.35);
+
+    transition:.25s;
+
+}
+
+#view-cart:hover{
+
+    background:#d7b37a;
+
+    color:#111;
+
+}
+
+/* =====================================================
+   POPUP
+===================================================== */
+
+#order-popup{
+
+    position:fixed;
+
+    inset:0;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    background:rgba(0,0,0,.82);
+
+    backdrop-filter:blur(8px);
+
+    z-index:5000;
+
+}
+
+#order-popup.hidden{
+
+    display:none;
+
+}
+
+.order-content{
+
+    width:min(700px,90vw);
+
+    max-height:85vh;
+
+    overflow:auto;
+
+    padding:35px;
+
+    background:#111;
+
+    border-radius:18px;
+
+    border:1px solid rgba(215,179,122,.25);
+
+    box-shadow:
+        0 20px 60px rgba(0,0,0,.6);
+
+    position:relative;
+
+}
+
+.order-content h2{
+
+    margin-top:0;
+
+    font-family:"IM Fell English SC",serif;
+
+    color:#f4efe5;
+
+    font-size:34px;
+
+}
+
+#close-popup{
+
+    position:absolute;
+
+    top:18px;
+
+    right:22px;
+
+    font-size:34px;
+
+    cursor:pointer;
+
+    color:#d7b37a;
+
+    transition:.25s;
+
+}
+
+#close-popup:hover{
+
+    transform:rotate(90deg);
+
+}
+
+.order-list{
+
+    margin:25px 0;
+
+    padding-left:22px;
+
+    color:#ddd;
+
+}
+
+.order-list li{
+
+    margin-bottom:10px;
+
+}
+
+#order-text{
+
+    width:100%;
+
+    min-height:140px;
+
+    resize:vertical;
+
+    padding:15px;
+
+    border-radius:10px;
+
+    border:1px solid rgba(215,179,122,.25);
+
+    background:#1b1b1b;
+
+    color:#eee;
+
+    margin-bottom:20px;
+
+}
+
+#copy-order,
+#send-instagram{
+
+    display:inline-flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    margin-top:10px;
+
+    padding:14px 24px;
+
+    border-radius:10px;
+
+    text-decoration:none;
+
+    cursor:pointer;
+
+    font-size:15px;
+
+    font-weight:600;
+
+    transition:.25s;
+
+}
+
+#copy-order{
+
+    background:#222;
+
+    color:#eee;
+
+    border:1px solid rgba(215,179,122,.25);
+
+}
+
+#copy-order:hover{
+
+    background:#333;
+
+}
+
+#send-instagram{
+
+    margin-left:12px;
+
+    background:#d7b37a;
+
+    color:#111;
+
+    border:1px solid #d7b37a;
+
+}
+
+#send-instagram:hover{
+
+    filter:brightness(1.08);
+
+}
+
+/* =====================================================
+   PRICE
+===================================================== */
+
+.price{
+    text-align:center;
+    margin-bottom:16px;
+    font-family:"IM Fell English SC", serif;
+    font-size:34px;
+    color:#d7b37a;
+}
+
+
+/* =====================================================
+   BUTTON
+===================================================== */
+
+.cart-btn{
+    width:100%;
+    height:52px;
+    margin-top:auto;
+    border:none;
+    border-radius:12px;
+    cursor:pointer;
+    font-size:16px;
+    font-weight:600;
+    letter-spacing:.5px;
+    background:#181818;
+    color:#efe6d5;
+    border:1px solid rgba(215,179,122,.22);
+    transition:.25s;
+}
+
+.cart-btn:hover{
+    background:#d7b37a;
+    color:#111;
+}
+
+/* =====================================================
+   ORDER LIST
+===================================================== */
+
+.order-list{
+
+    list-style:none;
+
+    padding:0;
+
+    margin:30px 0;
+
+}
+
+.order-list li{
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:space-between;
+
+    gap:20px;
+
+    padding:16px 18px;
+
+    margin-bottom:14px;
+
+    border:1px solid rgba(215,179,122,.15);
+
+    border-radius:12px;
+
+    background:#171717;
+
+}
+
+.order-item-name{
+
+    flex:1;
+
+    color:#f2ede2;
+
+    font-size:17px;
+
+}
+
+/* =====================================================
+   QUANTITY
+===================================================== */
+
+.quantity-controls{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:8px;
+
+}
+
+.quantity-controls button{
+
+    width:34px;
+
+    height:34px;
+
+    border:none;
+
+    border-radius:8px;
+
+    cursor:pointer;
+
+    background:#252525;
+
+    color:#eee;
+
+    font-size:18px;
+
+    transition:.2s;
+
+}
+
+.quantity-controls button:hover{
+
+    background:#d7b37a;
+
+    color:#111;
+
+}
+
+.quantity{
+
+    min-width:24px;
+
+    text-align:center;
+
+    color:#eee;
+
+    font-weight:bold;
+
+}
+
+/* =====================================================
+   DELETE BUTTON
+===================================================== */
+
+.remove-btn{
+
+    width:38px;
+
+    height:38px;
+
+    border:none;
+
+    border-radius:8px;
+
+    cursor:pointer;
+
+    background:#2b1717;
+
+    color:#ff8b8b;
+
+    font-size:18px;
+
+    transition:.2s;
+
+}
+
+.remove-btn:hover{
+
+    background:#b73333;
+
+    color:white;
+
+}

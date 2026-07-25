@@ -1,123 +1,155 @@
 // ===== merch.js =====
 
-// Фильтрация товаров
-const filterButtons = document.querySelectorAll('.filter-btn');
-const merchItems = document.querySelectorAll('.merch-item');
+document.addEventListener("DOMContentLoaded", () => {
 
-filterButtons.forEach(button => {
-  button.addEventListener('click', () => {
-    const filter = button.getAttribute('data-filter');
+    /* ==========================
+       FILTERS
+    ========================== */
 
-    merchItems.forEach(item => {
-      if (filter === 'all' || item.classList.contains(filter)) {
-        item.style.display = 'block';
-      } else {
-        item.style.display = 'none';
-      }
-    });
-  });
-});
+   document.querySelectorAll(".merch-item").forEach(card=>{
 
-// Popup заказа
-const orderButtons = document.querySelectorAll('.order-btn');
-const orderPopup = document.getElementById('order-popup');
-const orderText = document.getElementById('order-text');
-const copyOrderBtn = document.getElementById('copy-order');
-const sendInstagramBtn = document.getElementById('send-instagram');
-const closePopup = document.getElementById('close-popup');
+    const video=card.querySelector(".merch-video");
 
-orderButtons.forEach(button => {
-  button.addEventListener('click', () => {
-    const productName = button.getAttribute('data-product');
-    const sizeGroup = button.getAttribute('data-size-group');
-    const premiumGroup = button.getAttribute('data-premium-group');
-    
-    let selectedSize = '';
-    let premiumSelected = false;
-    
-    if (sizeGroup) {
-      const sizeOption = document.querySelector(`input[name="${sizeGroup}"]:checked`);
-      if (sizeOption) {
-        selectedSize = sizeOption.value;
-      }
-    }
-    
-    if (premiumGroup) {
-      const premiumOption = document.querySelector(`input[name="${premiumGroup}"]`);
-      if (premiumOption && premiumOption.checked) {
-        premiumSelected = true;
-      }
-    }
-    
-    let orderMessage = `🏰 TopfHelm Order\nProduct: ${productName}`;
+    if(!video) return;
 
-    if (sizeGroup && selectedSize !== "") {
-      orderMessage += `\nSize: ${selectedSize}`;
-    }
-    
-    if (premiumSelected) {
-      orderMessage += `\nPremium Oversized: Yes (+€10)`;
-    }
-    
-    orderText.value = orderMessage;
-    orderPopup.classList.remove('hidden');
-  });
-});
+    card.addEventListener("mouseenter",()=>{
 
-copyOrderBtn.addEventListener('click', () => {
-  orderText.select();
-  document.execCommand('copy');
-  copyOrderBtn.textContent = "Copied! 🖊";
+        video.currentTime=0;
+        video.play().catch(()=>{});
 
-  setTimeout(() => {
-    copyOrderBtn.textContent = "Copy Order Text";
-  }, 1500);
-});
-
-closePopup.addEventListener('click', () => {
-  orderPopup.classList.add('hidden');
-});
-
-// Чтобы при клике вне окна закрывалось
-window.addEventListener('click', (e) => {
-  if (e.target === orderPopup) {
-    orderPopup.classList.add('hidden');
-  }
-});
-
-window.addEventListener('load', function () {
-    document.querySelectorAll('.glider').forEach((gliderEl, i) => {
-      new Glider(gliderEl, {
-        slidesToShow: 1,
-        dots: gliderEl.parentElement.querySelector('.dots'),
-        arrows: {
-          prev: gliderEl.parentElement.querySelector('.glider-prev'),
-          next: gliderEl.parentElement.querySelector('.glider-next')
-        },
-        draggable: true,
-        scrollLock: true
-      });
     });
 
-  function addTshirtToCart(button) {
-    const name = button.dataset.name;
-    const sizeGroup = button.dataset.sizeGroup;
-    const premiumGroup = button.dataset.premiumGroup;
-  
-    let size = '';
-    let premium = false;
-  
-    if (sizeGroup) {
-      const selected = document.querySelector(`input[name="${sizeGroup}"]:checked`);
-      if (selected) size = selected.value;
-    }
-  
-    if (premiumGroup) {
-      const premiumCheckbox = document.querySelector(`input[name="${premiumGroup}"]`);
-      if (premiumCheckbox && premiumCheckbox.checked) premium = true;
-    }
-  
-    addToCart(name, { size, premium });
-  }
+    card.addEventListener("mouseleave",()=>{
+
+        video.pause();
+        video.currentTime=0;
+
+    });
+
+});
+
+
+
+    /* ==========================
+       PRODUCT VIDEOS
+    ========================== */
+
+    const touchDevice =
+        window.matchMedia("(hover: none)").matches ||
+        "ontouchstart" in window;
+
+    const videos = document.querySelectorAll(".merch-media video");
+
+    videos.forEach(video => {
+
+        video.pause();
+
+        // показываем постер
+        video.currentTime = 0;
+
+        if (touchDevice) return;
+
+        const card = video.closest(".merch-item");
+
+        card.addEventListener("mouseenter", async () => {
+
+            try {
+
+                video.currentTime = 0;
+
+                await video.play();
+
+            } catch (e) {}
+
+        });
+
+        card.addEventListener("mouseleave", () => {
+
+            video.pause();
+
+            video.currentTime = 0;
+
+        });
+
+    });
+
+
+
+    /* ==========================
+       STOP ALL WHEN TAB HIDDEN
+    ========================== */
+
+    document.addEventListener("visibilitychange", () => {
+
+        if (!document.hidden) return;
+
+        videos.forEach(video => {
+
+            video.pause();
+
+            video.currentTime = 0;
+
+        });
+
+    });
+
+
+
+    /* ==========================
+       ORDER POPUP
+    ========================== */
+
+    const popup = document.getElementById("order-popup");
+
+    if (!popup) return;
+
+    const textarea = document.getElementById("order-text");
+    const closeBtn = document.getElementById("close-popup");
+    const copyBtn = document.getElementById("copy-order");
+
+
+    closeBtn.addEventListener("click", () => {
+
+        popup.classList.add("hidden");
+
+    });
+
+
+
+    popup.addEventListener("click", e => {
+
+        if (e.target === popup) {
+
+            popup.classList.add("hidden");
+
+        }
+
+    });
+
+
+
+    copyBtn.addEventListener("click", async () => {
+
+        try {
+
+            await navigator.clipboard.writeText(textarea.value);
+
+            copyBtn.textContent = "Copied ✓";
+
+            setTimeout(() => {
+
+                copyBtn.textContent = "Copy Order Text";
+
+            }, 1500);
+
+        } catch {
+
+            textarea.select();
+
+            document.execCommand("copy");
+
+        }
+
+    });
 
 });

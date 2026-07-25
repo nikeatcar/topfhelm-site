@@ -19,7 +19,6 @@
   <link rel="stylesheet" href="../styles/preloader.css" media="print" onload="this.media='all'">
   <link rel="stylesheet" href="../styles/social.css" media="print" onload="this.media='all'">
   <link rel="stylesheet" href="../styles/up_button.css" media="print" onload="this.media='all'">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.css">
 </head>
 
  <!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -33,8 +32,6 @@
     </div>
 
      <button id="scrollToTopBtn" title="UP">⬆</button>
-
-  <script src="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.js"></script>
 
 <body>
   <div id="cart-fixed">
@@ -88,25 +85,71 @@
 <section id="merch-grid">
   <!-- Пример карточки товара -->
 
-  <div class="merch-item music">
-    <div class="glider-contain">
-      <div class="glider">
-        <img src="../media/merch/TES_TSP_cassette_1.webp" alt="The Emerald Saga: The Still Place | Handcrafted Collector's Cassette Edition">
-        <img src="../media/merch/TES_TSP_cassette_2.webp" alt="The Emerald Saga: The Still Place | Handcrafted Collector's Cassette Edition">
-        <img src="../media/merch/TES_TSP_cassette_3.webp" alt="The Emerald Saga: The Still Place | Handcrafted Collector's Cassette Edition">
-        <img src="../media/merch/TES_TSP_cassette_4.webp" alt="The Emerald Saga: The Still Place | Handcrafted Collector's Cassette Edition">
+      <div class="merch-item music">
 
-      </div>
-      <button aria-label="Previous" class="glider-prev">«</button>
-      <button aria-label="Next" class="glider-next">»</button>
-      <div role="tablist" class="dots"></div>
+    <div class="merch-media">
+
+        <img
+            class="merch-poster"
+            src="../media/merch/TES_TSP_cassette_1.webp"
+            alt="The Emerald Saga Collector's Cassette">
+
+        <video
+            class="merch-video"
+            muted
+            loop
+            playsinline
+            preload="metadata"
+            poster="../media/merch/TES_TSP_cassette_1.webp">
+
+            <source
+                src="../media/merch/TES_TSP_cassette.mp4"
+                type="video/mp4">
+
+        </video>
+
     </div>
-  
-    <h2>The Emerald Saga: The Still Place | Handcrafted Collector's Cassette Edition</h2>
-    <p>Handmade, limited edition.</p>
-    <p class="price">$24</p>
-    <button class="cart-btn" onclick="addToCart('TES TSP Collectors Cassette')">Add to Order</button>
-  </div>
+
+    <div class="merch-content">
+
+        <span class="merch-category">
+            Collector's Edition
+        </span>
+
+        <h2 class="merch-title">
+            TES: The Still Place
+        </h2>
+
+        <p class="merch-description">
+            First chapter of <strong>The Emerald Saga</strong>,
+            handcrafted in a limited physical edition.
+        </p>
+
+        <ul class="merch-features">
+            <li>Hand-decorated cardboard box</li>
+            <li>Hand-decorated cassette case</li>
+            <li>Hand-decorated cassette</li>
+            <li>Professionally duplicated cassette</li>
+            <li>Complete narrated first chapter</li>
+        </ul>
+
+        <div class="merch-footer">
+
+            <div class="price">$24</div>
+
+            <button
+                class="cart-btn"
+                onclick="addToCart('TES TSP Collectors Cassette')">
+
+                Add to Cart
+
+            </button>
+
+        </div>
+
+    </div>
+
+</div>
 
   <!--<div class="merch-item music">
     <div class="glider-contain">
@@ -128,76 +171,218 @@
     <button class="cart-btn" onclick="addToCart('Spadcyna limited')">Add to Order</button>
   </div>-->
 
-  <div class="merch-item music">
-    <div class="glider-contain">
-      <div class="glider">
-        <img src="../media/merch/solemnis_cd_5.webp" alt="Solemnis CD Bundle">
-        <img src="../media/merch/solemnis_cd_1.webp" alt="Solemnis CD Box">
-        <img src="../media/merch/solemnis_cd_2.webp" alt="Solemnis CD Box + Jewel">
-        <img src="../media/merch/solemnis_cd_3.webp" alt="Solemnis CD Jewel Back">
-        <img src="../media/merch/solemnis_cd_4.webp" alt="Solemnis CD">
+   <div class="merch-item music">
 
-      </div>
-      <button aria-label="Previous" class="glider-prev">«</button>
-      <button aria-label="Next" class="glider-next">»</button>
-      <div role="tablist" class="dots"></div>
+    <div class="merch-media">
+
+        <img
+            class="merch-poster"
+            src="../media/merch/solemnis_cd_5.webp"
+            alt="Solemnis CD">
+
+        <video
+            class="merch-video"
+            muted
+            loop
+            playsinline
+            preload="metadata"
+            poster="../media/merch/solemnis_cd_5.webp">
+
+            <source
+                src="../media/merch/solemnis_cd.mp4"
+                type="video/mp4">
+
+        </video>
+
     </div>
-  
-    <h2>"Solemnis" CD Bundle</h2>
-    <p>Handmade, limited edition.</p>
-    <p class="price">$9</p>
-    <button class="cart-btn" onclick="addToCart('Solemnis Cassette')">Add to Order</button>
-  </div>
+
+    <div class="merch-content">
+
+        <span class="merch-category">
+            Collector's CD
+        </span>
+
+        <h2 class="merch-title">
+            Solemnis
+        </h2>
+
+        <p class="merch-description">
+            A solemn tribute to the living and the fallen.
+            A handcrafted collector's edition created entirely by the artist.
+        </p>
+
+        <ul class="merch-features">
+
+            <li>Custom "vinyl look" CD</li>
+
+            <li>Handmade branded kraft box</li>
+
+            <li>Full-color printed artwork</li>
+
+            <li>Designed, printed & assembled by TopfHelm</li>
+
+        </ul>
+
+        <div class="merch-footer">
+
+            <div class="price">$9</div>
+
+            <button
+                class="cart-btn"
+                onclick="addToCart('Solemnis CD')">
+
+                Add to Cart
+
+            </button>
+
+        </div>
+
+    </div>
+
+</div>
 
   <div class="merch-item music">
-    <div class="glider-contain">
-      <div class="glider">
-        <img src="../media/merch/40_cassette_1.webp" alt="40 Box Front">
-        <img src="../media/merch/40_cassette_2.webp" alt="40 Box Side">
-        <img src="../media/merch/40_cassette_3.webp" alt="40 Cassette Box">
-        <img src="../media/merch/40_cassette_4.webp" alt="40 Cassette Dark">
-        <img src="../media/merch/40_cassette_5.webp" alt="40 Cassette Light">
 
-      </div>
-      <button aria-label="Previous" class="glider-prev">«</button>
-      <button aria-label="Next" class="glider-next">»</button>
-      <div role="tablist" class="dots"></div>
+    <div class="merch-media">
+
+        <img
+            class="merch-poster"
+            src="../media/merch/40_cassette_4.webp"
+            alt="40 Collector's Cassette">
+
+        <video
+            class="merch-video"
+            muted
+            loop
+            playsinline
+            preload="metadata"
+            poster="../media/merch/40_cassette_4.webp">
+
+            <source
+                src="../media/merch/40_cassette.MP4"
+                type="video/mp4">
+
+        </video>
+
     </div>
-  
-    <h2>"40" Collector's Edition</h2>
-    <p>Handmade, limited edition.</p>
-    <p class="price">$18</p>
-    <button class="cart-btn" onclick="addToCart('40 Cassette')">Add to Order</button>
-  </div>
+
+    <div class="merch-content">
+
+        <span class="merch-category">
+            Collector's Cassette
+        </span>
+
+        <h2 class="merch-title">
+            40
+        </h2>
+
+        <p class="merch-description">
+            A handcrafted collector's edition created in memory of the
+            Chernobyl disaster.
+        </p>
+
+        <ul class="merch-features">
+
+            <li>Handmade cassette</li>
+
+            <li>Labeled cassette case</li>
+
+            <li>Craft album insert</li>
+
+            <li>Handmade branded kraft box</li>
+
+        </ul>
+
+        <div class="merch-footer">
+
+            <div class="price">$18</div>
+
+            <button
+                class="cart-btn"
+                onclick="addToCart('40 Cassette')">
+
+                Add to Cart
+
+            </button>
+
+        </div>
+
+    </div>
+
+</div>
 
   <div class="merch-item music">
-    <div class="glider-contain">
-      <div class="glider">
-        <img src="../media/merch/sir_godric_cassette_1.webp" alt="Sir Godric Set">
-        <img src="../media/merch/sir_godric_cassette_2.webp" alt="Sir Godric Box Front">
-        <img src="../media/merch/sir_godric_cassette_3.webp" alt="Sir Godric Box Side">
-        <img src="../media/merch/sir_godric_cassette_4.webp" alt="Sir Godric Cassette">
-      </div>
-      <button aria-label="Previous" class="glider-prev">«</button>
-      <button aria-label="Next" class="glider-next">»</button>
-      <div role="tablist" class="dots"></div>
+
+    <div class="merch-media">
+
+        <img
+            class="merch-poster"
+            src="../media/merch/sir_godric_cassette_1.webp"
+            alt="Sir Godric Collector's Cassette">
+
+        <video
+            class="merch-video"
+            muted
+            loop
+            playsinline
+            preload="metadata"
+            poster="../media/merch/sir_godric_cassette_1.webp">
+
+            <source
+                src="../media/merch/sir_godric_cassette.MP4"
+                type="video/mp4">
+
+        </video>
+
     </div>
-  
-    <h2>"Sir Godric" Collector's Edition</h2>
-    <p>Handmade, limited edition.</p>
-    <p class="price">€15</p>
-    <button class="cart-btn" onclick="addToCart('Sir Godric Cassette')">Add to Order</button>
-  </div>
+
+    <div class="merch-content">
+
+        <span class="merch-category">
+            Collector's Cassette
+        </span>
+
+        <h2 class="merch-title">
+            Sir Godric
+        </h2>
+
+        <p class="merch-description">
+            A handcrafted collector's edition telling the complete tale of
+            Sir Godric through music and narration.
+        </p>
+
+        <ul class="merch-features">
+
+            <li>90-minute narrated story</li>
+
+            <li>Professionally duplicated cassette</li>
+
+            <li>Craft album insert</li>
+
+            <li>Handmade branded kraft box</li>
+
+        </ul>
+
+        <div class="merch-footer">
+
+            <div class="price">€15</div>
+
+            <button
+                class="cart-btn"
+                onclick="addToCart('Sir Godric Cassette')">
+
+                Add to Cart
+
+            </button>
+
+        </div>
+
+    </div>
+
+</div>
 
     
 </section>
-
-<section id="merch-grid"></section>
-
-</section>
-
-
-
 
 <!-- <h2>🔥 New T-shirts prints are coming soon 🔥</h2> -->
 
