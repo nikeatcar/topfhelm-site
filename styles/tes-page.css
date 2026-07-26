@@ -177,17 +177,52 @@ animation:tesGlow 6s ease-in-out infinite;
     width: 100%;
 }
 
+.spotify-player{
+
+    position:relative;
+
+    padding:12px;
+
+    border-radius:22px;
+
+    background:
+        linear-gradient(
+            180deg,
+            rgba(55,50,42,.95),
+            rgba(18,18,18,.98)
+        );
+
+    border:1px solid rgba(215,179,122,.18);
+
+    box-shadow:
+        inset 0 0 40px rgba(215,179,122,.05),
+        0 20px 60px rgba(0,0,0,.45);
+
+}
+
+.spotify-player iframe{
+
+    display:block;
+
+    width:100%;
+
+    border:0;
+
+    border-radius:16px;
+
+}
+
 /* =========================
    RELEASES
 ========================= */
 
 .tes-release {
     max-width: 1180px;
-    height: 460px;
+    height: 700px;
     margin: 0 auto 70px;
 
     display: grid;
-    grid-template-columns: 300px 260px 1fr;
+    grid-template-columns:300px 460px 520px;
     gap: 45px;
     align-items: center;
 }
@@ -362,77 +397,88 @@ box-shadow:
 }
 
 /* =========================
-   TRACKLIST
+   RELEASE CARD
 ========================= */
 
-.tes-tracklist {
-    max-height: 360px;
-    overflow-y: auto;
+.tes-release-card{
 
-    padding: 24px 20px;
+    padding:24px 24px 28px;
 
-    border-left: 1px solid rgba(255,255,255,0.16);
-    border-right: 1px solid rgba(255,255,255,0.08);
+    border-left:1px solid rgba(255,255,255,.12);
+    border-right:1px solid rgba(255,255,255,.05);
 
-    -webkit-mask-image: linear-gradient(
-        to bottom,
-        transparent 0%,
-        white 10%,
-        white 90%,
-        transparent 100%
-    );
-    mask-image: linear-gradient(
-        to bottom,
-        transparent 0%,
-        white 10%,
-        white 90%,
-        transparent 100%
-    );
 }
 
-.tes-tracklist h3 {
-    font-family: "IM Fell English SC", serif;
-    font-size: 22px;
-    margin-bottom: 18px;
+.tes-release-card h3{
+
+    margin:0 0 18px;
+
+    font-family:"Blackcraft",serif;
+
+    font-size:28px;
+
+    color:#f2f2f2;
+
 }
 
-.tes-tracklist ol {
-    margin: 0;
-    padding-left: 22px;
+.tes-release-intro{
+
+    margin-bottom:28px;
+
+    color:#cfcfcf;
+
+    font-size:15px;
+
+    line-height:1.8;
+
 }
 
-.tes-tracklist li {
-    font-family: Arial;
-    font-size: 15px;
-    line-height: 1.7;
-    color: #d0d0d0;
+.tes-meta{
 
-    padding: 4px 0;
-    border-bottom: 1px solid rgba(255,255,255,0.05);
+    display:flex;
+
+    flex-direction:column;
+
+    gap:18px;
+
 }
 
-/* выравнивание */
-.tes-release:nth-child(odd) .tes-tracklist {
-    text-align: left;
+.tes-meta-row{
+
+    padding-bottom:16px;
+
+    border-bottom:1px solid rgba(255,255,255,.06);
+
 }
 
-.tes-release:nth-child(even) .tes-tracklist {
-    text-align: right;
+.tes-meta-row span{
+
+    display:block;
+
+    margin-bottom:6px;
+
+    font-size:11px;
+
+    letter-spacing:2px;
+
+    text-transform:uppercase;
+
+    color:#7f987f;
+
 }
 
-.tes-release:nth-child(even) .tes-tracklist ol {
-    padding-left: 0;
-    padding-right: 22px;
-    list-style-position: inside;
-}
+.tes-meta-row strong{
 
-/* скролл */
-.tes-tracklist::-webkit-scrollbar {
-    width: 6px;
-}
+    display:block;
 
-.tes-tracklist::-webkit-scrollbar-thumb {
-    background: rgba(255,255,255,0.2);
+    color:#f0f0f0;
+
+    font-size:15px;
+
+    line-height:1.6;
+
+    font-weight:500;
+
 }
 
 /* =========================
@@ -455,9 +501,78 @@ box-shadow:
     color: #8fa88f;
 }
 
+.tes-actions{
+
+    margin-top:46px;
+
+    text-align:center;
+
+}
+
+.tes-action-title{
+
+    margin-bottom:22px;
+
+    font-size:13px;
+
+    letter-spacing:3px;
+
+    text-transform:uppercase;
+
+    color:#7f987f;
+
+}
+
 /* =========================
    BUTTONS
 ========================= */
+.tes-btn-listen{
+
+    background:
+
+        linear-gradient(
+            180deg,
+            rgba(70,135,90,.95),
+            rgba(48,95,64,.95)
+        );
+
+    color:#fff;
+
+    border:1px solid rgba(70,135,90,.95);
+
+}
+
+.tes-btn-listen:hover{
+
+    transform:translateY(-3px);
+
+    box-shadow:
+
+        0 0 30px rgba(70,180,110,.35);
+
+}
+
+.tes-btn-buy{
+
+    background:#101010;
+
+    color:#f5f2e8;
+
+    border:1px solid rgba(215,179,122,.22);
+
+}
+
+.tes-btn-buy:hover{
+
+    transform:translateY(-3px);
+
+    border-color:#d7b37a;
+
+    box-shadow:
+
+        0 0 30px rgba(215,179,122,.22);
+
+}
 
 .tes-buttons {
     display: flex;
@@ -466,22 +581,19 @@ box-shadow:
     margin-top: 28px;
 }
 
-.tes-btn {
-    padding:16px 42px;
+.tes-btn{
+
+    display:inline-flex;
+    justify-content:center;
+    align-items:center;
+    min-width:200px;
+    padding:18px 34px;
+    border-radius:12px;
     font-size:16px;
+    font-weight:600;
     letter-spacing:.7px;
-    min-width:190px;
-    border-radius: 10px;
-
-    background: hwb(155 38% 13% / 0.507);
-    color: #fff;
-    border: 1px solid rgba(255,255,255,0.25);
-
-    font-weight: bold;
-    text-decoration: none;
-
-    transition: all 0.25s ease;
-    position: relative;
+    text-decoration:none;
+    transition:.35s;
 }
 
 /* основной hover */
@@ -520,50 +632,6 @@ box-shadow:
 .tes-ending p {
     font-family: "IM Fell English SC", serif;
     font-size: 36px;
-}
-
-body.tes-body footer {
-    background: #050505; /* глухой чёрный */
-
-    color: #aaa;
-    text-align: center;
-
-    padding: 40px 20px;
-    margin-top: 0;
-
-    border-top: 1px solid rgba(255,255,255,0.08);
-}
-
-body.tes-body footer p {
-    margin: 0;
-    font-size: 14px;
-}
-
-/* HOME (главный акцент) */
-.footer-nav {
-    margin-bottom: 14px;
-    padding-bottom: 20px;
-}
-
-.footer-nav a {
-    font-size: 18px;
-    letter-spacing: 1px;
-    color: #aaa;
-
-    text-decoration: none;
-    transition: all 0.25s ease;
-}
-
-.footer-nav a:hover {
-    color: #e5ffe5;
-    text-shadow: 0 0 10px rgba(120,200,140,0.25);
-}
-
-/* копирайт */
-.footer-copy {
-    margin: 0;
-    font-size: 13px;
-    color: #666;
 }
 
 .tes-release-date {
