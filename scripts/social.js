@@ -14,7 +14,7 @@ function initSocialBar() {
         socialBar.innerHTML = `
             <div class="social-icons">
 
-                <a href="/" aria-label="Home">
+                <a href="https://www.topfhelm.com/" aria-label="Home">
                     <img src="${getSocialIconPath("home.svg")}" alt="Home" loading="lazy">
                 </a>
 

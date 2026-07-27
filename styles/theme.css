@@ -70,25 +70,73 @@ body.light-mode h3 {
     color: #222; /* Темно-серый цвет заголовков */
 }
 
-/* Переключатель темы */
-.theme-switcher {
-    position: fixed;
-    top: 62px;
-    right: 23px;
-    background: #ffcc00;
-    color: #121212;
-    padding: 8px 11px;
-    font-size: 16px;
-    cursor: pointer;
-    border-radius: 8px;
-    z-index: 999;
-    font-size: 16px;
-    transition: background 0.3s;
-    gap: 8px;
+/* ==========================================
+   THEME SWITCHER
+========================================== */
+
+.theme-switcher{
+
+    position:fixed;
+
+    top:56px;
+    right:28px;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+    gap:8px;
+
+    padding:14px 22px;
+
+    background:
+        linear-gradient(
+            180deg,
+            rgba(34,34,34,.98),
+            rgba(16,16,16,.98)
+        );
+
+    color:#f2f2f2;
+
+    border:1px solid rgba(215,179,122,.22);
+
+    border-radius:14px;
+
+    font-size:15px;
+    font-weight:600;
+    letter-spacing:.3px;
+
+    cursor:pointer;
+
+    transition:
+        transform .3s,
+        border-color .3s,
+        box-shadow .3s;
+
+    box-shadow:
+        0 10px 30px rgba(0,0,0,.35),
+        inset 0 1px 0 rgba(255,255,255,.04);
+
+    z-index:999;
+
 }
 
-.theme-switcher:hover {
-    background: #555;
+.theme-switcher:hover{
+
+    transform:translateY(-2px);
+
+    border-color:#d7b37a;
+
+    box-shadow:
+        0 0 24px rgba(215,179,122,.20),
+        0 10px 30px rgba(0,0,0,.45);
+
+}
+
+.theme-switcher:active{
+
+    transform:translateY(0);
+
 }
 
 @media (max-width: 768px) {

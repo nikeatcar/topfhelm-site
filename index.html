@@ -195,13 +195,16 @@
 ;;                        ----==| А В А Т А Р |==----                             ;;
 ;;                                                                                ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; -->
-    <img src="media/TopfHelm-logo.webp" 
-        alt="TopfHelm Logo - Dungeon Folk & Dungeon Synth Project"
+    <div class="logo-wrapper">
+
+    <canvas id="logoFog"></canvas>
+
+    <img
+        src="media/TopfHelm-logo.webp"
         class="avatar"
-        width="200" 
-        height="200" 
-        fetchpriority="high" 
-        decoding="async">
+        alt="TopfHelm">
+
+</div>
 
 <!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                                ;;
@@ -538,6 +541,7 @@
 </footer>
 
     <!-- JS-скрипты -->
+    <script src="scripts/logoAtmosphere.js" defer></script>
     <script src="scripts/page-init.js" defer></script>
     <script src="scripts/langchange.js" defer></script>
     <script src="scripts/preloader.js" defer></script>

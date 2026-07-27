@@ -1,58 +1,139 @@
-/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                              ;;
-;;          ----==| / *   К Н О П К А   " В В Е Р Х "   * / |==----             ;;
-;;                                                                              ;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
-/* Кнопка "UP" */
-#scrollToTopBtn {
-    display: block;
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    width: 50px;
-    height: 50px;
-    background-color: rgba(255, 204, 0, 0.8);
-    color: black;
-    font-size: 24px;
-    text-align: center;
-    border: none;
-    border-radius: 50%;
-    cursor: pointer;
-    box-shadow: 0 0 10px rgba(255, 204, 0, 0.4);
-    z-index: 1000; /* Поверх всего */
-    opacity: 0;
-    visibility: hidden;
-    transform: translateY(10px);
-    transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out, visibility 0.5s;
+/* ==========================================
+   SCROLL TO TOP
+========================================== */
+
+#scrollToTopBtn{
+
+    position:fixed;
+
+    bottom:32px;
+    right:32px;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+    width:56px;
+    height:56px;
+
+    border:none;
+    outline:none;
+
+    border-radius:14px;
+
+    cursor:pointer;
+
+    background:
+        linear-gradient(
+            180deg,
+            rgba(34,34,34,.98),
+            rgba(16,16,16,.98)
+        );
+
+    border:1px solid rgba(215,179,122,.22);
+
+    color:#d7b37a;
+
+    font-size:22px;
+    font-weight:600;
+
+    box-shadow:
+        0 10px 30px rgba(0,0,0,.45),
+        inset 0 1px 0 rgba(255,255,255,.04);
+
+    opacity:0;
+    visibility:hidden;
+
+    transform:
+        translateY(20px)
+        scale(.9);
+
+    transition:
+        opacity .35s,
+        transform .35s,
+        box-shadow .35s,
+        border-color .35s;
+
+    z-index:1000;
+
+    bottom:calc(24px + env(safe-area-inset-bottom));
+    right:calc(24px + env(safe-area-inset-right));
+
 }
 
-/* Анимация появления */
-#scrollToTopBtn.show {
-    opacity: 1;
-    visibility: visible;
-    transform: translateY(0);
+#scrollToTopBtn.show{
+
+    opacity:1;
+
+    visibility:visible;
+
+    transform:
+        translateY(0)
+        scale(1);
+
 }
 
-/* Анимация исчезновения */
-#scrollToTopBtn.fade-out {
-    opacity: 0;
-    visibility: hidden;
-    transform: translateY(10px);
+#scrollToTopBtn.fade-out{
+
+    opacity:0;
+
+    visibility:hidden;
+
+    transform:
+        translateY(20px)
+        scale(.9);
+
 }
 
-@media (max-width: 768px){
-    #scrollToTopBtn {
+#scrollToTopBtn:hover{
 
-        left: 46.5%;
-        right: auto;
-        transform: translateX(-50%);
+    transform:
+        translateY(-3px)
+        scale(1.03);
+
+    border-color:#d7b37a;
+
+    color:#f0d38a;
+
+    box-shadow:
+        0 0 28px rgba(215,179,122,.20),
+        0 12px 32px rgba(0,0,0,.45);
+
+}
+
+#scrollToTopBtn:active{
+
+    transform:
+        translateY(0)
+        scale(.96);
+
+}
+
+@media (max-width:768px){
+
+    #scrollToTopBtn{
+
+        bottom:78px;
+        right:24px;
+
+        width:50px;
+        height:50px;
+
     }
+
 }
 
-@media screen and (max-width: 480px) {
-    #scrollToTopBtn {
-        width: 35px;
-        height: 35px;
-        font-size: 18px;
+@media (max-width:480px){
+
+    #scrollToTopBtn{
+
+        bottom:72px;
+        right:18px;
+
+        width:44px;
+        height:44px;
+
+        font-size:18px;
     }
+
 }

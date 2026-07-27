@@ -129,13 +129,34 @@ body::before {
 ;;                        ----==| А В А Т А Р |==----                         ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+.logo-wrapper{
+
+    position:relative;
+    display:inline-block;
+
+}
+
+#logoFog{
+
+    position:absolute;
+    inset:-60px;
+
+    width:calc(100% + 120px);
+    height:calc(100% + 120px);
+
+    pointer-events:none;
+    z-index:0;
+
+}
+
 .avatar {
+    position: relative;
+    z-index: 2;
+
     width: 200px;
     height: 200px;
-    border-radius: 10px;
-    /*border: 2px solid #fff;*/
-    display: block;
-    margin: 20px auto;
+
+    padding-bottom: 50px;
 }
 
 body {
@@ -1879,11 +1900,6 @@ body.ru #countdown-text {
     .button {
         width: 90%;
         flex-direction: row; /* Держим иконки слева от текста */
-    }
-
-    .avatar {
-        width: 150px;
-        height: 150px;
     }
 
     .button.presaveSEO {

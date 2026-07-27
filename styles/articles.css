@@ -2,6 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Monomakh&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
 
+html{
+    scroll-behavior:smooth;
+}
+
 /* Кнопка "Вверх" */
 #scrollToTopBtn {
     display: block;
@@ -64,7 +68,14 @@
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    filter: brightness(0.6); /* Затемнение для читабельности текста */
+     filter:
+        brightness(.42)
+        saturate(.9);
+}
+
+::selection{
+    background:#d7b37a;
+    color:#111;
 }
 
 /* Стили для заголовка */
@@ -124,40 +135,51 @@ body.en h3 {
     /*border: 2px solid #fff;*/
     display: block;
     margin: 20px auto;
+     border-radius:14px;
+    box-shadow:
+        0 10px 40px rgba(0,0,0,.35);
 }
 
 /* Контейнер для статьи */
-.article-container {
-    max-width: 800px;
-    margin: 50px auto;
-    padding: 20px;
-    background: rgba(0, 0, 0, 0.85);
-    border-radius: 10px;
-    box-shadow: 0 0 15px rgba(255, 215, 0, 0.3);
+.article-container{
+    max-width:900px;
+    margin:60px auto;
+    padding:50px 60px;
+    background:rgba(8,8,8,.82);
+    border:1px solid rgba(215,179,122,.10);
+    border-radius:18px;
+    box-shadow:
+        0 10px 60px rgba(0,0,0,.45),
+        inset 0 0 60px rgba(215,179,122,.03);
+}
+
+.article-container::before{
+    content:"";
+    display:block;
+    width:80px;
+    height:2px;
+    margin:0 auto 35px;
+    background:#d7b37a;
 }
 
 /* Заголовки */
-h1 {
-    font-size: 32px;
-    text-align: center;
-    color: #ffcc00;
-    border-bottom: 2px solid #ffcc00;
-    padding-bottom: 10px;
+h1{
+    color:#f3e7c1;
+    font-size:42px;
+    border-bottom:none;
+    margin-bottom:30px;
 }
 
-h2 {
-    font-size: 24px;
-    color: #ffcc00;
-    margin-top: 20px;
-    border-bottom: 1px solid #ffcc00;
-    padding-bottom: 5px;
+h2{
+    color:#d7b37a;
+    font-size:28px;
+    margin-top:55px;
+    padding-bottom:12px;
+    border-bottom:1px solid rgba(215,179,122,.18);
 }
 
-h3 {
-    font-size: 20px;
-    color: #ffcc00;
-    margin-top: 10px;
-    padding-bottom: 5px;
+h3{
+    color:#e6d2a0;
 }
 
 /* Основной текст статьи */
@@ -168,13 +190,22 @@ p {
 }
 
 /* Списки */
-ul {
-    list-style: square;
-    padding-left: 20px;
+ul{
+    list-style:none;
+    padding-left:0;
 }
 
-ul li {
-    margin-bottom: 8px;
+ul li{
+    position:relative;
+    padding-left:24px;
+    margin-bottom:12px;
+}
+
+ul li::before{
+    content:"✦";
+    position:absolute;
+    left:0;
+    color:#d7b37a;
 }
 
 /* ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -183,30 +214,49 @@ ul li {
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
 /* Кнопка возврата на главную */
-.back-to-home {
-    display: block;
-    text-align: center;
-    margin: 30px auto;
-    padding: 12px 20px;
-    font-size: 18px;
-    background: #ffcc00;
-    color: #121212;
-    text-decoration: none;
-    border-radius: 5px;
-    width: fit-content;
-    transition: background 0.3s;
+/* ==========================================
+   BACK TO HOME
+========================================== */
+
+.back-to-home{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:fit-content;
+    gap:10px;
+    margin:40px auto;
+    padding:16px 34px;
+    min-width:240px;
+    background:#111;
+    color:#f2f2f2;
+    border:1px solid rgba(215,179,122,.22);
+    border-radius:12px;
+    text-decoration:none;
+    font-size:16px;
+    font-weight:600;
+    letter-spacing:.5px;
+    transition:all .3s ease;
 }
 
 .back-to-home span{
-    color: #121212;
+    color:inherit;
 }
 
-.back-to-home:hover {
-    background: #ffd633;
+.back-to-home:hover{
+    transform:translateY(-2px);
+    border-color:#d7b37a;
+    box-shadow:
+        0 0 24px rgba(215,179,122,.20);
+    color:#fff;
+}
+
+.back-to-home:active{
+    transform:translateY(0);
 }
 
 .table {
     width: 100%;
+    border:1px solid rgba(215,179,122,.15);
     border-collapse: collapse;
     margin: 20px 0;
     font-size: 1rem;
@@ -228,6 +278,10 @@ ul li {
     border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
+.table tbody tr{
+    transition:.25s;
+}
+
 .table tbody tr:nth-child(even) {
     background: rgba(255, 255, 255, 0.1);
 }
@@ -235,6 +289,22 @@ ul li {
 .table tbody tr:hover {
     background: rgba(255, 255, 255, 0.2);
     transition: 0.3s;
+}
+
+p{
+    font-size:18px;
+    line-height:1.95;
+    color:#d6d6d6;
+    margin-bottom:26px;
+}
+
+a{
+    color:#d7b37a;
+    transition:.25s;
+}
+
+a:hover{
+    color:#f2d69b;
 }
 
 /* Медиа-запросы для адаптации под мобильные */
