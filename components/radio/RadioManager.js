@@ -8,7 +8,7 @@ class RadioManager {
 
         this.player = new AudioPlayer();
 
-        this.player.setVolume(0.7);
+        this.player.setVolume(0.5);
 
         this.bindUI();
 
