@@ -1,184 +1,218 @@
-# 🔹 Основные настройки Netlify
+# ==========================================================
+# Netlify
+# ==========================================================
+
 [build]
-  publish = "/"  # Папка с HTML-файлами
-  command = ""   # Нет Webpack/Vite, сборка не нужна
+publish = "/"
+command = ""
 
-# 🔹 Кэширование статических файлов (CSS, JS, изображения)
-[[headers]]
-  for = "/*"
-  [headers.values]
-    Accept-Encoding = "gzip, br" # Автоматическое сжатие
 
-# 🔹 Оптимизация кеша для HTML (уменьшили кеширование)
-[[headers]]
-  for = "/*.html"
-  [headers.values]
-    Cache-Control = "public, max-age=300, must-revalidate"
-
-# 🔹 Предзагрузка шрифтов
-[[headers]]
-  for = "/fonts/*.woff2"
-  [headers.values]
-    Link = "</fonts/your-font.woff2>; rel=preload; as=font; type=font/woff2; crossorigin=anonymous"
-
-# 🔹 Оптимизация изображений (ленивая загрузка)
-[[headers]]
-  for = "/media/*"
-  [headers.values]
-    Cache-Control = "public, max-age=2592000, immutable" # 30 дней
-
-# 🔹 Оптимизация CSS
-[[headers]]
-  for = "/styles/*.css"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000, immutable"
-
-# 🔹 Оптимизация кеширования JS
-[[headers]]
-  for = "/scripts/*.js"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000, immutable"
+# ==========================================================
+# Global headers
+# ==========================================================
 
 [[headers]]
-  for = "/articles"
-  [headers.values]
-    Access-Control-Allow-Origin = "*"
-    Content-Type = "application/json"
+for = "/*"
 
+[headers.values]
+
+Accept-Encoding = "gzip, br"
+
+Content-Security-Policy = """
+default-src 'self';
+object-src 'none';
+base-uri 'self';
+form-action 'self';
+
+script-src
+'self'
+'unsafe-inline'
+https://cdn.jsdelivr.net
+https://code.jquery.com
+https://cdnjs.cloudflare.com
+https://www.googletagmanager.com
+https://www.youtube.com;
+
+style-src
+'self'
+'unsafe-inline'
+https://fonts.googleapis.com
+https://cdn.jsdelivr.net;
+
+font-src
+'self'
+https://fonts.gstatic.com;
+
+img-src
+'self'
+data:
+https://img.youtube.com
+https://cdn.topfhelm.com;
+
+media-src
+'self'
+https://cdn.topfhelm.com;
+
+connect-src
+'self'
+https://cdn.topfhelm.com
+https://region1.google-analytics.com
+https://www.google-analytics.com
+https://www.googletagmanager.com;
+
+frame-src
+'self'
+https://open.spotify.com
+https://www.youtube.com;
+"""
+
+Link = "</llms.txt>; rel=\"alternate\"; type=\"text/plain\", </llms-full.txt>; rel=\"alternate\"; type=\"text/plain\", </sitemap.xml>; rel=\"sitemap\"; type=\"application/xml\""
+
+Referrer-Policy = "strict-origin-when-cross-origin"
+Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
+X-Content-Type-Options = "nosniff"
+X-Frame-Options = "DENY"
+
+
+# ==========================================================
+# HTML cache
+# ==========================================================
 
 [[headers]]
-  for = "/*"
-  [headers.values]
-    Content-Security-Policy = """
-      default-src 'self';
-      object-src 'none';
-      base-uri 'self';
-      form-action 'self';
+for = "/"
 
-      script-src
-        'self'
-        'unsafe-inline'
-        https://cdn.jsdelivr.net
-        https://code.jquery.com
-        https://cdnjs.cloudflare.com
-        https://www.googletagmanager.com
-        https://www.youtube.com;
+[headers.values]
+Cache-Control = "public, max-age=300, must-revalidate"
 
-      style-src
-        'self'
-        'unsafe-inline'
-        https://fonts.googleapis.com
-        https://cdn.jsdelivr.net;
+[[headers]]
+for = "/*.html"
 
-      font-src
-        'self'
-        https://fonts.gstatic.com;
-
-      img-src
-        'self'
-        data:
-        https://img.youtube.com
-        https://cdn.topfhelm.com;
-
-      media-src
-        'self'
-        https://cdn.topfhelm.com;
-
-      connect-src
-        'self'
-        https://cdn.topfhelm.com
-        https://region1.google-analytics.com
-        https://www.google-analytics.com
-        https://www.googletagmanager.com;
-
-      frame-src
-        'self'
-        https://open.spotify.com
-        https://www.youtube.com;
-    """
-    Link = "</llms.txt>; rel=\"alternate\"; type=\"text/plain\", </llms-full.txt>; rel=\"alternate\"; type=\"text/plain\", </sitemap.xml>; rel=\"sitemap\"; type=\"application/xml\""
-
-    Referrer-Policy = "strict-origin-when-cross-origin"
-    Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
-    X-Content-Type-Options = "nosniff"
-    X-Frame-Options = "DENY"
+[headers.values]
+Cache-Control = "public, max-age=300, must-revalidate"
 
 
-# 🔹 Редиректы (учитываем www и https)
-[[redirects]]
-  from = "/en"
-  to = "/index.html"
-  status = 200
-  force = true
+# ==========================================================
+# CSS
+# ==========================================================
+
+[[headers]]
+for = "/styles/*.css"
+
+[headers.values]
+Cache-Control = "public, max-age=31536000, immutable"
+
+
+# ==========================================================
+# JS
+# ==========================================================
+
+[[headers]]
+for = "/components/*"
+
+[headers.values]
+Cache-Control = "public, max-age=31536000, immutable"
+
+
+# ==========================================================
+# Fonts
+# ==========================================================
+
+[[headers]]
+for = "/fonts/*.woff2"
+
+[headers.values]
+Cache-Control = "public, max-age=31536000, immutable"
+
+
+# ==========================================================
+# Images / Media
+# ==========================================================
+
+[[headers]]
+for = "/media/*"
+
+[headers.values]
+Cache-Control = "public, max-age=31536000, immutable"
+
+
+# ==========================================================
+# Redirects
+# ==========================================================
 
 [[redirects]]
-  from = "/ru"
-  to = "/index-ru.html"
-  status = 200
-  force = true
+from = "/en"
+to = "/index.html"
+status = 200
+force = true
 
 [[redirects]]
-  from = "/the-emerald-saga"
-  to = "/the-emerald-saga/index.html"
-  status = 200
-  force = true
+from = "/ru"
+to = "/index-ru.html"
+status = 200
+force = true
 
 [[redirects]]
-  from = "/the-emerald-saga/ru"
-  to = "/the-emerald-saga/index-ru.html"
-  status = 200
-  force = true
+from = "/the-emerald-saga"
+to = "/the-emerald-saga/index.html"
+status = 200
+force = true
 
 [[redirects]]
-  from = "/the-emerald-saga/ru/"
-  to = "/the-emerald-saga/index-ru.html"
-  status = 200
-  force = true
+from = "/the-emerald-saga/ru"
+to = "/the-emerald-saga/index-ru.html"
+status = 200
+force = true
 
 [[redirects]]
-  from = "/composer"
-  to = "/composer/index.html"
-  status = 200
-  force = true
+from = "/the-emerald-saga/ru/"
+to = "/the-emerald-saga/index-ru.html"
+status = 200
+force = true
 
 [[redirects]]
-  from = "/composer/ru"
-  to = "/composer/index-ru.html"
-  status = 200
-  force = true
+from = "/composer"
+to = "/composer/index.html"
+status = 200
+force = true
 
 [[redirects]]
-  from = "/composer/ru/"
-  to = "/composer/index-ru.html"
-  status = 200
-  force = true
+from = "/composer/ru"
+to = "/composer/index-ru.html"
+status = 200
+force = true
 
 [[redirects]]
-  from = "/shop"
-  to = "/shop.html"
-  status = 200
-  force = true
+from = "/composer/ru/"
+to = "/composer/index-ru.html"
+status = 200
+force = true
 
 [[redirects]]
-  from = "https://www.topfhelm.com/en"
-  to = "https://topfhelm.com/en"
-  status = 301
-  force = true
+from = "/shop"
+to = "/shop.html"
+status = 200
+force = true
 
 [[redirects]]
-  from = "https://www.topfhelm.com/ru"
-  to = "https://topfhelm.com/ru"
-  status = 301
-  force = true
+from = "https://www.topfhelm.com/en"
+to = "https://topfhelm.com/en"
+status = 301
+force = true
 
 [[redirects]]
-  from = "/robots.txt"
-  to = "/robots.txt"
-  status = 200
-  force = true
+from = "https://www.topfhelm.com/ru"
+to = "https://topfhelm.com/ru"
+status = 301
+force = true
 
 [[redirects]]
-  from = "/sitemap.xml"
-  to = "/sitemap.xml"
-  status = 200
-  force = true
+from = "/robots.txt"
+to = "/robots.txt"
+status = 200
+force = true
+
+[[redirects]]
+from = "/sitemap.xml"
+to = "/sitemap.xml"
+status = 200
+force = true
