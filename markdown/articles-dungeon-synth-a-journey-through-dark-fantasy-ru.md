@@ -1,6 +1,16 @@
-![TopfHelm](https://cdn.topfhelm.com/art/TopfHelm-logo.webp) 
+---
+type: article
+title: Dungeon Synth: Путешествие в мир средневековой тьмы и фэнтези
+description: История Dungeon Synth: его происхождение, развитие и связь с black metal. Как создать Dungeon Synth? Лучшие исполнители жанра.
+url: https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy-ru.html
+canonical: https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy-ru.html
+language: ru
+source: TopfHelm Official Website
+generator: TopfHelm Markdown Generator
+last_updated: 2026-08-01
+---
 
-🌙 Dark Mode 
+Dark Mode 
 
 # Dungeon Synth: Путешествие в мир средневековой тьмы и фэнтези
 
@@ -94,6 +104,6 @@ Dungeon Synth — это не просто музыка, а целый мир, �
 
 Если вы хотите услышать музыкальный эквивалент средневековой хроники или древнего легендарного сказания, Dungeon Synth (или его акустическая альтернатива Dungeon Folk) станет вашим идеальным проводником.
 
-### 📖 Read articles
+### Read articles
 
-[🏰 Return to Main Page](https://topfhelm.com)
+[ Return to Main Page](https://topfhelm.com)

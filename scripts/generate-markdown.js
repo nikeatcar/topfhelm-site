@@ -83,6 +83,32 @@ function convert(file) {
     $(".social").remove();
     $(".share").remove();
 
+    $(".button").remove();
+    $(".btn").remove();
+    $(".cta").remove();
+    $(".hero-buttons").remove();
+    $(".timeline-controls").remove();
+    $(".social-links").remove();
+    $(".share-buttons").remove();
+
+    $(".breadcrumbs").remove();
+    $(".breadcrumb").remove();
+
+    $(".pagination").remove();
+    $(".pager").remove();
+
+    $(".sidebar").remove();
+
+    $(".comments").remove();
+    $(".comment").remove();
+
+    $(".related").remove();
+    $(".related-posts").remove();
+
+    $(".advertisement").remove();
+    $(".ads").remove();
+    $(".banner").remove();
+
     // Берем основной контент
     const content =
         $("main").html() ||
@@ -95,12 +121,89 @@ function convert(file) {
     const cleaned = markdown
     .replace(/\r\n/g, "\n")
     .replace(/\n{3,}/g, "\n\n")
+
+    // Удаляем ссылки-картинки
     .replace(/\[!\[[^\]]*\]\([^)]+\)\]\([^)]+\)/g, "")
+
+    // Удаляем обычные картинки Markdown
+    .replace(/!\[[^\]]*]\([^)]+\)\n?/g, "")
+
+    // Удаляем эмодзи
+    .replace(/[\p{Extended_Pictographic}]/gu, "")
+
+    // Удаляем пустые ссылки
+    .replace(/\[\s*\]\([^)]+\)/g, "")
+
+    // Удаляем горизонтальные линии
     .replace(/^\s*[-*_]{3,}\s*$/gm, "")
+
+    // Убираем лишние пробелы
+    .replace(/[ \t]{2,}/g, " ")
+
+    // Убираем лишние пустые строки
+    .replace(/\n{3,}/g, "\n\n")
+
     .trim();
 
-    // Получаем путь относительно корня
     const relative = path.relative(ROOT, file).replace(/\\/g, "/");
+
+    const today = new Date().toISOString().slice(0, 10);
+
+    const title =
+        $("title").text().trim() || path.basename(file);
+
+    const description =
+    $('meta[name="description"]').attr("content")?.trim();
+
+    const language =
+    relative.endsWith("-ru.html") ||
+    relative.endsWith("/index-ru.html")
+        ? "ru"
+        : "en";
+
+    const type =
+    relative.startsWith("articles/")
+        ? "article"
+        : "website";
+
+    let canonical =
+    $('link[rel="canonical"]').attr("href");
+
+    if (!canonical) {
+        if (relative === "index.html") {
+            canonical = "https://topfhelm.com/";
+        } else if (relative === "index-ru.html") {
+            canonical = "https://topfhelm.com/ru";
+        } else {
+            canonical = `https://topfhelm.com/${relative}`;
+        }
+    }
+
+    let pageUrl;
+
+    if (relative === "index.html") {
+        pageUrl = "https://topfhelm.com/";
+    }
+    else if (relative === "index-ru.html") {
+        pageUrl = "https://topfhelm.com/ru";
+    }
+    else {
+        pageUrl = `https://topfhelm.com/${relative}`;
+    }
+
+const frontMatter = `---
+type: ${type}
+title: ${title}
+description: ${description}
+url: ${pageUrl}
+canonical: ${canonical}
+language: ${language}
+source: TopfHelm Official Website
+generator: TopfHelm Markdown Generator
+last_updated: ${today}
+---
+
+`;
 
     let filename;
 
@@ -145,7 +248,11 @@ function convert(file) {
 
     const outFile = path.join(ROOT, "markdown", filename);
 
-    fs.writeFileSync(outFile, cleaned, "utf8");
+    fs.writeFileSync(
+    outFile,
+    frontMatter + cleaned,
+    "utf8"
+    );
 }
 
 // ==========================

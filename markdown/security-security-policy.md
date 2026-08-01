@@ -1,4 +1,16 @@
-# 🔒 Security Policy
+---
+type: website
+title: Security Policy | TopfHelm
+description: TopfHelm Security Policy: Learn about our approach to cybersecurity, responsible disclosure, and reporting vulnerabilities.
+url: https://topfhelm.com/security/security-policy.html
+canonical: https://topfhelm.com/security/security-policy.html
+language: en
+source: TopfHelm Official Website
+generator: TopfHelm Markdown Generator
+last_updated: 2026-08-01
+---
+
+# Security Policy
 
 ## Introduction
 
@@ -46,4 +58,4 @@ If you need to report a security issue or have any concerns, please contact us:
 * Email: [topfhelmmusic@gmail.com](mailto:topfhelmmusic@gmail.com)
 * PGP Key: [Download](https://topfhelm.com/security/pgp-key.txt)
 
-[🏰 Return to Main Page](https://topfhelm.com)
+[ Return to Main Page](https://topfhelm.com)

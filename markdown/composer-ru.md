@@ -1,6 +1,14 @@
-![TopfHelm](https://cdn.topfhelm.com/art/TopfHelm-logo.webp) 
-
-![TopfHelm](https://cdn.topfhelm.com/art/TopfHelm-logo.webp) 
+---
+type: website
+title: Музыка для игр, RPG и тёмного фэнтези | Композитор TopfHelm
+description: Закажите музыку у TopfHelm для RPG, DnD, тёмного фэнтези, инди-игр, roguelike и авторских миров. Dungeon Folk, Dungeon Synth и средневековые саундтреки на заказ.
+url: https://topfhelm.com/composer/index-ru.html
+canonical: https://topfhelm.com/composer-ru.html
+language: ru
+source: TopfHelm Official Website
+generator: TopfHelm Markdown Generator
+last_updated: 2026-08-01
+---
 
 # Музыка на заказ для игр, персонажей и фэнтези-миров | TopfHelm
 
@@ -44,7 +52,7 @@ Dungeon Folk, средневековые тавернные мелодии и а
 
 Главное меню 
 
-### 🏰 Тема главного меню
+### Тема главного меню
 
 OST
 
@@ -52,7 +60,7 @@ OST
 
 Бой 
 
-### ⚔️ Битва за средневековый город
+### ️ Битва за средневековый город
 
 OST
 
@@ -60,7 +68,7 @@ OST
 
 Исследование 
 
-### 🌊 Странствия по океану
+### Странствия по океану
 
 OST
 
@@ -68,7 +76,7 @@ OST
 
 Атмосфера 
 
-### 🌲 Ночь у лесной реки
+### Ночь у лесной реки
 
 OST
 
@@ -76,7 +84,7 @@ OST
 
 Подземелье / Ритуал 
 
-### 🕯 Древняя пещера
+### Древняя пещера
 
 OST
 
@@ -84,7 +92,7 @@ OST
 
 Босс 
 
-### 🔥 Битва с боссом
+### Битва с боссом
 
 OST
 
@@ -92,7 +100,7 @@ OST
 
 Босс / Хоррор 
 
-### 🔥 Битва с боссом II
+### Битва с боссом II
 
 OST
 
@@ -100,7 +108,7 @@ OST
 
 Кинематографичный босс 
 
-### 🔥 Битва с боссом III
+### Битва с боссом III
 
 OST
 
@@ -108,7 +116,7 @@ OST
 
 Иной мир / Сон 
 
-### 🌑 Иной мир
+### Иной мир
 
 OST
 

@@ -1,12 +1,22 @@
-![TopfHelm](https://cdn.topfhelm.com/art/TopfHelm-logo.webp) 
+---
+type: website
+title: Dungeon Synth Shop | TopfHelm Collector's Cassettes, CDs & Medieval Music Merchandise
+description: undefined
+url: https://topfhelm.com/shop/index.html
+canonical: https://topfhelm.com/shop
+language: en
+source: TopfHelm Official Website
+generator: TopfHelm Markdown Generator
+last_updated: 2026-08-01
+---
 
-🛒 Cart (0) 
+Cart (0) 
 
 Official TopfHelm Dungeon Synth Shop featuring handcrafted cassette releases, collector's CDs, limited physical editions and medieval fantasy music artifacts.
 
 Limited handmade editions • Dungeon Synth cassettes • Medieval music collectibles**• Worldwide shipping**!
 
-![The Emerald Saga Collector's Cassette](https://cdn.topfhelm.com/merch/img/TES_TSP_cassette_1.webp) 
+ 
 
 Collector's Cassette NEW 
 
@@ -24,7 +34,7 @@ $24
 
 Add to Cart 
 
-![Sir Godric Collector's Cassette](https://cdn.topfhelm.com/merch/img/sir_godric_cassette_1.webp) 
+ 
 
 Collector's Cassette BEST SELLER 
 
@@ -41,7 +51,7 @@ $15
 
 Add to Cart 
 
-![Spadčyna Collector's Cassette](https://cdn.topfhelm.com/merch/img/Spadcyna_Cassette_2.webp) 
+ 
 
 Collector's Cassette SOLD OUT 
 
@@ -57,7 +67,7 @@ Spadčyna is a full-length Belarusian folk ritual album that blends medieval fol
 
 $35
 
-![Spadčyna Lite Cassette](https://cdn.topfhelm.com/merch/img/Spadcyna_Cassette_1.webp) 
+ 
 
 Lite Cassette NEW 
 
@@ -74,7 +84,7 @@ $14
 
 Add to Cart 
 
-![40 Collector's Cassette](https://cdn.topfhelm.com/merch/img/40_cassette_4.webp) 
+ 
 
 Collector's Cassette LIMITED 
 
@@ -91,7 +101,7 @@ $18
 
 Add to Cart 
 
-![Solemnis CD](https://cdn.topfhelm.com/merch/img/solemnis_cd_5.webp) 
+ 
 
 Collector's CD LIMITED 
 

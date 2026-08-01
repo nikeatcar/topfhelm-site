@@ -1,4 +1,14 @@
-![The Emerald Saga](https://cdn.topfhelm.com/the-emerald-saga/TES_Logo.svg) 
+---
+type: website
+title: The Emerald Saga | TopfHelm
+description: The Emerald Saga is a dark medieval audio saga by TopfHelm, told through music and narration across a series of releases.
+url: https://topfhelm.com/the-emerald-saga/index.html
+canonical: https://topfhelm.com/the-emerald-saga/
+language: en
+source: TopfHelm Official Website
+generator: TopfHelm Markdown Generator
+last_updated: 2026-08-01
+---
 
 # The Emerald Saga 
 
@@ -20,7 +30,7 @@ Each release begins with the same opening track. It returns. It changes.
 
 Emerald Fall
 
-![The Still Place cover](https://cdn.topfhelm.com/covers/TES_TSP_cover.webp) 
+ 
 
 ### The Still Place
 
@@ -45,7 +55,7 @@ Formats **Music**
 
 Choose Your Path 
 
-[▶ Listen Now ](https://open.spotify.com/album/3lqk3vmOJ6SGYN6EhP3GYf) [🗝 Own Cassette ](https://topfhelm.com/shop) 
+[ Listen Now ](https://open.spotify.com/album/3lqk3vmOJ6SGYN6EhP3GYf) [ Own Cassette ](https://topfhelm.com/shop) 
 
 Cassette II 
 

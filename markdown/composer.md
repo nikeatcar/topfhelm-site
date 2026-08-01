@@ -1,6 +1,14 @@
-![TopfHelm](https://cdn.topfhelm.com/art/TopfHelm-logo.webp) 
-
-![TopfHelm](https://cdn.topfhelm.com/art/TopfHelm-logo.webp) 
+---
+type: website
+title: Game Music Composer — Medieval, RPG & Dark Fantasy OST | TopfHelm
+description: Hire TopfHelm as a game music composer for medieval RPGs, dark fantasy, roguelikes and pixel art games. Dungeon Synth, Dungeon Folk and dark medieval ambient for indie games.
+url: https://topfhelm.com/composer/index.html
+canonical: https://topfhelm.com/composer
+language: en
+source: TopfHelm Official Website
+generator: TopfHelm Markdown Generator
+last_updated: 2026-08-01
+---
 
 # Custom Dark Fantasy Music Commissions | TopfHelm
 
@@ -44,7 +52,7 @@ Each example includes a full OST version and a background version, showing how m
 
 Menu / Main Theme 
 
-### 🏰 Main Menu Theme / OST
+### Main Menu Theme / OST
 
 OST
 
@@ -52,7 +60,7 @@ Background
 
 Combat 
 
-### ⚔️ Battle for Medieval Town
+### ️ Battle for Medieval Town
 
 OST
 
@@ -60,7 +68,7 @@ Background
 
 Exploration 
 
-### 🌊 Wandering the Ocean
+### Wandering the Ocean
 
 OST
 
@@ -68,7 +76,7 @@ Background
 
 Ambient 
 
-### 🌲 Night in the Forest River
+### Night in the Forest River
 
 OST
 
@@ -76,7 +84,7 @@ Background
 
 Dungeon / Ritual 
 
-### 🕯 The Ancient Cave
+### The Ancient Cave
 
 OST
 
@@ -84,7 +92,7 @@ Background
 
 Boss 
 
-### 🔥 Boss Fight
+### Boss Fight
 
 OST
 
@@ -92,7 +100,7 @@ Background
 
 Boss / Horror 
 
-### 🔥 Boss Fight II
+### Boss Fight II
 
 OST
 
@@ -100,7 +108,7 @@ Background
 
 Cinematic Boss 
 
-### 🔥 Boss Fight III
+### Boss Fight III
 
 OST
 
@@ -108,7 +116,7 @@ Background
 
 Otherworld / Dream 
 
-### 🌑 The Other World
+### The Other World
 
 OST
 

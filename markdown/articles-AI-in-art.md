@@ -1,6 +1,16 @@
-![TopfHelm](https://cdn.topfhelm.com/art/TopfHelm-logo.webp) 
+---
+type: article
+title: Your Hatred of AI Won’t Make You More Talented
+description: A personal take on using AI in music and visual art. Why it's not a threat — it's a tool. And what real creativity means in the 21st century.
+url: https://topfhelm.com/articles/AI-in-art.html
+canonical: https://topfhelm.com/articles/ai-in-art.html
+language: en
+source: TopfHelm Official Website
+generator: TopfHelm Markdown Generator
+last_updated: 2026-08-01
+---
 
-🌙 Dark Mode 
+Dark Mode 
 
 # Your Hatred of AI Won’t Make You More Talented
 
@@ -28,7 +38,7 @@ What they really feared was **irrelevance**.
 
 ## **AI is just another instrument**
 
-People scream about AI in music. Why?  
+People scream about AI in music. Why? 
 Synthesizers have existed for decades. Arpeggiators can play chords from a single key press. DAWs allow you to loop, quantize, and fix timing — and nobody’s calling that _fake music_. 
 
 **Dungeon Synth**, for example, is built in DAWs. Many artists use default presets. Some barely change them. Nobody complains — because it’s about the _atmosphere_, the _feeling_, the _soul_. 
@@ -39,47 +49,47 @@ Synthesizers have existed for decades. Arpeggiators can play chords from a singl
 
 ## **But AI learns from real artists!**
 
-Yes. **So do humans.**  
+Yes. **So do humans.** 
 Every single artist alive has studied the work of others. Every great musician grew up inspired by greater ones. That’s called _learning_. That’s how art works. 
 
-Is it **theft** when 500 death metal bands sound the same?  
+Is it **theft** when 500 death metal bands sound the same? 
 Is it theft when a folk artist imitates medieval melodies? 
 
 **Double standards don’t make a good argument.** 
 
 ## **Visual artists: let's talk about honesty**
 
-A few years ago, **nobody cared** about "art theft" when people ripped images off Google for their blog posts.  
+A few years ago, **nobody cared** about "art theft" when people ripped images off Google for their blog posts. 
 But now people rage when I use an AI-generated visual and touch it up in Photoshop? 
 
-**Who are these people paying $500 per image** for every social media post?  
+**Who are these people paying $500 per image** for every social media post? 
 What fantasy world do you live in? 
 
-I used AI to make a cover for _Sanguis et Mulsum_. Then I **refined it manually** — logo, filters, lighting.  
-And guess what? **People loved it.**  
+I used AI to make a cover for _Sanguis et Mulsum_. Then I **refined it manually** — logo, filters, lighting. 
+And guess what? **People loved it.** 
 Not because of the AI. Because of the _sound_, the _feeling_, the _concept_. 
 
 **AI didn’t write that EP. I did.** 
 
 ## **AI art lacks soul — and that’s the point**
 
-**AI can’t feel.** It can’t suffer, love, grieve, or hope.  
+**AI can’t feel.** It can’t suffer, love, grieve, or hope. 
 It doesn’t understand silence between notes. It doesn’t know why we tremble at a minor chord. 
 
 That’s why you’ll always be able to tell the difference between something **made with AI** and something **made by a human using AI**. 
 
-_AI is a sketchpad, not a painter. It’s a demo, not a song._  
+_AI is a sketchpad, not a painter. It’s a demo, not a song._ 
 And real artists? **We’ve always used what we had to make what we wanted.** 
 
-> “The medium is the message.” – Marshall McLuhan  
+> “The medium is the message.” – Marshall McLuhan 
 > The tools shape the art. That’s normal. That’s inevitable. 
 
 ## **What about ethics?**
 
 Let’s be clear: **I don’t lie.** I don’t pretend AI-made art is mine. I say what was generated, and what I’ve edited. _That’s called being transparent._ 
 
-What’s **not okay** is claiming 100% authorship on something you barely touched.  
-But that’s not a problem with AI — **that’s a problem with people being dishonest.**  
+What’s **not okay** is claiming 100% authorship on something you barely touched. 
+But that’s not a problem with AI — **that’s a problem with people being dishonest.** 
 And that’s been around forever. 
 
 ## **So here’s what I stand for:**
@@ -100,6 +110,6 @@ Meanwhile, I’ll be making music. **With soul. With intent. With pain and solem
 
 _Peace and love to my fans. Always._ 
 
-### 📖 Read articles
+### Read articles
 
-[🏰 Return to Main Page](https://topfhelm.com)
+[ Return to Main Page](https://topfhelm.com)

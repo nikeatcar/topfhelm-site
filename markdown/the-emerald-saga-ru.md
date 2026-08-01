@@ -1,4 +1,14 @@
-![The Emerald Saga](https://cdn.topfhelm.com/the-emerald-saga/TES_Logo.svg) 
+---
+type: website
+title: Изумрудная Сага | TopfHelm
+description: The Emerald Saga — тёмная средневековая аудио-сага от TopfHelm, рассказанная через музыку и повествование.
+url: https://topfhelm.com/the-emerald-saga/index-ru.html
+canonical: https://topfhelm.com/the-emerald-saga/index-ru.html
+language: ru
+source: TopfHelm Official Website
+generator: TopfHelm Markdown Generator
+last_updated: 2026-08-01
+---
 
 # Изумрудная Сага
 
@@ -20,7 +30,7 @@
 
 Emerald Fall
 
-![The Still Place cover](https://cdn.topfhelm.com/covers/TES_TSP_cover.webp) 
+ 
 
 ### Тихое место
 
@@ -45,7 +55,7 @@ Emerald Fall
 
 Выбери свой путь 
 
-[▶ Слушать ](https://open.spotify.com/album/3lqk3vmOJ6SGYN6EhP3GYf) [🗝 Обрести Кассету ](https://topfhelm.com/shop) 
+[ Слушать ](https://open.spotify.com/album/3lqk3vmOJ6SGYN6EhP3GYf) [ Обрести Кассету ](https://topfhelm.com/shop) 
 
 Кассета II 
 

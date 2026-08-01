@@ -1,6 +1,16 @@
-![TopfHelm](https://cdn.topfhelm.com/art/TopfHelm-logo.webp) 
+---
+type: article
+title: Ваш хейт к ИИ не сделает вас талантливее
+description: Личное мнение об использовании ИИ в музыке и искусстве. Почему это не угроза, а инструмент — и что такое настоящее творчество в XXI веке.
+url: https://topfhelm.com/articles/AI-in-art-ru.html
+canonical: https://topfhelm.com/articles/ai-in-art-ru.html
+language: ru
+source: TopfHelm Official Website
+generator: TopfHelm Markdown Generator
+last_updated: 2026-08-01
+---
 
-🌙 Dark Mode 
+Dark Mode 
 
 # Ваш хейт к ИИ не сделает вас талантливее
 
@@ -64,8 +74,8 @@
 
 А я пошёл писать музыку.
 
-![AI Artwork End Image](/articles/AI-in-art.webp) 
+ 
 
-### 📖 Read articles
+### Read articles
 
-[🏰 Return to Main Page](https://topfhelm.com)
+[ Return to Main Page](https://topfhelm.com)
