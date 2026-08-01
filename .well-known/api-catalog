@@ -1,0 +1,31 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://topfhelm.com/",
+      "service-desc": [
+        {
+          "href": "https://topfhelm.com/llms.txt",
+          "type": "text/plain"
+        },
+        {
+          "href": "https://topfhelm.com/llms-full.txt",
+          "type": "text/plain"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://topfhelm.com/articles"
+        },
+        {
+          "href": "https://topfhelm.com/the-emerald-saga"
+        },
+        {
+          "href": "https://topfhelm.com/composer"
+        },
+        {
+          "href": "https://topfhelm.com/shop"
+        }
+      ]
+    }
+  ]
+}
