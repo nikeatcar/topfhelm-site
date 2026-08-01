@@ -1,0 +1,54 @@
+{
+  "$schema": "https://modelcontextprotocol.io/schemas/server-card.json",
+  "version": "1.0",
+  "serverInfo": {
+    "name": "TopfHelm",
+    "title": "TopfHelm Official Website",
+    "description": "Official Dungeon Folk & Dungeon Synth project featuring music, articles, The Emerald Saga universe and composer services.",
+    "website": "https://topfhelm.com",
+    "version": "1.0.0"
+  },
+  "capabilities": {
+    "resources": {
+      "enabled": true
+    },
+    "prompts": {
+      "enabled": false
+    },
+    "tools": {
+      "enabled": false
+    }
+  },
+  "resources": [
+    {
+      "name": "LLMs",
+      "uri": "https://topfhelm.com/llms.txt",
+      "description": "Short AI discovery file."
+    },
+    {
+      "name": "LLMs Full",
+      "uri": "https://topfhelm.com/llms-full.txt",
+      "description": "Complete AI knowledge base."
+    },
+    {
+      "name": "Articles",
+      "uri": "https://topfhelm.com/articles",
+      "description": "Educational articles about Dungeon Folk, Dungeon Synth and Medieval Music."
+    },
+    {
+      "name": "The Emerald Saga",
+      "uri": "https://topfhelm.com/the-emerald-saga",
+      "description": "Official story and lore."
+    },
+    {
+      "name": "Composer",
+      "uri": "https://topfhelm.com/composer",
+      "description": "Custom music composition services."
+    },
+    {
+      "name": "Shop",
+      "uri": "https://topfhelm.com/shop",
+      "description": "Official merchandise and music."
+    }
+  ]
+}

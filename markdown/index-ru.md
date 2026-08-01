@@ -1,0 +1,69 @@
+![TopfHelm](https://cdn.topfhelm.com/art/TopfHelm-logo.webp) 
+
+![TopfHelm](https://cdn.topfhelm.com/art/TopfHelm-logo.webp) 
+
+# TopfHelm - Dungeon Folk & Dungeon Synth из Беларуси
+
+## Атмосферная музыка в средневековом стиле для любителей DnD, фэнтезийных миров и дарк-фолка
+
+Проект в жанрах Dungeon Synth и средневекового фолка. Музыка для DnD, фэнтези и погружения в древние миры. 
+
+Нарративная музыка в форме аудиохроник.
+
+Истории, рассказанные посредством звука, голоса и атмосферы.
+
+ЛИМИТИРОВАННАЯ РУЧНАЯ РАБОТА 
+
+## Сокровищница Артефактов
+
+Откройте для себя кассеты с музыкой в ​​жанре Dungeon Synth, коллекционные компакт-диски и эксклюзивные артефакты средневековой музыки, выпущенные ограниченным тиражом. 
+
+[ 🗝 Войти в Сокровищницу ](/shop/) 
+
+[ 🎵 Слушать Музыку Исследуйте релизы, альбомы и музыкальные миры TopfHelm. ](#topfhelm-timeline) [ 🎼 Заказать Музыку Музыка на заказ для игр, персонажей и фэнтезийных миров. ](/composer/index-ru.html) [ 📜 Читать Материалы Интервью, статьи и истории о музыке, творчестве и мирах TopfHelm. ](#interviews) 
+
+## The Chronicle
+
+A brief path through TopfHelm releases and worlds. 
+
+![The Emerald Saga](https://cdn.topfhelm.com/the-emerald-saga/TES_Logo.svg) 
+
+Мрачная средневековая аудио-сага о мире, изменённом локальной катастрофой, чьи последствия вышли далеко за её пределы. 
+
+[Войти в Мир ](/the-emerald-saga/index-ru.html) 
+
+## Поддержи проект
+
+[ ![Boosty](icons/boostyLogo.svg) ](https://boosty.to/topfhelm/donate) [ ![PayPal](icons/PayPal_Logo_Icon_2014.svg) ](paypal.me/topfhelmmsc) 
+
+### 📖 Читать статьи 📖
+
+## TopfHelm – Ван-мен проект Dungeon Folk & Dungeon Synth
+
+Данжн Фолк Данжн Синт Средневековая Музыка Дарк Фолк 
+
+**Dungeon Folk** – это жанр средневековой музыки, сочетающий тёмный фолк, древние мелодии и атмосферу фэнтези. TopfHelm – **ван-мен проект [Dungeon Folk](https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-medieval-sound-ru.html) & [Dungeon Synth](https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy-ru.html)**, создающий аутентичные композиции с использованием средневековых инструментов. 
+
+### 🎶 Звучание Dungeon Folk & Dungeon Synth
+
+Вдохновлённый **[средневекой музыкой](https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era-ru.html), блэк-металом и саундтреками к фэнтези**, TopfHelm сочетает элементы **Dungeon Synth, Dark Folk и Средневекового эмбиента**. В композициях используются **колёсная лира, лютни, боевые барабаны и другие средневековые инструменты**, заменяя синтетическое звучание на живой и аутентичный саунд. 
+
+### 📍 Независимый и андерграундный проект
+
+TopfHelm – это независимый проект, являющийся частью **андерграундного движения Dungeon Folk & Dungeon Synth**, предлагающий аутентичную средневековую атмосферу без коммерческих ограничений. 
+
+### ❓ Часто задаваемые вопросы
+
+**🔹 Что такое Dungeon Folk?**
+
+Dungeon Folk – это направление Dungeon Synth, в котором используются **средневековые акустические инструменты** вместо электронных синтезаторов.
+
+**🔹 Где можно послушать TopfHelm?**
+
+Музыка доступна на [Bandcamp](https://topfhelm.bandcamp.com/), [YouTube](https://www.youtube.com/@TopfHelmMusic), [Spotify](https://open.spotify.com/artist/5NHkqDnmyOUMMUrHy2n9Mq)и всех популярных стриминговых платформах.
+
+**🔹 Какие основные вдохновения у TopfHelm?**
+
+На творчество TopfHelm повлияли **средневековая история, фэнтезийные RPG, эстетика блэк-метала и народные традиции**. Музыка вдохновлена **древними боевыми гимнами, средневековым эмбиентом и историческими реконструкциями**.
+
+[🔥 Слушай на Spotify! 🔥](https://open.spotify.com/artist/5NHkqDnmyOUMMUrHy2n9Mq)

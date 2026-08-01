@@ -1,0 +1,16 @@
+{
+  "name": "topfhelm-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "markdown": "node scripts/generate-markdown.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "glob": "^11.0.3",
+    "gray-matter": "^4.0.3",
+    "node-html-markdown": "^2.0.0",
+    "turndown": "^7.2.0"
+  }
+}
