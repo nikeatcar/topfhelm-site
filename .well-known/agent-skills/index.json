@@ -1,0 +1,33 @@
+{
+  "$schema": "https://agentskills.io/schemas/v0.2/skills-index.json",
+  "skills": [
+    {
+      "name": "Articles",
+      "type": "documentation",
+      "description": "Educational articles about Dungeon Folk, Dungeon Synth and Medieval Music.",
+      "url": "https://topfhelm.com/articles",
+      "sha256": ""
+    },
+    {
+      "name": "The Emerald Saga",
+      "type": "documentation",
+      "description": "Official lore and story of The Emerald Saga.",
+      "url": "https://topfhelm.com/the-emerald-saga",
+      "sha256": ""
+    },
+    {
+      "name": "Composer",
+      "type": "service",
+      "description": "Custom music composition services.",
+      "url": "https://topfhelm.com/composer",
+      "sha256": ""
+    },
+    {
+      "name": "Shop",
+      "type": "commerce",
+      "description": "Official TopfHelm store.",
+      "url": "https://topfhelm.com/shop",
+      "sha256": ""
+    }
+  ]
+}

@@ -14,6 +14,9 @@
       ],
       "service-doc": [
         {
+          "href": "https://topfhelm.com/"
+        },
+        {
           "href": "https://topfhelm.com/articles"
         },
         {
@@ -24,6 +27,11 @@
         },
         {
           "href": "https://topfhelm.com/shop"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://topfhelm.com/robots.txt"
         }
       ]
     }
