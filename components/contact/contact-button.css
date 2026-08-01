@@ -1,0 +1,19 @@
+.button.contact {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 14px 28px;
+
+    font-size: 16px;
+    font-weight: 600;
+
+    text-decoration: none;
+    cursor: pointer;
+
+    transition: all .3s ease;
+}
+
+.button.contact:hover {
+    transform: translateY(-2px);
+}

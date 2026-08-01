@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                              ;;
+;;                           ----==| M E T A |==----                            ;;
+;;                                                                              ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Dungeon Synth Shop | TopfHelm Collector's Cassettes, CDs & Medieval Music Merchandise</title>
@@ -15,65 +21,68 @@
   <meta property="og:url" content="https://topfhelm.com/shop">
   <meta name="twitter:card" content="summary_large_image">
 
-  <link rel="stylesheet" href="../styles/merch.css" media="print" onload="this.media='all'">
-  <link rel="stylesheet" href="../styles/preloader.css" media="print" onload="this.media='all'">
-  <link rel="stylesheet" href="../styles/social.css" media="print" onload="this.media='all'">
-  <link rel="stylesheet" href="../styles/up_button.css" media="print" onload="this.media='all'">
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                         ----==| С Т И Л И |==----                          ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+    <link rel="stylesheet" href="/components/preloader/preloader.css">
+    <link rel="stylesheet" href="/styles/merch.css" media="print" onload="this.media='all'">
+
 </head>
 
- <!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+<body
+data-preloader
+data-footer
+data-radio
+data-share
+data-social
+data-up-button
+>
+
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
 ;;                     ----==| П Р Е Л О А Д Е Р |==----                      ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
     <div id="preloader">
-        <img src="../media/TopfHelm-logo.webp" alt="TopfHelm Logo">
-        <div class="loader-bar"></div>
-    </div>
+    <img
+        class="preloader-logo"
+        src="https://cdn.topfhelm.com/art/TopfHelm-logo.webp"
+        alt="TopfHelm">
 
-     <button id="scrollToTopBtn" title="UP">⬆</button>
-
-<body>
+    <div class="loader-bar"></div>
+</div>
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                       ----==| К О Р З И Н А |==----                        ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
   <div id="cart-fixed">
     <button id="view-cart">🛒 Cart (<span id="cart-count">0</span>)</button>
   </div>
+
+<header>
+  <h1>TopfHelm's Artifacts Treasury</h1>
+</header>
 
 <!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                                ;;
 ;;               ----==| С О Ц И А Л Ь Н Ы Е   С Е Т И |==----                    ;;
 ;;                                                                                ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
-    <!-- Социальные сети -->
-<div id="social-container">
-    <div class="social-icons">
-        <a href="https://open.spotify.com/artist/5NHkqDnmyOUMMUrHy2n9Mq" target="_blank">
-            <img src="../icons/icons8-spotify.svg" alt="Spotify" loading="lazy">
-        </a>
-        <a href="https://topfhelm.bandcamp.com/" target="_blank">
-            <img src="../icons/icons8-bandcamp.svg" alt="Listen to TopfHelm on Bandcamp" loading="lazy">
-        </a>
-        <a href="https://www.instagram.com/topfhelmmusic/" target="_blank">
-            <img src="../icons/icons8-insta.svg" alt="Subscribe to TopfHelm's Instagram" loading="lazy">
-        </a>
-        <a href="https://www.tiktok.com/@topfhelmmusic" target="_blank">
-            <img src="../icons/icons8-tiktok.svg" alt="Subscribe to TopfHelm's TikTok" loading="lazy">
-        </a>
-        <a href="https://vk.com/topfhelmmusic" target="_blank">
-            <img src="../icons/6214734_logo_vk_vkontakte_icon.svg" alt="Subscribe to TopfHelm's VK" loading="lazy">
-        </a>
-        <a href="https://www.youtube.com/@TopfHelmMusic" target="_blank">
-            <img src="../icons/icons8-youtube.svg" alt="Watch TopfHelm on YouTube" loading="lazy">
-        </a>
-    </div>
-</div>
 
-<header>
-  <h1>TopfHelm's Artifacts Treasury</h1>
-</header>
+<div data-component="social"></div>
 
 <section id="merch-intro">
   <p>Official TopfHelm Dungeon Synth Shop featuring handcrafted cassette releases, collector's CDs, limited physical editions and medieval fantasy music artifacts.</p>
   <p>Limited handmade editions • Dungeon Synth cassettes • Medieval music collectibles<strong>• Worldwide shipping</strong>!</p>
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                  ----==| S H A R E   B U T T O N |==----                   ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+                <div data-component="share"></div>
 </section>
 
 <!-- <section id="merch-filters">
@@ -82,6 +91,11 @@
   <button class="filter-btn" data-filter="music">🎵 Music</button>
 </section> -->
 
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                              ;;
+;;               ----==| Т О В А Р Ы |==----                    ;;
+;;                                                              ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
 <section id="merch-grid">
   <!-- Пример карточки товара -->
 
@@ -91,7 +105,7 @@
 
         <img
             class="merch-poster"
-            src="../media/merch/TES_TSP_cassette_1.webp"
+            src="https://cdn.topfhelm.com/merch/img/TES_TSP_cassette_1.webp"
             alt="The Emerald Saga Collector's Cassette">
 
         <video
@@ -100,10 +114,10 @@
             loop
             playsinline
             preload="metadata"
-            poster="../media/merch/TES_TSP_cassette_1.webp">
+            poster="https://cdn.topfhelm.com/merch/img/TES_TSP_cassette_1.webp">
 
             <source
-                src="../media/merch/TES_TSP_cassette.mp4"
+                src="https://cdn.topfhelm.com/merch/video/TES_TSP_cassette.MP4"
                 type="video/mp4">
 
         </video>
@@ -153,33 +167,13 @@
 
 </div>
 
-  <!--<div class="merch-item music">
-    <div class="glider-contain">
-      <div class="glider">
-        <img src="../media/merch/spadcyna_cassette_1.webp" alt="Spadcyna limited cassette front">
-        <img src="../media/merch/spadcyna_cassette_2.webp" alt="Spadcyna limited cassette engraving">
-        <img src="../media/merch/spadcyna_cassette_3.webp" alt="Spadcyna limited cassette embroidery">
-        <img src="../media/merch/spadcyna_cassette_4.webp" alt="Spadcyna limited cassette wax seal">
-
-      </div>
-      <button aria-label="Previous" class="glider-prev">«</button>
-      <button aria-label="Next" class="glider-next">»</button>
-      <div role="tablist" class="dots"></div>
-    </div>
-  
-    <h2>"Spadcyna" limited cassette</h2>
-    <p>Handmade, limited edition.</p>
-    <p class="price">$35</p>
-    <button class="cart-btn" onclick="addToCart('Spadcyna limited')">Add to Order</button>
-  </div>-->
-
   <div class="merch-item music">
 
     <div class="merch-media">
 
         <img
             class="merch-poster"
-            src="../media/merch/sir_godric_cassette_1.webp"
+            src="https://cdn.topfhelm.com/merch/img/sir_godric_cassette_1.webp"
             alt="Sir Godric Collector's Cassette">
 
         <video
@@ -188,10 +182,10 @@
             loop
             playsinline
             preload="metadata"
-            poster="../media/merch/sir_godric_cassette_1.webp">
+            poster="https://cdn.topfhelm.com/merch/img/sir_godric_cassette_1.webp">
 
             <source
-                src="../media/merch/sir_godric_cassette.MP4"
+                src="https://cdn.topfhelm.com/merch/video/sir_godric_cassette.MP4"
                 type="video/mp4">
 
         </video>
@@ -251,7 +245,7 @@
 
         <img
             class="merch-poster"
-            src="../media/merch/Spadcyna_Cassette_2.webp"
+            src="https://cdn.topfhelm.com/merch/img/Spadcyna_Cassette_2.webp"
             alt="Spadčyna Collector's Cassette">
 
         <video
@@ -260,10 +254,10 @@
             loop
             playsinline
             preload="metadata"
-            poster="../media/merch/Spadcyna_Cassette_2.webp">
+            poster="https://cdn.topfhelm.com/merch/img/Spadcyna_Cassette_2.webp">
 
             <source
-                src="../media/merch/1Spadcyna_cassette_collect.mp4"
+                src="https://cdn.topfhelm.com/merch/video/Spadcyna_cassette_collect.mp4"
                 type="video/mp4">
 
         </video>
@@ -312,7 +306,7 @@
 
         <img
             class="merch-poster"
-            src="../media/merch/Spadcyna_Cassette_1.webp"
+            src="https://cdn.topfhelm.com/merch/img/Spadcyna_Cassette_1.webp"
             alt="Spadčyna Lite Cassette">
 
         <video
@@ -321,10 +315,10 @@
             loop
             playsinline
             preload="metadata"
-            poster="../media/merch/Spadcyna_Cassette_1.webp">
+            poster="https://cdn.topfhelm.com/merch/img/Spadcyna_Cassette_1.webp">
 
             <source
-                src="../media/merch/Spadcyna_cassette_lite.mp4"
+                src="https://cdn.topfhelm.com/merch/video/Spadcyna_cassette_lite.mp4"
                 type="video/mp4">
 
         </video>
@@ -379,7 +373,7 @@
 
         <img
             class="merch-poster"
-            src="../media/merch/40_cassette_4.webp"
+            src="https://cdn.topfhelm.com/merch/img/40_cassette_4.webp"
             alt="40 Collector's Cassette">
 
         <video
@@ -388,10 +382,10 @@
             loop
             playsinline
             preload="metadata"
-            poster="../media/merch/40_cassette_4.webp">
+            poster="https://cdn.topfhelm.com/merch/img/40_cassette_4.webp">
 
             <source
-                src="../media/merch/40_cassette.MP4"
+                src="https://cdn.topfhelm.com/merch/video/40_cassette.mp4"
                 type="video/mp4">
 
         </video>
@@ -451,7 +445,7 @@
 
         <img
             class="merch-poster"
-            src="../media/merch/solemnis_cd_5.webp"
+            src="https://cdn.topfhelm.com/merch/img/solemnis_cd_5.webp"
             alt="Solemnis CD">
 
         <video
@@ -460,10 +454,10 @@
             loop
             playsinline
             preload="metadata"
-            poster="../media/merch/solemnis_cd_5.webp">
+            poster="https://cdn.topfhelm.com/merch/img/solemnis_cd_5.webp">
 
             <source
-                src="../media/merch/solemnis_cd.mp4"
+                src="https://cdn.topfhelm.com/merch/video/solemnis_cd.mp4"
                 type="video/mp4">
 
         </video>
@@ -554,56 +548,26 @@ Whether you're searching for Dungeon Synth cassettes, Medieval Music CDs, Dark F
   </div>
 </div>
 
-<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
-;;                         ----==| F O O T E R |==----                        ;;
-;;                                                                            ;;
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                                ;;
+;;                   ----==| К О М П О Н Е Н Т Ы |==----                          ;;
+;;                                                                                ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+<div data-component="radio"></div>
+<div data-component="footer"></div>
+<div data-component="up_button"></div>
 
-<footer class="site-footer">
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                                ;;
+;;                       ----==| С К Р И П Т Ы |==----                            ;;
+;;                                                                                ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+    <script src="/scripts/core.js" defer></script>
 
-    <div class="footer-logo">
-        TopfHelm
-    </div>
+    <script src="/scripts/merch.js"></script>
+    <script src="/scripts/cart.js"></script>
 
-    <div class="footer-links">
-
-        <div class="footer-column">
-            <h4>Explore</h4>
-
-            <a href="/">Home</a>
-            <a href="/the-emerald-saga/">The Emerald Saga</a>
-            <a href="/composer">Composer</a>
-        </div>
-
-        <div class="footer-column">
-            <h4>Music</h4>
-
-            <a href="https://open.spotify.com/artist/5NHkqDnmyOUMMUrHy2n9Mq">Spotify</a>
-            <a href="https://topfhelm.bandcamp.com/">Bandcamp</a>
-            <a href="https://www.instagram.com/topfhelmmusic/">Instagram</a>
-        </div>
-
-        <div class="footer-column">
-            <h4>Support</h4>
-
-            <a href="https://boosty.to/topfhelm/donate">Boosty</a>
-            <a href="paypal.me/topfhelmmsc">PayPal</a>
-        </div>
-
-    </div>
-
-    <div class="footer-copy">
-        © 2026 TopfHelm. All rights reserved.
-    </div>
-
-<script src="../scripts/merch.js"></script>
-<script src="../scripts/cart.js"></script>
-<script src="../scripts/social.js"></script>
-<script src="../scripts/preloader.js" defer></script>
-<script src="../scripts/main.js" defer></script>
-<script src="../scripts/up_button.js" defer></script>
-<script src="../scripts/page-init.js" defer></script>
+    <script src="/scripts/lightbox.js" defer></script>
 
 </body>
 </html>

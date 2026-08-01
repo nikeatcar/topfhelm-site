@@ -12,49 +12,56 @@
 
     <meta property="og:title" content="The Emerald Saga | TopfHelm">
     <meta property="og:description" content="A dark medieval audio saga told through music and narration.">
-    <meta property="og:image" content="https://topfhelm.com/media/TES_logo.svg">
+    <meta property="og:image" content="https://cdn.topfhelm.com/the-emerald-saga/TES_Logo.svg">
     <meta property="og:url" content="https://topfhelm.com/the-emerald-saga/">
     <meta name="twitter:card" content="summary_large_image">
 
     <link rel="manifest" href="../manifest.json">
 
-    <link rel="stylesheet" href="../styles/preloader.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="../styles/up_button.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="../styles/tes-page.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="../styles/langchange.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="../styles/social.css" media="print" onload="this.media='all'">
-
+    <link rel="stylesheet" href="/styles/tes-page.css" media="print" onload="this.media='all'">
     <link rel="alternate" hreflang="en" href="https://topfhelm.com/the-emerald-saga/">
     <link rel="alternate" hreflang="ru" href="https://topfhelm.com/the-emerald-saga/ru">
-
-    <noscript>
-        <link rel="stylesheet" href="../styles/main.css">
-        <link rel="stylesheet" href="../styles/tes-page.css">
-    </noscript>
 </head>
 
-<body class="tes-body" lang="en">
-
-    <!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+<body class="tes-body" lang="en"
+data-preloader
+data-footer
+data-langchange
+data-radio
+data-share
+data-social
+data-up-button
+>
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
-;;                  ----==| С М Е Н А   Я З Ы К О В |==----                   ;;
+;;                     ----==| П Р Е Л О А Д Е Р |==----                      ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
-        <div class="language-switcher">
-            <button id="switchLangBtn">🌍 Читать на русском</button>
-        </div>
-
     <div id="preloader">
-        <img src="../media/TopfHelm-logo.webp" alt="TopfHelm Logo">
-        <div class="loader-bar"></div>
-    </div>
+    <img
+        class="preloader-logo"
+        src="https://cdn.topfhelm.com/art/TopfHelm-logo.webp"
+        alt="TopfHelm">
 
-    <button id="scrollToTopBtn" title="UP">⬆</button>
+    <div class="loader-bar"></div>
+</div>
 
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                       ----==| К О Н Т Е Н Т |==----                        ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
     <main class="tes-page">
-
+<div data-component="langchange"></div>
         <section class="tes-intro">
-            <img src="../the-emerald-saga/media/TES_Logo.svg" alt="The Emerald Saga" class="tes-logo">
+            <img src="https://cdn.topfhelm.com/the-emerald-saga/TES_Logo.svg" alt="The Emerald Saga" class="tes-logo">
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                                ;;
+;;               ----==| С О Ц И А Л Ь Н Ы Е   С Е Т И |==----                    ;;
+;;                                                                                ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+<div data-component="social"></div>
+
             <h1>
                 The Emerald Saga
             </h1>
@@ -98,7 +105,7 @@
                     <p class="tes-theme-title">Emerald Fall</p>
 
                     <audio controls preload="metadata">
-                        <source src="../the-emerald-saga/media/01_Emerald_Fall.ogg" type="audio/mpeg">
+                        <source src="https://cdn.topfhelm.com/the-emerald-saga/01_Emerald_Fall.ogg" type="audio/mpeg">
                     </audio>
                 </div>
             </div>
@@ -108,7 +115,7 @@
 
             <article class="tes-release">
                 <div class="tes-cover">
-                    <img src="../the-emerald-saga/media/The_Still_Place_cover.webp" alt="The Still Place cover">
+                    <img src="https://cdn.topfhelm.com/covers/TES_TSP_cover.webp" alt="The Still Place cover" data-lightbox>
                 </div>
 
                 <div class="tes-release-card">
@@ -225,52 +232,22 @@
 
         <section class="tes-ending">
             <p>The Star still calls.</p>
-        </section>
-
 <!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
-;;                         ----==| F O O T E R |==----                        ;;
+;;                  ----==| S H A R E   B U T T O N |==----                   ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+            <div data-component="share"></div>
+        </section>
 
-<footer class="site-footer">
-
-    <div class="footer-logo">
-        TopfHelm
-    </div>
-
-    <div class="footer-links">
-
-        <div class="footer-column">
-            <h4>Explore</h4>
-
-            <a href="/">Home</a>
-            <a href="/the-emerald-saga/">The Emerald Saga</a>
-            <a href="/composer">Composer</a>
-        </div>
-
-        <div class="footer-column">
-            <h4>Music</h4>
-
-            <a href="https://open.spotify.com/artist/5NHkqDnmyOUMMUrHy2n9Mq">Spotify</a>
-            <a href="https://topfhelm.bandcamp.com/">Bandcamp</a>
-            <a href="https://www.instagram.com/topfhelmmusic/">Instagram</a>
-        </div>
-
-        <div class="footer-column">
-            <h4>Support</h4>
-
-            <a href="https://boosty.to/topfhelm/donate">Boosty</a>
-            <a href="paypal.me/topfhelmmsc">PayPal</a>
-        </div>
-
-    </div>
-
-    <div class="footer-copy">
-        © 2026 TopfHelm. All rights reserved.
-    </div>
-
-</footer>
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                                ;;
+;;                   ----==| К О М П О Н Е Н Т Ы |==----                          ;;
+;;                                                                                ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+<div data-component="radio"></div>
+<div data-component="footer"></div>
+<div data-component="up_button"></div>
 
     </main>
 
@@ -278,14 +255,18 @@
         The Emerald Saga is a dungeon synth and dark fantasy music project combining medieval атмосферная музыка with narrative storytelling, inspired by RPGs, historical themes, and dark ambient sound design.
     </div>
 
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                                ;;
+;;                       ----==| С К Р И П Т Ы |==----                            ;;
+;;                                                                                ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+    <script src="../scripts/core.js" defer></script>
 
-    <script src="../scripts/page-init.js" defer></script>
-    <script src="../scripts/preloader.js" defer></script>
     <script src="../scripts/tes-countdown.js" defer></script>
     <script src="../scripts/main.js" defer></script>
-    <script src="../scripts/up_button.js" defer></script>
-    <script src="../scripts/langchange.js" defer></script>
-    <script src="../scripts/social.js" defer></script>
+    <script src="../scripts/lightbox.js" defer></script>
+
+    <script src="../scripts/page-init.js" defer></script> 
 
 </body>
 </html>

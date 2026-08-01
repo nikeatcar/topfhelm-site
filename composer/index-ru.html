@@ -8,43 +8,37 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" data-cfasync="false"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.pjax/2.0.1/jquery.pjax.min.js" data-cfasync="false"></script>
 
-    <link rel="manifest" href="../manifest.json">
+    <link rel="manifest" href="/manifest.json">
 
     <title>Музыка для игр, RPG и тёмного фэнтези | Композитор TopfHelm</title>
-
     <link rel="canonical" href="https://topfhelm.com/composer-ru.html">
 
     <meta name="description" content="Закажите музыку у TopfHelm для RPG, DnD, тёмного фэнтези, инди-игр, roguelike и авторских миров. Dungeon Folk, Dungeon Synth и средневековые саундтреки на заказ.">
-
     <meta name="keywords" content="композитор для игр, музыка для игр на заказ, музыка для RPG, dungeon synth, dungeon folk, музыка для DnD, музыка для персонажа, музыка для босса, средневековая музыка, саундтрек для игры, TopfHelm">
-
     <meta name="author" content="TopfHelm">
 
     <meta property="og:title" content="Музыка для игр, RPG и тёмного фэнтези | Композитор TopfHelm">
-
     <meta property="og:description" content="Авторская музыка для RPG, DnD, тёмного фэнтези и инди-игр. Dungeon Folk, Dungeon Synth и средневековые саундтреки на заказ.">
-
     <meta property="og:image" content="https://topfhelm.com/media/TopfHelm-logoBlack.webp">
-
     <meta property="og:url" content="https://topfhelm.com/composer-ru.html">
-
     <meta name="twitter:card" content="summary_large_image">
 
     <link rel="alternate" hreflang="en" href="https://topfhelm.com/composer">
     <link rel="alternate" hreflang="ru" href="https://topfhelm.com/composer-ru.html">
     <link rel="alternate" hreflang="x-default" href="https://topfhelm.com/composer">
 
-    <!-- Основные стили сайта -->
-    <link rel="stylesheet" href="../styles/main.css" media="print" onload="this.media='all'">
-    <noscript><link rel="stylesheet" href="../styles/main.css"></noscript>
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                         ----==| С Т И Л И |==----                          ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+    <link rel="stylesheet" href="/components/preloader/preloader.css">
 
-    <link rel="stylesheet" href="../styles/preloader.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="../styles/social.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="../styles/sharing.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="../styles/langchange.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="../styles/up_button.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="../styles/readmore.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="../styles/composer.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="/styles/main.css" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="/styles/main.css"></noscript>
+
+    <link rel="stylesheet" href="/styles/readmore.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="/styles/composer.css" media="print" onload="this.media='all'">
 
     <!-- JSON-LD -->
     <script type="application/ld+json">
@@ -75,40 +69,28 @@
     </script>
 </head>
 
-<body lang="ru" class="ru">
-
-    <!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+<body lang="ru" class="ru"
+data-preloader
+data-footer
+data-langchange
+data-radio
+data-share
+data-social
+data-up-button
+>
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
 ;;                     ----==| П Р Е Л О А Д Е Р |==----                      ;;
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
-<div id="preloader">
-    <link rel="stylesheet" href="../styles/preloader.css" media="print" onload="this.media='all'">
-    <noscript><link rel="stylesheet" href="../styles/preloader.css"></noscript>
-
-    <img src="../media/TopfHelm-logo.webp"
-         alt="Логотип TopfHelm"
-         class="preloader-logo"
-         width="200"
-         height="200">
+    <div id="preloader">
+    <img
+        class="preloader-logo"
+        src="https://cdn.topfhelm.com/art/TopfHelm-logo.webp"
+        alt="TopfHelm">
 
     <div class="loader-bar"></div>
 </div>
-
-<button id="scrollToTopBtn" title="Вверх">⬆</button>
-
-<!-- Для PJAX -->
-<div id="content">
-
-    <!-- Весь контент страницы -->
-    <div class="parallax-container">
-        <div class="blurred-bg"></div>
-    </div>
-
-    <div class="container composer-page">
-
-        <!-- HERO -->
-
 <!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                                ;;
 ;;                        ----==| А В А Т А Р |==----                             ;;
@@ -119,51 +101,26 @@
     <canvas id="logoFog"></canvas>
 
     <img
-        src="../media/TopfHelm-logo.webp"
+        src="https://cdn.topfhelm.com/art/TopfHelm-logo.webp"
         class="avatar"
         alt="TopfHelm">
 
 </div>
 
-        <div id="social-container">
-            <div class="social-icons">
-
-                <a href="https://open.spotify.com/artist/5NHkqDnmyOUMMUrHy2n9Mq" target="_blank">
-                    <img src="../icons/icons8-spotify.svg" alt="Spotify" loading="lazy">
-                </a>
-
-                <a href="https://topfhelm.bandcamp.com/" target="_blank">
-                    <img src="../icons/icons8-bandcamp.svg" alt="Bandcamp" loading="lazy">
-                </a>
-
-                <a href="https://www.instagram.com/topfhelmmusic/" target="_blank">
-                    <img src="../icons/icons8-insta.svg" alt="Instagram" loading="lazy">
-                </a>
-
-                <a href="https://www.tiktok.com/@topfhelmmusic" target="_blank">
-                    <img src="../icons/icons8-tiktok.svg" alt="TikTok" loading="lazy">
-                </a>
-
-                <a href="https://vk.com/topfhelmmusic" target="_blank">
-                    <img src="../icons/6214734_logo_vk_vkontakte_icon.svg" alt="VK" loading="lazy">
-                </a>
-
-                <a href="https://www.youtube.com/@TopfHelmMusic" target="_blank">
-                    <img src="../icons/icons8-youtube.svg" alt="YouTube" loading="lazy">
-                </a>
-
-            </div>
-        </div>
-
-<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
-;;                  ----==| С М Е Н А   Я З Ы К О В |==----                   ;;
-;;                                                                            ;;
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                                ;;
+;;               ----==| С О Ц И А Л Ь Н Ы Е   С Е Т И |==----                    ;;
+;;                                                                                ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
-        <div class="language-switcher">
-            <button id="switchLangBtn">🌍 Read in English</button>
-        </div>
 
+<div data-component="social"></div>
+
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                       ----==| К О Н Т Е Н Т |==----                        ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+<div data-component="langchange"></div>
         <section class="composer-hero">
 
             <h1>Музыка на заказ для игр, персонажей и фэнтези-миров | TopfHelm</h1>
@@ -183,7 +140,12 @@
             </div>
 
         </section>
-
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                  ----==| S H A R E   B U T T O N |==----                   ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+                <div data-component="share"></div>
         <!-- CUSTOM MUSIC COMMISSIONS -->
 
         <section class="composer-section">
@@ -264,139 +226,139 @@
 
     <div class="players-grid">
 
-        <div class="example-block">
+        <div class="example-block" data-bg="https://cdn.topfhelm.com/art/composer/1Main%20Menu%20Theme.png">
             <span class="composer-tag">Главное меню</span>
             <h3>🏰 Тема главного меню</h3>
 
             <div class="track-type">OST</div>
             <audio data-tp-player preload="metadata">
-                <source src="../media/music/01_The Warrior’s Fate.mp3" type="audio/mpeg">
+                <source src="https://cdn.topfhelm.com/audio/composer/01_The%20Warrior%E2%80%99s%20Fate.mp3" type="audio/mpeg">
             </audio>
 
             <div class="track-type">Фон</div>
             <audio data-tp-player preload="metadata">
-                <source src="../media/music/01_The Warrior’s Fate_BG.mp3" type="audio/mpeg">
+                <source src="https://cdn.topfhelm.com/audio/composer/01_The%20Warrior%E2%80%99s%20Fate_BG.mp3" type="audio/mpeg">
             </audio>
         </div>
 
-        <div class="example-block">
+        <div class="example-block" data-bg="https://cdn.topfhelm.com/art/composer/2Battle%20for%20Medieval%20Town.png">
             <span class="composer-tag">Бой</span>
             <h3>⚔️ Битва за средневековый город</h3>
 
             <div class="track-type">OST</div>
-            <audio data-tp-player preload="metadata">
-                <source src="../media/music/02_Siege of Jerusalem.mp3" type="audio/mpeg">
-            </audio>
+           <audio data-tp-player preload="metadata">
+            <source src="https://cdn.topfhelm.com/audio/composer/02_Siege%20of%20Jerusalem.mp3" type="audio/mpeg">
+        </audio>
 
-            <div class="track-type">Фон</div>
-            <audio data-tp-player preload="metadata">
-                <source src="../media/music/02_Siege of Jerusalem_BG.mp3" type="audio/mpeg">
-            </audio>
+        <div class="track-type">Фон</div>
+        <audio data-tp-player preload="metadata">
+            <source src="https://cdn.topfhelm.com/audio/composer/02_Siege%20of%20Jerusalem_BG.mp3" type="audio/mpeg">
+        </audio>
         </div>
 
-        <div class="example-block">
+        <div class="example-block" data-bg="https://cdn.topfhelm.com/art/composer/3Wandering%20the%20Ocean.png">
             <span class="composer-tag">Исследование</span>
             <h3>🌊 Странствия по океану</h3>
 
             <div class="track-type">OST</div>
             <audio data-tp-player preload="metadata">
-                <source src="../media/music/03_Father Ocean.mp3" type="audio/mpeg">
-            </audio>
+            <source src="https://cdn.topfhelm.com/audio/composer/03_Father%20Ocean.mp3" type="audio/mpeg">
+        </audio>
 
-            <div class="track-type">Фон</div>
-            <audio data-tp-player preload="metadata">
-                <source src="../media/music/03_Father Ocean_BG.mp3" type="audio/mpeg">
-            </audio>
+        <div class="track-type">Фон</div>
+        <audio data-tp-player preload="metadata">
+            <source src="https://cdn.topfhelm.com/audio/composer/03_Father%20Ocean_BG.mp3" type="audio/mpeg">
+        </audio>
         </div>
 
-        <div class="example-block">
+        <div class="example-block" data-bg="https://cdn.topfhelm.com/art/composer/4Night%20in%20the%20Forest%20River.png">
             <span class="composer-tag">Атмосфера</span>
             <h3>🌲 Ночь у лесной реки</h3>
 
             <div class="track-type">OST</div>
             <audio data-tp-player preload="metadata">
-                <source src="../media/music/05_Black Waters.mp3" type="audio/mpeg">
-            </audio>
+            <source src="https://cdn.topfhelm.com/audio/composer/05_Black%20Waters.mp3" type="audio/mpeg">
+        </audio>
 
-            <div class="track-type">Фон</div>
-            <audio data-tp-player preload="metadata">
-                <source src="../media/music/05_Black Waters_BG.mp3" type="audio/mpeg">
-            </audio>
+        <div class="track-type">Фон</div>
+        <audio data-tp-player preload="metadata">
+            <source src="https://cdn.topfhelm.com/audio/composer/05_Black%20Waters_BG.mp3" type="audio/mpeg">
+        </audio>
         </div>
 
-        <div class="example-block">
+        <div class="example-block" data-bg="https://cdn.topfhelm.com/art/composer/5The%20Ancient%20Cave.png">
             <span class="composer-tag">Подземелье / Ритуал</span>
             <h3>🕯 Древняя пещера</h3>
 
             <div class="track-type">OST</div>
             <audio data-tp-player preload="metadata">
-                <source src="../media/music/07_The Nightmare Realm.mp3" type="audio/mpeg">
-            </audio>
+            <source src="https://cdn.topfhelm.com/audio/composer/07_The%20Nightmare%20Realm.mp3" type="audio/mpeg">
+        </audio>
 
-            <div class="track-type">Фон</div>
-            <audio data-tp-player preload="metadata">
-                <source src="../media/music/07_The Nightmare Realm_BG.mp3" type="audio/mpeg">
-            </audio>
+        <div class="track-type">Фон</div>
+        <audio data-tp-player preload="metadata">
+            <source src="https://cdn.topfhelm.com/audio/composer/07_The%20Nightmare%20Realm_BG.mp3" type="audio/mpeg">
+        </audio>
         </div>
 
-        <div class="example-block">
+        <div class="example-block" data-bg="https://cdn.topfhelm.com/art/composer/6Boss%20Fight%20I.png">
             <span class="composer-tag">Босс</span>
             <h3>🔥 Битва с боссом</h3>
 
             <div class="track-type">OST</div>
             <audio data-tp-player preload="metadata">
-                <source src="../media/music/08_Bog of Wailing.mp3" type="audio/mpeg">
-            </audio>
+            <source src="https://cdn.topfhelm.com/audio/composer/08_Bog%20of%20Wailing.mp3" type="audio/mpeg">
+        </audio>
 
-            <div class="track-type">Фон</div>
-            <audio data-tp-player preload="metadata">
-                <source src="../media/music/08_Bog of Wailing_BG.mp3" type="audio/mpeg">
-            </audio>
+        <div class="track-type">Фон</div>
+        <audio data-tp-player preload="metadata">
+            <source src="https://cdn.topfhelm.com/audio/composer/08_Bog%20of%20Wailing_BG.mp3" type="audio/mpeg">
+        </audio>
         </div>
 
-        <div class="example-block">
+        <div class="example-block" data-bg="https://cdn.topfhelm.com/art/composer/7Boss%20Fight%20II.png">
             <span class="composer-tag">Босс / Хоррор</span>
             <h3>🔥 Битва с боссом II</h3>
 
             <div class="track-type">OST</div>
             <audio data-tp-player preload="metadata">
-                <source src="../media/music/09_Hive of Rot.mp3" type="audio/mpeg">
-            </audio>
+            <source src="https://cdn.topfhelm.com/audio/composer/09_Hive%20of%20Rot.mp3" type="audio/mpeg">
+        </audio>
 
-            <div class="track-type">Фон</div>
-            <audio data-tp-player preload="metadata">
-                <source src="../media/music/09_Hive of Rot_BG.mp3" type="audio/mpeg">
-            </audio>
+        <div class="track-type">Фон</div>
+        <audio data-tp-player preload="metadata">
+            <source src="https://cdn.topfhelm.com/audio/composer/09_Hive%20of%20Rot_BG.mp3" type="audio/mpeg">
+        </audio>
         </div>
 
-        <div class="example-block">
+        <div class="example-block" data-bg="https://cdn.topfhelm.com/art/composer/8Boss%20Fight%20III.png">
             <span class="composer-tag">Кинематографичный босс</span>
             <h3>🔥 Битва с боссом III</h3>
 
             <div class="track-type">OST</div>
             <audio data-tp-player preload="metadata">
-                <source src="../media/music/12_The Faceless Crone.mp3" type="audio/mpeg">
-            </audio>
+            <source src="https://cdn.topfhelm.com/audio/composer/12_The%20Faceless%20Crone.mp3" type="audio/mpeg">
+        </audio>
 
-            <div class="track-type">Фон</div>
-            <audio data-tp-player preload="metadata">
-                <source src="../media/music/12_The Faceless Crone_BG.mp3" type="audio/mpeg">
-            </audio>
+        <div class="track-type">Фон</div>
+        <audio data-tp-player preload="metadata">
+            <source src="https://cdn.topfhelm.com/audio/composer/12_The%20Faceless%20Crone_BG.mp3" type="audio/mpeg">
+        </audio>
         </div>
 
-        <div class="example-block">
+        <div class="example-block" data-bg="https://cdn.topfhelm.com/art/composer/9The%20Other%20World.png">
             <span class="composer-tag">Иной мир / Сон</span>
             <h3>🌑 Иной мир</h3>
 
             <div class="track-type">OST</div>
             <audio data-tp-player preload="metadata">
-                <source src="../media/music/13_Somnia.mp3" type="audio/mpeg">
-            </audio>
+            <source src="https://cdn.topfhelm.com/audio/composer/13_Somnia.mp3" type="audio/mpeg">
+        </audio>
 
-            <div class="track-type">Фон</div>
-            <audio data-tp-player preload="metadata">
-                <source src="../media/music/13_Somnia_BG.mp3" type="audio/mpeg">
-            </audio>
+        <div class="track-type">Фон</div>
+        <audio data-tp-player preload="metadata">
+            <source src="https://cdn.topfhelm.com/audio/composer/13_Somnia_BG.mp3" type="audio/mpeg">
+        </audio>
         </div>
 
     </div>
@@ -884,86 +846,28 @@
 
 </section>
 
-<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
-;;                         ----==| F O O T E R |==----                        ;;
-;;                                                                            ;;
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                                ;;
+;;                   ----==| К О М П О Н Е Н Т Ы |==----                          ;;
+;;                                                                                ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+<div data-component="radio"></div>
+<div data-component="footer"></div>
+<div data-component="up_button"></div>
 
-<footer class="site-footer">
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                                ;;
+;;                       ----==| С К Р И П Т Ы |==----                            ;;
+;;                                                                                ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+    <script src="/scripts/core.js" defer></script>
 
-    <div class="footer-logo">
-        TopfHelm
-    </div>
-
-    <div class="footer-links">
-
-        <div class="footer-column">
-
-            <h4>Разделы</h4>
-
-            <a href="/">Главная</a>
-            <a href="/the-emerald-saga/">The Emerald Saga</a>
-            <a href="/composer">Композитор</a>
-
-        </div>
-
-        <div class="footer-column">
-
-            <h4>Музыка</h4>
-
-            <a href="https://open.spotify.com/artist/5NHkqDnmyOUMMUrHy2n9Mq">Spotify</a>
-            <a href="https://topfhelm.bandcamp.com/">Bandcamp</a>
-            <a href="https://www.instagram.com/topfhelmmusic/">Instagram</a>
-
-        </div>
-
-        <div class="footer-column">
-
-            <h4>Поддержка</h4>
-
-            <a href="https://boosty.to/topfhelm/donate">Boosty</a>
-            <a href="paypal.me/topfhelmmsc">PayPal</a>
-
-        </div>
-
-    </div>
-
-    <div class="footer-copy">
-        © 2026 TopfHelm. Все права защищены.
-    </div>
-
-</footer>
-
-<!-- PJAX init -->
-<script>
-$(document).pjax('a', '#content', {
-    fragment: '#content',
-    timeout: 8000
-});
-
-$(document).on('pjax:send', function () {
-    $("#preloader").fadeIn();
-});
-
-$(document).on('pjax:complete', function () {
-    setTimeout(() => {
-        $("#preloader").fadeOut();
-    }, 1000);
-});
-</script>
-
-<!-- JS сайта -->
- <script src="../scripts/logoAtmosphere.js" defer></script>
-<script src="../scripts/page-init.js" defer></script>
-<script src="../scripts/langchange.js" defer></script>
-<script src="../scripts/preloader.js" defer></script>
-<script src="../scripts/main.js" defer></script>
-<script src="../scripts/share.js" defer></script>
-<script src="../scripts/up_button.js" defer></script>
-<script src="../scripts/social.js" defer></script>
-<script src="../scripts/composer-player.js" defer></script>
-<script src="../scripts/composer-commission.js"></script>
+    <!-- JS сайта -->
+     <script src="/scripts/logoAtmosphere.js" defer></script>
+     <script src="/scripts/page-init.js" defer></script>
+    <script src="/scripts/main.js" defer></script>
+    <script src="/scripts/composer-player.js" defer></script>
+    <script src="/scripts/composer-commission.js"></script>
 
 </body>
 </html>

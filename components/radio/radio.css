@@ -1,0 +1,278 @@
+#radio-player{
+    position:fixed;
+    left:0;
+    right:0;
+    bottom:0;
+
+    height:90px;
+
+    display:grid;
+    grid-template-columns:190px 1fr 180px;
+    gap:20px;
+
+    align-items:center;
+
+    background:#0b0b0b;
+    border-top:1px solid #5b4725;
+
+    padding:0 20px;
+
+    z-index:99999;
+
+    box-sizing:border-box;
+}
+
+.radio-left{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.radio-cover{
+    width:64px;
+    height:64px;
+    border:1px solid #5b4725;
+    overflow:hidden;
+}
+
+.radio-cover img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+}
+
+.radio-center{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:flex-start;
+    text-align:left;
+    gap:2px;
+}
+
+#radio-track{
+    color:#fff;
+    font-size:18px;
+    font-weight:700;
+    line-height:1.1;
+    letter-spacing:.2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:18px;
+    font-weight:700;
+    line-height:1.2;
+    color:#fff;
+}
+
+#radio-album{
+    color:#9a9a9a;
+    font-size:12px;
+    line-height:1.2;
+    margin-bottom:4px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:13px;
+    font-weight:400;
+    font-style: italic;
+    color:#9a9a9a;
+}
+
+.radio-progress{
+    display:grid;
+    grid-template-columns:45px 1fr 45px;
+    align-items:center;
+    gap:12px;
+    width:100%;
+}
+
+#progress{
+    width:100%;
+}
+
+.radio-right{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:8px;
+}
+
+.radio-controls{
+    display:flex;
+    gap:8px;
+}
+
+.radio-btn{
+    font-family: Arial, Helvetica, sans-serif;
+
+    width:30px;
+    height:30px;
+
+    font-size:14px;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    background:transparent;
+    border:1px solid #5b4725;
+
+    color:#b89958;
+
+    font-size:16px;
+    line-height:1;
+
+    cursor:pointer;
+    user-select:none;
+
+    padding:0;
+    margin:0;
+
+    transition:.2s;
+}
+
+.radio-btn:hover{
+    color:#ffffff;
+    background:#1a1a1a;
+    border-color:#a98a54;
+}
+
+.radio-volume{
+    display:flex;
+    align-items:center;
+    gap:8px;
+}
+
+.volume-icon{
+    color:#b89958;
+    font-size:14px;
+    line-height:1;
+}
+
+#volume{
+    width:90px;
+}
+
+#current-time,
+#duration{
+    color:#b89958;
+    font-size:18px;
+    font-weight:600;
+    min-width:42px;
+    text-align:center;
+}
+
+#current-time,
+#duration,
+.volume-label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:600;
+}
+
+#volume{
+    width:70px;
+}
+
+input[type="range"]{
+    -webkit-appearance:none;
+    appearance:none;
+
+    height:4px;
+    border-radius:10px;
+
+    background:#3d3220;
+    cursor:pointer;
+}
+
+input[type="range"]::-webkit-slider-thumb{
+    -webkit-appearance:none;
+
+    width:14px;
+    height:14px;
+
+    border-radius:50%;
+
+    background:#b89958;
+    border:2px solid #1a1a1a;
+
+    cursor:pointer;
+}
+
+input[type="range"]::-moz-range-track{
+    height:4px;
+    background:#3d3220;
+    border:none;
+}
+
+input[type="range"]::-moz-range-thumb{
+    width:14px;
+    height:14px;
+
+    border:none;
+    border-radius:50%;
+
+    background:#b89958;
+
+    cursor:pointer;
+}
+
+#progress{
+    width:100%;
+    height:6px;
+}
+
+#volume{
+    width:70px;
+    height:4px;
+}
+
+.volume-label{
+    color:#b89958;
+    font-size:11px;
+    font-weight:700;
+    letter-spacing:1px;
+}
+
+.radio-left{
+    display:flex;
+    align-items:center;
+    gap:10px;
+}
+
+.radio-links{
+    display:flex;
+    align-items:center;
+    gap:6px;
+}
+
+.radio-link{
+    width:26px;
+    height:26px;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+    border:1px solid rgba(184,153,88,.35);
+    border-radius:4px;
+
+    color:#b89958;
+    background:rgba(0,0,0,.25);
+
+    text-decoration:none;
+    font-size:12px;
+
+    transition:.2s;
+}
+
+.radio-link img{
+    width:25px;
+    height:25px;
+    display:block;
+
+    filter: brightness(0) invert(1);
+    opacity:.75;
+
+    transition:.2s;
+}
+
+.radio-link:hover img{
+    opacity:1;
+}

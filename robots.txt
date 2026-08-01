@@ -42,3 +42,20 @@ Disallow: /
 
 Sitemap: https://topfhelm.com/sitemap.xml
 Host: topfhelm.com
+
+Content-Signal: ai-train=no, search=yes, ai-input=yes
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /

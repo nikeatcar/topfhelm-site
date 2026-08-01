@@ -1,0 +1,313 @@
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                      ----==| C O N T A C T S |==----                       ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+.button.contact {
+    width: 220px;
+    height: 52px;
+
+    font-size: 18px;
+    font-weight: 600;
+
+    color: #d7b37a;
+    background: rgba(20, 20, 20, 0.95);
+
+    border: 1px solid rgba(215, 179, 122, 0.45);
+    border-radius: 10px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 20px;
+
+    transition:
+        transform 0.25s ease,
+        border-color 0.25s ease,
+        box-shadow 0.25s ease,
+        color 0.25s ease;
+}
+
+.button.contact:hover {
+    color: #f0d39a;
+
+    border-color: rgba(240, 211, 154, 0.9);
+
+    box-shadow:
+        0 0 12px rgba(240, 211, 154, 0.25),
+        0 0 24px rgba(240, 211, 154, 0.12);
+
+    transform: translateY(-2px);
+}
+
+/* =======================================================
+   CONTACT MODAL
+======================================================= */
+
+.modal {
+
+    display: none;
+
+    position: fixed;
+
+    inset: 0;
+
+    z-index: 9999;
+
+    background: rgba(0,0,0,.88);
+
+    backdrop-filter: blur(4px);
+
+    justify-content: center;
+    align-items: center;
+}
+
+.modal.active {
+    display: flex;
+}
+
+/* =======================================================
+   CONTENT
+======================================================= */
+
+.modal-content {
+
+    position: relative;
+
+    width: min(92vw, 620px);
+
+    padding: 36px;
+
+    border-radius: 18px;
+
+    background:
+        linear-gradient(
+            180deg,
+            rgba(20,20,20,.98),
+            rgba(10,10,10,.98)
+        );
+
+    border: 1px solid rgba(215,179,122,.25);
+
+    box-shadow:
+        0 0 25px rgba(215,179,122,.08);
+
+    transform: translateY(10px);
+
+    opacity: 0;
+
+    transition:
+        opacity .3s ease,
+        transform .3s ease;
+
+    text-align: left;
+}
+
+.modal.active .modal-content {
+
+    opacity: 1;
+
+    transform: translateY(0);
+}
+
+/* =======================================================
+   TITLE
+======================================================= */
+
+.modal-content h2 {
+
+    text-align: center;
+
+    color: #f2e3be;
+
+    font-size: 38px;
+
+    margin-bottom: 30px;
+
+    text-transform: none;
+}
+
+.modal-content h2::before,
+.modal-content h2::after {
+
+    content: "✉";
+
+    color: #d7b37a;
+
+    margin: 0 12px;
+
+    font-size: 24px;
+}
+
+/* =======================================================
+   LABELS
+======================================================= */
+
+.modal-content label {
+
+    display: block;
+
+    margin-bottom: 8px;
+
+    color: #f2e3be;
+
+    font-size: 16px;
+
+    font-weight: 600;
+}
+
+/* =======================================================
+   INPUTS
+======================================================= */
+
+.modal-content input,
+.modal-content textarea {
+
+    width: 100%;
+
+    padding: 14px 16px;
+
+    margin-bottom: 20px;
+
+    background: rgba(15,15,15,.75);
+
+    border: 1px solid rgba(215,179,122,.22);
+
+    border-radius: 12px;
+
+    color: #e9dfc4;
+
+    font-size: 16px;
+
+    transition:
+        border-color .25s ease,
+        box-shadow .25s ease;
+
+    box-sizing: border-box;
+}
+
+.modal-content input:focus,
+.modal-content textarea:focus {
+
+    outline: none;
+
+    border-color: rgba(215,179,122,.8);
+
+    box-shadow:
+        0 0 14px rgba(215,179,122,.10);
+}
+
+.modal-content textarea {
+
+    min-height: 180px;
+
+    resize: vertical;
+}
+
+/* =======================================================
+   PLACEHOLDER
+======================================================= */
+
+.modal-content input::placeholder,
+.modal-content textarea::placeholder {
+
+    color: rgba(255,255,255,.35);
+}
+
+/* =======================================================
+   SEND BUTTON
+======================================================= */
+
+.modal-content button {
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    width: 180px;
+    height: 54px;
+
+    margin: 15px auto 0;
+
+    background: rgba(15,15,15,.75);
+
+    border: 1px solid rgba(215,179,122,.25);
+
+    border-radius: 12px;
+
+    color: #e9dfc4;
+
+    font-size: 16px;
+
+    font-weight: 600;
+
+    cursor: pointer;
+
+    transition:
+        transform .25s ease,
+        border-color .25s ease,
+        box-shadow .25s ease;
+}
+
+.modal-content button:hover {
+
+    transform: translateY(-2px);
+
+    border-color: rgba(215,179,122,.8);
+
+    box-shadow:
+        0 0 18px rgba(215,179,122,.12);
+}
+
+/* =======================================================
+   CLOSE
+======================================================= */
+
+.close-modal {
+
+    position: absolute;
+
+    top: 16px;
+    right: 18px;
+
+    color: #d7b37a;
+
+    font-size: 24px;
+
+    cursor: pointer;
+
+    transition:
+        color .25s ease,
+        transform .25s ease;
+}
+
+.close-modal:hover {
+
+    color: #f2e3be;
+
+    transform: rotate(90deg);
+}
+
+/* =======================================================
+   MOBILE
+======================================================= */
+
+@media (max-width: 768px) {
+
+    .modal-content {
+
+        padding: 24px;
+    }
+
+    .modal-content h2 {
+
+        font-size: 30px;
+    }
+
+    .modal-content textarea {
+
+        min-height: 140px;
+    }
+}

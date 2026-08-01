@@ -53,36 +53,68 @@
         }
     </script>
 
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                        ----==| И К О Н К И |==----                         ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+
     <link rel="icon" type="image/x-icon" href="icons/favicon.ico">
     <!-- Стандартный Favicon -->
-    <link rel="icon" type="image/png" sizes="32x32" href="../icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
 
     <!-- Apple Touch Icon (для iOS) -->
-    <link rel="apple-touch-icon" sizes="180x180" href="../icons/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
 
     <!-- Android Chrome -->
-    <link rel="icon" type="image/png" sizes="192x192" href="../icons/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/icons/android-chrome-192x192.png">
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                         ----==| С Т И Л И |==----                          ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+<link rel="stylesheet" href="/components/preloader/preloader.css">
 
-    <link rel="stylesheet" href="../styles/articles.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="../styles/langchange.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="../styles/langchange.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="../styles/up_button.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="../styles/theme.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="../styles/readmore.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="../styles/sharing.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="../styles/social.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="/styles/articles.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="/styles/theme.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="/styles/readmore.css" media="print" onload="this.media='all'">
 
 </head>
-    <!-- Кнопка вверх -->
-    <button id="scrollToTopBtn" title="UP">⬆</button>
-<body class="en">
+
+<body class="en"
+data-preloader
+data-footer
+data-langchange
+data-radio
+data-share
+data-up-button
+>
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                     ----==| П Р Е Л О А Д Е Р |==----                      ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+    <div id="preloader">
+    <img
+        class="preloader-logo"
+        src="https://cdn.topfhelm.com/art/TopfHelm-logo.webp"
+        alt="TopfHelm">
+
+    <div class="loader-bar"></div>
+</div>
+
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                       ----==| К О Н Т Е Н Т |==----                        ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
     <div class="article-container">
         <div class="language-switcher">
-            <button id="switchLangBtn">🌍 Читать на русском</button>
             <button id="themeToggle" class="theme-switcher">🌙 Dark Mode</button>
         </div>
+        <div data-component="langchange"></div>
 
-        <div class="article-banner" style="--banner-image: url('../articles/medieval-music.webp');" loading="lazy">
+        <div class="article-banner" style="--banner-image: url('/articles/medieval-music.webp');" loading="lazy">
             <h1>Medieval Music: From Origins to the Modern Era</h1>
         </div>
 
@@ -598,7 +630,12 @@
         </section>
 
         <div class="article-container">
-            <div class="share-section"></div>
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;                  ----==| S H A R E   B U T T O N |==----                   ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+                <div data-component="share"></div>
         </div>
 
         <div class="read-more">
@@ -610,57 +647,32 @@
 
         <a href="https://topfhelm.com" class="back-to-home"><span>🏰 Return to Main Page</span></a>
     </div>
-    <!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;                                                                            ;;
-;;                         ----==| F O O T E R |==----                        ;;
-;;                                                                            ;;
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                                ;;
+;;                   ----==| К О М П О Н Е Н Т Ы |==----                          ;;
+;;                                                                                ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+<div data-component="radio"></div>
+<div data-component="footer"></div>
+<div data-component="up_button"></div>
 
-<footer class="site-footer">
+</div>
 
-    <div class="footer-logo">
-        TopfHelm
-    </div>
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                                ;;
+;;                       ----==| С К Р И П Т Ы |==----                            ;;
+;;                                                                                ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+    <script src="/scripts/core.js" defer></script>
 
-    <div class="footer-links">
+    <script src="/scripts/timeline.js" defer></script>
+    <script src="/scripts/releases.js" defer></script>
+    <script src="/scripts/readmore.js" defer></script>
 
-        <div class="footer-column">
-            <h4>Explore</h4>
+    <script src="/scripts/page-init.js" defer></script>
 
-            <a href="/">Home</a>
-            <a href="/the-emerald-saga/">The Emerald Saga</a>
-            <a href="/composer">Composer</a>
-        </div>
-
-        <div class="footer-column">
-            <h4>Music</h4>
-
-            <a href="https://open.spotify.com/artist/5NHkqDnmyOUMMUrHy2n9Mq">Spotify</a>
-            <a href="https://topfhelm.bandcamp.com/">Bandcamp</a>
-            <a href="https://www.instagram.com/topfhelmmusic/">Instagram</a>
-        </div>
-
-        <div class="footer-column">
-            <h4>Support</h4>
-
-            <a href="https://boosty.to/topfhelm/donate">Boosty</a>
-            <a href="paypal.me/topfhelmmsc">PayPal</a>
-        </div>
-
-    </div>
-
-    <div class="footer-copy">
-        © 2026 TopfHelm. All rights reserved.
-    </div>
-
-</footer>
-
-    <script src="../scripts/page-init.js" defer></script>
-    <script src="../scripts/langchange.js" defer></script>
-    <script src="../scripts/up_button.js" defer></script>
-    <script src="../scripts/theme.js" defer></script>
-    <script src="../scripts/readmore.js" defer></script>
-    <script src="../scripts/share.js" defer></script>
+    <script src="/scripts/theme.js" defer></script>
+    <script src="/scripts/readmore.js" defer></script>
 
     </body>
 </html>

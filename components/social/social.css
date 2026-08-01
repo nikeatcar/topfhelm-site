@@ -1,0 +1,99 @@
+/* Социальные иконки */
+.social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin: 0px 0 0px 0;
+    flex-wrap: wrap;
+}
+
+/* Делаем иконки белыми */
+.social-icons img {
+    width: 50px;
+    height: 50px;
+    filter: invert(1); /* Делаем иконки белыми */
+    transition: transform 0.2s ease-in-out, filter 0.2s ease-in-out;
+}
+
+/* Эффект при наведении */
+.social-icons a:hover {
+    transform: scale(1.1);
+}
+
+.social-icons img:hover {
+    filter: invert(1) brightness(1.5);
+}
+
+/* 📌 Фиксированная панель соцсетей */
+#fixed-social-bar {
+    position: fixed;
+    top: -70px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0, 0, 0, 0.9);
+    padding: 0px 10px;
+    border-radius: 0 0 20px 20px;
+
+    /* ТЕКУЩАЯ ТЕНЬ */
+    box-shadow:
+        0 4px 10px rgba(0, 0, 0, 0.5),
+
+        /* ПОДСВЕТКА ПО КОНТУРУ */
+        0 0 12px rgba(216, 192, 139, 0.35),
+        0 0 24px rgba(216, 192, 139, 0.15);
+
+    /* ТОНКАЯ РАМКА */
+    border: 1px solid rgba(216, 192, 139, 0.25);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    width: fit-content;
+    z-index: 1000;
+    transition:
+        top 0.3s ease-in-out,
+        box-shadow 0.3s ease;
+}
+
+/* Показываем панель при скролле */
+#fixed-social-bar.show {
+    top: 0;
+}
+
+
+/* ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;    ----==|    А Д А П Т А Ц И Я   Д Л Я   М О Б И Л Ь Н Ы Х |==----        ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+@media (max-width: 768px) {
+    #fixed-social-bar {
+        padding: 8px 6px;
+    }
+    
+    .social-icons {
+        gap: 10px;
+    }
+
+    .social-icons img {
+        width: 35px;
+        height: 35px;
+    }
+}
+
+@media (max-width: 480px) {
+    #fixed-social-bar {
+        padding: 5px 10px;
+    }
+
+    .social-icons {
+        gap: 8px;
+    }
+
+    .social-icons img {
+        width: 25px;
+        height: 25px;
+    }
+}

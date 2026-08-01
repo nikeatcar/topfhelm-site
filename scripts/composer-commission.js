@@ -124,3 +124,7 @@ window.addEventListener("load", () => {
         }
     });
 });
+
+document.querySelectorAll(".example-block").forEach(block => {
+    block.style.backgroundImage = `url(${block.dataset.bg})`;
+});

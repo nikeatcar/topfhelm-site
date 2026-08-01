@@ -35,6 +35,18 @@ spadcyna: {
          </a>
        </div>
      </div>
+     <h2>${isRussian ? '🎁 Мерч' : '🎁 Related Merch'}</h2>
+        <div class="merch-preview">
+          <div class="bandcamp-merch-card">
+            <img class="merch-cover" src="https://cdn.topfhelm.com/merch/img/Spadcyna_Cassette_1.webp" alt="Spadčyna Lite">
+            <p><strong>"Spadčyna" – ${isRussian ? 'Кассета Lite версия' : "Lite version Cassette"}</strong></p>
+            <p>${isRussian
+              ? 'Lite версия кассеты. Обклеенный подкассетник + бумажный вкладыш.'
+              : '"Lite" version of the cassette. Cassette case with applied artwork + paper insert.'}</p>
+            <a href="https://topfhelm.com/shop" target="_blank" class="shop-btn"><strong>${isRussian ? 'Купить Мерч' : "Buy Merch"}</strong></a>
+            </a>
+          </div>
+        </div>
     </div>
   `
 },
@@ -68,7 +80,7 @@ spadcyna: {
         <h2>${isRussian ? '🎁 Мерч' : '🎁 Related Merch'}</h2>
         <div class="merch-preview">
           <div class="bandcamp-merch-card">
-            <img class="merch-cover" src="media/merch/solemnis_cd_5.webp" alt="Solemnis CD">
+            <img class="merch-cover" src="https://cdn.topfhelm.com/merch/img/solemnis_cd_5.webp" alt="Solemnis CD">
             <p><strong>"Solemnis" – ${isRussian ? 'Коллекционное издание на CD' : "Collector's CD Edition"}</strong></p>
             <p>${isRussian
               ? 'Фирменный CD в Jewel box с вкладышем, оформленным в торжественном стиле альбома. Лимитированный тираж.'
@@ -109,7 +121,7 @@ spadcyna: {
       <h2>${isRussian ? '🎁 Мерч' : '🎁 Related Merch'}</h2>
       <div class="merch-preview">
         <div class="bandcamp-merch-card">
-          <img class="merch-cover" src="media/merch/40_cassette_4.webp" alt="TopfHelm – 40 Cassette">
+          <img class="merch-cover" src="https://cdn.topfhelm.com/merch/img/40_cassette_4.webp" alt="TopfHelm – 40 Cassette">
           <p><strong>"40" – ${isRussian ? 'Коллекционное издание на кассете' : 'Limited Cassette Edition'}</strong></p>
           <p>${isRussian
             ? '40 минут ручной работы, уникальный арт и вложение с текстом. Для ценителей атмосферной медитативной музыки.'
@@ -182,7 +194,7 @@ spadcyna: {
           <h2>${isRussian ? '🎁 Мерч' : '🎁 Related Merch'}</h2>
           <div class="merch-preview">
             <div class="bandcamp-merch-card">
-              <img class="merch-cover" src="media/merch/sir_godric_cassette_1.webp" alt="Sir Godric Cassette">
+              <img class="merch-cover" src="https://cdn.topfhelm.com/merch/img/sir_godric_cassette_1.webp" alt="Sir Godric Cassette">
               <p><strong>"Sir Godric" – ${isRussian ? 'Коллекционное издание на кассете' : "Collector's Cassette"}</strong></p>
               <p>${isRussian
                 ? 'Полная версия с озвучкой, оформлением вручную и кроваво-красными деталями. Ограниченный и личный артефакт.'
