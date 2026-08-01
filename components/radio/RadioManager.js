@@ -131,6 +131,7 @@ class RadioManager {
         const duration = document.getElementById("duration");
 
         const volume = document.getElementById("volume");
+        volume.value = 0.5;
 
         let isSeeking = false;
 
