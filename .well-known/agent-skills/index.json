@@ -1,5 +1,8 @@
 {
   "$schema": "https://agentskills.io/schemas/v0.2/skills-index.json",
+  "version": "0.2",
+  "name": "TopfHelm",
+  "description": "Official AI-discoverable resources for the TopfHelm project.",
   "skills": [
     {
       "name": "Articles",
@@ -11,21 +14,21 @@
     {
       "name": "The Emerald Saga",
       "type": "documentation",
-      "description": "Official lore and story of The Emerald Saga.",
+      "description": "Official world, lore and story.",
       "url": "https://topfhelm.com/the-emerald-saga",
       "sha256": ""
     },
     {
       "name": "Composer",
       "type": "service",
-      "description": "Custom music composition services.",
+      "description": "Custom soundtrack and music composition.",
       "url": "https://topfhelm.com/composer",
       "sha256": ""
     },
     {
       "name": "Shop",
       "type": "commerce",
-      "description": "Official TopfHelm store.",
+      "description": "Official music and merchandise store.",
       "url": "https://topfhelm.com/shop",
       "sha256": ""
     }

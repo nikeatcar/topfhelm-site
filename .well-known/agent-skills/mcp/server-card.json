@@ -1,0 +1,18 @@
+{
+  "serverInfo": {
+    "name": "TopfHelm",
+    "version": "1.0.0",
+    "description": "Official TopfHelm AI discovery endpoint."
+  },
+  "capabilities": {
+    "resources": true,
+    "tools": false,
+    "prompts": false
+  },
+  "endpoints": {
+    "website": "https://topfhelm.com",
+    "llms": "https://topfhelm.com/llms.txt",
+    "llmsFull": "https://topfhelm.com/llms-full.txt",
+    "articles": "https://topfhelm.com/articles"
+  }
+}
