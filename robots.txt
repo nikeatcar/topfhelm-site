@@ -43,7 +43,9 @@ Disallow: /
 Sitemap: https://topfhelm.com/sitemap.xml
 Host: topfhelm.com
 
-Content-Signal: ai-train=no, search=yes, ai-input=yes
+Content-Signal: ai-train=no
+Content-Signal: search=yes
+Content-Signal: ai-input=yes
 
 User-agent: GPTBot
 Allow: /
