@@ -8,27 +8,15 @@ Disallow: /*?*
 Disallow: /*.php$
 Disallow: /index.html
 Disallow: /index-ru.html
+Disallow: /components/
+Disallow: /audio/
+Disallow: /icons/
 
-Allow: /articles/
-Allow: /articles/dungeon-synth-a-journey-through-dark-fantasy.html
-Allow: /articles/dungeon-synth-a-journey-through-dark-fantasy-ru.html
-Allow: /articles/dungeon-folk-reviving-the-authentic-medieval-sound.html
-Allow: /articles/dungeon-folk-reviving-the-authentic-medieval-sound-ru.html
-Allow: /articles/medieval-music-from-origins-to-the-modern-era.html
-Allow: /articles/medieval-music-from-origins-to-the-modern-era-ru.html
 Allow: /
-Allow: /en
-Allow: /ru
-Allow: /security/security-policy.html
-Allow: /shop/
+Allow: /articles/
 Allow: /composer/
-
-# Разрешаем кэширование ресурсов
-User-agent: Googlebot
-Allow: /media/
-Allow: /css/
-Allow: /js/
-Allow: /fonts/
+Allow: /shop/
+Allow: /security/security-policy.html
 
 # Запрещаем ботам-спамерам
 User-agent: AhrefsBot
@@ -37,7 +25,9 @@ User-agent: SemrushBot
 Disallow: /
 User-agent: MJ12bot
 Disallow: /
-User-agent: dotbot
+User-agent: DataForSeoBot
+Disallow: /
+User-agent: DotBot
 Disallow: /
 
 Sitemap: https://topfhelm.com/sitemap.xml
