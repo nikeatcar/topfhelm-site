@@ -1,21 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js" data-cfasync="false"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.pjax/2.0.1/jquery.pjax.min.js" data-cfasync="false"></script>
+    <link rel="preconnect" href="https://cdn.topfhelm.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://code.jquery.com">
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+    <link rel="preconnect" href="https://open.spotify.com">
 
-    <link rel="manifest" href="/manifest.json">
+    <link rel="preload" as="image" href="https://cdn.topfhelm.com/art/TopfHelm-logo.webp" fetchpriority="high">
 
-     <link rel="alternate"
-      type="text/plain"
-      title="LLMs"
-      href="/llms.txt">
+    <link rel="dns-prefetch" href="//cdn.topfhelm.com">
+    <link rel="dns-prefetch" href="//code.jquery.com">
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
 
-    <link rel="alternate"
-      type="text/plain"
-      title="LLMs Full"
-      href="/llms-full.txt">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" defer data-cfasync="false"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.pjax/2.0.1/jquery.pjax.min.js" defer data-cfasync="false"></script>
 
     <style>
         h1 {
@@ -121,6 +120,18 @@
     <link rel="alternate" hreflang="en" href="https://topfhelm.com/en">
     <link rel="alternate" hreflang="ru" href="https://topfhelm.com/ru">
 
+    <link rel="manifest" href="/manifest.json">
+
+     <link rel="alternate"
+      type="text/plain"
+      title="LLMs"
+      href="/llms.txt">
+
+    <link rel="alternate"
+      type="text/plain"
+      title="LLMs Full"
+      href="/llms-full.txt">
+
 <!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;
 ;;                        ----==| И К О Н К И |==----                         ;;
@@ -142,10 +153,11 @@
 ;;                                                                            ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
 
-    <link rel="stylesheet" href="/components/preloader/preloader.css">
+    <link rel="preload" href="/components/preloader/preloader.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> 
+    <noscript> <link rel="stylesheet" href="/components/preloader/preloader.css"> </noscript>
 
-    <link rel="stylesheet" href="styles/main.css" media="print" onload="this.media='all'">
-    <noscript><link rel="stylesheet" href="styles/main.css"></noscript>
+    <link rel="preload" href="styles/main.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript> <link rel="stylesheet" href="styles/main.css"> </noscript>
 
     <link rel="stylesheet" href="styles/readmore.css" media="print" onload="this.media='all'">
     <link rel="stylesheet" href="styles/composer.css" media="print" onload="this.media='all'">
@@ -205,7 +217,11 @@ data-up-button
     <img
         src="https://cdn.topfhelm.com/art/TopfHelm-logo.webp"
         class="avatar"
-        alt="TopfHelm">
+        width="200"
+        height="200"
+        alt="TopfHelm"
+        fetchpriority="high"
+        decoding="async">
 
 </div>
 
