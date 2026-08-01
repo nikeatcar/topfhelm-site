@@ -8,7 +8,7 @@ class RadioManager {
 
         this.player = new AudioPlayer();
 
-        this.player.setVolume(0.7);
+        this.player.setVolume(0.5);
 
         this.bindUI();
 
@@ -131,10 +131,11 @@ class RadioManager {
         const duration = document.getElementById("duration");
 
         const volume = document.getElementById("volume");
+        volume.value = 0.5;
 
         let isSeeking = false;
 
-        this.updateRangeFill(volume, 70);
+        this.updateRangeFill(volume, 50);
 
         playBtn.addEventListener("click", async () => {
 
