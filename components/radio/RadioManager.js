@@ -134,7 +134,7 @@ class RadioManager {
 
         let isSeeking = false;
 
-        this.updateRangeFill(volume, 70);
+        this.updateRangeFill(volume, 50);
 
         playBtn.addEventListener("click", async () => {
 
