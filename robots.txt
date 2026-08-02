@@ -13,10 +13,11 @@ Disallow: /audio/
 Disallow: /icons/
 
 Allow: /
+Allow: /ru
 Allow: /articles/
 Allow: /composer/
 Allow: /shop/
-Allow: /security/security-policy.html
+Allow: /security/security-policy
 
 # Запрещаем ботам-спамерам
 User-agent: AhrefsBot
