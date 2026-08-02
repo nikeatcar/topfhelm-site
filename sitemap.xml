@@ -46,13 +46,6 @@
         <priority>0.3</priority>
     </url>
 
-    <url>
-        <loc>https://topfhelm.com/media/Avatar2.webp</loc>
-        <lastmod>2024-03-04</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.5</priority>
-    </url>
-
     <!-- статьи -->
     <url>
         <loc>https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy.html</loc>

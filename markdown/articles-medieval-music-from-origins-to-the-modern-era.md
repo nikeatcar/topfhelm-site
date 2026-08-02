@@ -3,11 +3,11 @@ type: article
 title: Medieval Music: From Origins to the Modern Era
 description: Explore the evolution of medieval music from its historical roots to modern adaptations. Learn about medieval instruments, notation, and the impact of medieval soundscapes.
 url: https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era.html
-canonical: https://topfhelm.com/articles/medieval-music-from-origins-to-modern-era.html
+canonical: https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era.html
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-01
+last_updated: 2026-08-02
 ---
 
 Dark Mode 

@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/security/security-policy.html
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-01
+last_updated: 2026-08-02
 ---
 
 # Security Policy

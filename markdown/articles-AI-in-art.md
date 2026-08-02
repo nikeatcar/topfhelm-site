@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/articles/ai-in-art.html
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-01
+last_updated: 2026-08-02
 ---
 
 Dark Mode 

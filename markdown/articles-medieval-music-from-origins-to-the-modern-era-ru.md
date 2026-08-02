@@ -3,11 +3,11 @@ type: article
 title: Средневековая музыка: от истоков до современности
 description: Погрузитесь в историю средневековой музыки: от григорианских песнопений и трубадуров до её влияния на современное звучание.
 url: https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era-ru.html
-canonical: https://topfhelm.com/articles/medieval-music-from-origins-to-modern-era-ru.html
+canonical: https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era-ru.html
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-01
+last_updated: 2026-08-02
 ---
 
 Dark Mode 

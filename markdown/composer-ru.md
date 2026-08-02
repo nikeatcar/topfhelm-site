@@ -3,11 +3,11 @@ type: website
 title: Музыка для игр, RPG и тёмного фэнтези | Композитор TopfHelm
 description: Закажите музыку у TopfHelm для RPG, DnD, тёмного фэнтези, инди-игр, roguelike и авторских миров. Dungeon Folk, Dungeon Synth и средневековые саундтреки на заказ.
 url: https://topfhelm.com/composer/index-ru.html
-canonical: https://topfhelm.com/composer-ru.html
+canonical: https://topfhelm.com/composer/ru
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-01
+last_updated: 2026-08-02
 ---
 
 # Музыка на заказ для игр, персонажей и фэнтези-миров | TopfHelm
