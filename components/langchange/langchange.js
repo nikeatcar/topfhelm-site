@@ -132,16 +132,12 @@ class LangChange {
 
             let articleURL = currentURL.replace(/\/$/, "");
 
-            if (articleURL.endsWith("-ru.html"))
-                return articleURL.replace("-ru.html", ".html");
-
+            // RU → EN
             if (articleURL.endsWith("-ru"))
-                return articleURL.replace("-ru", ".html");
+                return articleURL.replace(/-ru$/, "");
 
-            if (articleURL.endsWith(".html"))
-                return articleURL.replace(".html", "-ru.html");
-
-            return articleURL + "-ru.html";
+            // EN → RU
+            return articleURL + "-ru";
 
         }
 
@@ -149,10 +145,7 @@ class LangChange {
         if (currentURL.includes("-ru"))
             return currentURL.replace("-ru", "");
 
-        return currentURL.replace(
-            /(\/[a-zA-Z0-9-]+)(\.html)?$/,
-            "$1-ru$2"
-        );
+        return currentURL + "-ru";
 
     }
 
