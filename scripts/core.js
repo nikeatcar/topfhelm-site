@@ -65,6 +65,21 @@ class Core {
 
     static async init() {
 
+    await this.initOnce();
+    await this.initPage();
+
+    }
+
+    static async initOnce() {
+
+        console.log("Core.initOnce()");
+
+    }
+
+    static async initPage() {
+
+        console.log("Core.initPage()");
+
         for (const component of this.components) {
 
             if (!document.body.hasAttribute(component.attribute))
@@ -85,18 +100,41 @@ class Core {
 
     static loadScript(src) {
 
-        return new Promise((resolve, reject) => {
+    return new Promise((resolve, reject) => {
 
-            const script = document.createElement("script");
+        const existing = document.querySelector(
+            `script[src="${src}"]`
+        );
 
-            script.src = src;
+        if (existing) {
 
-            script.onload = resolve;
-            script.onerror = reject;
+            if (existing.dataset.loaded === "true") {
+                resolve();
+                return;
+            }
 
-            document.head.appendChild(script);
+            existing.addEventListener("load", resolve, { once: true });
+            existing.addEventListener("error", reject, { once: true });
 
-        });
+            return;
+        }
+
+        const script = document.createElement("script");
+
+        script.src = src;
+
+        script.onload = () => {
+
+            script.dataset.loaded = "true";
+            resolve();
+
+        };
+
+        script.onerror = reject;
+
+        document.head.appendChild(script);
+
+    });
 
     }
 
