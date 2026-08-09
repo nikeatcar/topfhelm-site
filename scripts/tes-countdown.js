@@ -75,3 +75,117 @@
     document.addEventListener("pjax:complete", initCountdown);
 
 })();
+
+/* ==========================================================
+   Interactive Experience Slider
+========================================================== */
+
+document.querySelectorAll(".tes-experience-slider").forEach(slider => {
+
+    const images = slider.querySelectorAll(".tes-slider img");
+
+    images.forEach(img => {
+
+    img.addEventListener("click", () => {
+
+        window.lightbox.open(img.currentSrc || img.src);
+
+    });
+
+});
+
+    const prev = slider.querySelector(".tes-slider-prev");
+
+    const next = slider.querySelector(".tes-slider-next");
+
+    const dotsContainer = slider.parentElement.querySelector(".tes-slider-dots");
+
+    let current = 0;
+
+    /* ---------- create dots ---------- */
+
+    images.forEach((_, index) => {
+
+        const dot = document.createElement("button");
+
+        dot.className = "tes-slider-dot";
+
+        if(index === 0){
+            dot.classList.add("active");
+        }
+
+        dot.addEventListener("click", () => {
+
+            current = index;
+
+            update();
+
+        });
+
+        dotsContainer.appendChild(dot);
+
+    });
+
+    const dots = dotsContainer.querySelectorAll(".tes-slider-dot");
+
+    /* ---------- update ---------- */
+
+    function update(){
+
+        images.forEach((img, index) => {
+
+            img.classList.toggle("active", index === current);
+
+        });
+
+        dots.forEach((dot, index) => {
+
+            dot.classList.toggle("active", index === current);
+
+        });
+
+    }
+
+    /* ---------- buttons ---------- */
+
+    next.addEventListener("click", () => {
+
+        current++;
+
+        if(current >= images.length){
+            current = 0;
+        }
+
+        update();
+
+    });
+
+    prev.addEventListener("click", () => {
+
+        current--;
+
+        if(current < 0){
+            current = images.length - 1;
+        }
+
+        update();
+
+    });
+
+    /* ---------- autoplay ---------- */
+
+    let timer = setInterval(next.click.bind(next), 6000);
+
+    slider.addEventListener("mouseenter", () => {
+
+        clearInterval(timer);
+
+    });
+
+    slider.addEventListener("mouseleave", () => {
+
+        timer = setInterval(next.click.bind(next), 6000);
+
+    });
+
+});
