@@ -158,40 +158,14 @@ status = 301
 force = true
 
 [[redirects]]
-from = "/dungeon-synth-artists/index.html"
-to = "/dungeon-synth-artists/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/dungeon-synth-artists"
-to = "/dungeon-synth-artists/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/dungeon-synth-artists/"
-to = "/dungeon-synth-artists/index.html"
-status = 200
-force = true
-
-[[redirects]]
-from = "/dungeon-synth-artists/index-ru.html"
-to = "/dungeon-synth-artists/ru/"
-status = 301
-force = true
-
-[[redirects]]
 from = "/dungeon-synth-artists/ru"
-to = "/dungeon-synth-artists/ru/"
-status = 301
-force = true
+to = "/dungeon-synth-artists/index-ru.html"
+status = 200
 
 [[redirects]]
 from = "/dungeon-synth-artists/ru/"
 to = "/dungeon-synth-artists/index-ru.html"
 status = 200
-force = true
 
 [[redirects]]
 from = "/en"
