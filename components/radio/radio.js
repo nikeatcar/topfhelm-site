@@ -4,25 +4,30 @@ class Radio {
 
     static async init() {
 
-        if (this.initialized)
-            return;
-
-        this.initialized = true;
-
-        this.injectCSS();
-
-        await Core.loadHTML(
-            "radio",
-            "/components/radio/radio.html"
-        );
-
-        await this.loadScripts();
-
-        await RadioLoader.init();
-
-        await window.radioManager.init();
-
+    // На планшетах и телефонах радио вообще не создаём
+    if (window.innerWidth <= 767) {
+        return;
     }
+
+    if (this.initialized)
+        return;
+
+    this.initialized = true;
+
+    this.injectCSS();
+
+    await Core.loadHTML(
+        "radio",
+        "/components/radio/radio.html"
+    );
+
+    await this.loadScripts();
+
+    await RadioLoader.init();
+
+    await window.radioManager.init();
+
+}
 
     static injectCSS() {
 
