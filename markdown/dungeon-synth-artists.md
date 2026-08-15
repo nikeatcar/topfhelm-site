@@ -64,7 +64,7 @@ Rather than evoking the triumph of medieval heroes, An Old Sad Ghost often feels
 **Country:** USA
 **Genre:** Dungeon Synth
 **Style:** Percussive
-**Mood:** Mysterious
+**Mood:** Mystical
 **Tempo:** Normal
 
 Ashkahn is a percussive dungeon synth project by Lord Cervos, heavily inspired by The Elder Scrolls III: Morrowind and the harsh landscapes of its Ashlands. Rather than relying primarily on slow synth atmospheres, Ashkahn places tribal rhythms and powerful percussion at the heart of its sound, combining them with eerie melodies, dark synthesizers and occasional samples from the game.
@@ -122,6 +122,21 @@ Rather than grand battles or sinister dungeons, Chestnut Brown turns small thing
 
 [Bandcamp](https://chestnutbrown.bandcamp.com/)
 [Website](https://www.instagram.com/chestnutbrownmusic/)
+
+### Cursed Pumpkin
+
+**Country:** Hungary
+**Style:** Horror
+**Mood:** Mystical
+**Tempo:** Slow
+
+Cursed Pumpkin is a Hungarian dungeon synth project by Ádám H., active since 2019. Built around Halloween imagery and deliberately raw production, its music combines lo-fi dungeon synth, keller synth, dark ambient and dungeon noise with short, eerie melodies and a playful horror atmosphere. The project debuted with Sinister Night in 2019 and followed it exactly one year later with Witching Hour, both originally presented as raw demos.
+
+[Spotify](https://open.spotify.com/artist/3csj9zpDCuhgt9IJp8zI7N)
+[Bandcamp](https://swallowedkeyproductions.bandcamp.com/album/witching-hour)
+[YouTube](https://www.youtube.com/channel/UCAP1sFLD7NEfzYzHth_rGEw)
+[Apple Music](https://music.apple.com/dk/artist/cursed-pumpkin/1484093369)
+[Website](https://www.instagram.com/cursedpumpkinsynth/)
 
 ### Deep Gnome
 
@@ -249,7 +264,7 @@ Musically, Erang refuses to remain within a single style. Old-school dungeon syn
 **Country:** USA
 **Genre:** Dungeon Synth
 **Style:** Experimental
-**Mood:** Mysterious
+**Mood:** Mystical
 **Tempo:** Slow
 
 Ervald is an American fantasy and dungeon synth project from Cincinnati, Ohio, built around musical storytelling rather than conventional song structures. Its releases chronicle the continent of Varmiso through the eyes of Ervald, a wandering scholar-bard who records the people, places and legends encountered along his journeys.
@@ -331,6 +346,32 @@ Minimal electronic textures, simple recurring melodies and gentle atmospheric la
 [Apple Music](https://music.apple.com/us/artist/fogweaver/1542692000)
 [Website](https://www.instagram.com/thefogweaver/)
 
+### Gelure
+
+**Country:** Australia
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Normal
+
+Gelure is an Australian dungeon synth project from Adelaide, created by the musician known as Secluded Wizard. Its music explores an original fantasy world through atmospheric synths, medieval melodies and increasingly prominent acoustic instrumentation. Beginning with the misty landscapes of Into the Chesfern Wood, Gelure expanded its fictional geography through The Candlelight Tomes and later developed a richer, more organic sound on Inner Sanctum, incorporating oud, darbuka, lyre, viola, guitars and vocals alongside synthesizers.
+
+[Spotify](https://open.spotify.com/artist/0PmZ1fSPMajceuOURvjqnU)
+[Bandcamp](https://gelure.bandcamp.com/)
+[Apple Music](https://music.apple.com/us/artist/gelure/1595760666)
+[Website](https://www.instagram.com/gelureofficial/)
+
+### Goryō
+
+**Country:** France
+**Style:** Percussive
+**Mood:** Mystical
+**Tempo:** Slow
+
+Goryō is a French dungeon synth and dark ambient project by J. Lacroix, deeply inspired by Japanese folklore, ghost stories and traditional music. Rather than medieval European fantasy, Goryō builds its atmosphere around yōkai, spirits, exorcisms and supernatural tales, combining synthesizers and virtual instruments with Japanese-inspired timbres and field recordings. Across Goryō, Kaidan 怪談 and Story of Yama-Uba 山姥物語, the project develops a distinctive form of Japanese-themed dungeon synth sometimes described as kabuki ambient.
+
+[Spotify](https://open.spotify.com/album/2vhHIAjNBAT5WYX4yfOLxG)
+[Bandcamp](https://goryokai.bandcamp.com/)
+
 ### Grandma's Cottage
 
 **Country:** USA
@@ -362,6 +403,19 @@ Warm lo-fi synthesizers, nostalgic video-game melodies and deliberately weathere
 [Bandcamp](https://holedweller.bandcamp.com/)
 [YouTube](https://www.youtube.com/@holedwellermusic)
 [Website](https://www.instagram.com/holedwellermusic/)
+
+### KletTtermax
+
+**Country:** Germany
+**Style:** Comfy
+**Mood:** Adventure
+**Tempo:** Normal
+
+KletTtermax is a German dungeon synth project created by Thomas, founder of the DIY label Personal Uschi Records. His music takes a playful and highly personal approach to the genre, moving freely between lo-fi dungeon synth, comfy and nature synth, strange fantasy stories and the deliberately absurd world of food synth. Releases range from the surreal adventure of Stairs to bakery-themed Sascha der Striezel, the Roman meatball saga Frikadellvs.I.Imp and the snowy, contemplative Wander. Much of the music is made with inexpensive keyboards, guitar pedals and cassette equipment, embracing the handmade DIY character of dungeon synth.
+
+[Spotify](https://open.spotify.com/artist/79HycpBP8Rij9AyhoBE4F1)
+[Bandcamp](https://personaluschirecords.bandcamp.com/album/sascha-der-striezel)
+[Website](https://www.instagram.com/kletttermax/)
 
 ### Kyūketsuki
 
@@ -399,12 +453,23 @@ Harps, flutes, organs, rhythmic percussion and melodic synthesizers blend with s
 
 **Country:** Denmark
 **Style:** Prehistoric
-**Mood:** Mysterious
+**Mood:** Mystical
 **Tempo:** Slow
 
 Mammoth Master is a mysterious Danish Dungeon Synth project devoted entirely to the prehistoric power of the woolly mammoth. Its only release, the 2019 EP Tusks of Doom, abandons the castles, wizards and imaginary kingdoms traditionally associated with the genre and ventures instead into a cold, primeval world of enormous extinct beasts.
 
 Slow rhythms, low tones, drones and heavy, deliberate melodies evoke the immense weight of a mammoth moving across an unknown landscape. Mammoth Master even describes the music with the wonderfully specific tags “Extinct Synth” and “Mammoth Synth.” With only one short release to its name, the project remains a fascinating Dungeon Synth curiosity - proof that an extinct animal can become just as powerful a source of myth and atmosphere as any dragon or ancient warrior.
+
+### MEGAFOLIVORA
+
+**Country:** USA
+**Style:** Prehistoric
+**Mood:** Dark
+**Tempo:** Slow
+
+MEGAFOLIVORA is an American dungeon synth project centered on the unusual theme of prehistoric ground sloths. Its only known release, Tribute to the Prehistoric Ground Sloths of North and South America (2021), consists of two long, slow-moving compositions named after extinct sloth families. Released as part of the Dungeoneer's Field Guide Series, the album combines dungeon synth with dark ambient and drone, creating a primitive, monolithic atmosphere devoted not to fantasy kingdoms, but to the distant world of prehistoric megafauna.
+
+[Bandcamp](https://megafolivora.bandcamp.com/)
 
 ### Mithril Axe
 
@@ -536,7 +601,7 @@ Through releases such as Sugar Jar, Days Pass Like Hours, Late Winter Blooms and
 
 **Country:** USA
 **Style:** Horror
-**Mood:** Mysterious
+**Mood:** Mystical
 **Tempo:** Slow
 
 Pumpkin Witch is an American Dungeon Synth, Horror Synth and Dark Ambient trio that has turned Halloween itself into an ongoing musical mythology. Formed in 2017 by three anonymous figures known as The Disgraced Scientist, The Vampire Tyrant and Haunter of Darkened Forests, the project replaces the castles and medieval quests of traditional Dungeon Synth with pumpkin patches, missing children, graveyards, small-town legends and the atmosphere of cheap old horror films.
@@ -672,6 +737,15 @@ Behind the whimsical frogs lies a surprisingly personal philosophy. The artist d
 [YouTube](https://www.youtube.com/@TalesUnderTheOak)
 [Apple Music](https://music.apple.com/us/artist/tales-under-the-oak/1634636515)
 [Website](https://www.instagram.com/talesundertheoak/)
+
+### Toad Sage
+
+**Country:** USA
+**Style:** Medieval
+**Mood:** Battle
+**Tempo:** Normal
+
+Toad Sage is an American dungeon synth project from Fort Wayne, Indiana, created by Ben, also known as Faroheim the Toad Sage. Its music moves freely between medieval dungeon synth, fantasy ambient and darker atmospheric material, often using each release to explore a distinct imagined world - forgotten kingdoms, lonely knights, frozen landscapes, seafaring tales and even prehistoric realms. Releases such as The Long Forgotten Realm, Sorrowed Waters, The Journey of the Wizard Sage and Winterhearth show a project strongly rooted in the storytelling and escapist traditions of dungeon synth.
 
 ### TopfHelm
 

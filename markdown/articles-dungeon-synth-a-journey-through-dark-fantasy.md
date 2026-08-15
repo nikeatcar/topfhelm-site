@@ -2,7 +2,7 @@
 type: article
 title: Dungeon Synth: A Journey Through Medieval Darkness and Fantasy
 description: Explore the world of Dungeon Synth—its origins, how to create it, and its connection to black metal and medieval fantasy soundscapes.
-url: https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy
+url: https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy.html
 canonical: https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy
 language: en
 source: TopfHelm Official Website
