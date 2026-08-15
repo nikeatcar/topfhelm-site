@@ -127,6 +127,21 @@ class LangChange {
         )
             return "/composer/";
 
+        // Composer
+        if (
+            currentURL === "/dungeon-synth-artists/" ||
+            currentURL === "/dungeon-synth-artists" ||
+            currentURL === "/dungeon-synth-artists/index.html"
+        )
+            return "/dungeon-synth-artists/ru";
+
+        if (
+            currentURL === "/dungeon-synth-artists/ru" ||
+            currentURL === "/dungeon-synth-artists/ru/" ||
+            currentURL === "/dungeon-synth-artists/index-ru.html"
+        )
+            return "/composer/";
+
         // Articles
         if (currentURL.includes("/articles/")) {
 
