@@ -3,11 +3,11 @@ type: website
 title: Изумрудная Сага | TopfHelm
 description: The Emerald Saga — тёмная средневековая аудио-сага от TopfHelm, рассказанная через музыку и повествование.
 url: https://topfhelm.com/the-emerald-saga/index-ru.html
-canonical: https://topfhelm.com/the-emerald-saga/index-ru.html
+canonical: https://topfhelm.com/the-emerald-saga/ru
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-02
+last_updated: 2026-08-15
 ---
 
 # Изумрудная Сага
@@ -29,6 +29,28 @@ last_updated: 2026-08-02
 Каждый релиз начинается с одной и той же композиции. Она возвращается. Она меняется. 
 
 Emerald Fall
+
+## Войдите в комнату для чтения
+
+Именно такой задумывалась **The Emerald Saga**. 
+Больше, чем музыкальный альбом. Больше, чем цифровая книга. 
+
+‹ 
+
+ 
+
+› 
+
+Сядьте у камина. 
+Откройте книгу. 
+Вставьте кассету. 
+
+* Полная иллюстрированная история
+* Интерактивный кассетный проигрыватель
+* Атмосферная комната для чтения
+* Оригинальный саундтрек
+* Русский и английский языки
+[Войти в комнату для чтения ](https://topfhelm.itch.io/the-emerald-saga-interactive-experience) 
 
  
 

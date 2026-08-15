@@ -95,4 +95,48 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era"/>
     </url>
 
+    <url>
+        <loc>https://topfhelm.com/dungeon-synth-artists/</loc>
+        <lastmod>2026-08-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="en"
+            href="https://topfhelm.com/dungeon-synth-artists/"/>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://topfhelm.com/dungeon-synth-artists/ru/"/>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://topfhelm.com/dungeon-synth-artists/"/>
+    </url>
+
+    <url>
+        <loc>https://topfhelm.com/dungeon-synth-artists/ru/</loc>
+        <lastmod>2026-08-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="en"
+            href="https://topfhelm.com/dungeon-synth-artists/"/>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="ru"
+            href="https://topfhelm.com/dungeon-synth-artists/ru/"/>
+
+        <xhtml:link
+            rel="alternate"
+            hreflang="x-default"
+            href="https://topfhelm.com/dungeon-synth-artists/"/>
+    </url>
+
 </urlset>

@@ -3,11 +3,11 @@ type: article
 title: Ваш хейт к ИИ не сделает вас талантливее
 description: Личное мнение об использовании ИИ в музыке и искусстве. Почему это не угроза, а инструмент — и что такое настоящее творчество в XXI веке.
 url: https://topfhelm.com/articles/AI-in-art-ru.html
-canonical: https://topfhelm.com/articles/ai-in-art-ru.html
+canonical: https://topfhelm.com/articles/ai-in-art-ru
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-02
+last_updated: 2026-08-15
 ---
 
 Dark Mode 

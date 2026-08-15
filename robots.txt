@@ -18,6 +18,7 @@ Allow: /articles/
 Allow: /composer/
 Allow: /shop/
 Allow: /security/security-policy
+Allow: /dungeon-synth-artists/
 
 # Запрещаем ботам-спамерам
 User-agent: AhrefsBot
@@ -51,4 +52,10 @@ User-agent: PerplexityBot
 Allow: /
 
 User-agent: Google-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: TikTokSpider
 Allow: /

@@ -324,7 +324,199 @@ body.ru h1 {
         padding: 28px 22px;
     }
 }
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                            ;;
+;;             ----==| D U N G E O N   S Y N T H                             ;;
+;;                      B E S T I A R Y |==----                               ;;
+;;                                                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
 
+.bestiary-preview{
+
+    width:min(760px,calc(100% - 48px));
+
+    margin:20px auto 100px;
+
+}
+
+.bestiary-preview-content{
+
+    position:relative;
+    overflow:hidden;
+
+    padding:48px 44px;
+
+    text-align:center;
+
+    background:
+        radial-gradient(
+            circle at top,
+            rgba(215,179,122,.09),
+            transparent 55%
+        ),
+        rgba(10,10,10,.82);
+
+    border:1px solid rgba(215,179,122,.22);
+
+    border-radius:18px;
+
+    box-shadow:
+        0 0 30px rgba(0,0,0,.75),
+        inset 0 0 18px rgba(255,255,255,.025);
+
+    transition:
+        border-color .3s ease,
+        box-shadow .3s ease,
+        transform .3s ease;
+
+}
+
+.bestiary-preview-content:hover{
+
+    transform:translateY(-3px);
+
+    border-color:rgba(215,179,122,.42);
+
+    box-shadow:
+        0 0 34px rgba(0,0,0,.85),
+        0 0 28px rgba(215,179,122,.08);
+
+}
+
+.bestiary-preview-label{
+
+    display:inline-block;
+
+    margin-bottom:18px;
+
+    padding:7px 15px;
+
+    border:1px solid rgba(215,179,122,.25);
+
+    border-radius:999px;
+
+    color:#d7b37a;
+
+    font-size:11px;
+    letter-spacing:2px;
+
+}
+
+.bestiary-preview h2{
+
+    margin:0 0 20px;
+
+    color:#f2e3be;
+
+    font-family:"IM Fell English SC",serif;
+
+    font-size:clamp(34px,5vw,48px);
+
+    letter-spacing:1px;
+
+}
+
+.bestiary-preview p{
+
+    max-width:620px;
+
+    margin:0 auto;
+
+    color:rgba(255,255,255,.76);
+
+    font-size:17px;
+    line-height:1.8;
+
+}
+
+.bestiary-preview-btn{
+
+    display:inline-flex;
+
+    align-items:center;
+    justify-content:center;
+
+    gap:14px;
+
+    margin-top:30px;
+
+    padding:14px 30px;
+
+    color:#d7b37a;
+
+    text-decoration:none;
+
+    background:rgba(20,20,20,.95);
+
+    border:1px solid rgba(215,179,122,.35);
+
+    border-radius:12px;
+
+    transition:
+        transform .25s ease,
+        color .25s ease,
+        border-color .25s ease,
+        box-shadow .25s ease;
+
+}
+
+.bestiary-preview-btn:hover{
+
+    transform:translateY(-2px);
+
+    color:#f2e3be;
+
+    border-color:rgba(215,179,122,.85);
+
+    box-shadow:
+        0 0 18px rgba(215,179,122,.14);
+
+}
+
+.bestiary-preview-arrow{
+
+    font-size:20px;
+
+    transition:transform .25s ease;
+
+}
+
+.bestiary-preview-btn:hover .bestiary-preview-arrow{
+
+    transform:translateX(4px);
+
+}
+
+body.ru .bestiary-preview,
+body.ru .bestiary-preview h2,
+body.ru .bestiary-preview-label,
+body.ru .bestiary-preview-btn{
+    font-family:'Monomakh', serif;
+}
+
+@media (max-width:768px){
+
+    .bestiary-preview{
+
+        width:calc(100% - 32px);
+
+        margin:10px auto 70px;
+
+    }
+
+    .bestiary-preview-content{
+
+        padding:36px 22px;
+
+    }
+
+    .bestiary-preview p{
+
+        font-size:16px;
+
+    }
+
+}
 
 /* ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                                                                            ;;

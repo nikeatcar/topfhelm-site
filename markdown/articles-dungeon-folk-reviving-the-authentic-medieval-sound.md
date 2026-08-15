@@ -3,11 +3,11 @@ type: article
 title: Dungeon Folk: Reviving the Authentic Medieval Sound
 description: Explore the unique blend of Dungeon Folk, where medieval acoustic instruments replace traditional synthesizers to create an authentic historical soundscape.
 url: https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-medieval-sound.html
-canonical: https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-medieval-sound.html
+canonical: https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-medieval-sound
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-02
+last_updated: 2026-08-15
 ---
 
 Dark Mode 
@@ -16,9 +16,9 @@ Dark Mode
 
 ## What is Dungeon Folk?
 
-Dungeon Folk is a musical genre that blends [Dungeon Synth](https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy.html) with folk traditions. Unlike classic Dungeon Synth, which relies on synthesizers, Dungeon Folk emphasizes acoustic folk instruments, creating a more authentic medieval atmosphere.
+Dungeon Folk is a musical genre that blends [Dungeon Synth](https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy) with folk traditions. Unlike classic Dungeon Synth, which relies on synthesizers, Dungeon Folk emphasizes acoustic folk instruments, creating a more authentic medieval atmosphere.
 
-This genre stands at the crossroads of neofolk, dark ambient, and [medieval music](https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era.html), using instruments such as lute, hurdy-gurdy, violin, jaw harp, bagpipes, and flutes—either played live or recreated through high-quality digital emulations.
+This genre stands at the crossroads of neofolk, dark ambient, and [medieval music](https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era), using instruments such as lute, hurdy-gurdy, violin, jaw harp, bagpipes, and flutes—either played live or recreated through high-quality digital emulations.
 
 While the term Dungeon Folk appeared on Dungeon Synth forums several years ago, it was TopfHelm who actively pushed the genre into the online spotlight. Unlike other artists who mix folk elements with synths, TopfHelm completely abandoned electronic sounds, using realistic medieval instrument emulations to create the illusion of a live recording from a medieval castle, captured on an old tape recorder.
 

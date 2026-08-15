@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/the-emerald-saga/
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-02
+last_updated: 2026-08-15
 ---
 
 # The Emerald Saga 
@@ -29,6 +29,28 @@ Told in English and Russian.
 Each release begins with the same opening track. It returns. It changes. 
 
 Emerald Fall
+
+## Enter the Reading Room
+
+Experience The Emerald Saga as it was meant to be. 
+More than an album. More than a digital book. 
+
+‹ 
+
+ 
+
+› 
+
+Sit beside the fireplace. 
+Open the book. 
+Insert the cassette. 
+
+* Complete illustrated story
+* Interactive cassette player
+* Atmospheric reading room
+* Original soundtrack
+* English & Russian
+[Enter the Reading Room ](https://topfhelm.itch.io/the-emerald-saga-interactive-experience) 
 
  
 

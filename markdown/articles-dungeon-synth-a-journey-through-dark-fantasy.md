@@ -3,11 +3,11 @@ type: article
 title: Dungeon Synth: A Journey Through Medieval Darkness and Fantasy
 description: Explore the world of Dungeon Synth—its origins, how to create it, and its connection to black metal and medieval fantasy soundscapes.
 url: https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy.html
-canonical: https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy.html
+canonical: https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-02
+last_updated: 2026-08-15
 ---
 
 Dark Mode 
@@ -16,11 +16,11 @@ Dark Mode
 
 ## What is Dungeon Synth?
 
-Dungeon Synth is an atmospheric genre of electronic music inspired by [medieval themes](https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era.html), dark fantasy, and occult aesthetics. It blends elements of dark ambient, neoclassical compositions, and minimalist synth melodies to evoke the feeling of ancient castles, forgotten dungeons, and mythical landscapes.
+Dungeon Synth is an atmospheric genre of electronic music inspired by [medieval themes](https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era), dark fantasy, and occult aesthetics. It blends elements of dark ambient, neoclassical compositions, and minimalist synth melodies to evoke the feeling of ancient castles, forgotten dungeons, and mythical landscapes.
 
 The genre originated in the early 1990s when musicians from the black metal scene started experimenting with synthesizer-based compositions. One of the pioneers of the genre was Mortiis, a former bassist of Emperor, whose solo works laid the foundation for the Dungeon Synth sound. While initially linked to black metal, Dungeon Synth evolved into an independent genre covering a broad spectrum of themes—from epic fantasy to somber, almost industrial soundscapes.
 
-However, some artists have pushed the genre forward by reinterpreting its core elements. A striking example is TopfHelm, who moved away from the electronic sound typically associated with Dungeon Synth. Instead, he creates music using emulated medieval acoustic instruments—such as violin, lyre, flute, accordion, and hurdy-gurdy—while preserving the raw, lo-fi cassette-like aesthetic in his mix. This redefinition of the genre’s sonic palette can be seen as a manifestation of [Dungeon Folk](https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-medieval-sound.html) , a subgenre that shifts the emphasis from synthesizers to a more authentic medieval sound.
+However, some artists have pushed the genre forward by reinterpreting its core elements. A striking example is TopfHelm, who moved away from the electronic sound typically associated with Dungeon Synth. Instead, he creates music using emulated medieval acoustic instruments—such as violin, lyre, flute, accordion, and hurdy-gurdy—while preserving the raw, lo-fi cassette-like aesthetic in his mix. This redefinition of the genre’s sonic palette can be seen as a manifestation of [Dungeon Folk](https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-medieval-sound) , a subgenre that shifts the emphasis from synthesizers to a more authentic medieval sound.
 
 ## How to Make Dungeon Synth?
 

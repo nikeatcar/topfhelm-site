@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/en
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-02
+last_updated: 2026-08-15
 ---
 
 # TopfHelm - Dungeon Folk & Dungeon Synth from Belarus
@@ -28,7 +28,15 @@ Discover handcrafted Dungeon Synth cassettes, collector's CDs and exclusive medi
 
 [ Enter the Treasury ](/shop/) 
 
-[ Listen Music Explore releases, albums and dungeon folk records. ](#topfhelm-timeline) [ Hire Composer Custom dark fantasy music for games, characters and worlds. ](/composer/index.html) [ Read Articles Interviews, articles and stories about music, creativity and the worlds behind TopfHelm. ](#interviews) 
+[ Listen Music Explore releases, albums and dungeon folk records. ](#topfhelm-timeline) [ Hire Composer Custom dark fantasy music for games, characters and worlds. ](/composer/) [ Read Articles Interviews, articles and stories about music, creativity and the worlds behind TopfHelm. ](#interviews) 
+
+EXPLORE THE UNDERGROUND 
+
+## Dungeon Synth Bestiary
+
+Discover Dungeon Synth artists from around the world. Explore underground projects by country, mood, tempo and style, listen to featured releases and find new music. 
+
+[ Explore the Bestiary → ](/dungeon-synth-artists/) 
 
 ## The Chronicle
 
@@ -50,11 +58,11 @@ A dark medieval audio saga set in a world changed by a local catastrophe that re
 
 Dungeon Folk Dungeon Synth Medieval Music Dark Folk 
 
-**Dungeon Folk** is a medieval-inspired music genre that blends dark folk melodies, ancient instruments, and fantasy atmospheres. TopfHelm is a **one-man [Dungeon Folk](https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-medieval-sound.html) & [Dungeon Synth](https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy.html)** project that creates immersive compositions using authentic medieval sounds. 
+**Dungeon Folk** is a medieval-inspired music genre that blends dark folk melodies, ancient instruments, and fantasy atmospheres. TopfHelm is a **one-man [Dungeon Folk](https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-medieval-sound) & [Dungeon Synth](https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy)** project that creates immersive compositions using authentic medieval sounds. 
 
 ### The Sound of Dungeon Folk & Dungeon Synth
 
-Inspired by **[medieval music](https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era.html), black metal, and fantasy soundtracks**, TopfHelm combines elements of **Dungeon Synth, Dark Folk, and Medieval Ambient**. The sound features authentic **hurdy-gurdy, lutes, war drums, and other medieval instruments**, replacing synthetic textures for a truly organic medieval atmosphere. 
+Inspired by **[medieval music](https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era), black metal, and fantasy soundtracks**, TopfHelm combines elements of **Dungeon Synth, Dark Folk, and Medieval Ambient**. The sound features authentic **hurdy-gurdy, lutes, war drums, and other medieval instruments**, replacing synthetic textures for a truly organic medieval atmosphere. 
 
 ### Independent & Underground
 

@@ -3,11 +3,11 @@ type: article
 title: Your Hatred of AI Won’t Make You More Talented
 description: A personal take on using AI in music and visual art. Why it's not a threat — it's a tool. And what real creativity means in the 21st century.
 url: https://topfhelm.com/articles/AI-in-art.html
-canonical: https://topfhelm.com/articles/ai-in-art.html
+canonical: https://topfhelm.com/articles/ai-in-art
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-02
+last_updated: 2026-08-15
 ---
 
 Dark Mode 

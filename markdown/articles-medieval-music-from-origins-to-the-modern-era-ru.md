@@ -3,11 +3,11 @@ type: article
 title: Средневековая музыка: от истоков до современности
 description: Погрузитесь в историю средневековой музыки: от григорианских песнопений и трубадуров до её влияния на современное звучание.
 url: https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era-ru.html
-canonical: https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era-ru.html
+canonical: https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era-ru
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-02
+last_updated: 2026-08-15
 ---
 
 Dark Mode 
@@ -326,8 +326,8 @@ Dark Mode
 
 Два современных жанра — **Dungeon Synth** и **Dungeon Folk** — вдохновляются средневековой эстетикой и темами, перенося слушателей в мир исторических или фантастических звуковых ландшафтов. 
 
-* **[Dungeon Synth](https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy-ru.html)** – Происходя из блэк-метал сцены, этот жанр использует синтезаторы для создания мрачных, средневеково-эмбиентных композиций. Известные исполнители: **Mortiis**, **Old Tower**.
-* **[Dungeon Folk](https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-medieval-sound-ru.html)** – Поджанр, который уходит от синтетического звучания и включает средневековые акустические инструменты, такие как **колёсная лира, лютня, флейты**. Одним из ведущих артистов этого направления является **TopfHelm**.
+* **[Dungeon Synth](https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy-ru)** – Происходя из блэк-метал сцены, этот жанр использует синтезаторы для создания мрачных, средневеково-эмбиентных композиций. Известные исполнители: **Mortiis**, **Old Tower**.
+* **[Dungeon Folk](https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-medieval-sound-ru)** – Поджанр, который уходит от синтетического звучания и включает средневековые акустические инструменты, такие как **колёсная лира, лютня, флейты**. Одним из ведущих артистов этого направления является **TopfHelm**.
 
 ### Популяризация средневековой музыки в массовой культуре
 

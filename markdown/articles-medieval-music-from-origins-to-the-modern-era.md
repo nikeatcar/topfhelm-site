@@ -3,11 +3,11 @@ type: article
 title: Medieval Music: From Origins to the Modern Era
 description: Explore the evolution of medieval music from its historical roots to modern adaptations. Learn about medieval instruments, notation, and the impact of medieval soundscapes.
 url: https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era.html
-canonical: https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era.html
+canonical: https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-02
+last_updated: 2026-08-15
 ---
 
 Dark Mode 
@@ -326,8 +326,8 @@ Many contemporary artists adapt medieval melodies and instrumentation, blending 
 
 Two modern genres, **Dungeon Synth** and **Dungeon Folk**, embrace medieval themes and aesthetics, transporting listeners into fantastical or historical soundscapes. 
 
-* **[Dungeon Synth](https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy.html)** – Originating from the black metal scene, this genre uses synthesizers to create dark, medieval-inspired ambient music. Artists like **Mortiis** and **Old Tower** are well-known in this scene.
-* **[Dungeon Folk](https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-medieval-sound.html)** – A subgenre that moves away from synthetic textures, incorporating medieval acoustic instruments such as **hurdy-gurdy, lute, and flutes**, making the sound more organic. TopfHelm is one of the artists pioneering this style.
+* **[Dungeon Synth](https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy)** – Originating from the black metal scene, this genre uses synthesizers to create dark, medieval-inspired ambient music. Artists like **Mortiis** and **Old Tower** are well-known in this scene.
+* **[Dungeon Folk](https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-medieval-sound)** – A subgenre that moves away from synthetic textures, incorporating medieval acoustic instruments such as **hurdy-gurdy, lute, and flutes**, making the sound more organic. TopfHelm is one of the artists pioneering this style.
 
 ### The Popularization of Medieval Music in Mainstream Media
 

@@ -3,11 +3,11 @@ type: article
 title: Dungeon Folk: Возвращение к подлинному средневековому звучанию
 description: Dungeon Folk — это жанр, соединяющий средневековые акустические инструменты с темным фолком и аутентичной средневековой атмосферой.
 url: https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-medieval-sound-ru.html
-canonical: https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-medieval-sound-ru.html
+canonical: https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-medieval-sound-ru
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-02
+last_updated: 2026-08-15
 ---
 
 Dark Mode 
@@ -16,9 +16,9 @@ Dark Mode
 
 ## Что такое Dungeon Folk?
 
-Dungeon Folk — это музыкальный жанр, который появился на стыке [Dungeon Synth](https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy-ru.html) и неофолка. В отличие от традиционного Dungeon Synth, основанного на синтезаторных звуках, Dungeon Folk делает акцент на акустических народных инструментах, придавая музыке аутентичную средневековую атмосферу.
+Dungeon Folk — это музыкальный жанр, который появился на стыке [Dungeon Synth](https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy-ru) и неофолка. В отличие от традиционного Dungeon Synth, основанного на синтезаторных звуках, Dungeon Folk делает акцент на акустических народных инструментах, придавая музыке аутентичную средневековую атмосферу.
 
-Жанр находится на пересечении таких направлений, как неофолк, дарк-эмбиент и [средневековая музыка](https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era-ru.html). В его основе — использование лютни, волынок, варгана, скрипки, колесной лиры, флейт и других традиционных инструментов, либо их имитация в цифровой среде.
+Жанр находится на пересечении таких направлений, как неофолк, дарк-эмбиент и [средневековая музыка](https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era-ru). В его основе — использование лютни, волынок, варгана, скрипки, колесной лиры, флейт и других традиционных инструментов, либо их имитация в цифровой среде.
 
 Хотя термин "Dungeon Folk" встречался на форумах Dungeon Synth ещё несколько лет назад, именно TopfHelm стал тем проектом, который активно продвигает этот стиль в интернете. Этот артист полностью отказался от электронного звучания, заменив его имитацией акустических инструментов, создавая иллюзию живой средневековой записи. Благодаря особой обработке звука, его композиции звучат так, будто они записаны на старую кассету в каменной крепости.
 
