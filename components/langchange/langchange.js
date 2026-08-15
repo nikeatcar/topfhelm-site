@@ -140,7 +140,7 @@ class LangChange {
             currentURL === "/dungeon-synth-artists/ru/" ||
             currentURL === "/dungeon-synth-artists/index-ru.html"
         )
-            return "/composer/";
+            return "/dungeon-synth-artists/";
 
         // Articles
         if (currentURL.includes("/articles/")) {
