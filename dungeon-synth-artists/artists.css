@@ -821,23 +821,324 @@ body.ru .artist-links{
 
 }
 
+/* ==========================================================
+   TABLET
+========================================================== */
+
 @media (max-width:900px){
 
-    .artist-attributes{
+    .artists-content{
+        width:min(100% - 32px, 760px);
+    }
 
+    .artists-list{
+        gap:20px;
+    }
+
+    .artist-header{
+        grid-template-columns:44px 64px minmax(0,1fr);
+
+        gap:16px;
+
+        padding:10px 20px;
+
+        box-sizing:border-box;
+    }
+
+    .artist-header img{
+        width:58px;
+        height:58px;
+    }
+
+    .artist-header span:last-child{
+        min-width:0;
+
+        font-size:clamp(26px,5vw,38px);
+
+        line-height:1.05;
+
+        overflow-wrap:anywhere;
+    }
+
+    /*
+       КЛЮЧЕВО:
+       убираем desktop 380px + player
+    */
+    .artist-top{
         grid-template-columns:1fr;
 
+        gap:26px;
+
+        margin-bottom:28px;
+    }
+
+    .artist-attributes{
+        grid-template-columns:1fr 1fr;
+    }
+
+    .artist-player{
+        width:100%;
+    }
+
+    .artist-bandcamp-player,
+    .artist-spotify-player{
+        width:100%;
+        max-width:400px;
     }
 
 }
 
-@media (max-width:520px){
 
-    .artist-player iframe{
+/* ==========================================================
+   MOBILE
+========================================================== */
+
+@media (max-width:600px){
+
+    .artists-page{
+        padding-bottom:100px;
+    }
+
+    .artists-hero{
+        margin-bottom:50px;
+    }
+
+    .artists-content{
+        width:calc(100% - 24px);
+    }
+
+    .artists-title{
+        margin-bottom:24px;
+    }
+
+    .artists-subtitle{
+        font-size:18px;
+        line-height:1.45;
+        margin-bottom:24px;
+    }
+
+    .artists-intro{
+        font-size:15px;
+        line-height:1.7;
+    }
+
+    .artists-list{
+        gap:14px;
+    }
+
+    /* CARD */
+
+    .artist-card{
+        border-radius:12px;
+    }
+
+    /* HEADER */
+
+    .artist-header{
+        grid-template-columns:30px 52px minmax(0,1fr);
+
+        gap:10px;
+
+        padding:9px 12px;
+
+        min-height:74px;
+
+        box-sizing:border-box;
+    }
+
+    .artist-arrow{
+        font-size:22px;
+    }
+
+    .artist-header img{
+        width:48px;
+        height:48px;
+
+        border-radius:50%;
+    }
+
+    .artist-header span:last-child{
+        font-size:clamp(20px,7vw,30px);
+
+        line-height:1;
+
+        letter-spacing:.025em;
+
+        text-align:left;
+
+        overflow-wrap:anywhere;
+        word-break:normal;
+    }
+
+    /* BODY */
+
+    .artist-card.open .artist-body{
+        padding:14px;
+    }
+
+    .artist-banner{
+        aspect-ratio:3 / 1;
+
+        padding-bottom:14px;
+    }
+
+    .artist-top{
+        display:grid;
+
+        grid-template-columns:minmax(0,1fr);
+
+        gap:22px;
 
         width:100%;
-        max-width:400px;
 
+        margin-bottom:24px;
+    }
+
+    /* ATTRIBUTES */
+
+    .artist-attributes{
+        grid-template-columns:1fr 1fr;
+
+        gap:10px;
+    }
+
+    .artist-attributes div{
+        min-width:0;
+
+        padding:11px 8px;
+    }
+
+    .artist-attributes strong{
+        font-size:13px;
+        margin-bottom:4px;
+    }
+
+    .artist-attributes span{
+        font-size:13px;
+
+        overflow-wrap:anywhere;
+    }
+
+    /* LINKS */
+
+    .artist-links{
+        gap:10px;
+        margin-top:20px;
+    }
+
+    .artist-links a{
+        padding:10px 14px;
+
+        font-size:13px;
+    }
+
+    /* PLAYER */
+
+    .artist-player{
+        width:100%;
+        max-width:100%;
+
+        overflow:hidden;
+    }
+
+    .artist-player iframe,
+    .artist-bandcamp-player,
+    .artist-spotify-player{
+        display:block;
+
+        width:100% !important;
+        max-width:100% !important;
+    }
+
+    /* DESCRIPTION */
+
+    .artist-description{
+        margin-top:24px;
+
+        padding-top:22px;
+    }
+
+    .artist-description p{
+        font-size:15px;
+
+        line-height:1.65;
+    }
+
+    /* NAVIGATION TAB */
+
+    .artists-sidebar-toggle{
+        right:-42px;
+
+        width:42px;
+        min-height:160px;
+    }
+
+    .artists-sidebar-toggle-text{
+        font-size:12px;
+
+        letter-spacing:1.5px;
+    }
+
+}
+
+
+/* ==========================================================
+   SMALL MOBILE
+========================================================== */
+
+@media (max-width:400px){
+
+    .artists-content{
+        width:calc(100% - 16px);
+    }
+
+    .artist-header{
+        grid-template-columns:26px 46px minmax(0,1fr);
+
+        gap:8px;
+
+        padding:8px 9px;
+
+        min-height:66px;
+    }
+
+    .artist-header img{
+        width:42px;
+        height:42px;
+    }
+
+    .artist-arrow{
+        font-size:19px;
+    }
+
+    .artist-header span:last-child{
+        font-size:clamp(17px,6.5vw,23px);
+
+        letter-spacing:0;
+    }
+
+    .artist-card.open .artist-body{
+        padding:10px;
+    }
+
+    .artist-attributes{
+        grid-template-columns:1fr;
+    }
+
+    .artist-attributes div{
+        padding:10px;
+    }
+
+    .artist-description p{
+        font-size:14px;
+    }
+
+    .artists-sidebar-toggle{
+        right:-38px;
+
+        width:38px;
+
+        min-height:150px;
     }
 
 }
