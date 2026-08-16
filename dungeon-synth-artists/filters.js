@@ -1,9 +1,3 @@
-document.addEventListener("DOMContentLoaded", () => {
-
-    initFilters();
-
-});
-
 /* ==========================================================
    Filters
 ========================================================== */
@@ -16,6 +10,10 @@ function initFilters() {
     const style   = document.getElementById("filter-style");
     const mood    = document.getElementById("filter-mood");
     const tempo   = document.getElementById("filter-tempo");
+
+    if (!country || !style || !mood || !tempo) {
+        return;
+    }
 
     const lang = window.currentLanguage || "en";
     const ui = window.ArtistsI18N?.[lang] || window.ArtistsI18N.en;
@@ -41,18 +39,22 @@ function initFilters() {
 
             const visible =
 
-                matches(country.value, artist.country, "Country") &&
-                matches(style.value, artist.style, "Style") &&
-                matches(mood.value, artist.mood, "Mood") &&
-                matches(tempo.value, artist.tempo, "Tempo");
+                matches(country.value, artist.country) &&
+                matches(style.value, artist.style) &&
+                matches(mood.value, artist.mood) &&
+                matches(tempo.value, artist.tempo);
 
             card.style.display = visible ? "" : "none";
 
         });
 
+        // Обновляем счётчик после фильтрации
+        updateArtistsCount();
+
     }
 
 }
+
 
 /* ==========================================================
    Helpers
@@ -69,20 +71,24 @@ function fillSelect(select, artists, field, placeholder) {
 
     select.innerHTML = "";
 
-    select.appendChild(new Option(placeholder, ""));
+    select.appendChild(
+        new Option(placeholder, "")
+    );
 
     values.forEach(value => {
 
-        select.appendChild(new Option(value, value));
+        select.appendChild(
+            new Option(value, value)
+        );
 
     });
 
 }
 
-function matches(selected, actual, placeholder) {
+
+function matches(selected, actual) {
 
     return selected === "" ||
-           selected === placeholder ||
            selected === actual;
 
 }

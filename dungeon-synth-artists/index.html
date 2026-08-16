@@ -165,24 +165,34 @@
     </script>
 
 
-    <!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-    ;;                           GOOGLE ANALYTICS                                 ;;
-    ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+<!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                              GOOGLE ANALYTICS                               ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
 
-    <script async
-            src="https://www.googletagmanager.com/gtag/js?id=G-8Y96LHKN6L"></script>
+<script>
+if (
+    location.hostname !== "127.0.0.1" &&
+    location.hostname !== "localhost"
+) {
 
-    <script defer>
+    const script = document.createElement("script");
 
-        window.dataLayer = window.dataLayer || [];
+    script.async = true;
+    script.src =
+        "https://www.googletagmanager.com/gtag/js?id=G-8Y96LHKN6L";
 
-        function gtag(){dataLayer.push(arguments);}
+    document.head.appendChild(script);
 
-        gtag('js', new Date());
+    window.dataLayer = window.dataLayer || [];
 
-        gtag('config','G-8Y96LHKN6L');
+    window.gtag = function(){
+        dataLayer.push(arguments);
+    };
 
-    </script>
+    gtag("js", new Date());
+    gtag("config", "G-8Y96LHKN6L");
+}
+</script>
 
 <script>
     window.currentLanguage = "en";
@@ -397,10 +407,25 @@ SIDEBAR
 
     </section>
 
+<!-- ==========================================================
+                        COUNT
+========================================================== -->
+<div class="artists-counter" aria-live="polite">
 
-    <!-- ==========================================================
-    ARTISTS
-    ========================================================== -->
+    <span class="artists-counter-line"></span>
+
+    <div class="artists-counter-value">
+        <span id="artists-count">0</span>
+        <small data-artists-counter-label>ARTISTS</small>
+    </div>
+
+    <span class="artists-counter-line"></span>
+
+</div>
+
+<!-- ==========================================================
+                        ARTISTS
+========================================================== -->
 
 <section class="artists-content">
 

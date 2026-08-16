@@ -156,6 +156,8 @@ function renderArtists(){
 
     });
 
+    updateArtistsCount();
+
 }
 
 function renderLinks(artist){
@@ -226,6 +228,31 @@ function renderLinks(artist){
 
 }
 
+function updateArtistsCount(){
+
+    const cards = document.querySelectorAll(".artist-card");
+
+    let visibleCount = 0;
+
+    cards.forEach(card => {
+
+        const hidden =
+            card.hidden ||
+            card.style.display === "none";
+
+        if (!hidden){
+            visibleCount++;
+        }
+
+    });
+
+    const counter = document.getElementById("artists-count");
+
+    if (counter){
+        counter.textContent = visibleCount;
+    }
+
+}
 
 function renderPlayer(player){
 

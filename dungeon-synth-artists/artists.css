@@ -650,6 +650,143 @@ body.ru .artist-links{
 }
 
 /* ==========================================================
+   ARTISTS COUNTER
+========================================================== */
+
+.artists-counter{
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+    gap:24px;
+
+    width:min(600px, calc(100% - 40px));
+
+    margin:20px auto 50px;
+
+}
+
+.artists-counter-line{
+
+    flex:1;
+    height:1px;
+
+    background:linear-gradient(
+        90deg,
+        transparent,
+        rgba(215,179,122,.65)
+    );
+
+}
+
+.artists-counter-line:last-child{
+
+    background:linear-gradient(
+        90deg,
+        rgba(215,179,122,.65),
+        transparent
+    );
+
+}
+
+.artists-counter-value{
+
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+
+    min-width:110px;
+
+}
+
+#artists-count{
+
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+
+    font-size:75px;
+    line-height:1;
+
+    font-weight:700;
+
+    background:linear-gradient(
+        110deg,
+        #80602f 0%,
+        #c89d55 20%,
+        #f5dfa4 42%,
+        #fff3c4 50%,
+        #d7b37a 60%,
+        #80602f 100%
+    );
+
+    background-size:220% auto;
+
+    -webkit-background-clip:text;
+    background-clip:text;
+
+    -webkit-text-fill-color:transparent;
+
+    animation:artists-counter-shine 6s linear infinite;
+
+    filter:drop-shadow(
+        0 0 7px rgba(215,179,122,.20)
+    );
+
+}
+
+.artists-counter-value small{
+
+    margin-top:6px;
+
+    font-family:"Blackcraft", serif;
+
+    font-size:18px;
+
+    letter-spacing:.24em;
+
+    color:#a48b5d;
+
+}
+
+@keyframes artists-counter-shine{
+
+    0%{
+        background-position:200% center;
+    }
+
+    100%{
+        background-position:-200% center;
+    }
+
+}
+
+@media (max-width:600px){
+
+    .artists-counter{
+
+        gap:14px;
+
+        width:calc(100% - 30px);
+
+        margin:10px auto 35px;
+
+    }
+
+    #artists-count{
+        font-size:40px;
+    }
+
+    .artists-counter-value small{
+
+        font-size:10px;
+
+        letter-spacing:.18em;
+
+    }
+
+}
+
+/* ==========================================================
   Responsive
 ========================================================== */
 
