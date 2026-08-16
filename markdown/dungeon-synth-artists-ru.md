@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/ru/
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-15
+last_updated: 2026-08-16
 ---
 
 # Каталог Dungeon Synth исполнителей — Dungeon Synth Bestiary 
@@ -19,6 +19,8 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 Профиль каждого исполнителя содержит информацию о стране, настроении, темпе и стиле, ссылки на музыку и встроенный плеер, помогая находить как известных Dungeon Synth артистов, так и малоизвестные андеграундные проекты. 
 
 Если вы хотите предложить свой проект или сообщить об ошибке в информации, воспользуйтесь формой связи ниже. 
+
+0 АРТИСТОВ 
 
 ## Исполнители
 
@@ -59,6 +61,19 @@ An Old Sad Ghost редко звучит как музыка о победоно
 [YouTube](https://www.youtube.com/@anoldsadghost)
 [Website](https://www.instagram.com/anoldsadghost/)
 
+### Armsman Commander
+
+**Страна:** Hungary
+**Стиль:** Fantasy
+**Настроение:** Battle
+**Темп:** Slow
+
+Armsman Commander - венгерский dungeon synth проект Á. H., посвящённый атмосфере средневекового военного лагеря. Единственный известный релиз Obedience (2019) передаёт образы марширующих солдат, рыцарей, боевых знамён, звона оружия, тяжёлых доспехов и боевых коней через маршевые ритмы и мрачный medieval synth. Альбом представлен как «первый урок Командира», превращая военную сторону средневекового фэнтези в небольшую законченную dungeon synth историю.
+
+[Spotify](https://open.spotify.com/artist/5D5X3PodiSeSscR057Cik5)
+[Bandcamp](https://swallowedkeyproductions.bandcamp.com/album/obediencev)
+[Apple Music](https://music.apple.com/us/album/obedience-ep/1484307403)
+
 ### Ashkahn
 
 **Страна:** USA
@@ -73,6 +88,22 @@ Ashkahn - перкуссионный Dungeon Synth проект Lord Cervos, в�
 
 [Bandcamp](https://ashkahn.bandcamp.com/)
 [YouTube](https://www.youtube.com/@ashkahn4551)
+
+### Aura Merlin
+
+**Страна:** Canada
+**Стиль:** Fantasy
+**Настроение:** Dreamy
+**Темп:** Slow
+
+Aura Merlin - канадский Dungeon Synth проект родом из Квебека, в настоящее время базирующийся в Великобритании. Проект существует с 2022 года и сочетает Dungeon Synth с элементами New Age, средневекового фолка и фэнтезийной музыки, создавая тёплое, мелодичное и приключенческое звучание.
+
+На последующих релизах этот подход заметно развился. Illuminations принёс более насыщенные аранжировки, перкуссию и выраженный средневековый характер, а Moon Gates расширил палитру за счёт заметного баса, ритмических элементов и акустических инструментов. При этом Aura Merlin сохраняет узнаваемое ощущение волшебства: это мелодичная и красочная сторона Dungeon Synth, скорее напоминающая путешествие по зачарованному саду или ночному замку, чем спуск в мрачное подземелье.
+
+Проект стал заметным именем современной Dungeon Synth сцены, а его физические издания выходили на Ancient King Records, Dungeons Deep Records, Fiadh Productions и Voices of the Ainur.
+
+[Bandcamp](https://auramerlin.bandcamp.com/)
+[Website](https://www.instagram.com/aura_merlin/)
 
 ### Ausum
 
@@ -90,6 +121,17 @@ Ausum - немецкий dungeon synth / dark ambient проект, постро
 Самая интересная работа Ausum - Bone Dust (2023). В credits единственным музыкантом указан S. C., а сам альбом, согласно авторскому описанию, был записан с использованием модулированной сонификации человеческих костей. Dungeon synth здесь фактически разобран до скелета и соединён с dark ritual ambient и эстетикой death industrial: очень медленные, тяжёлые композиции состоят из дронов, неясных шумов и постоянно изменяющихся звуковых слоёв. Позже Steel Martyr переиздал Bone Dust на виниле и прямо охарактеризовал Ausum как немецкий dark ritual ambient проект, использующий dungeon synth в качестве основы.
 
 [Bandcamp](https://ausum.bandcamp.com/)
+
+### Bronzen Oath
+
+**Страна:** USA
+**Стиль:** Ambient
+**Настроение:** Battle
+**Темп:** Slow
+
+Bronzen Oath - анонимный американский dungeon synth проект, посвящённый войне, варварству и мрачному величию древних полей сражений. Единственный известный альбом Eulogy for a Noble Age сочетает медленные маршевые ритмы, тяжёлые барабаны и dark ambient с атмосферой триумфа, опустошения и страдания. Альбом посвящён писателю Роберту Ирвину Говарду и представляет dungeon synth не столько как средневековое фэнтези, сколько как суровый саундтрек к давно исчезнувшей эпохе войн.
+
+[Bandcamp](https://gondolinrecords.bandcamp.com/album/eulogy-for-a-noble-age)
 
 ### Charnel Oubliette
 
@@ -155,6 +197,19 @@ Deep Gnome - dungeon synth / comfy synth проект из штата Мэн, с
 [Apple Music](https://music.apple.com/us/artist/deep-gnome/1694618841)
 [Website](https://www.instagram.com/gnomesynth/)
 
+### Delmak-O
+
+**Страна:** USA
+**Стиль:** Sci-fi
+**Настроение:** Mystical
+**Темп:** Normal
+
+Delmak-O - американский электронный проект Evie, находящийся на пересечении Dungeon Synth, dark ambient, Berlin School и аналоговой научно-фантастической электроники. Начиная с Simulacra 2018 года, проект всё сильнее тяготеет к повествовательным концептуальным альбомам: Cerulean Tomb, The Colony и Cryptobiotic рассказывают мрачные истории о погибающих мирах, чужих планетах и космическом ужасе. Насыщенные аналоговые синтезаторы, медленно развивающаяся атмосфера и сопровождающая музыку проза делают Delmak-O скорее саундтреком к потерянному антиутопическому sci-fi фильму, чем традиционным средневековым Dungeon Synth.
+
+[Spotify](https://open.spotify.com/artist/0GilvvQEG3i8rDKunFSz8s)
+[Bandcamp](https://delmak-o.bandcamp.com/)
+[Apple Music](https://music.apple.com/ru/artist/delmak-o/1542884901)
+
 ### DIM
 
 **Страна:** Canada
@@ -188,6 +243,20 @@ Diplodocus - американский Dungeon Synth проект, который
 [Apple Music](https://music.apple.com/us/artist/diplodocus/1490100897)
 [Website](https://www.instagram.com/diplodocus_dino_synth/)
 
+### Drochtuarach
+
+**Страна:** UK
+**Стиль:** Medieval
+**Настроение:** Melancholic
+**Темп:** Slow
+
+Drochtuarach - сольный проект из Лондона, соединяющий Dungeon Synth с классической музыкой, dark ambient, black metal и экспериментальными элементами. Такие релизы, как Vespers of Prideful Scorn и The Pellar, сочетают меланхоличный оркестровый синт, фолковые мелодии и мрачные атмосферные фрагменты, черпая вдохновение в природе и британском фольклоре. В результате получается неторопливый и зачастую скорбный Dungeon Synth, где средневековые образы, древние пейзажи и интроспекция переплетаются с более тёмными black metal корнями проекта.
+
+[Bandcamp](https://drochtuarach.bandcamp.com/)
+[YouTube](https://www.youtube.com/user/WithinTheWater)
+[Apple Music](https://music.apple.com/us/artist/drochtuarach/1210105749?l=zh-Hans-CN)
+[Website](https://www.instagram.com/nicholasdaviesart/)
+
 ### Dungeontroll
 
 **Страна:** Canada
@@ -203,6 +272,22 @@ Dungeontroll - Old-School Dungeon Synth проект, музыка которо�
 [Spotify](https://open.spotify.com/artist/5H5OL2hXSU85HQFz5SvFsE)
 [Bandcamp](https://dungeontroll.bandcamp.com/)
 [Apple Music](https://music.apple.com/gb/artist/dungeontroll/1513126578)
+
+### ELFFOR
+
+**Страна:** Spain
+**Жанр:** OS DS
+**Стиль:** Fantasy
+**Настроение:** Dark
+**Темп:** Slow
+
+ELFFOR - один из старейших действующих Dungeon Synth / Atmospheric Black Metal проектов Испании, основанный Eöl в Бискайе в 1995 году. Дебютный альбом Into the Dark Forest... вышел в 1998 году и относится ещё к ранней эпохе Dungeon Synth. Уже здесь сформировался характерный мир ELFFOR: средневековая тьма, туманные леса, забытые королевства и масштабные клавишные композиции. В дальнейшем Eöl постоянно двигался между чистым Dungeon Synth и Atmospheric Black Metal, соединяя оркестровые синтезаторы, суровый вокал и эпическую средневековую атмосферу.
+
+За десятилетия существования у ELFFOR сформировалась огромная дискография, включающая Son of the Shades, Unblessed Woods, Frostbitten Pain, Heriotz Sustraiak, Malkhedant, трилогию Dra Sad, Arkaik, Uhgluk, Utmost Antiquity и множество других работ. Одни альбомы практически полностью построены вокруг синтезаторов, другие включают гитары, бас и ударные, поэтому переход между Dungeon Synth и Atmospheric Black Metal фактически стал одной из особенностей проекта. Центральной фигурой ELFFOR остаётся Eöl - композитор и клавишник, периодически привлекающий других музыкантов.
+
+Спустя более тридцати лет после основания ELFFOR продолжает выпускать новую музыку: в 2025 году появился Utmost Antiquity, а в 2026-м - The Silent Watchtower, сохраняющий мрачный, эпический и подчёркнуто олдскульный характер проекта.
+
+[Bandcamp](https://elffor.bandcamp.com/)
 
 ### Elminster
 
@@ -273,6 +358,19 @@ Ervald - американский Fantasy / Dungeon Synth проект из Ци
 [Bandcamp](https://ervald.bandcamp.com/)
 [Website](https://www.instagram.com/_ervald/)
 
+### Ethereal Journeys
+
+**Страна:** USA
+**Стиль:** Ambient
+**Настроение:** Dark
+**Темп:** Slow
+
+Ethereal Journeys - американский Dungeon Synth проект Шона Смита (Sean Smith), выпускающийся под именем Nokturniis. Его музыка представляет более мягкую и сновидческую сторону жанра: медленный эмбиент, меланхоличные мелодии, lo-fi звучание и атмосфера воспоминаний, одиночества и романтической тоски. Сам автор определяет этот стиль как «dreamy, reminiscing, mournful Dungeon Synth» - особенно ярко он проявился в трилогии The Woman in White, выходившей на протяжении 2020 года.
+
+Вместо сражений, крепостей и героического фэнтези Ethereal Journeys обращается к более личным и призрачным образам: дождю, зимним ночам, исчезающим воспоминаниям и загадочной Женщине в белом. Трилогия завершилась альбомом The Woman in White III, а последующий Heavenly Abyss собрал три композиции, оставшиеся после работы над этим циклом. Благодаря такому необычно спокойному подходу The Woman in White также относят к Dream Synth / Ethereal Synth, а в современных материалах о Dungeon Synth альбом описывают как одновременно призрачную, уютную и созерцательную музыку.
+
+[Bandcamp](https://nokturniis.bandcamp.com/album/the-woman-in-white)
+
 ### Execration Chamber
 
 **Страна:** Canada
@@ -294,6 +392,17 @@ ZS также участвует в записях других dungeon synth п
 
 [Spotify](https://open.spotify.com/artist/3C4Z8WyQfb7yL0xUdj1ZpR)
 [Bandcamp](https://execrationchamber.bandcamp.com/)
+
+### feth
+
+**Страна:** UK
+**Стиль:** Experimental
+**Настроение:** Dark
+**Темп:** Normal
+
+feth - британский dungeon synth проект, чья музыка строится вокруг животных, фольклора, старинной литературы и архаичной визуальной культуры. Начиная с Field, Forest & Fen в 2022 году, проект постепенно сформировал собственную взаимосвязанную мифологию с животными, странствующими рассказчиками и фантастическими королевствами, используя мотивы Эзопа, средневековых и раннемодерных текстов, библейские образы и исторические иллюстрации. Музыкально feth тяготеет к сырому, минималистичному и lo-fi dungeon synth с землистой и немного тревожной атмосферой, заметно отличающейся от традиционного средневекового fantasy synth.
+
+[Bandcamp](https://feth.bandcamp.com/music)
 
 ### Fief
 
@@ -432,6 +541,41 @@ Kyūketsuki - экспериментальный проект на пересе�
 [Bandcamp](https://kyuketsuki.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/kyuketsuki/1529558937?l=ru)
 
+### L A N D S R A A D
+
+**Страна:** UK
+**Стиль:** Sci-fi
+**Настроение:** Dreamy
+**Темп:** Slow
+
+L A N D S R A A D - британский Dungeon Synth проект, вдохновлённый вселенной Dune Фрэнка Герберта. Начиная с The Golden Path 2021 года, проект соединяет Dungeon Synth с берлинской школой электронной музыки, kosmische и space ambient, посвящая основные альбомы мифологии и атмосфере последовательных романов цикла. В результате получается узнаваемый космический Dungeon Synth с масштабными синтезаторами, гипнотическими секвенциями и выраженным фантастическим миростроением.
+
+[Spotify](https://open.spotify.com/artist/0QCJuJZRj2MUeKZTp8ZgNs)
+[Bandcamp](https://landsraad.bandcamp.com/)
+[Apple Music](https://music.apple.com/us/artist/l-a-n-d-s-r-a-a-d/1624569378)
+
+### Loitommas
+
+**Страна:** Finland
+**Стиль:** Ambient
+**Настроение:** Dark
+**Темп:** Slow
+
+Loitommas - финский Dungeon Synth проект с холодной, сновидческой и зачастую глубоко меланхоличной атмосферой. Такие релизы, как Unen olemattomat ulottuvuudet, Varjohenget и Kosmiset kohtalot, находятся на пересечении Dungeon Synth, dark ambient и Forest Synth, вызывая образы замёрзших пейзажей, забытых пещер и странных измерений за пределами реальности. По своему звучанию Loitommas относится к более мрачной и интроспективной стороне финского Dungeon Synth андеграунда.
+
+[Bandcamp](https://loitommas.bandcamp.com/)
+
+### Lurk
+
+**Страна:** USA
+**Стиль:** Experimental
+**Настроение:** Epic
+**Темп:** Slow
+
+Lurk - dark dungeon synth проект Эндрю Мейера (Andrew Meier) из Чикаго, также выступающего под именем The Lurker at the Threshold. Появившись в 2020 году, проект соединил dungeon synth и dark ambient с хоррор-саунд-дизайном, кинематографическими аранжировками и периодическим использованием ритмов, пришедших из хип-хопа. Центральной темой раннего творчества стал лавкрафтовский космический ужас, наиболее полно раскрытый на дебютном альбоме From the Depths of Y'ha-nthlei - путешествии через миры снов, запретные храмы и апокалиптические видения. Позднее Lurk вышел за пределы Лавкрафта: Illimitable Dominion обращается к Эдгару Аллану По и заметно сильнее использует trap-ритмику и элементы crypt hop. Проект также сотрудничал с MuraZor, Vandalorum и Guild of Lore и появлялся на сборниках Dungeon Synth Cult и Crypt Hop.
+
+[Bandcamp](https://lurkmusick.bandcamp.com/)
+
 ### Malfet
 
 **Страна:** USA
@@ -530,11 +674,24 @@ Mushroom Grandpa - украинский Comfy Synth проект, базирущ
 [Apple Music](https://music.apple.com/us/artist/mushroom-grandpa/1655204514)
 [Website](https://www.instagram.com/mushroomgrandpa/)
 
+### Mycologia
+
+**Страна:** USA
+**Стиль:** Experimental
+**Настроение:** Adventure
+**Темп:** Normal
+
+Mycologia - американский Dungeon Synth проект плодовитого композитора Adam Matlock, целиком посвящённый грибам и окружающему их странному природному миру. Начиная с Assorted Mushrooms of New England 2019 года, проект превращает реальные виды грибов в причудливые музыкальные зарисовки, соединяя old-school Dungeon Synth с Forest Synth, эмбиентом и элементами comfy и прогрессивной электронной музыки. Благодаря настолько специфической микологической концепции Mycologia стал одним из наиболее узнаваемых представителей небольшой ветви Mushroom Synth.
+
+[Spotify](https://open.spotify.com/artist/3K227HQaApYmuPfo79HSIb)
+[Bandcamp](https://mycologia.bandcamp.com/)
+[Apple Music](https://music.apple.com/us/artist/mycologia/1613706568)
+
 ### Neverlur
 
 **Страна:** Canada
 **Жанр:** OS DS
-**Стиль:** Minimalistic
+**Стиль:** Medieval
 **Настроение:** Epic
 **Темп:** Slow
 
@@ -558,7 +715,7 @@ Neverlur - канадский old-school Dungeon Synth проект из Аль�
 
 **Страна:** USA
 **Жанр:** RAW DS
-**Стиль:** Minimalistic
+**Стиль:** RAW
 **Настроение:** Melancholic
 **Темп:** Slow
 
@@ -745,6 +902,22 @@ Tales Under The Oak - берлинский dungeon synth и fantasy synth про
 
 Toad Sage - американский dungeon synth проект из Форт-Уэйна, штат Индиана, созданный музыкантом Беном, также использующим имя Faroheim the Toad Sage. Его музыка свободно перемещается между средневековым dungeon synth, fantasy ambient и более мрачными атмосферными направлениями, причём отдельные релизы часто посвящены собственным маленьким мирам: забытым королевствам, одиноким рыцарям, зимним землям, морским путешествиям и даже доисторическим эпохам. The Long Forgotten Realm, Sorrowed Waters, The Journey of the Wizard Sage и Winterhearth хорошо показывают характер проекта - музыка здесь прежде всего служит средством рассказать историю и уйти в вымышленный мир.
 
+### Tomb Snail
+
+**Страна:** UK
+**Стиль:** RAW
+**Настроение:** Dreamy
+**Темп:** Slow
+
+Tomb Snail - Dungeon Synth проект из Глазго, Великобритания, созданный музыкантом под псевдонимом Lord Slime. Сам автор описывает проект как «Lo-Fi and noisy Dungeon Synth from the depths of the ancient tomb». Это намеренно примитивная, грязная и экспериментальная разновидность жанра, где сырой синтезаторный звук, dark ambient и noise соединяются с необычной фэнтезийной концепцией о древней улитке, заточённой глубоко под землёй.
+
+Дебютный Slime Prison (2021) знакомит слушателя с Lord Slime - древним одиноким существом, запертым в зловонной гробнице среди покрытых слизью стен и постепенно теряющим рассудок. Грубое звучание здесь является частью концепции: автор специально указывает, что музыка была сочинена и записана «primitive methods», что хорошо соответствует клаустрофобной эстетике raw Dungeon Synth. История продолжается на Cosmic Dreamquest (2022), однако музыкальный подход резко меняется. Вместо коротких мрачных мелодий дебюта здесь звучит одна 38-минутная композиция, построенная на психоделическом минимализме, drone и harsh noise wall и сопровождающая бесконечное путешествие Lord Slime за пределы его подземной тюрьмы.
+
+Благодаря этому Tomb Snail занимает необычное место в Dungeon Synth: фэнтезийный мир и lo-fi эстетика жанра сохраняются, но привычная мелодичность временами практически полностью уступает место шуму, дроуну и повторяющимся звуковым текстурам. The Quietus также характеризовал Cosmic Dreamquest как беспощадный blackened drone, что хорошо показывает, насколько далеко проект отходит от традиционного Dungeon Synth, не теряя его подземной атмосферы.
+
+[Bandcamp](https://tombsnail.bandcamp.com/)
+[Website](https://www.instagram.com/tombsnail/)
+
 ### TopfHelm
 
 **Страна:** Belarus
@@ -778,6 +951,17 @@ Omegalodon переносит эту концепцию в доисториче�
 
 [Spotify](https://open.spotify.com/artist/5sabXw9KkbBo15xw6TXx5Z)
 [Bandcamp](https://unrealestaterecords.bandcamp.com/album/tryptacobithicus)
+
+### Ulfberht
+
+**Страна:** USA
+**Стиль:** Experimental
+**Настроение:** Battle
+**Темп:** Slow
+
+Ulfberht - Dungeon Synth проект из Чикаго, созданный M. Knagge. Релиз Vikingr 2020 года посвящён викингам, морским походам и завоеваниям, сочетая минималистичный lo-fi Dungeon Synth с мрачной исторической атмосферой.
+
+[Bandcamp](https://ulfberht.bandcamp.com/)
 
 ### ULK
 
@@ -821,6 +1005,33 @@ Utred - российский dungeon synth проект из Москвы, су�
 
 [Bandcamp](https://utred.bandcamp.com/)
 
+### Vanishing Amulet
+
+**Страна:** USA
+**Стиль:** Fantasy
+**Настроение:** Melancholic
+**Темп:** Slow
+
+Vanishing Amulet - американский romantic dungeon synth проект музыканта, выступающего под именем Withering Prince. Дебютный релиз Nocturnal Heritage вышел в 2022 году и сразу обозначил характерную территорию проекта: готическая романтика, меланхолия и угасшее величие вымышленного аристократического прошлого. Синтезаторные композиции вызывают образы заброшенных поместий, залитых лунным светом комнат, старых портретов, кружевных занавесей и воспоминаний об исчезнувшей знати, сочетая сыроватую эстетику old-school dungeon synth с необычно нежными и печальными мелодиями. После нескольких лет тишины Vanishing Amulet вернулся в 2025 году с Moonlit Cryer, развив свою узнаваемую викторианско-готическую атмосферу в более масштабном и проработанном альбоме. Релизы на Dungeons Deep Records и заметный интерес сообщества сделали Vanishing Amulet одним из ярких представителей романтической стороны dungeon synth.
+
+[Spotify](https://open.spotify.com/artist/1HDcQH3PykwtmRdmW3mfHv)
+[Bandcamp](https://vanishingamulet.bandcamp.com/)
+[YouTube](https://www.youtube.com/channel/UC5rirUjQTWwIyJ7hkzk9H4g)
+[Apple Music](https://music.apple.com/kz/artist/vanishing-amulet/1771515398)
+[Website](https://www.instagram.com/vanishingamulet/)
+
+### Waraxe
+
+**Страна:** Greece
+**Стиль:** Fantasy
+**Настроение:** Adventure
+**Темп:** Slow
+
+Waraxe - Dungeon Synth / Fantasy Synth проект из Афин, Греция. Его релизы связаны общей фэнтезийной вселенной с воинами, магией, некромантами и приключениями, а музыка сочетает мелодичный Dungeon Synth с более мрачными атмосферными эпизодами. Начав с Over the Mountains of Blood в 2025 году, Waraxe продолжил развивать этот мир в Spellbook и Necradventure.
+
+[Bandcamp](https://waraxeband.bandcamp.com/)
+[Website](https://www.instagram.com/waraxetheband/)
+
 ### Труп Колдуна
 
 **Страна:** Kazakhstan
@@ -838,6 +1049,17 @@ Warlock Corpse (Труп Колдуна) - базирующийся в Каза�
 [Bandcamp](https://warlockcorpse.bandcamp.com/)
 [YouTube](https://www.youtube.com/@warlockcorpse)
 [Website](https://www.instagram.com/warlockcorpse/)
+
+### Windtower
+
+**Страна:** Hungary
+**Стиль:** Fantasy
+**Настроение:** Adventure
+**Темп:** Normal
+
+Windtower - венгерский Dungeon Synth проект Rietän, существующий с 2019 года. Музыка сочетает средневековую и фэнтезийную атмосферу с мелодичными оркестровыми синтезаторными аранжировками, переходя от мрачных тем меча и магии к более спокойным и фольклорным мотивам. В поздних релизах, особенно серии Glacern, этот подход развивается в сторону более кинематографичных и сюжетных композиций о странствиях, древних легендах и вымышленных землях.
+
+[Bandcamp](https://windtower.bandcamp.com/)
 
 ### Wyrd Gnome
 
