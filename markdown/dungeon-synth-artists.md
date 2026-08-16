@@ -61,6 +61,24 @@ Rather than evoking the triumph of medieval heroes, An Old Sad Ghost often feels
 [YouTube](https://www.youtube.com/@anoldsadghost)
 [Website](https://www.instagram.com/anoldsadghost/)
 
+### Arcana Liturgia
+
+**Country:** Italy
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Slow
+
+Arcana Liturgia is one of the earliest Italian dungeon synth projects, founded in 1997 by the musician known as Lord of Time. Its first works - MCCXXXI (1997), Ars Moriendi (1998) and The Return of the Mighty King (1999) - were created during the genre’s original 1990s era, with the first two circulating as demo tapes before the project disappeared into obscurity.
+
+After roughly two decades, Arcana Liturgia returned in 2019 with Tales of an Ancient World, beginning a remarkably productive second chapter. Since then, Lord of Time has developed a distinctive form of old-school dungeon synth built around medieval fantasy, melancholy, dark ambience and long, narrative compositions. Albums such as Follow the Old Path, The Grey Wanderer, The Ruins of Dalanh, Tome of the Dragon’s Blood and The Wizard often unfold like journeys through forgotten kingdoms, forests, ruins and magical realms.
+
+Arcana Liturgia has also collaborated with projects including Båvingr and Frostgard, the latter resulting in the Tolkien-inspired Istari in 2024. Today the project remains active, making Arcana Liturgia an unusual bridge between the original 1990s dungeon synth underground and the modern scene.
+
+[Spotify](https://open.spotify.com/artist/54AOZvCCnwNXzvbZO0Cij1)
+[Bandcamp](https://arcanaliturgia.bandcamp.com/)
+[YouTube](https://www.youtube.com/channel/UCOFYW5HaWLcDSymBpwkUGAg)
+[Website](https://www.instagram.com/arcanaliturgia/)
+
 ### Armsman Commander
 
 **Country:** Hungary
@@ -73,6 +91,25 @@ Armsman Commander is a Hungarian dungeon synth project by Á. H., built around t
 [Spotify](https://open.spotify.com/artist/5D5X3PodiSeSscR057Cik5)
 [Bandcamp](https://swallowedkeyproductions.bandcamp.com/album/obediencev)
 [Apple Music](https://music.apple.com/us/album/obedience-ep/1484307403)
+
+### ARTHUROS
+
+**Country:** Greece
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Normal
+
+ARTHUROS is a Greek dungeon synth and fantasy music project created in 2019 by Athens-based composer and mastering engineer Constantine Betsas. It emerged after his earlier project Ekthelion, whose dark, claustrophobic sound was centered on underground cathedrals, cursed ruins and brooding minimalism. With Arthuros, Betsas deliberately moved toward a broader and more luminous form of escapism - music of starlit landscapes, forgotten temples, dreams, myths and journeys into the unknown.
+
+The project's debut album Ithildin (2019) retained strong ties to classic dungeon synth and was explicitly inspired by Depressive Silence and Mournlord. From there, however, Arthuros developed an increasingly personal style combining dungeon synth with ethereal ambient, neoclassical and soundtrack-oriented music. Kosmos expanded the project into cosmic and philosophical territory, while Goddess shifted toward romantic introspection. Ultraromance continued this direction with lush, cinematic soundscapes that Gondolin Records described as a distinctive romantic interpretation of dungeon synth.
+
+Greek and European mythology, as well as mythological traditions from around the world, form an important part of Arthuros' imaginary universe. Betsas has also cited Carl Jung's ideas of archetypes and the collective unconscious as an influence. At the center of the project is the idea of a sacred quest: not necessarily a conventional heroic journey toward victory, but an existential passage in which the traveler may disappear, fail or become part of someone else's legend, yet continues onward.
+
+Later releases have pushed the project further into cosmic and cinematic fantasy. Astraláe presented its protagonists as travelers through a celestial saga, while Travelstar continued Betsas' exploration of the mystical and unknown. Arthuros has also collaborated with other dungeon synth artists, including Foglord and Weress on Triune of Stars and Budrum on the 2026 split Where Night Ascends the Iced Thrones of Wizandry.
+
+[Spotify](https://open.spotify.com/artist/17y7UIDfaILpFHfLkF47b1)
+[Bandcamp](https://arthuros.bandcamp.com/)
+[Website](https://www.instagram.com/i_am_arthuros/)
 
 ### Ashkahn
 
@@ -164,6 +201,19 @@ Rather than grand battles or sinister dungeons, Chestnut Brown turns small thing
 
 [Bandcamp](https://chestnutbrown.bandcamp.com/)
 [Website](https://www.instagram.com/chestnutbrownmusic/)
+
+### Criptadel
+
+**Country:** Argentina
+**Style:** Fantasy
+**Mood:** Battle
+**Tempo:** Normal
+
+Criptadel is an Argentine dungeon synth project by Mauro (Uxoria), active since 2019 and based in Buenos Aires. Its music explores a subterranean fantasy world of catacombs, hidden cities and strange creatures, combining traditional dungeon synth with darkwave influences, theatrical voices and unusually heavy rhythms. From the labyrinthine debut The Inverted Tower and the bizarre underground life of The Goblin Market to the martial sound of Brutal Imperium, Criptadel has developed a distinctive narrative-driven approach to the genre. Mauro has also been involved in the Argentine dungeon synth community, including the creation of the Dungeon Synth Argentina compilations.
+
+[Spotify](https://open.spotify.com/artist/2CZWgVgtHvriiCMFjEvM0J)
+[Bandcamp](https://criptadel.bandcamp.com/)
+[Website](https://www.instagram.com/criptadel/)
 
 ### Cursed Pumpkin
 
@@ -259,6 +309,21 @@ Drochtuarach is a solo project from London, UK, blending Dungeon Synth with clas
 [Apple Music](https://music.apple.com/us/artist/drochtuarach/1210105749?l=zh-Hans-CN)
 [Website](https://www.instagram.com/nicholasdaviesart/)
 
+### Druad
+
+**Country:** Croatia
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Slow
+
+Druad is a Croatian dungeon synth project known for expansive, melancholic compositions built around mountains, forests, ancient ruins and solitary journeys through imagined landscapes. The project’s debut, Vast Beneath the Skies, was composed over five years between 2013 and 2018. Released in 2018, it established Druad’s characteristic approach: long-form dungeon synth shaped by serene atmospheres, wistful melodies and a strong sense of distance and wilderness. Gondolin Records described the album as “ethereal melancholy dungeon synth from Croatia” and subsequently issued it on cassette.
+
+Rather than focusing on dungeons, battles or overtly sinister fantasy, Druad often approaches dungeon synth as landscape music. Mountains, rivers, forests, mist, twilight and forgotten structures repeatedly appear both in the music’s titles and in the project’s hand-drawn artwork. This aesthetic continued with the second full-length Eternity Crowns the Wanderer (2021), an atmospheric journey through rivers, valleys and dark forests, followed by Hidden Throne of Valor and Fallen in a Timeworn Twilight. The latter, recorded in 2022, combines heroic imagery with melancholy and a quieter sense of decay; Realm and Ritual described its five long compositions as melancholic, majestic and transportive.
+
+The visual identity is also unusually consistent: Druad creates the artwork as well as the music, giving the project its recognizable monochrome world of mountain fortresses, pine forests, waterfalls and distant horizons. Physical editions have appeared through several established dungeon synth labels, including Gondolin Records, Fableglade Records, Vicious Mockery and Realm and Ritual.
+
+[Bandcamp](https://druad.bandcamp.com/)
+
 ### Dungeontroll
 
 **Country:** Canada
@@ -275,11 +340,37 @@ Musically, the project embraces the simplicity of classic dungeon synth: nostalg
 [Bandcamp](https://dungeontroll.bandcamp.com/)
 [Apple Music](https://music.apple.com/gb/artist/dungeontroll/1513126578)
 
+### Ekthelion
+
+**Country:** Greece
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Normal
+
+Ekthelion is a Greek dungeon synth project founded by Constantine Betsas (Lord Thornophox) and Prince Losdir in 2014. Drawing inspiration from the dark and macabre sound of the 1990s Greek project Lamentation, Ekthelion developed an old-school style centered on gothic and nocturnal imagery rather than traditional heroic fantasy. This approach is especially prominent on Moonrealms (2017), recorded with an old Yamaha Electone and inspired by gothic legends, while Under a Mournful Moon (2019) pushed the project further into vampiric and Dracula-inspired territory.
+
+[Bandcamp](https://ekthelion.bandcamp.com/)
+
+### Eldritch Wizardry
+
+**Country:** USA
+**Style:** Fantasy
+**Mood:** Dark
+**Tempo:** Slow
+
+Eldritch Wizardry is a United States dungeon synth project built around old-school fantasy adventure, sorcery and the atmosphere of classic tabletop role-playing games. Its early releases Ancient And Powerful and From Tavern To Tower appeared in 2019, establishing a melodic, narrative-driven style the project describes as “enchanted melodies to accompany grand adventures.”
+
+Rather than focusing solely on darkness, Eldritch Wizardry often approaches dungeon synth as an imaginary RPG journey. From Tavern To Tower follows an adventurer leaving the village in search of ancient artifacts, while Where None Dare Venture (2020) is structured as a complete quest, with a prologue, six chapters and an epilogue leading through goblin barges, haunted forests and labyrinthine halls toward a cursed fortress. A contemporary review praised the album's narrative strength and its balance between old- and new-school dungeon synth.
+
+The project's connection to tabletop fantasy is especially explicit on the 2020 split Magic of the Mountain Keep with Redhorn Gate, dedicated to and inspired by Gary Gygax and Dave Arneson. Eldritch Wizardry's contribution was originally created in solitude in 2019 and recorded directly to cassette using a keyboard and loop station. Later releases such as Dolorous Tolls (2021) continued its characteristic world of cursed villages, restless dead, wizards and perilous quests.
+
+[Bandcamp](https://eldritchwizardryofficial.bandcamp.com/)
+
 ### ELFFOR
 
 **Country:** Spain
 **Genre:** OS DS
-**Style:** Fantasy
+**Style:** Oldschool
 **Mood:** Dark
 **Tempo:** Slow
 
@@ -395,6 +486,21 @@ The result is a remarkably varied project held together by a recognizable sense 
 [Spotify](https://open.spotify.com/artist/3C4Z8WyQfb7yL0xUdj1ZpR)
 [Bandcamp](https://execrationchamber.bandcamp.com/)
 
+### Faery Ring
+
+**Country:** UK
+**Style:** Medieval
+**Mood:** Epic
+**Tempo:** Slow
+
+Faery Ring is an English dungeon synth project created by Blackthorn, blending old-school dungeon synth, neoclassical dark ambient, folklore and fantasy storytelling. The project emerged in 2015 with Into Darkening Woodland, beginning a series of releases inspired by ancient forests, ruined kingdoms, English countryside and fairy-tale worlds.
+
+Storytelling has always been central to Faery Ring. Early albums such as A Kingdom Beset By Despair (2016) and Leech and Wort (2017) form an interconnected fantasy narrative, while The Urchin Prince (2018) and Dwine (2019) began the Century of Dust cycle. Blackthorn has described dungeon synth as music capable of transporting the listener to other lands and times, combining this idea with his own interest in fantasy fiction and folklore.
+
+After several years without a new album, Faery Ring returned with Mys & Frox (2024), a self-described “Dungeon Synth Romance,” followed by Sylvania Quest! (2025). These later works introduced a more colourful and playful, sometimes almost comfy-synth character while preserving the project's medieval atmosphere, melancholy and strong focus on imaginary worlds.
+
+[Bandcamp](https://faeryring.bandcamp.com/)
+
 ### feth
 
 **Country:** UK
@@ -496,6 +602,40 @@ Across later releases, this personal nostalgia expands into imaginary RPG towns,
 [Spotify](https://open.spotify.com/artist/597we5gApxs0c2fYY2JUH7)
 [Bandcamp](https://grandmascottage.bandcamp.com/)
 [Apple Music](https://music.apple.com/ca/artist/grandmas-cottage/1534102530)
+
+### Henbane
+
+**Country:** Denmark
+**Genre:** OS DS
+**Style:** Oldschool
+**Mood:** Melancholic
+**Tempo:** Slow
+
+Henbane is a Danish dungeon synth project created by C. Haxholm, also known for the black metal project Seiðr. Active since 2015, Henbane builds its music around a deliberately understated, handmade sound inspired by Danish folklore, dark forests and a half-forgotten mythical past. Rather than relying on grand orchestration, the project favors sparse keyboards, simple rhythms and melancholic melodies, giving the music an intimate and distinctly old-school character.
+
+The debut Vildfaren Og Jagtet introduced this approach through nine pieces described as being performed with a hands-on DIY method. It was followed by Indre Kamp and Ruinernes Forbandelse, with the latter described by Gondolin Records as the project's third and, at the time, most refined full-length. Henbane's music was created on two keyboards played simultaneously, emphasizing live performance rather than heavily constructed studio arrangements.
+
+After several years of silence, Henbane returned with Grimyrk in 2022. The album served as the soundtrack to a dark Norse tale by Danish author Benni Bødker and continued the project's brooding but restrained style. Across its releases, Henbane remains rooted in melancholy, folklore and the atmosphere of the Danish countryside rather than heroic fantasy, creating dungeon synth that feels solitary, misty and strangely personal.
+
+[Bandcamp](https://gondolinrecords.bandcamp.com/album/indre-kamp)
+
+### Hideous Gomphidius
+
+**Country:** USA
+**Style:** Ambient
+**Mood:** Dark
+**Tempo:** Slow
+
+Hideous Gomphidius is a dungeon synth project by Evergreen, the musician also behind projects including Fogweaver, Snowspire, Keys to Oneiria and several others. Based in Portland, Oregon, Hideous Gomphidius takes dungeon synth underground in the most literal sense: its entire world revolves around mushrooms, mycelium, poisonous fungi, strange subterranean creatures and fungal sorcery. Evergreen describes the music as “Spore Sorcery & Mycelial Magick,” dedicated to the mysterious “Mold Ways.”
+
+The project began with Spore Sorcery in 2020 and continued through Keepers of the Fungal Order (2021), Spell of the Mycomancer (2021) and Apparitions of the Sporeborn (2022). Rather than using the usual castles, knights and forgotten kingdoms of dungeon synth, Hideous Gomphidius builds its fantasy around fungal caverns and decaying forest floors. Titles such as The Fungal Cavern, Mycelial Emanations, Ergot's Ritual, The Stench of a Foul Stinkhorn and Of Mycorrhizae and Malice make this concept an integral part of the project's identity.
+
+Musically, Hideous Gomphidius combines melodic dungeon synth with dark ambient and a deliberately damp, strange and sometimes playful atmosphere. Keepers of the Fungal Order was also released physically by Moonworshipper Records, helping connect this peculiar corner of “fungal synth” with the wider underground dungeon synth scene.
+
+[Spotify](https://open.spotify.com/artist/130y3jfWuq3USLAXEBq6Nh)
+[Bandcamp](https://hideousgomphidius.bandcamp.com/)
+[Apple Music](https://music.apple.com/ru/artist/hideous-gomphidius/1785919376)
+[Website](https://www.instagram.com/thefogweaver/)
 
 ### Hole Dweller
 
@@ -644,7 +784,7 @@ Morgan The Bard appeared on the Radio Rivendell Compilation in 2007 with “Gald
 
 **Country:** Norway
 **Genre:** OS DS
-**Style:** Fantasy
+**Style:** Oldschool
 **Mood:** Epic
 **Tempo:** Slow
 
@@ -658,6 +798,41 @@ Mortiis also made fantasy inseparable from the identity of the project. Prosthet
 [Bandcamp](https://mortiis.bandcamp.com/)
 [YouTube](https://www.youtube.com/officialmortiis)
 [Website](https://www.instagram.com/mortiisofficial/)
+
+### Moth Tower
+
+**Country:** Denmark
+**Style:** Medieval
+**Mood:** Dreamy
+**Tempo:** Normal
+
+Moth Tower is a Danish dungeon synth project by E. Brahe, a musician whose background reaches back to black metal in the late 1990s. The project combines melodic old-school dungeon synth with rhythmic dark ambient, creating music that is melancholic and eerie but often surprisingly colorful and dreamlike.
+
+The debut album Sharpen Thy Knife, Curse The Sky appeared in 2018 on Gondolin Records. Although some of its material originated in older sketches, the album developed into the first complete expression of Moth Tower's style. It was followed in 2019 by Clavitasian Threshold, the second chapter of the project's "Void Trilogy". Inspired by a post-mortem dream set in a fictional universe created by the artist's subconscious, the album expanded the sound with martial rhythms, unusual melodies and a more surreal, psychedelic atmosphere.
+
+After several years of work, Moth Tower returned in 2022 with Void Receiver, the third full-length album and continuation of the trilogy. Here the project's spectral dungeon synth moves further toward dark ambient, with eerie textures, intricate compositions and dreamlike soundscapes. Across these releases, Moth Tower stands apart through its combination of old-school dungeon synth foundations with cosmic, hallucinatory imagery rather than conventional medieval fantasy.
+
+[Spotify](https://open.spotify.com/artist/5J07FUuCvPEssU2aFG6AlI)
+[Apple Music](https://music.apple.com/us/artist/moth-tower/1835142795?l=ko)
+
+### MURGRIND
+
+**Country:** Germany
+**Style:** Oldschool
+**Mood:** Battle
+**Tempo:** Slow
+
+MURGRIND is a German dungeon synth project built around an original fantasy world and the continuing story of the warrior Murgrind. Emerging during the early years of the modern dungeon synth revival, the project became associated with an epic, atmospheric approach to the genre, combining synthesizer-driven medieval fantasy music with strong narrative concepts.
+
+The debut album Journey Through The Mountain, released in 2013, introduced Murgrind's fantasy setting through the story of a dangerous journey across vast mountains. Its music focuses on ritualistic atmosphere, hidden places and archaic landscapes, leaving much of the journey open to the listener's imagination. The story continued with Inheritor of the Forest Throne in 2015, centered on a great war in the fictional world of Helmongarth. The album became one of Murgrind's best-known works and an important release from the mid-2010s dungeon synth revival.
+
+Murgrind's releases form a connected musical narrative rather than a collection of unrelated fantasy albums. The Power of Yourself (2022), for example, takes place after Inheritor of the Forest Throne and revisits the history of its central warrior while deliberately retaining the sound of the project's earlier era. Murgrind has also collaborated with other prominent dungeon synth artists, including ELFFOR on the Odolosth / Stronghold in the Mountains split and ELFFOR and Barak Tor on Three Emperors.
+
+With its recurring characters, wars, mountains and kingdoms, MURGRIND represents the strongly narrative side of dungeon synth: music conceived as a soundtrack to an evolving fantasy world rather than simply an evocation of medieval atmosphere.
+
+[Spotify](https://open.spotify.com/artist/7pwoVSU0RX91XVpsJHUOvD)
+[Bandcamp](https://murgrind-music.bandcamp.com/)
+[Apple Music](https://music.apple.com/us/artist/murgrind/1491405881)
 
 ### Mushroom Grandpa
 
@@ -737,6 +912,36 @@ From its primitive Dungeon Synth beginnings to its later Black Metal incarnation
 [Bandcamp](https://nocturnaleffigy.bandcamp.com/)
 [Apple Music](https://music.apple.com/au/artist/nocturnal-effigy/1520814849)
 
+### Nortfalke
+
+**Country:** Netherlands
+**Style:** Medieval
+**Mood:** Dark
+**Tempo:** Normal
+
+Nortfalke is a Dutch dungeon synth project from the northern Netherlands. The name combines “Nort” (North) and “Falke” (Falcon), reflecting both the musician’s regional identity and the medieval symbolism of the falcon. The project grew from earlier experiments with old-school black metal and developed into a distinctive mixture of dungeon synth, dark ambient and 1970s Berlin School electronic music. Nortfalke cites the old Mortiis sound alongside artists such as Tangerine Dream and Klaus Schulze as important foundations of this approach.
+
+A defining feature of Nortfalke is the extensive use of physical synthesizers and vintage analogue equipment. Albums such as Atmosfeer, Seefonktjúenderee, Moonjeie and the ambitious Kauntloft combine hypnotic sequences, spacious synth layers, medieval melodies and atmospheric percussion. Kauntloft alone was recorded using more than a dozen different synthesizers alongside other instruments. Despite experimenting with different equipment and styles, Nortfalke maintains a recognizable melancholic, wandering atmosphere throughout the project.
+
+[Bandcamp](https://nortfalke.bandcamp.com/)
+[Website](https://www.instagram.com/nortfalke/)
+
+### Old Sorcery
+
+**Country:** Finland
+**Style:** Fantasy
+**Mood:** Dreamy
+**Tempo:** Normal
+
+Old Sorcery is a Finnish dungeon synth project founded in 2017 by multi-instrumentalist Juuso “Vrajitor” Peltola. Emerging with Realms of Magickal Sorrow, the project established a distinctive sound rooted in old-school dungeon synth, dark ambient and the atmosphere of vintage fantasy soundtracks. Long-form compositions, analogue-flavoured synthesizers and slowly unfolding melodies create worlds of ancient castles, forgotten forests, sorcery and melancholy.
+
+Rather than remaining within a single dungeon synth formula, Old Sorcery has gradually expanded its musical language. Releases such as Strange and Eternal, War of the Old Kingdom and Dragon Citadel Elegies explored different shades of medieval fantasy and increasingly elaborate compositions, while later works such as Sorrowcrown, The Escapist and The Outsider introduced stronger dark ambient and atmospheric black metal elements. Despite these changes, the project retains its characteristic dreamlike, mysterious and deeply immersive atmosphere.
+
+[Spotify](https://open.spotify.com/artist/30SiUhbJL8LZLbO1FfVR22)
+[Bandcamp](https://oldsorcery.bandcamp.com/)
+[YouTube](https://music.youtube.com/channel/UCE6YDZ6ekvfRkuWsS7AuROA)
+[Apple Music](https://music.apple.com/us/artist/old-sorcery/1370016772)
+
 ### Onfang
 
 **Country:** USA
@@ -792,6 +997,37 @@ This combination has made Quest Master one of the more distinctive modern projec
 [Bandcamp](https://questmaster.bandcamp.com/)
 [Website](https://www.instagram.com/lordgordith/)
 
+### Redhorn Gate
+
+**Country:** USA
+**Style:** Fantasy
+**Mood:** Adventure
+**Tempo:** Normal
+
+Redhorn Gate is a dungeon synth project from Chicago, Illinois, devoted almost entirely to dwarven mythology and the world of J.R.R. Tolkien. The project emerged in 2019 with The Sunken Stars and Carven Throne / Many Pillared Halls / Runes of Power, early material recorded directly to cassette by Gundrim the Smith using a keyboard, Boss loop station and portable tape recorder. Redhorn Gate describes its music simply as “Dark Dwarven Synth.”
+
+The project's central work, Sires of Old (2021), expanded this sound with Dalom the Delver, combining keyboards, percussion and samples from the 1981 BBC adaptation of The Lord of the Rings and recordings of Tolkien himself. Dedicated to Tolkien, his family and the “Dwarven Sires of Old,” the album firmly establishes Redhorn Gate's identity around Khazad-dûm, ancient halls, stone, craftsmanship and dwarven legend. The project also collaborated with Eldritch Wizardry on Magic of the Mountain Keep (2020), a Tolkien- and tabletop-inspired split centred on a quest for a sacred dwarven axe.
+
+After several years Redhorn Gate returned with Dark And Windless in 2024, recorded by Gundrim and Dalom. The project has also developed a reputation as a live dungeon synth act, combining music, costumes and visual presentation into performances closer to fantasy theatre or ritual than a conventional electronic concert.
+
+[Bandcamp](https://redhorngate.bandcamp.com/)
+[Website](https://www.instagram.com/redhorngate/)
+
+### Sequestered Keep
+
+**Country:** USA
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Normal
+
+Sequestered Keep is an American dungeon synth project from Salt Lake City, active since 2015. Created by the musician known as Wanderer of Sequestered Keep, the project draws inspiration from early black metal - including Burzum, Summoning, Abigor, Nokturnal Mortum and Graveland - as well as old RPG soundtracks and classic dungeon synth. Its music evokes ruined castles, ancient forests, distant battles and journeys through forgotten fantasy realms.
+
+Sequestered Keep became known for a prolific discography and a strongly melodic, medieval sound. Releases such as Magic Amidst the Falling Leaves, Wandering Far and The Vale of Ruined Towers range from autumnal melancholy to heroic fantasy and battle themes. The project's descriptive song titles are deliberately used to suggest particular scenes and ideas, making storytelling an important part of its music. Its catalogue has also received numerous physical editions through labels including Out of Season and Dark Age Productions.
+
+[Spotify](https://open.spotify.com/artist/7l0DWYVf0KnhaBBhiXRi1P)
+[Bandcamp](https://sequesteredkeep.bandcamp.com/)
+[Apple Music](https://music.apple.com/us/artist/sequestered-keep/1723974836)
+
 ### Skhemty
 
 **Country:** France
@@ -834,6 +1070,22 @@ For listeners who approach dungeon synth primarily as a doorway into imaginary w
 
 [Spotify](https://open.spotify.com/artist/4yhHFw8FBiLPPXGY9VKI1e)
 [Apple Music](https://music.apple.com/us/artist/slefnwald/1700250994)
+
+### Soporific Sorcery
+
+**Country:** Unknown
+**Style:** Fantasy
+**Mood:** Adventure
+**Tempo:** Normal
+
+Soporific Sorcery is an obscure dungeon synth and dark ambient project associated with Haunted Klinik, the netlabel operated by Vampiir of the North. The project is notable for describing its music as “torture chamber music” before “dungeon synth” became the commonly used name for the genre. Its 2010 album Sarcophagus Symphony II is particularly significant in this regard and has since been recognized within the dungeon synth community as an early work of the genre’s revival period.
+
+The music combines dark ambient atmospheres with strange synthetic orchestration, repetitive melodies and deliberately archaic keyboard sounds. Rather than conventional medieval fantasy alone, Soporific Sorcery often explores crypts, graves, undead realms and other macabre environments. Sarcophagus Symphony II develops this approach through long-form compositions, while later releases such as Mischievous Misanthropy (2013), Otherworldly Orchestra and Uncanny Underworld (2017), and Incongruous Inhabitant (2018) expand it into increasingly surreal and experimental territory.
+
+Its unusual position between dark ambient and old-school dungeon synth makes Soporific Sorcery an interesting example of dungeon synth developing independently during the genre’s relatively quiet pre-revival years.
+
+[Bandcamp](https://hauntedklinik.bandcamp.com/album/mischievous-misanthropy)
+[Website](vampiir-of-the-north.eu5.net)
 
 ### Spellbound Mire
 
@@ -895,6 +1147,25 @@ Behind the whimsical frogs lies a surprisingly personal philosophy. The artist d
 [Apple Music](https://music.apple.com/us/artist/tales-under-the-oak/1634636515)
 [Website](https://www.instagram.com/talesundertheoak/)
 
+### Thangorodrim
+
+**Country:** USA
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Slow
+
+Thangorodrim is an American dungeon synth project created by Glorund, deeply inspired by the world of J.R.R. Tolkien. The project emerged in 2016 with Dagor Bragalloch and Towers of the Teeth, followed by Taur-nu-Fuin, the release that established Thangorodrim as one of the notable names of the modern dungeon synth revival.
+
+The early material was deliberately rooted in the sound of Mortiis' Era I, something Glorund himself described as unapologetic Mortiis worship. With Taur-nu-Fuin, however, the project began developing a more individual identity while retaining the long compositions, dark synthesizer textures and connection to the black metal roots of dungeon synth. Glorund has specifically argued that traditional dungeon synth should remain connected to the spirit of second-wave black metal.
+
+Tolkien's legendarium is central to Thangorodrim rather than simply an aesthetic backdrop. Gil-Estel explores Eärendil, Ancalagon and the War of Wrath, while releases such as Akallabêth, Dagor Bragalloch and Towers of the Teeth draw directly from places and events of Middle-earth and the First Age.
+
+Taur-nu-Fuin in particular has become regarded as an important record of the modern dungeon synth era, praised for bringing the atmosphere and scale of classic 1990s dungeon synth into the contemporary scene.
+
+[Spotify](https://open.spotify.com/artist/3GCtbB9Y2X8K7811RAdKiw)
+[Bandcamp](https://thangorodrimsynth.bandcamp.com/)
+[Apple Music](https://music.apple.com/us/artist/thangorodrim/1583597012?l=ru)
+
 ### Toad Sage
 
 **Country:** USA
@@ -937,6 +1208,23 @@ Storytelling has gradually become central to TopfHelm's identity. Releases such 
 [YouTube](https://www.youtube.com/@TopfHelmMusic)
 [Apple Music](https://music.apple.com/us/artist/topfhelm/1799307069)
 [Website](https://www.instagram.com/topfhelmmusic/)
+
+### Torchlight
+
+**Country:** Italy
+**Style:** Fantasy
+**Mood:** Mystical
+**Tempo:** Normal
+
+Torchlight is an Italian dungeon synth project from Salerno, founded in 2018. It grew out of the artist's earlier dark ambient project Rex cryptae, whose focus on death, grief, hell and catacombs eventually began to feel too restrictive. With Torchlight, he opened the music toward a broader world of medieval fantasy, nature, magic, adventure and contemplation of the unknown.
+
+Rather than pursuing the deliberately primitive minimalism associated with some dungeon synth, Torchlight favors rich atmosphere, extensive reverb and increasingly elaborate, symphonic arrangements. The intention is to give the music an organic quality - as though it were being performed somewhere among ancient forests, ruined castles and forgotten realms. Albums such as The Long Quest and Woods of Spellbound Ruins marked important steps in this development, combining immersive fantasy imagery with more complex compositions and conceptual storytelling.
+
+Fantasy literature and games are also an important source of inspiration. The Tolkien-themed Lothlórien EP explored Middle-earth, while 2023's The Fallen Leaves Tell A Story... was conceived around the world of Elden Ring, with individual pieces inspired by its locations and characters.
+
+[Spotify](https://open.spotify.com/artist/1OFfXzpO3VbdNbYIpvlem4)
+[Bandcamp](https://torchlightds.bandcamp.com/)
+[Website](https://www.instagram.com/torchlightds/)
 
 ### Tryptacobithicus
 
@@ -1007,6 +1295,21 @@ Utred is a Russian dungeon synth project from Moscow, active since the early 201
 
 [Bandcamp](https://utred.bandcamp.com/)
 
+### Utrho
+
+**Country:** Mexico
+**Style:** Experimental
+**Mood:** Adventure
+**Tempo:** Normal
+
+Utrho is a Mexican dungeon synth project from Baja California Sur, active since 2021. Its music is strongly narrative and concept-driven, drawing inspiration from fantasy, literature, mythology, video games and nature.
+
+Early standalone pieces explored subjects ranging from Tolkien and The Elder Scrolls to forests, winter landscapes and ancient warriors. The 2024 mini-album The Divine Comedy was inspired by Dante Alighieri, following a journey through Hell, Purgatory and Heaven with melancholic and romantic tones. Utrho’s first full-length, Myths and Legends of Ancient Times (2025), moved into a more traditional medieval fantasy world of knights, wizards, dragons and ancient magic.
+
+The second full-length, Legendary Chronicles from the Digital World (2026), took a very different direction. Inspired by Digimon, it combined dungeon synth with synthwave, EDM and Y2K/Frutiger Aero aesthetics to portray the Digital World through electronic fantasy music. Utrho has also experimented with black metal, with later material pointing toward a heavier epic and melodic direction.
+
+[YouTube](https://www.youtube.com/@utrhomusicDungeonsynth)
+
 ### Vanishing Amulet
 
 **Country:** USA
@@ -1062,6 +1365,23 @@ Much of the project's artwork is also created by Nikita himself from old engravi
 Windtower is a Hungarian Dungeon Synth project by Rietän, active since 2019. Its music combines medieval and fantasy atmosphere with melodic, orchestral synth arrangements, moving between darker sword-and-sorcery themes and more serene, folkloric passages. Later releases such as the Glacern series expand this approach into more cinematic, story-driven compositions inspired by wandering, ancient legends and imagined landscapes.
 
 [Bandcamp](https://windtower.bandcamp.com/)
+
+### Wydraddear
+
+**Country:** France
+**Style:** Experimental
+**Mood:** Mystical
+**Tempo:** Slow
+
+Wydraddear is a French dungeon synth project by Baddoar, active since 2021. Beginning with The Castle Above the Mist and Hermit of the Great Whole, the project developed a distinctive style built around slow-moving synthesizers, repetition, sparse melodies and dark ambient textures. Rather than focusing on triumphant medieval fantasy, Wydraddear often creates a more solitary and mysterious atmosphere - abandoned castles, forests, hermits, forgotten kingdoms and half-remembered legends.
+
+World-building is an important part of the project. Releases such as Were Drowned in the Flames, Which Stems From the Sap, The Doomwatcher, Fragments of Kingdoms, Sorrow & Memories and Turned to Ice feel like different fragments of the same vast, undefined world. On Fragments of Kingdoms, Baddoar deliberately avoided fully explaining or mapping its locations, leaving listeners to imagine the landscapes themselves.
+
+The music ranges from relatively melodic medieval dungeon synth to minimalist dungeon drone and dark ambient, sometimes using long repetitive passages to create an almost hypnotic effect. Handmade cassette and CDr editions further reinforce the project’s strong DIY identity. In 2024, Wydraddear also made its first live appearance at the Dark Dungeon Festival in Belgium.
+
+[Spotify](https://open.spotify.com/artist/2JZRRU9B6OqntaaVWrf5iD)
+[Bandcamp](https://wydraddear.bandcamp.com/)
+[YouTube](https://www.youtube.com/channel/UC9T6S7FSKB3D6lCkC0jIOfw)
 
 ### Wyrd Gnome
 
