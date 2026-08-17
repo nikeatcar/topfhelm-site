@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-16
+last_updated: 2026-08-17
 ---
 
 # Dungeon Synth Artists Directory - The Dungeon Synth Bestiary 
@@ -561,6 +561,23 @@ Minimal electronic textures, simple recurring melodies and gentle atmospheric la
 [Apple Music](https://music.apple.com/us/artist/fogweaver/1542692000)
 [Website](https://www.instagram.com/thefogweaver/)
 
+### Fragmented Memories
+
+**Country:** Netherlands
+**Style:** Fantasy
+**Mood:** Melancholic
+**Tempo:** Slow
+
+Fragmented Memories is a dungeon synth and fantasy synth project from Amsterdam, Netherlands, built around nostalgia, dreams and the fragile boundary between memory and forgetting. Rather than focusing on conventional medieval fantasy, the project creates hazy, melancholic worlds suspended somewhere between the familiar and the unreal.
+
+The debut album Collecting Memories For The Future (2024) established this identity through atmospheric dungeon synth, dark ambient and dreamlike fantasy synth. Its music was described by Dungeon Synth Digest as occupying a middle ground between the real and unreal, while other contemporary reviews highlighted its hauntological atmosphere, introspective character and sense of nostalgia. Later releases developed these ideas further: the dark side of lightness explored nightmarish memories and haunted pasts, while among all ghosts ever returning (2025) presented a complete narrative about a traveller entering a shadow world to recover the lost memories of spirits unable to move on.
+
+Fragmented Memories also became an active live project. In October 2025 it performed at the third Dark Dungeon Festival at Château de l'Avouerie in Belgium, with the performance later released as Live At Dark Dungeon Festival. The project has worked with underground labels including Brumal Orchard Records and Kajdum's Tower, while maintaining a distinctly DIY approach that extends to small handmade physical editions.
+
+[Spotify](https://open.spotify.com/artist/0FiOH3YvGjfqNHCwZbUsqN)
+[Bandcamp](https://fragmentedmemories.bandcamp.com/)
+[Website](https://www.instagram.com/fragmented_memories_music/)
+
 ### Gelure
 
 **Country:** Australia
@@ -602,6 +619,21 @@ Across later releases, this personal nostalgia expands into imaginary RPG towns,
 [Spotify](https://open.spotify.com/artist/597we5gApxs0c2fYY2JUH7)
 [Bandcamp](https://grandmascottage.bandcamp.com/)
 [Apple Music](https://music.apple.com/ca/artist/grandmas-cottage/1534102530)
+
+### Hecate
+
+**Country:** USA
+**Style:** Experimental
+**Mood:** Dark
+**Tempo:** Slow
+
+Hecate is the Dungeon Synth project of multi-instrumentalist Ben Gray from Toulon, Illinois, USA. Before starting Hecate, Gray had been making music for around fifteen years, playing drums, guitar, bass and banjo and working with everything from indie rock and metal to hip-hop beats. He found a new creative focus in Dungeon Synth, attracted by its emphasis on melody, atmosphere and composition rather than conventional song structures. Among the influences he has mentioned are Nobuo Uematsu's Final Fantasy music, Ian Taylor's Old School RuneScape soundtrack and Christopher Larkin's Hollow Knight.
+
+Hecate's music is considerably stranger and rougher than traditional medieval Dungeon Synth. Synthesizers coexist with acoustic guitar, banjo, bass, live percussion, theremin, vocals, samples and elements of dark ambient, noise and atmospheric black metal. The Sky Is Dead combines industrial noise with melancholic chords and dungeon atmosphere, while My Ghost Will Never Sleep pushes toward a particularly eerie mixture of glacial synth melodies, distorted acoustic guitar and distant vocals. Gray's DIY approach is central to the project: much of this material was performed with an Akai Mini and recorded through a Tascam DP-24 rather than constructed as polished studio music.
+
+The project's themes are equally broad. Some releases inhabit occult, cosmic and apocalyptic worlds, while others are built around specific literature: Beside the Water draws directly from Tolkien's The Silmarillion, including recitation and singing in Quenya, while This Is Not For You is inspired by the shifting architecture and surreal horror of Mark Z. Danielewski's House of Leaves. Hecate has also collaborated extensively with other underground artists, including The Ashen Codex, Tree of Hell, The Man in the Planet and Ka'Bael, making the project an unusually restless meeting point between Dungeon Synth, dark ambient, black metal and experimental music.
+
+[Bandcamp](https://hecate2113.bandcamp.com/)
 
 ### Henbane
 
@@ -652,6 +684,19 @@ Warm lo-fi synthesizers, nostalgic video-game melodies and deliberately weathere
 [Bandcamp](https://holedweller.bandcamp.com/)
 [YouTube](https://www.youtube.com/@holedwellermusic)
 [Website](https://www.instagram.com/holedwellermusic/)
+
+### INWENDT FAERTE
+
+**Country:** Germany
+**Style:** Sci-fi
+**Mood:** Mystical
+**Tempo:** Slow
+
+INWENDT FAERTE is an obscure German Dungeon Synth project known for the 2014 release Of Nightfall And Shrouded Thoughts, issued through Voldsom Tapes. Built from lo-fi, repetitive synthesizer passages with a distinctly analog character, the album creates a cold and contemplative atmosphere that feels equally connected to nocturnal landscapes and the vastness of the night sky. Rather than medieval pageantry or elaborate fantasy storytelling, its four long compositions concentrate on isolation, darkness, memory and distant horizons.
+
+The release has gradually acquired something of a cult reputation within the underground. It is sometimes described as an early example of cosmic synth, where the foundations of Dungeon Synth meet space ambient and a more abstract, celestial atmosphere. Its influence can also be traced directly to later projects: German Dungeon Synth act Knights of Nvrul names INWENDT FAERTE among its influences and specifically calls Of Nightfall And Shrouded Thoughts the release that made them fall in love with the genre. With only this small body of music widely documented, INWENDT FAERTE remains a mysterious but noteworthy artifact from the 2010s Dungeon Synth underground.
+
+[Bandcamp](https://voldsomtapes.bandcamp.com/album/of-nightfall-and-shrouded-thoughts)
 
 ### KletTtermax
 
@@ -707,6 +752,23 @@ Loitommas is a Finnish Dungeon Synth project exploring cold, dreamlike and often
 
 [Bandcamp](https://loitommas.bandcamp.com/)
 
+### Lored Legend
+
+**Country:** USA
+**Style:** Fantasy
+**Mood:** Adventure
+**Tempo:** Normal
+
+Lored Legend is a dungeon synth / fantasy synth project from Pittsburgh, Pennsylvania, built around old-school synthesizer sounds and a strong sense of fantasy storytelling. Releases such as An Invitation to Court and Realm explore enchanted courts, hidden passages, woodland kingdoms and sorcery, with melodic compositions that often feel closer to the soundtrack of a forgotten fantasy adventure than purely dark ambient dungeon synth.
+
+The project is also notably collaborative. Lored Legend has worked with Ŭmarth on Dead Spells and Rusted Weapons, joined Cave Walker, Altar of Moss and Wulfsige for At the Well of Winter, and collaborated with KlettTermax on Wyvern Keep. These releases expand the project's medieval and fantasy imagery through ruined strongholds, frozen wilderness and classic sword-and-sorcery themes. Much of the music is recorded with hardware synthesizers, while physical editions have appeared through labels including WereGnome Records, Sokol Keep and Personal Uschi Records.
+
+Lored Legend is not limited to traditional medieval fantasy. Night of the Cobra turns toward 1980s horror and Giallo-inspired synth music, while Neon Knights combines dungeon synth with synthwave and a deliberately futuristic medieval aesthetic. Despite these excursions, releases such as 2025's Realm and 2026's Arqueneth keep the project's central identity firmly rooted in melodic fantasy synth: colorful, adventurous and nostalgic music concerned with imaginary places, characters and stories.
+
+[Spotify](https://open.spotify.com/artist/7rBuB70TbWX7l0P3rNOWC9)
+[Bandcamp](https://loredlegend.bandcamp.com/)
+[Apple Music](https://music.apple.com/bt/artist/lored-legend/1726109247)
+
 ### Lurk
 
 **Country:** USA
@@ -717,6 +779,19 @@ Loitommas is a Finnish Dungeon Synth project exploring cold, dreamlike and often
 Lurk is a Chicago-based dark dungeon synth project by Andrew Meier, also known as The Lurker at the Threshold. Emerging in 2020, the project combines dungeon synth and dark ambient with horror sound design, cinematic orchestration and occasional hip-hop-derived rhythms. Lovecraftian cosmic horror became central to the early material, culminating in the debut full-length From the Depths of Y'ha-nthlei, a journey through dreamlands, forbidden temples and apocalyptic visions. Later releases expanded this approach beyond Lovecraft: Illimitable Dominion draws upon Edgar Allan Poe and pushes further into trap-tinged percussion and crypt hop. Lurk has also collaborated with artists including MuraZor, Vandalorum and Guild of Lore, and appeared on compilations by Dungeon Synth Cult and the Crypt Hop community.
 
 [Bandcamp](https://lurkmusick.bandcamp.com/)
+
+### Maanskild
+
+**Country:** South Africa
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Normal
+
+Maanskild is a South African dungeon synth project by composer Heino Brand, focused on dark fantasy, RPG soundtracks and immersive world-building. In 2024, Maanskild contributed The Sepulchral of the Twin Witches to Heimat Der Katastrophe's Adventurers Magazine #2, where dungeon synth musicians created original soundtracks for playable one-page RPG adventures. The release was also featured by Invisible Oranges in its Naïve Magic: A Dungeon Synth Digest.
+
+In 2025 Maanskild released Old Moon, the official soundtrack to Humberto Tramujas' tabletop RPG of the same name. Its setting combines science fiction with a world culturally closer to the Middle Ages, and Heimat Der Katastrophe commissioned Maanskild to create around thirty minutes of "epic & dreamy ambient music" for it. The result blends dungeon synth, ambient and electronic soundtrack music, reinforcing Maanskild's close connection between fantasy music and tabletop role-playing.
+
+[Bandcamp](https://heinobrand.bandcamp.com/)
 
 ### Malfet
 
@@ -1028,6 +1103,25 @@ Sequestered Keep became known for a prolific discography and a strongly melodic,
 [Bandcamp](https://sequesteredkeep.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/sequestered-keep/1723974836)
 
+### Skeleton Mage
+
+**Country:** Sweden
+**Style:** Medieval
+**Mood:** Adventure
+**Tempo:** Normal
+
+Skeleton Mage is a Swedish Dungeon Synth and Dungeon Folk project created by Miguel Amarok in early 2025. Its debut, Of Mossy Ruins and Forest Paths, established a distinctly pastoral interpretation of the genre: moss-covered castles, forest paths, forgotten battlefields and overgrown chapels rendered through gentle neo-medieval melodies and an atmosphere that balances melancholy with warmth. Synth Digest described the record as simultaneously regal and sorrowful, while its companion Ruinscapes I reworked several pieces into longer, more ambient compositions focused on texture rather than melodic clarity.
+
+The project soon developed beyond isolated fantasy scenes into extensive worldbuilding. The Curse of Castle Pale tells the history of the fictional city of Amberg: its first half follows the loss of the magical Suncrown and the curse that falls upon the city, while the second is presented as a collection of folk songs heard in Amberg's taverns and alehouses. Musically, this division is equally important. The first side continues Skeleton Mage's atmospheric Dungeon Synth sound, while the second moves toward Dungeon Folk and tavern music with more naturalistic medieval instrumentation. Amarok himself has acknowledged that parts of the album move quite far from conventional Dungeon Synth, while remaining composed around ideas inherited from the genre.
+
+This combination of music and fictional history has since become one of Skeleton Mage's defining characteristics. Songs of Fenebra, The Sorceress Queen, The Halls of Ever Summer and Dunes of Tarnoth expand the catalogue into different kingdoms, legends and landscapes, while Midwinter Tales brings other musicians into the project and Ruinscapes II once again transforms existing material into slower, more textural ambient pieces. Rather than maintaining a single fixed Dungeon Synth formula, Skeleton Mage moves between melodic fantasy synth, medieval folk, dark ambient and more contemplative soundscape music while keeping the releases connected by a recognizable storybook aesthetic. The frequent use and adaptation of nineteenth- and early twentieth-century historical artwork further reinforces this identity.
+
+Amarok has described his creative process as beginning with an aesthetic, musical or narrative concept, sometimes developed for weeks or months before recording starts. Inspiration may come from books, games, films, artwork or other music; he then establishes a core instrumental palette, modifies synth sounds and libraries, and develops melodies largely by ear at the keyboard. This helps explain why Skeleton Mage's albums often feel less like collections of unrelated tracks and more like journeys through carefully imagined places. Despite only appearing in 2025, the project quickly accumulated a substantial catalogue and established a particularly recognizable corner of contemporary Dungeon Synth built around ruins, folklore, invented histories and the melancholy of places that seem to belong to another age.
+
+[Spotify](https://open.spotify.com/artist/7FqkQbLPaNJYHzjJ3U54tU)
+[Bandcamp](https://skeletonmage.bandcamp.com/)
+[Website](https://www.instagram.com/the_skeleton_mage/)
+
 ### Skhemty
 
 **Country:** France
@@ -1050,6 +1144,21 @@ Skhemty reflects Lordswood's broader approach to dungeon synth as world-building
 [YouTube](https://www.youtube.com/@ancientkingrecords)
 [Apple Music](https://music.apple.com/fr/artist/skhemty/1629729909)
 [Website](https://www.instagram.com/john_lordswood)
+
+### skymx
+
+**Country:** South Africa
+**Style:** Medieval
+**Mood:** Dreamy
+**Tempo:** Normal
+
+skymx is a South African dungeon synth and fantasy synth project with a strong soundtrack-oriented approach. Releases such as Blighted Artifacts and A Merchant's Promise OST build compact imaginary worlds around medieval adventure, ruined castles, forests and travelling heroes, often evoking the atmosphere of a forgotten fantasy RPG. Rather than focusing purely on ambience, skymx uses melodic, cinematic compositions to suggest individual locations, characters and episodes of a larger adventure.
+
+This approach was expanded on The Land of Silk and Money, a 2025 collaboration with The Ashen Codex. The twelve-track album follows Zaryan, a morally ambiguous travelling merchant, through an imaginary world, combining dungeon synth, fantasy synth and clear video-game soundtrack influences. Outside these fantasy releases, skymx has also published electronic material, suggesting a broader interest in synthesizer-based music while narrative world-building remains central to the project's dungeon synth work.
+
+[Bandcamp](https://skymx.bandcamp.com/)
+[YouTube](https://www.youtube.com/channel/UCJsFgD1WEWVgiiaZ64evGew)
+[Website](https://www.instagram.com/skyemaxilian/)
 
 ### Slefnwald
 
@@ -1087,6 +1196,33 @@ Its unusual position between dark ambient and old-school dungeon synth makes Sop
 [Bandcamp](https://hauntedklinik.bandcamp.com/album/mischievous-misanthropy)
 [Website](vampiir-of-the-north.eu5.net)
 
+### Spectral Bastion
+
+**Country:** South Africa
+**Style:** Fantasy
+**Mood:** Dark
+**Tempo:** Slow
+
+Spectral Bastion is a dungeon synth and atmospheric black metal project from Durban, South Africa, formed in 2024. The project consists of Sarphi on vocals, synthesizers and lyrics and Arialoth on vocals, guitars and percussion, with its music centred on medieval tales, legends and folklore. Its releases move between synth-led fantasy music and atmospheric metal, with titles such as We Art the Knights! (The Dragon Shalt Fall!), Ye Ole Wanderin' Wizz'rd and The Misty Mountains Cold openly embracing classic swords-and-sorcery imagery.
+
+A particularly distinctive part of Spectral Bastion is its connection to South African and Afrikaans culture. The 2025 Die Druïdiese Pad explores nature, spirituality and the relationship between humanity and the wild through Afrikaans lyrics, and has even been discussed in academic research on Afrikaans black metal. Later, The Misty Mountains Cold adapted Tolkien's famous dwarven song, reinforcing the project's mixture of dungeon synth, fantasy literature and atmospheric black metal.
+
+[Bandcamp](https://spectralbastion.bandcamp.com/)
+[YouTube](https://www.youtube.com/@spectralbastionbm)
+
+### Spektrale Minstreel
+
+**Country:** South Africa
+**Style:** Experimental
+**Mood:** Mystical
+**Tempo:** Normal
+
+Spektrale Minstreel is a dungeon synth project from Durban, South Africa, distinguished by its extensive use of Afrikaans and a fascination with dark fantasy, folklore and old-fashioned storytelling. Releases such as Kronieke van Erdja and its expanded remake Die Kronieke van Erdja present imaginary chronicles of sea voyages, dwarven kingdoms, orcs, battles and mysterious lands. The music combines traditional dungeon synth melodies with environmental samples - horses, campfires, ships, forests and other sounds - giving many pieces the feeling of small audio adventures rather than purely instrumental compositions.
+
+Later works move between witchcraft and supernatural folklore (Rituele van Hekseberg) and more melancholy, personal fantasy on Hierdie liedjies los ek agter vir 'n môre wat ek nooit sal sien nie. Even individual tracks retain the project's literary character, with titles referring to mermaids, dead troubadours and lonely travellers. Together with its strong Afrikaans identity, this storytelling approach gives Spektrale Minstreel an unusual place within South Africa's small but emerging dungeon synth scene.
+
+[Bandcamp](https://spektraleminstreel.bandcamp.com/)
+
 ### Spellbound Mire
 
 **Country:** Australia
@@ -1106,6 +1242,27 @@ Despite being the project's only widely documented full-length release, Spellbou
 [Bandcamp](https://spellboundmire.bandcamp.com/)
 [YouTube](https://music.youtube.com/playlist?list=OLAK5uy_nhSPwEISlvrLSc0sh8P9tB-KCc48o4u7o)
 [Apple Music](https://music.apple.com/no/artist/spellbound-mire/1630679493?l=nb)
+
+### Summoning
+
+**Country:** Austria
+**Style:** Oldschool
+**Mood:** Epic
+**Tempo:** Slow
+
+Summoning is an Austrian atmospheric black metal project formed in Vienna in 1993, centered around Silenius and Protector. Their 1995 debut Lugburz was still rooted in traditional second-wave black metal, but the departure of drummer Trifixion radically changed their approach. Instead of finding another drummer, the duo began programming slow, deliberately simple percussion on keyboards and composing songs around synthesizers rather than guitars. Minas Morgul, released later that same year, established the epic, keyboard-dominated sound that would define Summoning from then on.
+
+Summoning's music builds vast imaginary landscapes from layered orchestral keyboards, marching rhythms, repetitive guitar lines and distant harsh vocals. Protector has described their approach as slow, epic and heroic music based around orchestral keyboard sounds, with drums resembling timpani, marching drums and deep toms rather than conventional metal percussion. Albums such as Minas Morgul, Dol Guldur, Stronghold and Let Mortal Heroes Sing Your Fame gradually refined this formula while retaining its unmistakable medieval and otherworldly atmosphere.
+
+The world of J.R.R. Tolkien became equally fundamental to the project. Silenius has spoken about discovering Tolkien as a teenager and being fascinated not simply by the stories, but by the depth of Middle-earth's cultures, landscapes, languages and history. After Lugburz, the band deliberately moved away from its earlier occult themes and made Tolkien's mythology the center of Summoning's identity. The result feels less like conventional songs about fantasy and more like an attempt to translate Middle-earth itself into sound.
+
+Although Summoning is fundamentally an atmospheric black metal project rather than dungeon synth, its unusual balance of black metal and synthesizer-driven fantasy music places it remarkably close to the genre's spirit. Instrumental pieces such as those collected on Lost Tales expose this connection particularly clearly, while generations of fantasy-oriented underground artists have followed paths opened by Summoning's distinctive sound. For a Dungeon Synth Bestiary, they belong among the important projects inhabiting the borderlands between black metal, dark ambient and dungeon synth.
+
+[Spotify](https://open.spotify.com/artist/5BViLZRXrRfhPDokkbYiMy)
+[Bandcamp](https://summoning.bandcamp.com/)
+[YouTube](https://music.youtube.com/channel/UC8jG23nTKgkWYfRt8cN2M-g)
+[Apple Music](https://music.apple.com/de/artist/summoning/47705987)
+[Website](https://www.instagram.com/summoning_band/)
 
 ### SVART TORN
 
@@ -1165,6 +1322,26 @@ Taur-nu-Fuin in particular has become regarded as an important record of the mod
 [Spotify](https://open.spotify.com/artist/3GCtbB9Y2X8K7811RAdKiw)
 [Bandcamp](https://thangorodrimsynth.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/thangorodrim/1583597012?l=ru)
+
+### The Ashen Codex
+
+**Country:** USA
+**Style:** Fantasy
+**Mood:** Dreamy
+**Tempo:** Normal
+
+The Ashen Codex is an orchestral dungeon synth project from Long Island, New York, created by a musician working under the name Scribe. Rather than remaining within a single traditional dungeon synth sound, the project moves between orchestral dungeon synth, fantasy synth, dark ambient and video-game-inspired music. Its releases frequently function as miniature soundtracks, built around imagined places, characters and journeys rather than atmosphere alone. The project emerged publicly with Echoes of Eminence in 2025, which Scribe described as being inspired by dungeon synth while not necessarily belonging strictly within its traditional boundaries.
+
+Narrative worldbuilding has since become one of the defining elements of The Ashen Codex. Echoes of Eminence begins the story of Caelum, the Star-Fallen Survivor, who sets out to understand why he alone survived a catastrophe that destroyed his homeland. Tower of Twilight continues this story as the second chapter of a planned trilogy, while The Curse, The Choice, The Healer serves as a prequel introducing another central character, Lyra. Scribe has described the songs themselves as musical accompaniment to these stories, placing The Ashen Codex close to the intersection of dungeon synth, fantasy soundtrack music and narrative concept albums.
+
+Other releases explore the genre from very different directions. Mystic Wilderness was deliberately created as a reductionist experiment using only the TyrellN6 synthesizer, with its original material written during a single weekend and inspired by a desire to escape into nature. The result emphasizes brighter melodies, forests and mysterious pastoral atmosphere rather than the darkness normally associated with the dungeon. Realm and Ritual later issued an expanded cassette edition, describing the record as a longing to leave modern life behind and disappear into the natural world.
+
+The Ashen Codex has also become notably collaborative. Releases and side projects shown throughout the discography include work with Hecate, DRACOMANCER, skymx, Nattsång and others, alongside music released under names such as Murk Sage and Obsolitas. The collaboration with skymx, The Land of Silk and Money, was conceived as the soundtrack to an imaginary world following a travelling merchant, while the Hecate split Scourge of the Sicklebud combines dungeon synth with dark ambient, psychedelic and black-metal elements. The project has also appeared in the community-driven Dungeon Shamble and on Echoes from the Dungeon, reflecting an artist closely involved with the contemporary dungeon synth scene rather than simply borrowing its aesthetics.
+
+[Spotify](https://open.spotify.com/artist/31joDorviVZ6pV4FzrCHW1)
+[Bandcamp](https://theashencodex.bandcamp.com/)
+[YouTube](https://www.youtube.com/@TheAshenCodex)
+[Website](https://www.instagram.com/theashencodex/)
 
 ### Toad Sage
 
@@ -1309,6 +1486,7 @@ Early standalone pieces explored subjects ranging from Tolkien and The Elder Scr
 The second full-length, Legendary Chronicles from the Digital World (2026), took a very different direction. Inspired by Digimon, it combined dungeon synth with synthwave, EDM and Y2K/Frutiger Aero aesthetics to portray the Digital World through electronic fantasy music. Utrho has also experimented with black metal, with later material pointing toward a heavier epic and melodic direction.
 
 [YouTube](https://www.youtube.com/@utrhomusicDungeonsynth)
+[Website](https://www.instagram.com/utrho.music.art/)
 
 ### Vanishing Amulet
 

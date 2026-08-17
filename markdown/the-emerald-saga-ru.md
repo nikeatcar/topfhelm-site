@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/the-emerald-saga/ru
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-16
+last_updated: 2026-08-17
 ---
 
 # Изумрудная Сага
