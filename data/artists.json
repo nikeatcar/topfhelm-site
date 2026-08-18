@@ -1234,7 +1234,7 @@
             "bandcamp": "https://hecate2113.bandcamp.com/",
             "youtube": "",
             "apple_music": "",
-            "website": ""
+            "website": "https://www.instagram.com/hecate.music.93/"
         },
         "translations": {
             "en": {
@@ -1522,7 +1522,7 @@
             "bandcamp": "https://loredlegend.bandcamp.com/",
             "youtube": "",
             "apple_music": "https://music.apple.com/bt/artist/lored-legend/1726109247",
-            "website": ""
+            "website": "https://www.instagram.com/lored_legend/"
         },
         "translations": {
             "en": {
@@ -2472,7 +2472,7 @@
         "tempo": "Slow",
         "logo": "https://thisisblackmetal.com/wp-content/uploads/2018/05/20638791_124296964868344_2394526698329299176_n.jpg",
         "banner": "https://i.scdn.co/image/ab6772690000dd2268857231cb41e1fcb24d90d9",
-        "background": "rgb(10, 15, 0)",
+        "background": "https://f4.bcbits.com/img/0011558297_10.jpg",
         "player": {
             "type": "spotify",
             "id": "3sSyigX4ZC4iniQqFEfxae"
