@@ -4,6 +4,8 @@
 
 .artists-page{
 
+    position:relative;
+
     padding-bottom:120px;
 
     background:
@@ -14,7 +16,53 @@
         ),
         #080808;
 
+    isolation:isolate;
 }
+
+/* ==========================================================
+   ARTIST PAGE BACKGROUND
+========================================================== */
+
+.artists-page::before{
+
+    content:"";
+
+    position:fixed;
+    inset:0;
+
+    z-index:-1;
+
+    background-color:
+        var(--artist-background-color, transparent);
+
+    background-image:
+        linear-gradient(
+            rgba(8,8,8,.35),
+            rgba(8,8,8,.55)
+        ),
+        var(--artist-background-image, none);
+
+    background-size:auto 100%;
+    background-position:center top;
+    background-repeat:repeat;
+
+    opacity:0;
+
+    transition:
+        opacity 1s ease,
+        background-color 1s ease;
+
+    pointer-events:none;
+}
+
+
+.artists-page.has-artist-background::before{
+
+    opacity:1;
+
+}
+
+
 
 /* ==========================================================
    HERO
@@ -785,6 +833,8 @@ body.ru .artist-links{
     }
 
 }
+
+
 
 /* ==========================================================
   Responsive

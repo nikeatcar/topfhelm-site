@@ -294,6 +294,94 @@ function renderPlayer(player){
 
 }
 
+function setArtistBackground(artist){
+
+    const page = document.querySelector(".artists-page");
+
+    if (!page) return;
+
+    const background = artist?.background?.trim();
+
+    if (!background){
+
+        resetArtistBackground();
+        return;
+
+    }
+
+    const isImage =
+        background.startsWith("http://") ||
+        background.startsWith("https://");
+
+    if (isImage){
+
+        page.style.setProperty(
+            "--artist-background-image",
+            `url("${background}")`
+        );
+
+        page.style.setProperty(
+            "--artist-background-color",
+            "transparent"
+        );
+
+    }
+    else{
+
+        page.style.setProperty(
+            "--artist-background-image",
+            "none"
+        );
+
+        page.style.setProperty(
+            "--artist-background-color",
+            background
+        );
+
+    }
+
+    requestAnimationFrame(() => {
+
+        page.classList.add(
+            "has-artist-background"
+        );
+
+    });
+
+}
+
+
+function resetArtistBackground(){
+
+    const page = document.querySelector(".artists-page");
+
+    if (!page) return;
+
+    page.classList.remove(
+        "has-artist-background"
+    );
+
+    setTimeout(() => {
+
+        if (
+            !page.classList.contains(
+                "has-artist-background"
+            )
+        ){
+
+            page.style.removeProperty(
+                "--artist-background-image"
+            );
+
+            page.style.removeProperty(
+                "--artist-background-color"
+            );
+
+        }
+
+    }, 1000);
+
+}
 
 /* ==========================================================
    Accordion
@@ -330,18 +418,22 @@ function initAccordion(){
             });
 
             if(opened){
+
+                resetArtistBackground();
+
                 return;
+
             }
 
-            // Открываем выбранную карточку
             card.classList.add("open");
 
-            // Создаём плеер только сейчас
+            const artist = window.DSArtistsMap[card.id];
+
+            setArtistBackground(artist);
+
             const player = card.querySelector(".artist-player");
 
             if(player){
-
-                const artist = window.DSArtistsMap[card.id];
 
                 player.innerHTML = renderPlayer(artist.player);
 
