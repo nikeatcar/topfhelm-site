@@ -106,6 +106,8 @@ function renderArtists(){
 
             <div class="artist-info">
 
+                ${renderLabel(artist)}
+
                 <div class="artist-attributes">
 
                     <div>
@@ -158,6 +160,42 @@ function renderArtists(){
 
     updateArtistsCount();
 
+}
+
+function renderLabel(artist){
+
+    if (
+        !artist.label ||
+        !artist.label_name
+    ){
+        return "";
+    }
+
+    const image = artist.label_img
+        ? `
+            <img
+                src="${artist.label_img}"
+                alt="${artist.label_name}"
+                loading="lazy"
+                decoding="async">
+        `
+        : "";
+
+    return `
+        <a
+            class="artist-label"
+            href="${artist.label}"
+            target="_blank"
+            rel="noopener">
+
+            ${image}
+
+            <span class="artist-label-name">
+                ${artist.label_name}
+            </span>
+
+        </a>
+    `;
 }
 
 function renderLinks(artist){

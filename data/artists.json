@@ -9,6 +9,9 @@
         "logo": "https://f4.bcbits.com/img/0020324779_10.jpg",
         "banner": "https://f4.bcbits.com/img/0020324779_10.jpg",
         "background": "rgb(64, 70, 75)",
+        "label": "https://hypnagogapress.bandcamp.com/",
+        "label_name": "Hypnagoga Press",
+        "label_img": "https://f4.bcbits.com/img/0015333415_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "827208815"
@@ -41,6 +44,9 @@
         "logo": "https://f4.bcbits.com/img/0020598991_10.jpg",
         "banner": "https://f4.bcbits.com/img/0020222860_102.avif",
         "background": "https://f4.bcbits.com/img/0020218917_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3399177701"
@@ -73,6 +79,9 @@
         "logo": "https://f4.bcbits.com/img/0037751745_10.jpg",
         "banner": "https://f4.bcbits.com/img/0032597910_102.avif",
         "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "715933277"
@@ -105,6 +114,9 @@
         "logo": "https://f4.bcbits.com/img/0039941741_10.jpg",
         "banner": "https://f4.bcbits.com/img/a0594572280_10.jpg",
         "background": "rgb(16, 21, 19)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1280045952"
@@ -137,6 +149,9 @@
         "logo": "https://f4.bcbits.com/img/0035254285_10.jpg",
         "banner": "https://yt3.googleusercontent.com/Jzn-cVbbzflWFacRvJ1LbQfcAQ6GUjvxY2twrnjfXTNiNOnaymiO3eH0FHPVQNINprrH24zR=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
         "background": "rgb(3, 3, 3)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "2466712469"
@@ -169,6 +184,9 @@
         "logo": "https://f4.bcbits.com/img/a4216346386_16.jpg",
         "banner": "https://f4.bcbits.com/img/a4216346386_16.jpg",
         "background": "rgb(248, 248, 248)",
+        "label": "https://swallowedkeyproductions.bandcamp.com/",
+        "label_name": "Swallowed Key Productions",
+        "label_img": "https://f4.bcbits.com/img/0040813651_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "2385989166"
@@ -201,6 +219,9 @@
         "logo": "https://f4.bcbits.com/img/0041243107_10.jpg",
         "banner": "https://f4.bcbits.com/img/0038817594_102.avif",
         "background": "https://f4.bcbits.com/img/0038817579_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1398644259"
@@ -233,6 +254,9 @@
         "logo": "https://f4.bcbits.com/img/0024386164_10.jpg",
         "banner": "https://f4.bcbits.com/img/0024628448_102.avif",
         "background": "https://f4.bcbits.com/img/0024628459_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "2285086224"
@@ -265,6 +289,9 @@
         "logo": "https://f4.bcbits.com/img/0041180265_10.jpg",
         "banner": "https://f4.bcbits.com/img/0041180254_102.avif",
         "background": "https://f4.bcbits.com/img/0041180631_130.jpg",
+        "label": "https://ancientkingrec.bandcamp.com/music",
+        "label_name": "Ancient King Records",
+        "label_img": "https://f4.bcbits.com/img/0042052973_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "21127256"
@@ -297,6 +324,9 @@
         "logo": "https://f4.bcbits.com/img/0029044383_10.jpg",
         "banner": "https://f4.bcbits.com/img/0029044388_102.avif",
         "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "4003746471"
@@ -329,6 +359,9 @@
         "logo": "https://f4.bcbits.com/img/0037674061_10.jpg",
         "banner": "https://f4.bcbits.com/img/0037674118_102.avif",
         "background": "https://f4.bcbits.com/img/0039856517_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "2862997846"
@@ -361,6 +394,9 @@
         "logo": "https://www.outofseasonlabel.com/cdn/shop/files/AP1GczOxH6L93MBUWYDGokx5DQNihtWUglXGOcqtzWkwnnhkn2VWgAmNILxHKf5Zj6uVh0XKj75l-oLFUpldBLWSOZNjS4YgJBcft_q6mSbIRvuvR80HCSgE5bBc2exENkphi3FvPxOAkycZBNM9YypqVZso8A_w911-h911-s-no-gm.jpg?v=1710474852",
         "banner": "https://f4.bcbits.com/img/0019342121_71.jpg",
         "background": "rgb(0, 0, 0)",
+        "label": "https://gondolinrecords.bandcamp.com/",
+        "label_name": "Gondolin Records",
+        "label_img": "https://f4.bcbits.com/img/0028052481_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "1529870437"
@@ -393,6 +429,9 @@
         "logo": "https://f4.bcbits.com/img/a2832381339_10.jpg",
         "banner": "https://f4.bcbits.com/img/0026215746_102.avif",
         "background": "https://f4.bcbits.com/img/0026215762_130.jpg",
+        "label": "https://dungeonsquidproductions.bandcamp.com/",
+        "label_name": "Dungeon Squid Productions",
+        "label_img": "https://f4.bcbits.com/img/0025280197_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "1639344133"
@@ -425,6 +464,9 @@
         "logo": "https://f4.bcbits.com/img/0012557060_10.jpg",
         "banner": "https://f4.bcbits.com/img/0012515946_102.avif",
         "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "332277535"
@@ -457,6 +499,9 @@
         "logo": "https://f4.bcbits.com/img/0038347232_21.jpg",
         "banner": "https://f4.bcbits.com/img/0040445307_102.avif",
         "background": "https://f4.bcbits.com/img/0040445303_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "366462984"
@@ -489,6 +534,9 @@
         "logo": "https://f4.bcbits.com/img/0031040862_10.jpg",
         "banner": "https://f4.bcbits.com/img/0017238066_102.avif",
         "background": "https://f4.bcbits.com/img/0017386425_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "2455807032"
@@ -521,6 +569,9 @@
         "logo": "https://i.scdn.co/image/ab6761610000517468f561bb2f6f675f47db5366",
         "banner": "https://i.scdn.co/image/ab67616d00001e02ec9273dedd2c7eb544ef9aa7",
         "background": "rgb(248, 248, 248)",
+        "label": "https://swallowedkeyproductions.bandcamp.com/",
+        "label_name": "Swallowed Key Productions",
+        "label_img": "https://f4.bcbits.com/img/0040813651_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "560585893"
@@ -553,6 +604,9 @@
         "logo": "https://f4.bcbits.com/img/0046228013_10.jpg",
         "banner": "https://f4.bcbits.com/img/0046272806_102.avif",
         "background": "rgb(221, 95, 167)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "2301876631"
@@ -585,6 +639,9 @@
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLVj8S1kGXxSiPqyNG5ICQatvl6XSXhoGkC6GjP6QOyIltQ1aArBh2wWyB&s=10",
         "banner": "https://f4.bcbits.com/img/0028875772_102.avif",
         "background": "https://f4.bcbits.com/img/0032357472_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "314745972"
@@ -617,6 +674,9 @@
         "logo": "https://f4.bcbits.com/img/0012471117_10.jpg",
         "banner": "https://f4.bcbits.com/img/0019532616_102.avif",
         "background": "https://f4.bcbits.com/img/0025113532_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "2996915911"
@@ -626,7 +686,7 @@
             "bandcamp": "https://delmak-o.bandcamp.com/",
             "youtube": "",
             "apple_music": "https://music.apple.com/ru/artist/delmak-o/1542884901",
-            "website": ""
+            "website": "https://www.instagram.com/thefogweaver/"
         },
         "translations": {
             "en": {
@@ -649,6 +709,9 @@
         "logo": "https://f4.bcbits.com/img/0045514710_10.jpg",
         "banner": "https://f4.bcbits.com/img/a3667017537_10.jpg",
         "background": "rgb(243, 241, 236)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "720642040"
@@ -679,8 +742,11 @@
         "mood": "Epic",
         "tempo": "Slow",
         "logo": "https://f4.bcbits.com/img/0041463172_10.jpg",
-        "banner": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/481802537_1164371325693139_4351533380619906319_n.jpg?stp=dst-jpg_tt6&cstp=mx2500x1098&ctp=s2500x1098&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=gEmd2lDmqBMQ7kNvwHqvDQ2&_nc_oc=AdoLq7MTdg2T0Nys9tfodYCkRWa0CmGrSv1m01QJ8RmbpN_FeqsC1rQh3SFrJfk_oKg&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=BfgLPoYXTUaf8rPqsQrtnw&_nc_ss=7c2a8&oh=00_AQH2IEnYAwjeNeGJG6rBOzgOSpzqappixd3ydwtt7iDIzg&oe=6A82A33E",
+        "banner": "https://f4.bcbits.com/img/0041463172_10.jpg",
         "background": "https://f4.bcbits.com/img/0017082567_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "510187855"
@@ -713,6 +779,9 @@
         "logo": "https://f4.bcbits.com/img/0045484521_10.jpg",
         "banner": "https://f4.bcbits.com/img/0045251533_102.avif",
         "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "609531163"
@@ -745,6 +814,9 @@
         "logo": "https://f4.bcbits.com/img/a1324794153_16.jpg",
         "banner": "https://f4.bcbits.com/img/0030104778_102.avif",
         "background": "https://f4.bcbits.com/img/0030104765_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1536522993"
@@ -777,6 +849,9 @@
         "logo": "https://f4.bcbits.com/img/0037138613_10.jpg",
         "banner": "https://f4.bcbits.com/img/0021670378_102.avif",
         "background": "https://f4.bcbits.com/img/0021670357_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1717938106"
@@ -809,6 +884,9 @@
         "logo": "https://f4.bcbits.com/img/a2666581637_10.jpg",
         "banner": "https://f4.bcbits.com/img/a2666581637_10.jpg",
         "background": "https://f4.bcbits.com/img/0010823515_130.jpg",
+        "label": "https://heimatderkatastrophe.bandcamp.com/",
+        "label_name": "Heimat Der Katastrophe",
+        "label_img": "https://f4.bcbits.com/img/0042671091_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "763367747"
@@ -841,6 +919,9 @@
         "logo": "https://f4.bcbits.com/img/0015381873_10.jpg",
         "banner": "https://f4.bcbits.com/img/0014824162_102.avif",
         "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "924474885"
@@ -873,6 +954,9 @@
         "logo": "https://f4.bcbits.com/img/0018463681_10.jpg",
         "banner": "https://f4.bcbits.com/img/0018576280_102.avif",
         "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1547403877"
@@ -905,6 +989,9 @@
         "logo": "https://f4.bcbits.com/img/0044276582_10.jpg",
         "banner": "https://f4.bcbits.com/img/0042989172_102.avif",
         "background": "https://f4.bcbits.com/img/0042989180_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "4080611150"
@@ -936,7 +1023,10 @@
         "tempo": "Normal",
         "logo": "https://f4.bcbits.com/img/a0518971944_10.jpg",
         "banner": "https://thedungeonindeepspace.com/wp-content/uploads/2021/08/elmnewlogored-1.png",
-        "background": null,
+        "background": "",
+        "label": "https://ithildintapeproduction.bandcamp.com/music",
+        "label_name": "Ithildin Tape Production",
+        "label_img": "https://f4.bcbits.com/img/0032797292_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "694017993"
@@ -969,6 +1059,9 @@
         "logo": "https://f4.bcbits.com/img/0041454153_10.jpg",
         "banner": "https://assets.ampwall.com/cdn-cgi/image/format=avif,width=1200/artist-assets/01920759-fb34-7842-9025-26ad9079dacc/7d533976-0512-4c7b-b9b8-10ffed1fe62b.png",
         "background": "https://f4.bcbits.com/img/0041454109_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "2314369273"
@@ -1001,6 +1094,9 @@
         "logo": "https://f4.bcbits.com/img/0046325624_10.jpg",
         "banner": "https://f4.bcbits.com/img/0045689157_102.avif",
         "background": "https://f4.bcbits.com/img/0045689140_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "328629994"
@@ -1033,6 +1129,9 @@
         "logo": "https://f4.bcbits.com/img/0040960576_10.jpg",
         "banner": "https://yt3.googleusercontent.com/mpuvzKurol0y1RP0Dm5BVVem0PUPh_99RSCDum7Ma8dXc4Ev0ib0DYJWArjJxvJm7Zm4ZoS1UQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
         "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1533114019"
@@ -1065,6 +1164,9 @@
         "logo": "https://f4.bcbits.com/img/0040908099_10.jpg",
         "banner": "https://f4.bcbits.com/img/0042223230_102.avif",
         "background": "https://f4.bcbits.com/img/0042223192_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "4041781507"
@@ -1097,6 +1199,9 @@
         "logo": "https://f4.bcbits.com/img/a1167448632_10.jpg",
         "banner": "https://f4.bcbits.com/img/a0404726034_10.jpg",
         "background": "https://f4.bcbits.com/img/0016854908_130.jpg",
+        "label": "https://nokturniis.bandcamp.com/music",
+        "label_name": "Nokturniis",
+        "label_img": "https://f4.bcbits.com/img/0016852448_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "211295933"
@@ -1129,6 +1234,9 @@
         "logo": "https://f4.bcbits.com/img/0018683477_10.jpg",
         "banner": "https://f4.bcbits.com/img/0019049169_102.avif",
         "background": "https://f4.bcbits.com/img/0018486742_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "570339056"
@@ -1161,6 +1269,9 @@
         "logo": "https://f4.bcbits.com/img/0036839946_10.jpg",
         "banner": "https://f4.bcbits.com/img/0005948562_102.avif",
         "background": "https://f4.bcbits.com/img/0005948572_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1219222347"
@@ -1193,6 +1304,9 @@
         "logo": "https://f4.bcbits.com/img/0028882269_10.jpg",
         "banner": "https://f4.bcbits.com/img/0028880355_102.avif",
         "background": "https://f4.bcbits.com/img/0028880276_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1519019094"
@@ -1225,6 +1339,9 @@
         "logo": "https://f4.bcbits.com/img/a0249326250_10.jpg",
         "banner": "https://f4.bcbits.com/img/a1670877584_10.jpg",
         "background": "rgb(87, 87, 87)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3763192730"
@@ -1257,6 +1374,9 @@
         "logo": "https://f4.bcbits.com/img/0030224949_10.jpg",
         "banner": "https://f4.bcbits.com/img/0030230616_102.avif",
         "background": "https://f4.bcbits.com/img/0031526637_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "743008332"
@@ -1289,6 +1409,9 @@
         "logo": "https://f4.bcbits.com/img/0042820414_10.jpg",
         "banner": "https://f4.bcbits.com/img/0017981412_102.avif",
         "background": "https://f4.bcbits.com/img/0018812736_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "4181215458"
@@ -1321,6 +1444,9 @@
         "logo": "https://f4.bcbits.com/img/0039062963_10.jpg",
         "banner": "https://f4.bcbits.com/img/0045956408_102.avif",
         "background": "rgb(115, 116, 129)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "2939641955"
@@ -1353,6 +1479,9 @@
         "logo": "https://f4.bcbits.com/img/0042843539_10.jpg",
         "banner": "https://f4.bcbits.com/img/a2450812398_10.jpg",
         "background": "https://f4.bcbits.com/img/0033473021_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1664298057"
@@ -1385,6 +1514,9 @@
         "logo": "https://f4.bcbits.com/img/a2247894786_10.jpg",
         "banner": "https://f4.bcbits.com/img/a2247894786_10.jpg",
         "background": "https://f4.bcbits.com/img/0010823515_130.jpg",
+        "label": "https://heimatderkatastrophe.bandcamp.com/",
+        "label_name": "Heimat Der Katastrophe",
+        "label_img": "https://f4.bcbits.com/img/0042671091_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "1474510950"
@@ -1417,6 +1549,9 @@
         "logo": "https://f4.bcbits.com/img/0046073969_10.jpg",
         "banner": "https://f4.bcbits.com/img/0037528293_102.avif",
         "background": "https://f4.bcbits.com/img/0037528291_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3865802705"
@@ -1449,6 +1584,9 @@
         "logo": "https://f4.bcbits.com/img/0023735712_10.jpg",
         "banner": "https://f4.bcbits.com/img/0023735422_102.avif",
         "background": "https://f4.bcbits.com/img/0024950553_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1112354367"
@@ -1481,6 +1619,9 @@
         "logo": "https://f4.bcbits.com/img/0042109654_10.jpg",
         "banner": "https://f4.bcbits.com/img/0042109646_102.avif",
         "background": "rgb(17, 21, 24)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3890011105"
@@ -1513,6 +1654,9 @@
         "logo": "https://f4.bcbits.com/img/0043659173_10.jpg",
         "banner": "https://f4.bcbits.com/img/0028896851_102.avif",
         "background": "https://f4.bcbits.com/img/0045316296_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "464163961"
@@ -1545,6 +1689,9 @@
         "logo": "https://f4.bcbits.com/img/a4196370345_10.jpg",
         "banner": "https://f4.bcbits.com/img/a4196370345_10.jpg",
         "background": "https://f4.bcbits.com/img/0011231475_130.jpg",
+        "label": "https://dungeonsynthdarkambient.bandcamp.com/",
+        "label_name": "Dungeon Synth / Dark Ambient",
+        "label_img": "https://f4.bcbits.com/img/0011239039_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "1273768649"
@@ -1577,6 +1724,9 @@
         "logo": "https://f4.bcbits.com/img/0041618252_10.jpg",
         "banner": "https://f4.bcbits.com/img/a2030868362_10.jpg",
         "background": "rgb(215, 120, 15)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "268386559"
@@ -1609,6 +1759,9 @@
         "logo": "https://f4.bcbits.com/img/0030556897_10.jpg",
         "banner": "https://f4.bcbits.com/img/0027851454_102.avif",
         "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "2621119091"
@@ -1641,6 +1794,9 @@
         "logo": "https://f4.bcbits.com/img/a3173350532_16.jpg",
         "banner": "https://f4.bcbits.com/img/a3173350532_16.jpg",
         "background": "rgb(0, 0, 0)",
+        "label": "https://gondolinrecords.bandcamp.com/",
+        "label_name": "Gondolin Records",
+        "label_img": "https://f4.bcbits.com/img/0028052481_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "2734759259"
@@ -1673,6 +1829,9 @@
         "logo": "https://f4.bcbits.com/img/0026252035_10.jpg",
         "banner": "https://f4.bcbits.com/img/0021013126_102.avif",
         "background": "https://f4.bcbits.com/img/0020828394_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "2932397172"
@@ -1705,6 +1864,9 @@
         "logo": "https://f4.bcbits.com/img/0041499108_10.jpg",
         "banner": "https://f4.bcbits.com/img/a1085351107_16.jpg",
         "background": "https://f4.bcbits.com/img/0041499092_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3942234626"
@@ -1737,6 +1899,9 @@
         "logo": "https://f4.bcbits.com/img/a2228718390_10.jpg",
         "banner": "https://f4.bcbits.com/img/a2228718390_10.jpg",
         "background": "https://f4.bcbits.com/img/0045897053_130.jpg",
+        "label": "https://voldsomtapes.bandcamp.com/",
+        "label_name": "Voldsom Tapes",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1977735128"
@@ -1769,6 +1934,9 @@
         "logo": "https://f4.bcbits.com/img/a0882305732_10.jpg",
         "banner": "https://f4.bcbits.com/img/a0882305732_10.jpg",
         "background": "https://f4.bcbits.com/img/0030919709_130.jpg",
+        "label": "https://personaluschirecords.bandcamp.com/",
+        "label_name": "Personal Uschi Records",
+        "label_img": "https://f4.bcbits.com/img/0030919593_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "775038718"
@@ -1795,12 +1963,15 @@
         "id": "kobold",
         "country": "Italy",
         "genre": "",
-        "style": "Oldschool",
+        "style": "Chiptune",
         "mood": "Adventure",
         "tempo": "Normal",
         "logo": "https://f4.bcbits.com/img/a3370733063_10.jpg",
         "banner": "https://f4.bcbits.com/img/a3370733063_10.jpg",
         "background": "https://f4.bcbits.com/img/0010823515_130.jpg",
+        "label": "https://heimatderkatastrophe.bandcamp.com/",
+        "label_name": "Heimat Der Katastrophe",
+        "label_img": "https://f4.bcbits.com/img/0042671091_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "2573271858"
@@ -1833,6 +2004,9 @@
         "logo": "https://f4.bcbits.com/img/0045968622_10.jpg",
         "banner": "https://f4.bcbits.com/img/0046068861_102.avif",
         "background": "https://f4.bcbits.com/img/0045249232_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3258330128"
@@ -1865,6 +2039,9 @@
         "logo": "https://f4.bcbits.com/img/0024433782_10.jpg",
         "banner": "https://f4.bcbits.com/img/0034156010_102.avif",
         "background": "https://f4.bcbits.com/img/0034156022_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "249021916"
@@ -1897,6 +2074,9 @@
         "logo": "https://f4.bcbits.com/img/0032320278_10.jpg",
         "banner": "https://f4.bcbits.com/img/0032319933_102.avif",
         "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "774373960"
@@ -1929,6 +2109,9 @@
         "logo": "https://f4.bcbits.com/img/0035201380_10.jpg",
         "banner": "https://f4.bcbits.com/img/0034709072_102.avif",
         "background": "rgb(43, 194, 30)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "2443727914"
@@ -1961,6 +2144,9 @@
         "logo": "https://f4.bcbits.com/img/0018455315_10.jpg",
         "banner": "https://f4.bcbits.com/img/0022113095_102.avif",
         "background": "https://f4.bcbits.com/img/0022113075_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3294093030"
@@ -1993,6 +2179,9 @@
         "logo": "https://f4.bcbits.com/img/0040916879_10.jpg",
         "banner": "https://f4.bcbits.com/img/0040916976_102.avif",
         "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3805651175"
@@ -2025,6 +2214,9 @@
         "logo": "https://f4.bcbits.com/img/0034105047_10.jpg",
         "banner": "https://f4.bcbits.com/img/0034105023_102.avif",
         "background": "https://f4.bcbits.com/img/0034104982_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "961670542"
@@ -2057,6 +2249,9 @@
         "logo": "https://f4.bcbits.com/img/a3321134286_10.jpg",
         "banner": "https://f4.bcbits.com/img/a3321134286_10.jpg",
         "background": null,
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1035067520"
@@ -2089,6 +2284,9 @@
         "logo": "https://f4.bcbits.com/img/0023839177_10.jpg",
         "banner": "https://f4.bcbits.com/img/0023717955_102.avif",
         "background": "rgb(33, 76, 192)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "2185950221"
@@ -2121,6 +2319,9 @@
         "logo": "https://i.discogs.com/sybCyiqSPeT37qEEUsxUDgimaQzwpBkEQlKy6YS1vVo/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk4NjMw/MDItMTcwNjMwMjM0/Ny04MjU3LmpwZWc.jpeg",
         "banner": "https://i.ytimg.com/vi/G6K7-53sQC8/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLD5JGII2o3tsffIsd5E32ydfp73EA",
         "background": null,
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "",
             "id": ""
@@ -2153,6 +2354,9 @@
         "logo": "https://d3e6ckxkrs5ntg.cloudfront.net/photos/images/5767325/original/crop:x0y0w800h400/hash:1463512350/1306258071_Morgan.png?1463512350",
         "banner": "https://d3e6ckxkrs5ntg.cloudfront.net/photos/images/5767325/original/crop:x0y0w800h400/hash:1463512350/1306258071_Morgan.png?1463512350",
         "background": null,
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "",
             "id": ""
@@ -2185,6 +2389,9 @@
         "logo": "https://m.media-amazon.com/images/M/MV5BZDA1NzA4MzYtZWZkZC00ZjE2LTgxMDMtNTEzMDNkZDkzMmM3XkEyXkFqcGc@._V1_.jpg",
         "banner": "https://torvenius.store/cdn/shop/files/mortiis_1500x.jpg?v=1713726248",
         "background": "https://f4.bcbits.com/img/0016065647_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1160366033"
@@ -2216,7 +2423,10 @@
         "tempo": "Normal",
         "logo": "https://f4.bcbits.com/img/a0520317097_16.jpg",
         "banner": "https://i.ytimg.com/vi/PLN0MiC2VCM/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH8gSygtMA8=&rs=AOn4CLDFq_TvtK-iY1sXoetHU8s8Z_YV6Q",
-        "background": null,
+        "background": "",
+        "label": "https://gondolinrecords.bandcamp.com/",
+        "label_name": "Gondolin Records",
+        "label_img": "https://f4.bcbits.com/img/0028052481_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "2399843652"
@@ -2249,6 +2459,9 @@
         "logo": "https://f4.bcbits.com/img/0039723134_10.jpg",
         "banner": "https://f4.bcbits.com/img/a3376603341_10.jpg",
         "background": "https://f4.bcbits.com/img/0042753600_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3961464772"
@@ -2281,6 +2494,9 @@
         "logo": "https://f4.bcbits.com/img/0030011450_10.jpg",
         "banner": "https://f4.bcbits.com/img/0030009579_102.avif",
         "background": "https://f4.bcbits.com/img/0030009533_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1798374317"
@@ -2313,6 +2529,9 @@
         "logo": "https://f4.bcbits.com/img/0017346374_10.jpg",
         "banner": "https://f4.bcbits.com/img/0017346334_102.avif",
         "background": "rgb(53, 70, 52)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3764427381"
@@ -2345,6 +2564,9 @@
         "logo": "https://f4.bcbits.com/img/0044797461_10.jpg",
         "banner": "https://f4.bcbits.com/img/0042212964_102.avif",
         "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "4025530424"
@@ -2377,6 +2599,9 @@
         "logo": "https://f4.bcbits.com/img/a3874292432_10.jpg",
         "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG7Sqrj2UkVjN0xD0eujsbJFum_9JOiUyx6T6LZK693HogkdoJik04_lPZ&s=10",
         "background": "https://f4.bcbits.com/img/0017635375_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3211203556"
@@ -2409,6 +2634,9 @@
         "logo": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e0294a8444db9ebf9fb78a11899",
         "banner": "https://f4.bcbits.com/img/a1751806143_10.jpg",
         "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "spotify",
             "id": "1TrkXFTdgV1izEMDHK3kX1"
@@ -2441,6 +2669,9 @@
         "logo": "https://f4.bcbits.com/img/0015200072_10.jpg",
         "banner": "https://f4.bcbits.com/img/0011424993_102.avif",
         "background": "https://f4.bcbits.com/img/0044776938_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3062855137"
@@ -2473,6 +2704,9 @@
         "logo": "https://i.scdn.co/image/ab6761610000e5ebc48ec1fc83574e8c810a8230",
         "banner": "https://f4.bcbits.com/img/0041928980_102.avif",
         "background": "https://f4.bcbits.com/img/0015414631_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "153615476"
@@ -2505,6 +2739,9 @@
         "logo": "https://f4.bcbits.com/img/0035051470_10.jpg",
         "banner": "https://f4.bcbits.com/img/0035232049_102.avif",
         "background": "rgb(235, 235, 224)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "2800735538"
@@ -2537,6 +2774,9 @@
         "logo": "https://f4.bcbits.com/img/0036767605_10.jpg",
         "banner": "https://f4.bcbits.com/img/0034670450_102.avif",
         "background": "rgb(255, 129, 5)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "4046137576"
@@ -2569,6 +2809,9 @@
         "logo": "https://f4.bcbits.com/img/0037037514_10.jpg",
         "banner": "https://f4.bcbits.com/img/0037037472_102.avif",
         "background": "https://f4.bcbits.com/img/0037037479_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "330173495"
@@ -2601,6 +2844,9 @@
         "logo": "https://f4.bcbits.com/img/0038625448_10.jpg",
         "banner": "https://f4.bcbits.com/img/0038312139_102.avif",
         "background": "https://f4.bcbits.com/img/0038625857_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3525075054"
@@ -2633,6 +2879,9 @@
         "logo": "https://f4.bcbits.com/img/a4230729622_10.jpg",
         "banner": "https://f4.bcbits.com/img/a4230729622_10.jpg",
         "background": "rgb(64, 64, 64)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1694004952"
@@ -2665,6 +2914,9 @@
         "logo": "https://f4.bcbits.com/img/0020794913_10.jpg",
         "banner": "https://f4.bcbits.com/img/0017357301_102.avif",
         "background": "https://f4.bcbits.com/img/0014566480_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1672552851"
@@ -2697,6 +2949,9 @@
         "logo": "https://f4.bcbits.com/img/0039279428_10.jpg",
         "banner": "https://f4.bcbits.com/img/0040332600_102.avif",
         "background": "https://f4.bcbits.com/img/0040329427_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "2485460824"
@@ -2729,6 +2984,9 @@
         "logo": "https://f4.bcbits.com/img/0037846535_10.jpg",
         "banner": "https://www.spirit-of-metal.com/les%20goupes/S/Skhemty/pics/logo_4809.jpg",
         "background": "https://f4.bcbits.com/img/0035925540_130.jpg",
+        "label": "https://ancientkingrec.bandcamp.com/",
+        "label_name": "Ancient King Records",
+        "label_img": "https://f4.bcbits.com/img/0042052973_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "2525414357"
@@ -2761,6 +3019,9 @@
         "logo": "https://f4.bcbits.com/img/0041362707_10.jpg",
         "banner": "https://f4.bcbits.com/img/0041263974_102.avif",
         "background": "https://f4.bcbits.com/img/0041264074_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "2669659471"
@@ -2793,6 +3054,9 @@
         "logo": "https://f4.bcbits.com/img/0033052711_10.jpg",
         "banner": "https://f4.bcbits.com/img/0033052703_102.avif",
         "background": null,
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1229011736"
@@ -2825,6 +3089,9 @@
         "logo": "https://f4.bcbits.com/img/a3090497522_10.jpg",
         "banner": "https://f4.bcbits.com/img/a3090497522_10.jpg",
         "background": "rgb(0, 0, 0)",
+        "label": "https://hauntedklinik.bandcamp.com/",
+        "label_name": "Haunted Klinik",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1462451424"
@@ -2857,6 +3124,9 @@
         "logo": "https://f4.bcbits.com/img/0037086691_10.jpg",
         "banner": "https://f4.bcbits.com/img/0037072989_102.avif",
         "background": "rgb(14, 12, 12)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3126260987"
@@ -2889,6 +3159,9 @@
         "logo": "https://f4.bcbits.com/img/0039608630_10.jpg",
         "banner": "https://f4.bcbits.com/img/0039605722_102.avif",
         "background": "rgb(16, 4, 4)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "101772076"
@@ -2921,6 +3194,9 @@
         "logo": "https://f4.bcbits.com/img/0028856876_10.jpg",
         "banner": "https://f4.bcbits.com/img/0028856895_102.avif",
         "background": "https://f4.bcbits.com/img/0028856891_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "2484794722"
@@ -2953,6 +3229,9 @@
         "logo": "https://thisisblackmetal.com/wp-content/uploads/2018/05/20638791_124296964868344_2394526698329299176_n.jpg",
         "banner": "https://i.scdn.co/image/ab6772690000dd2268857231cb41e1fcb24d90d9",
         "background": "https://f4.bcbits.com/img/0011558297_10.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "spotify",
             "id": "3sSyigX4ZC4iniQqFEfxae"
@@ -2985,6 +3264,9 @@
         "logo": "https://f4.bcbits.com/img/0026858031_10.jpg",
         "banner": "https://f4.bcbits.com/img/a3645986753_16.jpg",
         "background": "https://f4.bcbits.com/img/0027184566_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1354084050"
@@ -3017,6 +3299,9 @@
         "logo": "https://f4.bcbits.com/img/0030316376_10.jpg",
         "banner": "https://f4.bcbits.com/img/0030317183_102.avif",
         "background": "https://f4.bcbits.com/img/0030317154_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3891586271"
@@ -3049,6 +3334,9 @@
         "logo": "https://f4.bcbits.com/img/0026812387_10.jpg",
         "banner": "https://f4.bcbits.com/img/0026812441_102.avif",
         "background": "rgb(54, 54, 54)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "24492707"
@@ -3081,6 +3369,9 @@
         "logo": "https://i.scdn.co/image/ab6761610000e5eba593bf77cb28b2edc74f8939",
         "banner": "https://forsakenrelics.com/cdn/shop/files/1000013701-01.jpg?v=1704470443&width=1445",
         "background": "rgb(46, 46, 46)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3635476977"
@@ -3113,6 +3404,9 @@
         "logo": "https://f4.bcbits.com/img/0039237102_10.jpg",
         "banner": "https://f4.bcbits.com/img/0039236968_102.avif",
         "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3136889848"
@@ -3145,6 +3439,9 @@
         "logo": "https://i.scdn.co/image/ab67616d0000b2734e4acc84a54326e99934ada1",
         "banner": "https://i.scdn.co/image/ab67616d0000b2734e4acc84a54326e99934ada1",
         "background": "https://f4.bcbits.com/img/0045897053_130.jpg",
+        "label": "https://voldsomtapes.bandcamp.com/",
+        "label_name": "Voldsom Tapes",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3293959707"
@@ -3177,6 +3474,9 @@
         "logo": "https://f4.bcbits.com/img/0027959258_10.jpg",
         "banner": "https://f4.bcbits.com/img/0027959326_102.avif",
         "background": null,
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3882585184"
@@ -3209,6 +3509,9 @@
         "logo": "https://f4.bcbits.com/img/0023832681_10.jpg",
         "banner": "https://f4.bcbits.com/img/a4178149590_10.jpg",
         "background": "rgb(42, 2, 75)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "555073915"
@@ -3241,6 +3544,9 @@
         "logo": "https://f4.bcbits.com/img/0040167808_20.jpg",
         "banner": "https://styles.redditmedia.com/t5_jcri60/styles/profileBanner_putm4wnmqwhh1.png?width=1280&height=384&frame=1&auto=webp&crop=1280:384,smart&s=b1c9480aab92b7f44cb68c1d076eafea8a582566",
         "background": "https://f4.bcbits.com/img/0040167909_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "4099180322"
@@ -3273,6 +3579,9 @@
         "logo": "https://f4.bcbits.com/img/0013906889_10.jpg",
         "banner": "https://f4.bcbits.com/img/0013898378_102.avif",
         "background": "https://f4.bcbits.com/img/0013907252_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "456458877"
@@ -3305,6 +3614,9 @@
         "logo": "https://f4.bcbits.com/img/0040603916_10.jpg",
         "banner": "https://f4.bcbits.com/img/0034742420_102.avif",
         "background": "rgb(245, 6, 27)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "2802721489"
@@ -3337,6 +3649,9 @@
         "logo": "https://f4.bcbits.com/img/a0542559429_16.jpg",
         "banner": "https://f4.bcbits.com/img/a0542559429_16.jpg",
         "background": "rgb(0, 0, 0)",
+        "label": "https://unrealestaterecords.bandcamp.com/",
+        "label_name": "Unreal Estate Records",
+        "label_img": "https://f4.bcbits.com/img/0034153827_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "3541722093"
@@ -3369,6 +3684,9 @@
         "logo": "https://f4.bcbits.com/img/0019117981_10.jpg",
         "banner": "https://f4.bcbits.com/img/0019118019_102.avif",
         "background": "rgb(14, 12, 12)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "204587499"
@@ -3401,6 +3719,9 @@
         "logo": "https://i.scdn.co/image/ab6761610000517493c1722867c2fd6f711b3a6f",
         "banner": "https://f4.bcbits.com/img/a1267579569_10.jpg",
         "background": "https://f4.bcbits.com/img/0018954341_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "833088328"
@@ -3433,6 +3754,9 @@
         "logo": "https://f4.bcbits.com/img/0035851121_10.jpg",
         "banner": "https://f4.bcbits.com/img/0041207210_102.avif",
         "background": "rgb(34, 21, 35)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "636946645"
@@ -3465,6 +3789,9 @@
         "logo": "https://f4.bcbits.com/img/0011893610_10.jpg",
         "banner": "https://f4.bcbits.com/img/a3588901232_10.jpg",
         "background": "rgb(255, 255, 255)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1445226405"
@@ -3497,6 +3824,9 @@
         "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjAjRYjRHzsrgLtF5xEgDZtneZXc7pv6u91jNI5A3uyU3F6QuGATHIvoxICyDajoBlOXmQxZBMszEOIDBxRc3v98ApOHwr5SCVFCThs-kVPD9a3iMKmJyH0FjtE8crXfAULPV8K7xB5-M/s1600/Utred+2019.jpg",
         "banner": "https://f4.bcbits.com/img/0025962975_102.avif",
         "background": "https://f4.bcbits.com/img/0025962948_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "983736308"
@@ -3529,6 +3859,9 @@
         "logo": "https://yt3.googleusercontent.com/qTk29u61c6tEZaZMOc0nEf7KwOm458k8SXdgDn_-v3lzLiJB_sUEGgvQpbLs-wETIFN2K-k_tA=s120-c-k-c0x00ffffff-no-rj",
         "banner": "https://yt3.googleusercontent.com/EjoEm1xqY_qeOdhPNcKJvtc6-cEnmJnyIfuG1wDMhaxXH40vbwv0vmdTxj9uvrp0hSPbpwGDSw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
         "background": null,
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3050437818"
@@ -3561,6 +3894,9 @@
         "logo": "https://f4.bcbits.com/img/0045749064_10.jpg",
         "banner": "https://f4.bcbits.com/img/0045749062_102.avif",
         "background": "https://f4.bcbits.com/img/0045749086_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3684182084"
@@ -3593,6 +3929,9 @@
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJwYHUi10ESnnUUuvUQeJmfnUrpQeFd5w-GDY3B3jmAOLALsOQAXgVdA&s=10",
         "banner": "https://f4.bcbits.com/img/a1623625987_10.jpg",
         "background": "https://f4.bcbits.com/img/0045897053_130.jpg",
+        "label": "https://voldsomtapes.bandcamp.com/",
+        "label_name": "Voldsom Tapes",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3193615890"
@@ -3625,6 +3964,9 @@
         "logo": "https://f4.bcbits.com/img/0041053989_10.jpg",
         "banner": "https://f4.bcbits.com/img/0043253998_102.avif",
         "background": "https://f4.bcbits.com/img/0043253972_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3812251117"
@@ -3657,6 +3999,9 @@
         "logo": "https://f4.bcbits.com/img/0026230281_10.jpg",
         "banner": "https://f4.bcbits.com/img/0026399268_102.avif",
         "background": "https://f4.bcbits.com/img/0026399117_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "4056359452"
@@ -3689,6 +4034,9 @@
         "logo": "https://f4.bcbits.com/img/0019612397_10.jpg",
         "banner": "https://f4.bcbits.com/img/0030517896_102.avif",
         "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1798343827"
@@ -3721,6 +4069,9 @@
         "logo": "https://f4.bcbits.com/img/0041000202_10.jpg",
         "banner": "https://f4.bcbits.com/img/0040800266_102.avif",
         "background": "https://f4.bcbits.com/img/0041000205_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "181634948"
@@ -3753,6 +4104,9 @@
         "logo": "https://f4.bcbits.com/img/0034747407_10.jpg",
         "banner": "https://f4.bcbits.com/img/0024389305_102.avif",
         "background": "rgb(43, 54, 44)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3213465971"
@@ -3785,6 +4139,9 @@
         "logo": "https://f4.bcbits.com/img/0029183204_10.jpg",
         "banner": "https://f4.bcbits.com/img/0034592157_102.avif",
         "background": "https://f4.bcbits.com/img/0034591417_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "3779398278"
@@ -3817,6 +4174,9 @@
         "logo": "https://i1.sndcdn.com/avatars-emALZfRF7pf4QuFk-VLTFSQ-t240x240.jpg",
         "banner": "https://f4.bcbits.com/img/a1006907450_10.jpg",
         "background": "https://f4.bcbits.com/img/0045897053_130.jpg",
+        "label": "https://voldsomtapes.bandcamp.com/",
+        "label_name": "Voldsom Tapes",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1928375951"
@@ -3849,6 +4209,9 @@
         "logo": "https://f4.bcbits.com/img/a0435600018_10.jpg",
         "banner": "https://dungeon-codex.com/storage/artists/1211/logo.jpeg",
         "background": "rgb(0, 0, 0)",
+        "label": "https://unrealestaterecords.bandcamp.com/",
+        "label_name": "Unreal Estate Records",
+        "label_img": "https://f4.bcbits.com/img/0034153827_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "2319668000"
@@ -3881,6 +4244,9 @@
         "logo": "https://f4.bcbits.com/img/0043228079_10.jpg",
         "banner": "https://f4.bcbits.com/img/0038919643_102.avif",
         "background": "rgb(0, 0, 0)",
+        "label": "https://nordvis.bandcamp.com/",
+        "label_name": "Nordvis",
+        "label_img": "https://f4.bcbits.com/img/0014615767_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "605096941"

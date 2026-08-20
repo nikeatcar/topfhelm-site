@@ -27,6 +27,7 @@ If you want to suggest your project or report any incorrect details or errors, p
 ### Aindulmedir
 
 **Country:** Sweden
+**Label:** [Hypnagoga Press](https://hypnagogapress.bandcamp.com/)
 **Genre:** Dungeon Synth
 **Style:** Ambient
 **Mood:** Melancholic
@@ -116,6 +117,7 @@ Arcana Liturgia has also collaborated with projects including Båvingr and Frost
 ### Armsman Commander
 
 **Country:** Hungary
+**Label:** [Swallowed Key Productions](https://swallowedkeyproductions.bandcamp.com/)
 **Style:** Fantasy
 **Mood:** Battle
 **Tempo:** Slow
@@ -163,6 +165,7 @@ The result feels unusually physical for dungeon synth: rhythmic, ominous and at 
 ### Aura Merlin
 
 **Country:** Canada
+**Label:** [Ancient King Records](https://ancientkingrec.bandcamp.com/music)
 **Style:** Fantasy
 **Mood:** Dreamy
 **Tempo:** Slow
@@ -216,6 +219,7 @@ Black Winds of Wallachia is also connected to Puerto Rico's wider underground sc
 ### Bronzen Oath
 
 **Country:** USA
+**Label:** [Gondolin Records](https://gondolinrecords.bandcamp.com/)
 **Style:** Ambient
 **Mood:** Battle
 **Tempo:** Slow
@@ -227,6 +231,7 @@ Bronzen Oath is an anonymous American dungeon synth project focused on war, barb
 ### Carrion Cloak
 
 **Country:** USA
+**Label:** [Dungeon Squid Productions](https://dungeonsquidproductions.bandcamp.com/)
 **Style:** Experimental
 **Mood:** Dark
 **Tempo:** Normal
@@ -283,6 +288,7 @@ Criptadel is an Argentine dungeon synth project by Mauro (Uxoria), active since 
 ### Cursed Pumpkin
 
 **Country:** Hungary
+**Label:** [Swallowed Key Productions](https://swallowedkeyproductions.bandcamp.com/)
 **Style:** Horror
 **Mood:** Mystical
 **Tempo:** Slow
@@ -344,6 +350,7 @@ Delmak-O is a US electronic project by Evie, combining Dungeon Synth-adjacent ae
 [Spotify](https://open.spotify.com/artist/0GilvvQEG3i8rDKunFSz8s)
 [Bandcamp](https://delmak-o.bandcamp.com/)
 [Apple Music](https://music.apple.com/ru/artist/delmak-o/1542884901)
+[Website](https://www.instagram.com/thefogweaver/)
 
 ### DIM
 
@@ -426,6 +433,7 @@ Musically, the project embraces the simplicity of classic dungeon synth: nostalg
 ### DUNJON MAGIK
 
 **Country:** Italy
+**Label:** [Heimat Der Katastrophe](https://heimatderkatastrophe.bandcamp.com/)
 **Style:** Fantasy
 **Mood:** Mystical
 **Tempo:** Normal
@@ -481,6 +489,7 @@ More than thirty years after the project's formation, ELFFOR remains active: Utm
 ### Elminster
 
 **Country:** USA
+**Label:** [Ithildin Tape Production](https://ithildintapeproduction.bandcamp.com/music)
 **Style:** Medieval
 **Mood:** Epic
 **Tempo:** Normal
@@ -568,6 +577,7 @@ The project's unusual compositional style is deeply personal. Ervald has severe-
 ### Ethereal Journeys
 
 **Country:** USA
+**Label:** [Nokturniis](https://nokturniis.bandcamp.com/music)
 **Style:** Ambient
 **Mood:** Dark
 **Tempo:** Slow
@@ -709,6 +719,7 @@ Gelure is an Australian dungeon synth project from Adelaide, created by the musi
 ### GNOLL
 
 **Country:** Italy
+**Label:** [Heimat Der Katastrophe](https://heimatderkatastrophe.bandcamp.com/)
 **Style:** Fantasy
 **Mood:** Mystical
 **Tempo:** Slow
@@ -783,6 +794,7 @@ Great Mercenary remains highly active, with several releases appearing in 2026. 
 ### Grimstone
 
 **Country:** Puerto Rico
+**Label:** [Dungeon Synth / Dark Ambient](https://dungeonsynthdarkambient.bandcamp.com/)
 **Style:** RAW
 **Mood:** Battle
 **Tempo:** Normal
@@ -830,6 +842,7 @@ This mixture of eerie synthesizers, acoustic instruments and woodland imagery gi
 ### Henbane
 
 **Country:** Denmark
+**Label:** [Gondolin Records](https://gondolinrecords.bandcamp.com/)
 **Genre:** OS DS
 **Style:** Oldschool
 **Mood:** Melancholic
@@ -880,6 +893,7 @@ Warm lo-fi synthesizers, nostalgic video-game melodies and deliberately weathere
 ### INWENDT FAERTE
 
 **Country:** Germany
+**Label:** [Voldsom Tapes](https://voldsomtapes.bandcamp.com/)
 **Style:** Sci-fi
 **Mood:** Mystical
 **Tempo:** Slow
@@ -893,6 +907,7 @@ The release has gradually acquired something of a cult reputation within the und
 ### KletTtermax
 
 **Country:** Germany
+**Label:** [Personal Uschi Records](https://personaluschirecords.bandcamp.com/)
 **Style:** Comfy
 **Mood:** Adventure
 **Tempo:** Normal
@@ -906,7 +921,8 @@ KletTtermax is a German dungeon synth project created by Thomas, founder of the 
 ### KOBOLD
 
 **Country:** Italy
-**Style:** Oldschool
+**Label:** [Heimat Der Katastrophe](https://heimatderkatastrophe.bandcamp.com/)
+**Style:** Chiptune
 **Mood:** Adventure
 **Tempo:** Normal
 
@@ -1084,6 +1100,7 @@ Mortiis also made fantasy inseparable from the identity of the project. Prosthet
 ### Moth Tower
 
 **Country:** Denmark
+**Label:** [Gondolin Records](https://gondolinrecords.bandcamp.com/)
 **Style:** Medieval
 **Mood:** Dreamy
 **Tempo:** Normal
@@ -1359,6 +1376,7 @@ Amarok has described his creative process as beginning with an aesthetic, musica
 ### Skhemty
 
 **Country:** France
+**Label:** [Ancient King Records](https://ancientkingrec.bandcamp.com/)
 **Style:** Percussive
 **Mood:** Adventure
 **Tempo:** Normal
@@ -1417,6 +1435,7 @@ For listeners who approach dungeon synth primarily as a doorway into imaginary w
 ### Soporific Sorcery
 
 **Country:** Unknown
+**Label:** [Haunted Klinik](https://hauntedklinik.bandcamp.com/)
 **Style:** Fantasy
 **Mood:** Adventure
 **Tempo:** Normal
@@ -1596,6 +1615,7 @@ The Ashen Codex has also become notably collaborative. Releases and side project
 ### TIL DET BERGENS SKYGGENE
 
 **Country:** Germany
+**Label:** [Voldsom Tapes](https://voldsomtapes.bandcamp.com/)
 **Style:** Oldschool
 **Mood:** Melancholic
 **Tempo:** Slow
@@ -1688,6 +1708,7 @@ After several demos and releases throughout 2022-2023, Traurent returned in 2025
 ### Tryptacobithicus
 
 **Country:** Germany
+**Label:** [Unreal Estate Records](https://unrealestaterecords.bandcamp.com/)
 **Style:** Prehistoric
 **Mood:** Mystical
 **Tempo:** Slow
@@ -1806,6 +1827,7 @@ Vanishing Amulet is a US romantic dungeon synth project created by Withering Pri
 ### VISIONS OF NIFTEN
 
 **Country:** Germany
+**Label:** [Voldsom Tapes](https://voldsomtapes.bandcamp.com/)
 **Style:** Oldschool
 **Mood:** Melancholic
 **Tempo:** Slow
@@ -1912,6 +1934,7 @@ With releases on Woodland Crown Records and collaborations with artists such as 
 ### YEARNER
 
 **Country:** Germany
+**Label:** [Voldsom Tapes](https://voldsomtapes.bandcamp.com/)
 **Style:** Oldschool
 **Mood:** Melancholic
 **Tempo:** Slow
@@ -1925,6 +1948,7 @@ Yearner subsequently continued with Forsaken Wolf, the collaborative Winter Cama
 ### Ziggurath
 
 **Country:** Germany
+**Label:** [Unreal Estate Records](https://unrealestaterecords.bandcamp.com/)
 **Style:** Percussive
 **Mood:** Mystical
 **Tempo:** Slow
@@ -1943,6 +1967,7 @@ True North travels in the opposite direction, into frozen boreal landscapes and 
 ### Örnatorpet
 
 **Country:** Sweden
+**Label:** [Nordvis](https://nordvis.bandcamp.com/)
 **Genre:** Dungeon Synth
 **Style:** Fantasy
 **Mood:** Epic

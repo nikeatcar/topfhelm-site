@@ -30,6 +30,8 @@ window.ArtistsI18N = {
         artists: "Artists",
 
         country: "Country",
+        label: "Label",
+        noLabel: "No label",
         mood: "Mood",
         tempo: "Tempo",
         style: "Style",
@@ -44,6 +46,8 @@ window.ArtistsI18N = {
         artists: "Исполнители",
 
         country: "Страна",
+        label: "Лейбл",
+        noLabel: "Без лейбла",
         mood: "Настроение",
         tempo: "Темп",
         style: "Стиль",

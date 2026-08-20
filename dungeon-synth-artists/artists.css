@@ -188,11 +188,27 @@
     overflow-y:auto;
     overflow-x:hidden;
 
-    padding-right:12px;
+    padding:18px 12px 18px 14px;
+
+    border-radius:12px;
+
+    background:
+        linear-gradient(
+            180deg,
+            rgba(12, 12, 12, 0.5),
+            rgba(8,8,8,.5)
+        );
+
+    border:1px solid rgba(215,179,122,.10);
+
+    box-shadow:
+        0 8px 24px rgba(0,0,0,.35),
+        inset 0 0 20px rgba(0,0,0,.25);
+
+    backdrop-filter:blur(4px);
 
     scrollbar-width:thin;
     scrollbar-color:#d7b37a transparent;
-
 }
 
 .artists-navigation ul{
@@ -219,12 +235,16 @@
 
     border-radius:8px;
 
-    color:#ccc;
+    color:#c8c3b9;
 
     text-decoration:none;
 
-    transition:.25s;
+    transition:
+        background .25s ease,
+        color .25s ease,
+        border-color .25s ease;
 
+    border:1px solid transparent;
 }
 
 .artists-navigation a:hover{
@@ -233,16 +253,24 @@
 
     color:#f2e3be;
 
+    border-color:rgba(215,179,122,.12);
 }
 
 .artists-navigation a.active{
 
-    background:rgba(215,179,122,.16);
+    background:
+        linear-gradient(
+            90deg,
+            rgba(215,179,122,.18),
+            rgba(215,179,122,.08)
+        );
 
     color:#f2e3be;
 
-    border:1px solid rgba(215,179,122,.28);
+    border:1px solid rgba(215,179,122,.32);
 
+    box-shadow:
+        inset 3px 0 0 #d7b37a;
 }
 
 .artists-navigation::-webkit-scrollbar{
@@ -476,10 +504,9 @@
 
     gap:48px;
 
-    align-items:start;
+    align-items:stretch;
 
     margin-bottom:42px;
-
 }
 
 .artist-body{
@@ -544,6 +571,138 @@
 
     transform:rotate(180deg);
 
+}
+
+/* ==========================================================
+   LABEL
+========================================================== */
+
+.artist-label{
+
+    position:relative;
+
+    display:flex;
+    align-items:center;
+
+    gap:18px;
+
+    width:100%;
+
+    box-sizing:border-box;
+
+    margin-top:8px;
+    margin-bottom:24px;
+
+    padding:20px 18px 16px;
+
+    border-radius:10px;
+
+    background:
+        linear-gradient(
+            135deg,
+            rgba(35,30,22,.96),
+            rgba(20,20,20,.98)
+        );
+
+    border:1px solid rgba(215,179,122,.38);
+
+    color:#f2e3be;
+
+    text-decoration:none;
+
+    box-shadow:
+        inset 0 0 20px rgba(215,179,122,.025),
+        0 4px 14px rgba(0,0,0,.28);
+
+    transition:
+        transform .25s ease,
+        border-color .25s ease,
+        box-shadow .25s ease,
+        background .25s ease;
+}
+
+
+/* LABEL title */
+
+.artist-label::before{
+
+    content:"LABEL";
+
+    position:absolute;
+
+    top:-9px;
+    left:18px;
+
+    padding:0 8px;
+
+    background:#111;
+
+    font-family:"IM Fell English SC", serif;
+
+    font-size:11px;
+
+    letter-spacing:.18em;
+
+    color:#d7b37a;
+}
+
+
+.artist-label:hover{
+
+    transform:translateY(-2px);
+
+    border-color:rgba(215,179,122,.8);
+
+    background:
+        linear-gradient(
+            135deg,
+            rgba(48,39,25,.98),
+            rgba(22,22,22,.98)
+        );
+
+    box-shadow:
+        inset 0 0 24px rgba(215,179,122,.05),
+        0 5px 18px rgba(0,0,0,.38),
+        0 0 12px rgba(215,179,122,.10);
+}
+
+
+.artist-label img{
+
+    width:68px;
+    height:68px;
+
+    flex:0 0 68px;
+
+    object-fit:cover;
+
+    border-radius:4px;
+
+    border:1px solid rgba(215,179,122,.25);
+
+    box-shadow:
+        0 2px 8px rgba(0,0,0,.45);
+}
+
+
+.artist-label-name{
+
+    font-family:"IM Fell English SC", serif;
+
+    font-size:20px;
+    line-height:1.25;
+
+    letter-spacing:.025em;
+
+    color:#f2e3be;
+
+    text-shadow:
+        0 1px 3px rgba(0,0,0,.8);
+}
+
+body.ru .artist-label::before{
+    content:"ЛЕЙБЛ";
+    font-family:"Monomakh", serif;
 }
 
 /* ==========================================================
@@ -664,20 +823,36 @@
     display:flex;
 
     justify-content:center;
+    align-items:stretch;
 
-    align-items:flex-start;
+    width:100%;
+    height:100%;
 
+    min-height:340px;
+}
+
+.artist-player iframe{
+
+    flex:1;
+
+    width:100%;
+    height:100%;
+
+    min-height:340px;
 }
 
 .artist-bandcamp-player{
 
-    width:400px;
-    height:340px;
+    display:block;
+
+    width:100%;
+    height:100%;
+
+    min-height:340px;
 
     border:0;
 
     border-radius:12px;
-
 }
 
 .artists-sidebar-toggle{
@@ -830,6 +1005,37 @@ body.ru .artist-links{
 
         letter-spacing:.18em;
 
+    }
+
+    .artist-label{
+
+        gap:12px;
+
+        padding:17px 12px 11px;
+
+        margin-top:6px;
+        margin-bottom:18px;
+    }
+
+    .artist-label::before{
+
+        top:-8px;
+        left:12px;
+
+        font-size:9px;
+    }
+
+    .artist-label img{
+
+        width:52px;
+        height:52px;
+
+        flex-basis:52px;
+    }
+
+    .artist-label-name{
+
+        font-size:16px;
     }
 
 }
@@ -1064,13 +1270,14 @@ body.ru .artist-links{
     }
 
     .artist-player{
-        width:100%;
+        height:auto;
+        min-height:0;
     }
 
-    .artist-bandcamp-player,
-    .artist-spotify-player{
-        width:100%;
-        max-width:400px;
+    .artist-player iframe,
+    .artist-bandcamp-player{
+        height:340px;
+        min-height:340px;
     }
 
 }

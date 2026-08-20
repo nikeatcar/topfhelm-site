@@ -27,6 +27,7 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### Aindulmedir
 
 **Страна:** Sweden
+**Лейбл:** [Hypnagoga Press](https://hypnagogapress.bandcamp.com/)
 **Жанр:** Dungeon Synth
 **Стиль:** Ambient
 **Настроение:** Melancholic
@@ -116,6 +117,7 @@ Arcana Liturgia - один из ранних итальянских dungeon synt
 ### Armsman Commander
 
 **Страна:** Hungary
+**Лейбл:** [Swallowed Key Productions](https://swallowedkeyproductions.bandcamp.com/)
 **Стиль:** Fantasy
 **Настроение:** Battle
 **Темп:** Slow
@@ -163,6 +165,7 @@ Ashkahn - перкуссионный Dungeon Synth проект Lord Cervos, в�
 ### Aura Merlin
 
 **Страна:** Canada
+**Лейбл:** [Ancient King Records](https://ancientkingrec.bandcamp.com/music)
 **Стиль:** Fantasy
 **Настроение:** Dreamy
 **Темп:** Slow
@@ -214,6 +217,7 @@ Black Winds of Wallachia связан и с более широкой андег
 ### Bronzen Oath
 
 **Страна:** USA
+**Лейбл:** [Gondolin Records](https://gondolinrecords.bandcamp.com/)
 **Стиль:** Ambient
 **Настроение:** Battle
 **Темп:** Slow
@@ -225,6 +229,7 @@ Bronzen Oath - анонимный американский dungeon synth про�
 ### Carrion Cloak
 
 **Страна:** USA
+**Лейбл:** [Dungeon Squid Productions](https://dungeonsquidproductions.bandcamp.com/)
 **Стиль:** Experimental
 **Настроение:** Dark
 **Темп:** Normal
@@ -281,6 +286,7 @@ Criptadel - аргентинский dungeon synth проект Mauro (Uxoria) �
 ### Cursed Pumpkin
 
 **Страна:** Hungary
+**Лейбл:** [Swallowed Key Productions](https://swallowedkeyproductions.bandcamp.com/)
 **Стиль:** Horror
 **Настроение:** Mystical
 **Темп:** Slow
@@ -342,6 +348,7 @@ Delmak-O - американский электронный проект Evie, н
 [Spotify](https://open.spotify.com/artist/0GilvvQEG3i8rDKunFSz8s)
 [Bandcamp](https://delmak-o.bandcamp.com/)
 [Apple Music](https://music.apple.com/ru/artist/delmak-o/1542884901)
+[Website](https://www.instagram.com/thefogweaver/)
 
 ### DIM
 
@@ -424,6 +431,7 @@ Dungeontroll - Old-School Dungeon Synth проект, музыка которо�
 ### DUNJON MAGIK
 
 **Страна:** Italy
+**Лейбл:** [Heimat Der Katastrophe](https://heimatderkatastrophe.bandcamp.com/)
 **Стиль:** Fantasy
 **Настроение:** Mystical
 **Темп:** Normal
@@ -479,6 +487,7 @@ ELFFOR - один из старейших действующих Dungeon Synth /
 ### Elminster
 
 **Страна:** USA
+**Лейбл:** [Ithildin Tape Production](https://ithildintapeproduction.bandcamp.com/music)
 **Стиль:** Medieval
 **Настроение:** Epic
 **Темп:** Normal
@@ -566,6 +575,7 @@ Ervald - американский Fantasy / Dungeon Synth проект из Ци
 ### Ethereal Journeys
 
 **Страна:** USA
+**Лейбл:** [Nokturniis](https://nokturniis.bandcamp.com/music)
 **Стиль:** Ambient
 **Настроение:** Dark
 **Темп:** Slow
@@ -707,6 +717,7 @@ Gelure - австралийский dungeon synth проект из Аделаи
 ### GNOLL
 
 **Страна:** Italy
+**Лейбл:** [Heimat Der Katastrophe](https://heimatderkatastrophe.bandcamp.com/)
 **Стиль:** Fantasy
 **Настроение:** Mystical
 **Темп:** Slow
@@ -781,6 +792,7 @@ Great Mercenary остаётся очень активным проектом. �
 ### Grimstone
 
 **Страна:** Puerto Rico
+**Лейбл:** [Dungeon Synth / Dark Ambient](https://dungeonsynthdarkambient.bandcamp.com/)
 **Стиль:** RAW
 **Настроение:** Battle
 **Темп:** Normal
@@ -828,6 +840,7 @@ Hemlock Goblin - dungeon synth / goblin synth проект из Массачус
 ### Henbane
 
 **Страна:** Denmark
+**Лейбл:** [Gondolin Records](https://gondolinrecords.bandcamp.com/)
 **Жанр:** OS DS
 **Стиль:** Oldschool
 **Настроение:** Melancholic
@@ -878,6 +891,7 @@ Hole Dweller - американский Dungeon Synth проект Tim Rowland, 
 ### INWENDT FAERTE
 
 **Страна:** Germany
+**Лейбл:** [Voldsom Tapes](https://voldsomtapes.bandcamp.com/)
 **Стиль:** Sci-fi
 **Настроение:** Mystical
 **Темп:** Slow
@@ -891,6 +905,7 @@ INWENDT FAERTE - малоизвестный немецкий Dungeon Synth пр�
 ### KletTtermax
 
 **Страна:** Germany
+**Лейбл:** [Personal Uschi Records](https://personaluschirecords.bandcamp.com/)
 **Стиль:** Comfy
 **Настроение:** Adventure
 **Темп:** Normal
@@ -904,7 +919,8 @@ KletTtermax - немецкий dungeon synth проект Томаса, осно
 ### KOBOLD
 
 **Страна:** Italy
-**Стиль:** Oldschool
+**Лейбл:** [Heimat Der Katastrophe](https://heimatderkatastrophe.bandcamp.com/)
+**Стиль:** Chiptune
 **Настроение:** Adventure
 **Темп:** Normal
 
@@ -1082,6 +1098,7 @@ Mortiis также сделал фэнтези неотделимой часть
 ### Moth Tower
 
 **Страна:** Denmark
+**Лейбл:** [Gondolin Records](https://gondolinrecords.bandcamp.com/)
 **Стиль:** Medieval
 **Настроение:** Dreamy
 **Темп:** Normal
@@ -1357,6 +1374,7 @@ Skeleton Mage - шведский проект Мигеля Амарока, ра�
 ### Skhemty
 
 **Страна:** France
+**Лейбл:** [Ancient King Records](https://ancientkingrec.bandcamp.com/)
 **Стиль:** Percussive
 **Настроение:** Adventure
 **Темп:** Normal
@@ -1415,6 +1433,7 @@ The Conjurer's Cadence разворачивается почти как клас
 ### Soporific Sorcery
 
 **Страна:** Unknown
+**Лейбл:** [Haunted Klinik](https://hauntedklinik.bandcamp.com/)
 **Стиль:** Fantasy
 **Настроение:** Adventure
 **Темп:** Normal
@@ -1594,6 +1613,7 @@ The Ashen Codex - проект из Лонг-Айленда, Нью-Йорк, с
 ### TIL DET BERGENS SKYGGENE
 
 **Страна:** Germany
+**Лейбл:** [Voldsom Tapes](https://voldsomtapes.bandcamp.com/)
 **Стиль:** Oldschool
 **Настроение:** Melancholic
 **Темп:** Slow
@@ -1688,6 +1708,7 @@ Traurent во многом следует именно андеграундно�
 ### Tryptacobithicus
 
 **Страна:** Germany
+**Лейбл:** [Unreal Estate Records](https://unrealestaterecords.bandcamp.com/)
 **Стиль:** Prehistoric
 **Настроение:** Mystical
 **Темп:** Slow
@@ -1808,6 +1829,7 @@ Vanishing Amulet - американский romantic dungeon synth проект 
 ### VISIONS OF NIFTEN
 
 **Страна:** Germany
+**Лейбл:** [Voldsom Tapes](https://voldsomtapes.bandcamp.com/)
 **Стиль:** Oldschool
 **Настроение:** Melancholic
 **Темп:** Slow
@@ -1914,6 +1936,7 @@ Wyrd Gnome - канадский dungeon synth / comfy synth проект из О
 ### YEARNER
 
 **Страна:** Germany
+**Лейбл:** [Voldsom Tapes](https://voldsomtapes.bandcamp.com/)
 **Стиль:** Oldschool
 **Настроение:** Melancholic
 **Темп:** Slow
@@ -1927,6 +1950,7 @@ Yearner - немецкий проект dungeon synth и winter synth музык
 ### Ziggurath
 
 **Страна:** Germany
+**Лейбл:** [Unreal Estate Records](https://unrealestaterecords.bandcamp.com/)
 **Стиль:** Percussive
 **Настроение:** Mystical
 **Темп:** Slow
@@ -1945,6 +1969,7 @@ True North отправляется в противоположную сторо
 ### Örnatorpet
 
 **Страна:** Sweden
+**Лейбл:** [Nordvis](https://nordvis.bandcamp.com/)
 **Жанр:** Dungeon Synth
 **Стиль:** Fantasy
 **Настроение:** Epic
