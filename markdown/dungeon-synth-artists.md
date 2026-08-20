@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-17
+last_updated: 2026-08-20
 ---
 
 # Dungeon Synth Artists Directory - The Dungeon Synth Bestiary 
@@ -37,9 +37,26 @@ Aindulmedir is a Swedish winter synth and dungeon synth project by Pär Boström
 Its slow, dreamlike melodies blend dungeon synth with ambient and dark ambient, often sounding distant and hazy, as though heard through the walls of an ancient building during a winter storm. The music is deeply meditative and literary: an imaginary soundtrack for reading old books alone while snow falls outside. Across its albums, Aindulmedir has developed an unusually cohesive atmosphere where winter itself feels like part of the mythology.
 
 [Spotify](https://open.spotify.com/artist/5miYD9WaBIJCPsTTwtyR30)
-[Bandcamp](https://aindulmedir.bandcamp.com/music)
+[Bandcamp](https://aindulmedir.bandcamp.com)
 [YouTube](https://www.youtube.com/channel/UC7xUUlYIdEfCs9aE9m8fayA)
 [Apple Music](https://music.apple.com/us/artist/aindulmedir/1450190890)
+
+### Alkilith
+
+**Country:** USA
+**Style:** RAW
+**Mood:** Melancholic
+**Tempo:** Slow
+
+Alkilith is a dungeon synth project from Chicago, Illinois, active since 2020. Its early identity was established with Blade of Morndinsamman, a Dungeons & Dragons-inspired debut described as “dwarven synth.” Built around deliberately minimal arrangements and influenced by the sound of 8- and 16-bit video game music, the album focused on creating a vivid fantasy setting through relatively simple instrumentation rather than dense composition.
+
+Fantasy role-playing remains central to Alkilith’s work. Dungeons & Dragons and the Forgotten Realms recur throughout the discography, with releases such as Labyrinth of the Storm Wolf, Blood Cult and Dracolich of the Gray Waste approaching dungeon synth almost like musical adventures. At the same time, the project has repeatedly moved beyond its original “dwarven synth” formula, exploring different forms of fantasy ambient, lo-fi dungeon synth and even experiments such as Dungeon Beats, which combined dungeon synth material with lo-fi hip-hop and electronic influences.
+
+Over the years Alkilith has built an unusually extensive discography of albums, shorter releases, compilations and collaborations. The project appeared alongside Glog, Nekmunnit and 13th Scale on the second issue of HDK Dungeon Synth Magazine and has worked with artists including Lone Sentinel, Riesenbaude and Solar Knight. These collaborations have also taken Alkilith into neighboring niches such as sea synth and mountain synth, making stylistic experimentation a recurring part of the project rather than a departure from its dungeon synth roots.
+
+Alkilith has also become connected to the wider American dungeon synth community. It was the first dungeon synth project released by Fiadh Productions; label founder Allison told Synth Digest that working with Alkilith helped introduce her to the broader dungeon synth scene. The project is also associated with the Great Lakes Dungeon Synth Collective, representing Chicago within a network of artists from the region. With a large and continually expanding body of work, Alkilith stands as a particularly prolific example of modern American dungeon synth built around tabletop fantasy, experimentation and underground collaboration.
+
+[Bandcamp](https://alkilithmage.bandcamp.com/)
 
 ### An Old Sad Ghost
 
@@ -60,6 +77,23 @@ Rather than evoking the triumph of medieval heroes, An Old Sad Ghost often feels
 [Bandcamp](https://anoldsadghost.bandcamp.com/)
 [YouTube](https://www.youtube.com/@anoldsadghost)
 [Website](https://www.instagram.com/anoldsadghost/)
+
+### Anglachel
+
+**Country:** Greece
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Normal
+
+Anglachel is a Greek dungeon synth project from Heraklion, founded in 2017 by Admetos, also a guitarist in the black metal bands Elegos and Faunus. Deeply rooted in J.R.R. Tolkien's legendarium, the project takes its name from Anglachel, the black sword forged by Eöl that eventually came into the hands of Túrin Turambar. Admetos has described Anglachel as epic orchestral music within dungeon synth, combining dark ambient, neoclassical influences, dramatic melodies and martial elements rather than adhering to a single stylistic formula.
+
+The project began with Of Tuor and His Coming to Gondolin in 2017, inspired by Tuor's story in Tolkien's Unfinished Tales. Its continuation, Of Tuor, Idril and Their Departure from Gondolin, followed in 2019 and established the grand, melancholic approach that became central to Anglachel's sound. Later releases explored the Nirnaeth Arnoediad, Eärendil and the War of Wrath, while the 2025 album Of the Sea-Longing and the Journey to the West returned to the fate of the Exiles after the Fall of Gondolin.
+
+Anglachel also has strong roots in the black metal underground. Admetos has explained that black metal originally led him to dungeon synth through the atmospheric intros and interludes found on metal records, while the shared attraction to dark and epic atmospheres connected the two styles for him. Over the years Anglachel's music has appeared through underground labels including Wulfrune, Gondolin Records, Neuropa Records and Dark Age Productions.
+
+[Spotify](https://open.spotify.com/artist/68FwqXUKYp5f742xweklgP)
+[Bandcamp](https://anglachelds.bandcamp.com/)
+[Website](https://www.instagram.com/anglachel_dungeon_synth/)
 
 ### Arcana Liturgia
 
@@ -89,7 +123,7 @@ Arcana Liturgia has also collaborated with projects including Båvingr and Frost
 Armsman Commander is a Hungarian dungeon synth project by Á. H., built around the atmosphere of a medieval military encampment. Its only known release, Obedience (2019), evokes marching soldiers, knights, battle standards, clashing weapons, heavy armour and warhorses through martial rhythms and dark medieval synth. Presented as “the first lesson from the Commander,” the album turns the military side of medieval fantasy into a short, focused dungeon synth narrative.
 
 [Spotify](https://open.spotify.com/artist/5D5X3PodiSeSscR057Cik5)
-[Bandcamp](https://swallowedkeyproductions.bandcamp.com/album/obediencev)
+[Bandcamp](https://swallowedkeyproductions.bandcamp.com/album/obedience)
 [Apple Music](https://music.apple.com/us/album/obedience-ep/1484307403)
 
 ### ARTHUROS
@@ -161,6 +195,24 @@ This makes Ausum an unusual entry in the dungeon synth underground. There are fe
 
 [Bandcamp](https://ausum.bandcamp.com/)
 
+### Black Winds of Wallachia
+
+**Country:** Puerto Rico
+**Style:** Experimental
+**Mood:** Mystical
+**Tempo:** Normal
+
+Black Winds of Wallachia is a dungeon synth and dark ambient project from Puerto Rico created by Joseph Cotto, also known as The Vampiric Tyrant. Cotto originally began making dungeon synth in 2020 with his black metal band Carpathian Wrath; according to the artist, their first demo is considered the first dungeon synth release from Puerto Rico. When Carpathian Wrath moved toward black metal, he continued exploring this side of his music through Black Winds of Wallachia.
+
+The project is conceived as an extension of the mythology surrounding Carpathian Wrath, with music inspired by Vlad Tepes, vampirism, medieval imagery and dark epic fantasy. Releases such as Tales From a Voivode's Exile develop this theme through short, raw dungeon synth and dark ambient pieces, while The Fortress of Ravens also pays tribute to 1990s video games and medieval dungeon synth.
+
+Black Winds of Wallachia is also connected to Puerto Rico's wider underground scene. In 2025 it appeared alongside Traurent and Tempus Frangit on the Tyrants of Elemental Evil split, while Tales From a Voivode's Exile later received a limited cassette edition from Entmoot. More recent material expands beyond Wallachian mythology: The Enchanted Garden is connected to Cotto's dark fantasy world of Aenchantria, showing the project developing its own broader fantasy lore.
+
+[Bandcamp](https://blackwindsofwallachia.bandcamp.com/)
+[YouTube](https://www.youtube.com/channel/UCon71MzYX1RbGLOphRF5Rwg)
+[Apple Music](https://music.apple.com/se/artist/black-winds-of-wallachia/1797001189)
+[Website](https://www.instagram.com/blackwindsofwallachia/)
+
 ### Bronzen Oath
 
 **Country:** USA
@@ -171,6 +223,19 @@ This makes Ausum an unusual entry in the dungeon synth underground. There are fe
 Bronzen Oath is an anonymous American dungeon synth project focused on war, barbarism and the bleak grandeur of ancient battlefields. Its sole known album, Eulogy for a Noble Age, combines slow martial rhythms, heavy drums and dark ambient textures with an atmosphere of triumph, desolation and suffering. Dedicated to sword-and-sorcery author Robert E. Howard, the album presents dungeon synth less as medieval escapism and more as a grim soundtrack to an ancient age of warfare.
 
 [Bandcamp](https://gondolinrecords.bandcamp.com/album/eulogy-for-a-noble-age)
+
+### Carrion Cloak
+
+**Country:** USA
+**Style:** Experimental
+**Mood:** Dark
+**Tempo:** Normal
+
+Carrion Cloak is a collaborative dungeon synth project by Christopher Clough of Gorgons Alter from Kentucky and Diem Exuro from West Virginia. Their music pushes dungeon synth toward a much heavier and more abrasive sound, combining synthesizers with distortion, drum machines and elements of black metal and synth metal. The 2026 album Gore In The Courtyard was created using instruments including the Yamaha PSR-2, Korg Wavestate and Behringer LM Drum, processed through guitar pedals and large atmospheric reverbs. The result is deliberately crushing and hostile while retaining the melodic and atmospheric foundations of dungeon synth.
+
+The project's imagery follows the same direction: rather than castles, peaceful forests or nostalgic fantasy, Carrion Cloak focuses on death, violence and decaying medieval imagery, reflected in titles such as They Came For The Eyes First, Wolves Finish The Bones and A Cloak of Putrid Honor. Their second 2026 release, Roots Must Burrow to Hell if They Wish to Ascend to Heaven, continues this darker aesthetic and was issued on cassette through Dungeon Squid Productions. Carrion Cloak also performed at Appalachian Dungeon Fest in Kentucky in June 2026, placing the project within the active Appalachian dungeon synth community.
+
+[Bandcamp](https://dungeonsquidproductions.bandcamp.com/album/gore-in-the-courtyard)
 
 ### Charnel Oubliette
 
@@ -229,6 +294,24 @@ Cursed Pumpkin is a Hungarian dungeon synth project by Ádám H., active since 2
 [YouTube](https://www.youtube.com/channel/UCAP1sFLD7NEfzYzHth_rGEw)
 [Apple Music](https://music.apple.com/dk/artist/cursed-pumpkin/1484093369)
 [Website](https://www.instagram.com/cursedpumpkinsynth/)
+
+### Decaying Castle
+
+**Country:** UK
+**Style:** Medieval
+**Mood:** Dark
+**Tempo:** Normal
+
+Decaying Castle is a young dungeon synth project that emerged in 2026. Its debut album, The Black Throne, presents a compact medieval fantasy narrative about a young usurper who seizes the throne from a corrupt king, only to discover something sinister hidden beneath the castle.
+
+The music follows a dark, story-driven approach to dungeon synth, with short compositions depicting battles, guard duty, rituals, conjuring and the halls beneath the conquered keep. The album’s imagery and titles give it the character of a small fantasy campaign unfolding track by track.
+
+The Black Throne was preceded by the single We’re All Going To Die Down Here, released one week earlier and later appearing as the album’s closing track. Decaying Castle is still a very new project, but these first releases already establish its focus on narrative dungeon synth and grim medieval storytelling.
+
+[Spotify](https://open.spotify.com/artist/1Qi0HBUS5vLhjPgirNpmCx)
+[Bandcamp](https://decayingcastle.bandcamp.com/)
+[Apple Music](https://music.apple.com/gb/artist/decaying-castle/6790757825)
+[Website](https://www.instagram.com/decayingcastle/)
 
 ### Deep Gnome
 
@@ -340,6 +423,19 @@ Musically, the project embraces the simplicity of classic dungeon synth: nostalg
 [Bandcamp](https://dungeontroll.bandcamp.com/)
 [Apple Music](https://music.apple.com/gb/artist/dungeontroll/1513126578)
 
+### DUNJON MAGIK
+
+**Country:** Italy
+**Style:** Fantasy
+**Mood:** Mystical
+**Tempo:** Normal
+
+Dunjon Magik is an Italian dungeon synth ensemble closely associated with Milan's Heimat der Katastrophe collective. Debuting with Dunjon Majik in 2019, the project was conceived as a psychedelic tribute to old-school tabletop role-playing, particularly the anarchic fantasy of Tunnels & Trolls. Rather than treating dungeon synth simply as medieval atmosphere, Dunjon Magik builds its albums like playable adventures: shifting labyrinths, bizarre encounters, cursed artifacts and unreliable realities become part of the music itself. This connection eventually became literal, with releases created as soundtracks for actual RPG adventures, including Sky ov Crimson Flame for Dungeon Crawl Classics.
+
+Across releases such as The Land Where Nothing Is as It Seems, Beyond the Silvered Pane, The Syndicate at Sovad, Sky ov Crimson Flame, The Dark Seal and Blights ov the Eastern Forest, the project has developed an increasingly strange mixture of old-school dungeon synth, cheap synthesizer textures, psychedelic fantasy and horror. The Dark Seal pushed this approach toward more complex and chthonic territory, drawing inspiration from Clark Ashton Smith, Karl Edward Wagner, H. P. Lovecraft and Thomas Ligotti as well as primitive DOS dungeon crawlers. The result is dungeon synth that feels less like background music for a fantasy world and more like being trapped inside an unpredictable tabletop campaign where the dungeon itself can change the rules.
+
+[Bandcamp](https://heimatderkatastrophe.bandcamp.com/album/hdk-240-the-kingdom-that-was-never-meant-to-be)
+
 ### Ekthelion
 
 **Country:** Greece
@@ -416,6 +512,24 @@ Storytelling is central to the project: Feilla combines music with poetry, artwo
 [YouTube](https://www.youtube.com/@ElyvilonDS)
 [Apple Music](https://music.apple.com/us/artist/elyvilon/1580836408?l=ru)
 [Website](https://www.instagram.com/elyvilon_/)
+
+### Eneraith
+
+**Country:** Germany
+**Style:** Fantasy
+**Mood:** Dreamy
+**Tempo:** Slow
+
+Eneraith is a dungeon synth trio from Wuppertal, Germany, combining folk influences with spoken-word narration. The project emerged in 2026, first releasing the short introductory single Commencement in July, followed by its debut album A Demonstration of Ancient Crafts in August. The musicians themselves describe Eneraith simply as “Dungeon Synth · Folk.”
+
+A Demonstration of Ancient Crafts follows a traveller wandering through hidden ruins and dense forests, encountering fragments of old songs and forgotten traditions along the way. Musically, the album combines dungeon synth atmosphere with delicate folk instrumentation and occasional spoken passages, giving it a pastoral and distinctly organic character.
+
+Despite being a very young project, Eneraith already intends to explore both sides of its identity. The musicians have stated that more dungeon synth/folk crossover material is planned, while they are also interested in pursuing a darker and grittier form of dungeon synth on future releases.
+
+[Spotify](https://open.spotify.com/artist/1DKhRIAw5PdANdjkgttyEI)
+[Bandcamp](https://eneraith.bandcamp.com/)
+[YouTube](https://www.youtube.com/@Eneraith)
+[Website](https://www.instagram.com/eneraith.official/)
 
 ### Erang
 
@@ -592,6 +706,34 @@ Gelure is an Australian dungeon synth project from Adelaide, created by the musi
 [Apple Music](https://music.apple.com/us/artist/gelure/1595760666)
 [Website](https://www.instagram.com/gelureofficial/)
 
+### GNOLL
+
+**Country:** Italy
+**Style:** Fantasy
+**Mood:** Mystical
+**Tempo:** Slow
+
+GNOLL is an Italian dungeon synth project closely associated with Milan label Heimat der Katastrophe, built around the aesthetics of old-school role-playing games, dungeon crawlers, gamebooks and 1970s heroic fantasy. The project debuted in 2018 with The Citadel of Evil, conceived as the soundtrack to an OSR adventure module and driven by harsh analog synthesizers, heavy percussion and an intentionally barbaric, subterranean atmosphere. The same concept continued with Music for Dungeons, two twenty-minute journeys designed for the solitary RPG Dungeons, evoking torchlit underground exploration, vintage fantasy comics and the sword-and-sorcery literature of an earlier era.
+
+GNOLL subsequently expanded this union of dungeon synth and tabletop fantasy through releases including Lone Wolf: Flight from the Dark, The Fortress of Kruglach and Faer the Wanderer, often pairing the music with maps, illustrated booklets or playable RPG material. Rather than treating fantasy merely as atmosphere, GNOLL approaches dungeon synth almost literally as a soundtrack for imaginary adventures: dusty synthesizers, ominous percussion, strange old keyboards and dark orchestration accompany explorations of catacombs, ruined fortresses and hostile medieval worlds. This connection remains active, with later projects including the soundtrack to the grim fantasy RPG Streben and the 2026 collaboration Görga.
+
+[Bandcamp](https://heimatderkatastrophe.bandcamp.com/album/hdk-31-music-for-dungeons)
+
+### Gorgons Alter
+
+**Country:** USA
+**Style:** Fantasy
+**Mood:** Melancholic
+**Tempo:** Normal
+
+Gorgons Alter is a dungeon synth and experimental fantasy project by Christopher Clough from Somerset, Kentucky. The music combines dungeon synth with dark ambient, dungeon drone, fantasy synth and heavier electronic textures, while placing strong emphasis on storytelling. Rather than treating releases as isolated collections of tracks, Clough builds them around an original dark-fantasy world populated by cosmic entities, kingdoms, magical artifacts and recurring characters.
+
+The project's narrative approach is particularly evident on Keepers of the Bog, which continues an elaborate story involving the Immortal, Calatricrūl, the cosmic entity Yoth and the Dark Matter Talisman. Sonic Atrophy, a split with Hecate, explores a darker cosmic side of the project through ambient, dungeon drone and heavy synth, accompanied by another piece of original lore. With only a small number of releases, Gorgons Alter already shows a distinctive approach in which dungeon synth functions as a soundtrack to an evolving fantasy mythology.
+
+[Bandcamp](https://gorgonsalter.bandcamp.com/)
+[YouTube](https://www.youtube.com/@GorgonsAlter)
+[Website](https://www.instagram.com/gorgonsalter/)
+
 ### Goryō
 
 **Country:** France
@@ -620,6 +762,39 @@ Across later releases, this personal nostalgia expands into imaginary RPG towns,
 [Bandcamp](https://grandmascottage.bandcamp.com/)
 [Apple Music](https://music.apple.com/ca/artist/grandmas-cottage/1534102530)
 
+### Great Mercenary
+
+**Country:** Indonesia
+**Style:** Fantasy
+**Mood:** Mystical
+**Tempo:** Normal
+
+Great Mercenary is a dungeon synth project from Sukabumi, Indonesia, created by Pale Horseman. Active since 2022, the project began with The Beginning and First Story of a Young Mercenary & Magical Tree, establishing a narrative approach centered on the adventures of a young mercenary.
+
+The music combines old-school dungeon synth and fantasy ambient with simple melodic writing and a strong medieval atmosphere. Knights, magical forests, ruined castles, battles and wandering heroes recur throughout the discography, with many releases presented almost as chapters of larger fantasy stories.
+
+Great Mercenary has also collaborated with other underground artists and labels, including a split with Svardans and physical editions through Fantasy Audio Magazine, Relics of the Eternal City and So Below Productions. The project has participated in the Indonesian dungeon synth scene as well, contributing to the Nusantara Folklore compilation.
+
+Great Mercenary remains highly active, with several releases appearing in 2026. Recent works such as Storm Over the Dragon Citadel and The Ethereal Glow of the Fairy Woods continue to expand its world of medieval adventure, magic and battle.
+
+[Bandcamp](https://greatmercenary.bandcamp.com/)
+[Website](https://www.instagram.com/great_mercenary/)
+
+### Grimstone
+
+**Country:** Puerto Rico
+**Style:** RAW
+**Mood:** Battle
+**Tempo:** Normal
+
+Grimstone is an old-school dungeon synth and dark ambient project from Puerto Rico, created by L.S.U, the musician behind Traurent. Conceived as a side project, Grimstone focuses on a raw and deliberately traditional form of dungeon synth, drawing on shadowy castles, forgotten corridors and the atmosphere of early underground recordings.
+
+Its only release, Shadows Journey, was recorded in December 2022 and January 2023. The four-track demo - The Hidden Past, Shadow Realm, Hidden Upon The Corridors and The Calling - first appeared digitally in February 2023, with L.S.U responsible for the music, layout and artwork.
+
+The recording later received several physical editions. Targoviste Records issued a cassette-rip edition in March 2023, while the demo also appeared through Germany's Abart Records and Chilean label Forbidden Files Records, the latter describing it simply as “True Old School Dungeon Synth from Puerto Rico.”
+
+[Bandcamp](https://dungeonsynthdarkambient.bandcamp.com/album/shadows-journey)
+
 ### Hecate
 
 **Country:** USA
@@ -634,6 +809,23 @@ Hecate's music is considerably stranger and rougher than traditional medieval Du
 The project's themes are equally broad. Some releases inhabit occult, cosmic and apocalyptic worlds, while others are built around specific literature: Beside the Water draws directly from Tolkien's The Silmarillion, including recitation and singing in Quenya, while This Is Not For You is inspired by the shifting architecture and surreal horror of Mark Z. Danielewski's House of Leaves. Hecate has also collaborated extensively with other underground artists, including The Ashen Codex, Tree of Hell, The Man in the Planet and Ka'Bael, making the project an unusually restless meeting point between Dungeon Synth, dark ambient, black metal and experimental music.
 
 [Bandcamp](https://hecate2113.bandcamp.com/)
+[Website](https://www.instagram.com/hecate.music.93/)
+
+### hemlock goblin
+
+**Country:** USA
+**Style:** Horror
+**Mood:** Dark
+**Tempo:** Slow
+
+Hemlock Goblin is a dungeon synth and goblin synth project from Massachusetts, United States. Emerging in 2022 with Hemlock Goblin I and Hemlock Goblin II, the project created its own small mythology around an ancient goblin sorcerer hiding in a ruined tower deep within a bewitched forest. Dreams, mist, mushrooms, forgotten woods and strange magic form the recurring imagery surrounding the music.
+
+The early recordings lean toward dark, dreamlike dungeon synth and ambient music, while 2023's Sylvan Shadows and Draconian Whispers considerably expanded the project's sound. Alongside synthesizers and electric guitar, Hemlock Goblin used drums, cedar blocks, shakuhachi, bansuri, tin whistle, xaphoon and cedar flute. Several of the flutes were handcrafted by the musician himself, including a cedar flute made from a fallen tree and handmade bamboo shakuhachi.
+
+This mixture of eerie synthesizers, acoustic instruments and woodland imagery gives Hemlock Goblin an unusually organic character. The project's first two recordings were also released physically through underground label Obscure Melody, while Hemlock Goblin I and II were later collected on vinyl by Phantom Lure.
+
+[Bandcamp](https://hemlockgoblin.bandcamp.com/)
+[Apple Music](https://music.apple.com/us/album/hemlock-goblin-ii-ep/1797606752)
 
 ### Henbane
 
@@ -711,6 +903,20 @@ KletTtermax is a German dungeon synth project created by Thomas, founder of the 
 [Bandcamp](https://personaluschirecords.bandcamp.com/album/sascha-der-striezel)
 [Website](https://www.instagram.com/kletttermax/)
 
+### KOBOLD
+
+**Country:** Italy
+**Style:** Oldschool
+**Mood:** Adventure
+**Tempo:** Normal
+
+KOBOLD is an Italian dungeon synth project and one of the formative artists of Milan label Heimat der Katastrophe. Its 2017 debut The Cave of the Lost Talisman helped establish the label's distinctive fusion of dungeon synth, old-school role-playing games and retro video-game culture, becoming the first release in HDK's "Dungeonostalgie" series. KOBOLD's music favors energetic 8- and 16-bit-inspired melodies, primitive synthesizers and chiptune textures over purely ambient dungeon synth, deliberately evoking the soundtracks of imaginary 1980s dungeon crawlers. The debut attracted considerable attention and, according to HDK themselves, played an important role in convincing the then-small label to continue releasing music.
+
+KOBOLD's albums function as complete fantasy adventures rather than collections of unrelated tracks. Recurring heroes such as Fir, Viktor, Bloodwyn, Sarohma, Garandir and Zothen travel through cursed abbeys, forgotten valleys, frozen mountains, tropical islands and monster-filled dungeons, with individual tracks representing locations and events in the story. Releases have frequently been accompanied by maps, illustrated booklets and playable OSR/RPG material, making the connection between dungeon synth and tabletop gaming unusually literal. From The Curse of the Ancient Abbey and The Valley of the Forgotten Secrets to The Village in the Frozen Mountains, The Legend of the Wicked Pirates and 2024's The Gate of the Fire Demons, KOBOLD has maintained a recognizable mixture of dungeon synth, chiptune, fantasy storytelling and affectionate nostalgia for the Dungeons & Dragons culture of the 1980s.
+
+[Spotify](https://open.spotify.com/album/0mo8Akk9xLfpas1NJ3EeF3)
+[Bandcamp](https://heimatderkatastrophe.bandcamp.com/album/hdk-200-the-gate-of-the-fire-demons)
+
 ### Kyūketsuki
 
 **Country:** USA
@@ -768,6 +974,7 @@ Lored Legend is not limited to traditional medieval fantasy. Night of the Cobra 
 [Spotify](https://open.spotify.com/artist/7rBuB70TbWX7l0P3rNOWC9)
 [Bandcamp](https://loredlegend.bandcamp.com/)
 [Apple Music](https://music.apple.com/bt/artist/lored-legend/1726109247)
+[Website](https://www.instagram.com/lored_legend/)
 
 ### Lurk
 
@@ -939,6 +1146,19 @@ Mycologia is a US Dungeon Synth project by prolific composer Adam Matlock, devot
 [Bandcamp](https://mycologia.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/mycologia/1613706568)
 
+### Mystkeeper
+
+**Country:** UK
+**Style:** Horror
+**Mood:** Dark
+**Tempo:** Normal
+
+Mystkeeper is a young dungeon synth project from England, founded in 2024 and self-described as “Ghoulish Dungeon Synth Horror.” Its debut Mystkeeper Demo consists of just two tracks, Apparition and Seance, built around dark ambient, horror and old-school dungeon synth aesthetics. Despite the project's very small discography, the demo has already attracted attention within the underground: Seance appeared on Dungeon Squid Productions' Squidden Treasures compilation, while the complete demo received a sold-out cassette edition through Nightblade Records in 2025. Mystkeeper is still at the beginning of its path, but this remarkably strong first release makes it a project well worth watching.
+
+[Bandcamp](https://mystkeeper.bandcamp.com/)
+[YouTube](https://www.youtube.com/@mystkeeperds)
+[Website](https://www.instagram.com/_mystkeeper_/)
+
 ### Neverlur
 
 **Country:** Canada
@@ -1102,6 +1322,20 @@ Sequestered Keep became known for a prolific discography and a strongly melodic,
 [Spotify](https://open.spotify.com/artist/7l0DWYVf0KnhaBBhiXRi1P)
 [Bandcamp](https://sequesteredkeep.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/sequestered-keep/1723974836)
+
+### Sidereal Fortress
+
+**Country:** Italy
+**Style:** Experimental
+**Mood:** Melancholic
+**Tempo:** Normal
+
+Sidereal Fortress is a dungeon synth project from Florence, Italy, created by a musician with a long background in guitar and metal. He turned to ambient music and dungeon synth in search of greater creative freedom, drawing on the 1990s sounds of Mortiis, Pazuzu and Burzum while deliberately avoiding strict ideas of what dungeon synth should be. As a result, Sidereal Fortress has developed into a stylistically broad project encompassing medieval and folk ambient, winter synth, dark ambient, heroic fantasy and occasional progressive-rock influences. The musician describes emotional states, nostalgia, hiking and visits to ancient sites, abandoned villages, forests and mountains as more important sources of inspiration than other dungeon synth artists.
+
+Much of Sidereal Fortress is deeply connected to the history, folklore and landscape of Tuscany. The Hermit's Hole was inspired by an actual cave near the musician's countryside home, traditionally associated with a medieval hermit, while other works explore Tuscan folk tales, Russian heroic folklore, sword-and-sorcery adventures and classical antiquity. Releases such as Bogatyr, The Forgotten Tomb of Yshnak, Odissea, Advanced Steel and Circus Maximus demonstrate this range, combining melodic dungeon synth with acoustic and classical guitar, improvised passages, RPG-inspired storytelling and influences extending from Italian progressive rock to epic heavy metal. For Sidereal Fortress, dungeon synth is ultimately less a fixed genre than a vehicle for imagination and personal expression - an approach that has made the project one of the more distinctive voices of the Italian scene.
+
+[Bandcamp](https://siderealfortress.bandcamp.com/)
+[Website](https://www.instagram.com/siderealfortress/)
 
 ### Skeleton Mage
 
@@ -1267,7 +1501,7 @@ Although Summoning is fundamentally an atmospheric black metal project rather th
 ### SVART TORN
 
 **Country:** France
-**Style:** Ambient
+**Style:** Experimental
 **Mood:** Dark
 **Tempo:** Normal
 
@@ -1280,6 +1514,22 @@ One of SVART TORN's most distinctive experiments is ALICE: Escape From Nightmare
 SVART TORN therefore sits on the experimental fringe of dungeon synth. Medieval fantasy, sword-and-sorcery, cosmic horror and nightmare imagery remain present, but the project treats them as material for sonic experimentation rather than as strict genre conventions. Its identity lies precisely in that collision: dungeon synth melodies buried inside noise, crude electronics and strange textures.
 
 [Bandcamp](https://svartnoisemusic.bandcamp.com/)
+
+### Sybil Aleyerkh
+
+**Country:** Puerto Rico
+**Style:** Ambient
+**Mood:** Mystical
+**Tempo:** Slow
+
+Sybil Aleyerkh is an ambient and dark ambient project from Puerto Rico associated with the underground circle Las Legiones del Averno. Its music takes dungeon synth aesthetics beneath the sea, building an aquatic fantasy world around drowned temples, sorcerers and mysterious entities of the deep. The project describes its own sound as ambient and dark ambient “from the very depths of the ocean.”
+
+The project appeared in 2022 with The Majesty Underwater, followed shortly by the five-track demo Shadows Upon The Cryptic Sea. Titles such as The Serpent-Headed Sorceress and The Temple of Eurybiarkh (Queen of the Deep) reinforce its distinctive underwater mythology. The demo was also released on a limited DIY cassette by German label Abart Records.
+
+After a long gap, Sybil Aleyerkh returned with At The Shores of the Dismal Sea, originally appearing on Bandcamp in raw form in November 2024. The project has also remained connected to the Puerto Rican black metal underground: in 2025 Sybil Aleyerkh contributed synthesizers to Carpathian Wrath's Enchantments in Blood.
+
+[Bandcamp](https://sybilaleyerkh.bandcamp.com/)
+[YouTube](https://www.youtube.com/channel/UCzeG7TpeU9oS5d7PGyyAF-Q)
 
 ### Tales Under The Oak
 
@@ -1343,6 +1593,21 @@ The Ashen Codex has also become notably collaborative. Releases and side project
 [YouTube](https://www.youtube.com/@TheAshenCodex)
 [Website](https://www.instagram.com/theashencodex/)
 
+### TIL DET BERGENS SKYGGENE
+
+**Country:** Germany
+**Style:** Oldschool
+**Mood:** Melancholic
+**Tempo:** Slow
+
+Til Det Bergens Skyggene is a German dungeon synth and dark ambient project created by the musician known as Lord Vranevorn, who also operates the Voldsom label and has worked under the name Yearner. Emerging in 2011, the project became part of the early revival of old-school dungeon synth, drawing strongly on the raw, atmospheric spirit of the genre's 1990s origins. Its self-titled 2011 album has since gained a reputation as a modern classic: slow, lo-fi, melancholic and deliberately inaccessible, built around hazy synthesizers, folk-like melodies and an overwhelming feeling of wandering alone through cold forests and fog.
+
+The project's later recordings pushed that language further. Vandringen I (Skoglandskap) turned the forest itself into the central concept, using synthesizers to create a strangely naturalistic journey away from civilization; contemporary reviews praised it as one of the project's strongest works. Vandringen II (Lynnelandskap) became considerably more experimental, moving beyond straightforward dungeon synth toward dark electronic and ambient music, with dissonant melodies and unpredictable structures. Til Det Bergens Skyggene later resurfaced alongside Yearner on a 2021 collaborative EP, showing that the project had not entirely disappeared after its original early-2010s period.
+
+[Spotify](https://open.spotify.com/artist/05JVwi1VrrH7B91TNMfyki)
+[Bandcamp](https://voldsomtapes.bandcamp.com/album/til-det-bergens-skyggene)
+[Apple Music](https://music.apple.com/de/artist/til-det-bergens-skyggene/1787548784)
+
 ### Toad Sage
 
 **Country:** USA
@@ -1403,6 +1668,23 @@ Fantasy literature and games are also an important source of inspiration. The To
 [Bandcamp](https://torchlightds.bandcamp.com/)
 [Website](https://www.instagram.com/torchlightds/)
 
+### Traurent
+
+**Country:** Puerto Rico
+**Style:** Oldschool
+**Mood:** Epic
+**Tempo:** Slow
+
+Traurent is an old-school dungeon synth project from Puerto Rico created by L.S.U. Active since at least the early 2020s, the project builds its music around medieval fantasy, forgotten kingdoms, sorcery and dungeon exploration, usually presented through deliberately raw and nostalgic production. Early releases such as Ancient Prophecies of the Forgotten (2022) established this approach, followed by numerous demos and shorter works exploring similar dark-fantasy settings.
+
+Traurent strongly embraces the underground traditions of dungeon synth. Releases have appeared through small labels including Relics of the Eternal City, Rat Covenant and Finland's Center of the Earth Records, while the music ranges from minimal old-school dungeon synth to darker ambient passages and more atmospheric fantasy compositions. L.S.U also created the side project Grimstone, described specifically as old-school dungeon synth.
+
+After several demos and releases throughout 2022-2023, Traurent returned in 2025 with Realms Of My Forgotten Past and the full-length Inner Traditions Of The Sixth Sense. The latter is a nine-track album written and recorded between winter 2023 and autumn 2024, continuing the project's focus on old-school dungeon synth, dark ambient and medieval fantasy.
+
+[Spotify](https://open.spotify.com/artist/3Jx5P3IuoXYT31VG83G3Iv)
+[Bandcamp](https://traurent.bandcamp.com/)
+[Apple Music](https://music.apple.com/de/artist/traurent/1618058702)
+
 ### Tryptacobithicus
 
 **Country:** Germany
@@ -1442,6 +1724,24 @@ Ulk is an anonymous Dutch dungeon synth project known for serene melodies, bitte
 [Spotify](https://open.spotify.com/artist/5iqtjaKco1oUuo6HNcLj2v)
 [Bandcamp](https://ulkmusic.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/ulk/1475225540)
+
+### Under the Frost Moon
+
+**Country:** Puerto Rico
+**Style:** Experimental
+**Mood:** Melancholic
+**Tempo:** Normal
+
+Under the Frost Moon is a Puerto Rican winter synth, dungeon synth and atmospheric black metal project created by Brandon Solis under the name Doomed. Beginning in 2023, the project combines melancholic synthesizer music with elements of blackgaze and atmospheric black metal, describing its music simply as “music from lost realms reclaimed by the eternal frost.” Solis also has a background in underground metal, most notably as vocalist of atmospheric/depressive black metal project Videmur.
+
+Releases such as Lingering Winds of Winter's Past (2023), The Weeping of a Solitary Bride and The Forest of Forgotten Dreams (2024) established the project's mixture of winter synth atmosphere, fantasy imagery and melancholy. The Forest of Forgotten Dreams follows a lost soul entering a forest where dreams and reality merge, while the 2024 split Under the Frost Moon of Tharmalog continued the project's collaborative side.
+
+In 2025 Under the Frost Moon collaborated with Hecate on The Ache of Gentle Things, a split centered on nostalgia, childhood memories, beauty and emotional pain. The release was also issued physically through Relics of the Eternal City and Fantasy Audio Magazine, showing the project's connection to the wider contemporary dungeon synth underground.
+
+[Spotify](https://open.spotify.com/artist/1vgP6ysNKyxojk9BRNEjRz)
+[Bandcamp](https://underthefrostmoon.bandcamp.com/)
+[Apple Music](https://music.apple.com/no/artist/under-the-frost-moon/1736887652?l=nb)
+[Website](https://www.instagram.com/underthefrostmoon/)
 
 ### Ur Pale
 
@@ -1503,6 +1803,19 @@ Vanishing Amulet is a US romantic dungeon synth project created by Withering Pri
 [Apple Music](https://music.apple.com/kz/artist/vanishing-amulet/1771515398)
 [Website](https://www.instagram.com/vanishingamulet/)
 
+### VISIONS OF NIFTEN
+
+**Country:** Germany
+**Style:** Oldschool
+**Mood:** Melancholic
+**Tempo:** Slow
+
+Visions of Niften is a German dungeon synth and dark ambient project associated with the circle of artists surrounding Voldsom Tapes. Its best-known release, Enthroned in Forests Afar (2015), is a deeply melancholic work of raw synthesizers, long-form compositions and medieval fantasy atmosphere, evoking moonlit forests, forgotten towers and abandoned kingdoms. The album was well received within the underground scene and was ranked among the best dungeon synth releases of 2015 by Echoes from the Dungeon, which described it as an immediate classic of melancholy and magic.
+
+The project returned with Demo #2 in 2017, consisting of three longer pieces that continued its combination of dungeon synth, dark ambient and winter synth. In 2018, Visions of Niften joined Yearner for Winter Camaraderie, a collaborative album centred on cold, nostalgic and nocturnal atmospheres. Together, these few releases established Visions of Niften as a small but memorable part of the mid-2010s dungeon synth revival, particularly for listeners drawn to the genre's raw, lonely and distinctly wintry side.
+
+[Bandcamp](https://voldsomtapes.bandcamp.com/album/enthroned-in-forests-afar)
+
 ### Waraxe
 
 **Country:** Greece
@@ -1532,6 +1845,23 @@ Much of the project's artwork is also created by Nikita himself from old engravi
 [Bandcamp](https://warlockcorpse.bandcamp.com/)
 [YouTube](https://www.youtube.com/@warlockcorpse)
 [Website](https://www.instagram.com/warlockcorpse/)
+
+### Wartoad
+
+**Country:** USA
+**Style:** Experimental
+**Mood:** Battle
+**Tempo:** Slow
+
+Wartoad is an American project from Saranac Lake, New York, operating somewhere on the particularly raw and abrasive border between dungeon synth, war synth and underground metal.
+
+The project debuted in 2019 with Wrath of the Mighty Wartoad, a single 21-minute composition later released as a limited cassette by Tempest Tome Tapes. Wartoad returned in 2022 with Amphibian Battle Hymns, a three-track release issued on cassette by Gulik Records.
+
+Despite the dungeon synth and war synth tags, Wartoad sounds considerably heavier and more primitive than conventional synth-driven dungeon music. Distortion, repetitive structures and a riff-like approach often push the music surprisingly close to raw metal. The project's own description of Amphibian Battle Hymns as “RAW AMPHIBIAN WAR SYNTH” is perhaps the most fitting definition of its peculiar sound.
+
+Combined with its deliberately absurd imagery of militant toads and amphibian warfare, Wartoad occupies a strange little corner of the dungeon synth underground that is difficult to mistake for anything else.
+
+[Bandcamp](https://wartoad.bandcamp.com/)
 
 ### Windtower
 
@@ -1578,6 +1908,19 @@ With releases on Woodland Crown Records and collaborations with artists such as 
 [Bandcamp](https://wyrdgnome.bandcamp.com/)
 [Apple Music](https://music.apple.com/ca/artist/wyrd-gnome/1719952768)
 [Website](https://www.instagram.com/wyrdgnome/)
+
+### YEARNER
+
+**Country:** Germany
+**Style:** Oldschool
+**Mood:** Melancholic
+**Tempo:** Slow
+
+Yearner is a German dungeon synth and winter synth project by Vranevorn, the musician behind Til Det Bergens Skyggene and Voldsom Tapes. The project debuted with Winternight in 2013, an extremely lo-fi recording built from cold, shimmering synthesizers, dissonance and deliberately rough production. Contemporary writing described it as sitting somewhere between dungeon synth and winter synth: less focused on pure drones and environmental ambience than much winter synth, but exceptionally effective at creating the sensation of an isolated, frozen landscape. The album has retained a cult following, and listeners still regularly recommend it when discussing particularly raw and cold examples of the style.
+
+Yearner subsequently continued with Forsaken Wolf, the collaborative Winter Camaraderie with Visions of Niften, and a 2021 EP shared with Til Det Bergens Skyggene. After a long period of relative silence, Vranevorn revived the project with A Summer For Misfits in 2025, incorporating darkwave, electronic and more personal songwriting into its established nostalgic atmosphere, followed by Winternight II in 2026. The result is a project that connects the raw early-2010s dungeon synth revival with a more contemporary and personal interpretation of winter synth, while retaining melancholy, nostalgia and coldness as its defining characteristics.
+
+[Bandcamp](https://voldsomtapes.bandcamp.com/album/winternight)
 
 ### Ziggurath
 
