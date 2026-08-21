@@ -2,13 +2,11 @@
     "en": [
       { "title": "Dungeon Synth: A Journey Through Dark Fantasy", "url": "/articles/dungeon-synth-a-journey-through-dark-fantasy" },
       { "title": "Dungeon Folk: Reviving the Authentic Medieval Sound", "url": "/articles/dungeon-folk-reviving-the-authentic-medieval-sound" },
-      { "title": "Medieval Music: From Origins to the Modern Era", "url": "/articles/medieval-music-from-origins-to-the-modern-era" },
-      { "title": "Your Hatred of AI Won’t Make You More Talented", "url": "/articles/ai-in-art" }
+      { "title": "Medieval Music: From Origins to the Modern Era", "url": "/articles/medieval-music-from-origins-to-the-modern-era" }
     ],
     "ru": [
       { "title": "Dungeon Synth: Путешествие сквозь тёмное фэнтези", "url": "/articles/dungeon-synth-a-journey-through-dark-fantasy-ru" },
       { "title": "Dungeon Folk: Возрождение подлинного средневекового звучания", "url": "/articles/dungeon-folk-reviving-the-authentic-medieval-sound-ru" },
-      { "title": "Средневековая музыка: от истоков до современности", "url": "/articles/medieval-music-from-origins-to-the-modern-era-ru" },
-      { "title": "Ваш хейт к ИИ не сделает вас талантливее", "url": "/articles/ai-in-art-ru" }
+      { "title": "Средневековая музыка: от истоков до современности", "url": "/articles/medieval-music-from-origins-to-the-modern-era-ru" }
     ]
   }
