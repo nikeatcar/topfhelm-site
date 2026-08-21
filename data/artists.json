@@ -105,6 +105,41 @@
         }
     },
     {
+        "id": "anachronistic-fiefdom",
+        "country": "USA",
+        "genre": "",
+        "style": "Chiptune",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0039901615_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0039901388_102.avif",
+        "background": "https://f4.bcbits.com/img/0037546307_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "3245569686"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://sebran.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Anachronistic Fiefdom",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "anglachel",
         "country": "Greece",
         "genre": "",
@@ -481,6 +516,41 @@
         "translations": {
             "en": {
                 "name": "Carrion Cloak",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "cavern-maze",
+        "country": "Germany",
+        "genre": "",
+        "style": "Chiptune",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/a0236692817_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a0236692817_10.jpg",
+        "background": "https://f4.bcbits.com/img/0030919709_130.jpg",
+        "label": "https://personaluschirecords.bandcamp.com/",
+        "label_name": "Personal Uschi Records",
+        "label_img": "https://f4.bcbits.com/img/0030919593_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "3515168111"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://personaluschirecords.bandcamp.com/album/cave-troll-awakening",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Cavern Maze",
                 "description": ""
             },
             "ru": {
@@ -1111,6 +1181,41 @@
         "translations": {
             "en": {
                 "name": "Elyvilon",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "enchanted-helm",
+        "country": "USA",
+        "genre": "",
+        "style": "Chiptune",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0040545546_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0038788084_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "1129718087"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://enchantedhelm.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/enchantedhelm/"
+        },
+        "translations": {
+            "en": {
+                "name": "Enchanted Helm",
                 "description": ""
             },
             "ru": {
@@ -2450,6 +2555,41 @@
         }
     },
     {
+        "id": "moonlit-path",
+        "country": "UK",
+        "genre": "",
+        "style": "Chiptune",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/a1677001616_16.jpg",
+        "banner": "https://f4.bcbits.com/img/a1677001616_16.jpg",
+        "background": "https://f4.bcbits.com/img/0038434421_130.jpg",
+        "label": "https://nocturnalcurserecords.bandcamp.com/",
+        "label_name": "Nocturnal Curse Records",
+        "label_img": "https://f4.bcbits.com/img/0038434512_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "1664981910"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://nocturnalcurserecords.bandcamp.com/album/moonlit-path-8-bit-blood",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Moonlit Path",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "morgan-the-bard",
         "country": "Italy",
         "genre": "",
@@ -2686,6 +2826,41 @@
         "translations": {
             "en": {
                 "name": "Mystkeeper",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "necromancer-tower",
+        "country": "Germany",
+        "genre": "",
+        "style": "Chiptune",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/a0937813696_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a0937813696_10.jpg",
+        "background": "https://f4.bcbits.com/img/0030919709_130.jpg",
+        "label": "https://personaluschirecords.bandcamp.com/",
+        "label_name": "Personal Uschi Records",
+        "label_img": "https://f4.bcbits.com/img/0030919593_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "199148954"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://personaluschirecords.bandcamp.com/album/totentanz",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Necromancer Tower",
                 "description": ""
             },
             "ru": {
@@ -3456,6 +3631,41 @@
         "translations": {
             "en": {
                 "name": "Sybil Aleyerkh",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "synth-bard",
+        "country": "USA",
+        "genre": "",
+        "style": "Chiptune",
+        "mood": "Battle",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0029135922_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0036800046_102.avif",
+        "background": "https://f4.bcbits.com/img/0036800062_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "3922071401"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://synthbard.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Synth Bard",
                 "description": ""
             },
             "ru": {
