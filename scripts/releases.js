@@ -19,7 +19,7 @@ spadcyna: {
       <div class="players">
        <iframe data-testid="embed-iframe" style="border-radius:12px"
          src="https://open.spotify.com/embed/album/5CYvq8tt4ndont6zxrHRcg?utm_source=generator"
-         width="100%" height="352" frameBorder="0" allowfullscreen=""
+         width="100%" height="500" frameBorder="0" allowfullscreen=""
          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
          loading="lazy">
        </iframe>
@@ -30,8 +30,8 @@ spadcyna: {
          <a href="https://topfhelm.bandcamp.com/album/spad-yna" target="blank">
            <img src="icons/Bandcamp_icon.svg" alt="Listen to Spadčyna by TopfHelm on BandCamp" loading="lazy">
          </a>
-         <a href="https://soundcloud.com/topfhelmmusic/sets/spadchyna" target="blank">
-         <img src="icons/Soundcloud_icon.svg" alt="Listen to Spadčyna by TopfHelm on Soundcloud" loading="lazy">
+         <a href="https://open.spotify.com/album/5CYvq8tt4ndont6zxrHRcg" target="blank">
+         <img src="icons/icons8-spotify.svg" alt="Listen to Spadčyna by TopfHelm on Spotify" loading="lazy">
          </a>
        </div>
      </div>
@@ -63,7 +63,7 @@ spadcyna: {
         </p>
 
         <div class="players">
-        <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5wp4FkIgpd9fVTTiW5b2ar?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5wp4FkIgpd9fVTTiW5b2ar?utm_source=generator" width="100%" height="500" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
       </div>
 
       <div id="social-container">
@@ -71,8 +71,8 @@ spadcyna: {
           <a href="https://topfhelm.bandcamp.com/album/solemnis" target="_blank">
             <img src="icons/Bandcamp_icon.svg" alt="Listen to Solemnis by TopfHelm on BandCamp" loading="lazy">
           </a>
-          <a href="https://soundcloud.com/topfhelmmusic/sets/solemnis" target="_blank">
-            <img src="icons/Soundcloud_icon.svg" alt="Listen to Solemnis by TopfHelm on Soundcloud" loading="lazy">
+          <a href="https://open.spotify.com/album/5wp4FkIgpd9fVTTiW5b2ar" target="_blank">
+            <img src="icons/icons8-spotify.svg" alt="Listen to Solemnis by TopfHelm on Spotify" loading="lazy">
           </a>
         </div>
       </div>
@@ -112,8 +112,8 @@ spadcyna: {
           <a href="https://topfhelm.bandcamp.com/album/40" target="_blank">
             <img src="icons/Bandcamp_icon.svg" alt="Listen to 40 by TopfHelm on BandCamp" loading="lazy">
           </a>
-          <a href="https://soundcloud.com/topfhelmmusic/sets/40symphony" target="_blank">
-            <img src="icons/Soundcloud_icon.svg" alt="Listen to 40 by TopfHelm on Soundcloud" loading="lazy">
+          <a href="https://open.spotify.com/album/3veuEvIr7Pl4UseL8UxLa9" target="_blank">
+            <img src="icons/icons8-spotify.svg" alt="Listen to 40 by TopfHelm on Spotify" loading="lazy">
           </a>
         </div>
       </div>
@@ -177,7 +177,7 @@ spadcyna: {
 </div>
 
           <div class="players">
-            <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/4KsZMaOI7RAtHqus19DaOP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+            <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/4KsZMaOI7RAtHqus19DaOP?utm_source=generator" width="100%" height="500" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
           </div>
 
           <div id="social-container">
@@ -185,8 +185,8 @@ spadcyna: {
               <a href="https://topfhelm.bandcamp.com/album/sir-godric" target="_blank">
                 <img src="icons/Bandcamp_icon.svg" alt="Listen to Sir Godric by TopfHelm on BandCamp" loading="lazy">
               </a>
-              <a href="https://soundcloud.com/topfhelmmusic/sets/sir-godric" target="_blank">
-                <img src="icons/Soundcloud_icon.svg" alt="Listen to Sir Godric by TopfHelm on Soundcloud" loading="lazy">
+              <a href="https://open.spotify.com/album/4KsZMaOI7RAtHqus19DaOP" target="_blank">
+                <img src="icons/icons8-spotify.svg" alt="Listen to Sir Godric by TopfHelm on Spotify" loading="lazy">
               </a>
             </div>
           </div>
@@ -217,7 +217,7 @@ spadcyna: {
         </p>
 
         <div class="players">
-          <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5MQbQmcU1hE2nAOtoikPMV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+          <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5MQbQmcU1hE2nAOtoikPMV?utm_source=generator" width="100%" height="500" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         </div>
 
         <div id="social-container">
@@ -225,8 +225,35 @@ spadcyna: {
             <a href="https://topfhelm.bandcamp.com/album/sanguis-et-mulsum" target="_blank">
               <img src="icons/Bandcamp_icon.svg" alt="Listen to Sanguis et Mulsum by TopfHelm on BandCamp" loading="lazy">
             </a>
-            <a href="https://soundcloud.com/topfhelmmusic/sets/sanguisetmulsum" target="_blank">
-              <img src="icons/Soundcloud_icon.svg" alt="Listen to Sanguis et Mulsum by TopfHelm on Soundcloud" loading="lazy">
+            <a href="https://open.spotify.com/album/5MQbQmcU1hE2nAOtoikPMV" target="_blank">
+              <img src="icons/icons8-spotify.svg" alt="Listen to Sanguis et Mulsum by TopfHelm on Spotify" loading="lazy">
+            </a>
+          </div>
+        </div>
+    `
+  },
+
+  greenwaves: {
+    getHtml: (isRussian) => `
+      <div class="album-card fade-in">
+        <h3>"Green Waves" – ${isRussian ? 'В память о жертвах' : 'In memory of victims'}</h3>
+        <p>
+          ${isRussian
+            ? 'Короткий альбом, посвящённый жертвам взрыва ядерной бомбы в г.Хиросима 6 августа 1945г.'
+            : 'A short album dedicated to the victims of the nuclear bombing of Hiroshima on August 6, 1945.'}
+        </p>
+
+        <div class="players">
+          <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3O1v8Y12PU0MTs5ayz7wm4?utm_source=generator&si=466feccabf0d4132" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+
+        <div id="social-container">
+          <div class="social-icons">
+            <a href="https://topfhelm.bandcamp.com/album/green-waves" target="_blank">
+              <img src="icons/Bandcamp_icon.svg" alt="Listen to Green Waves by TopfHelm on BandCamp" loading="lazy">
+            </a>
+            <a href="https://open.spotify.com/album/3O1v8Y12PU0MTs5ayz7wm4" target="_blank">
+              <img src="icons/icons8-spotify.svg" alt="Listen to Green Waves by TopfHelm on Spotify" loading="lazy">
             </a>
           </div>
         </div>

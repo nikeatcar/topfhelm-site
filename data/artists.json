@@ -385,6 +385,41 @@
         }
     },
     {
+        "id": "blood-lord",
+        "country": "UK",
+        "genre": "",
+        "style": "Chiptune",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0016208786_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0016208741_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label_name": "Dungeons Deep Records",
+        "label_img": "https://f4.bcbits.com/img/0042890191_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "2064750215"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://bloodlordds.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Blood Lord",
+                "description": "Blood Lord is a vampiric dungeon synth and chiptune project from Bristol, UK, built around the distinctive sound of the Casio VL-Tone. Debuting with Unwelcome Guests in 2019, the project combines gothic horror, dungeon synth and deliberately primitive 8-bit textures reminiscent of early fantasy and horror video game soundtracks. The album follows a traveller arriving at the mysterious Lord's manor and surviving the night within.\n\nThe story continued with The Bloodstained Keep in 2021, again created around the Casio VL-Tone and this time depicting the Lord's return and a struggle among the creatures of the night. Both albums were released physically by Dungeons Deep Records and were later collected as Anthology of the Night in 2022. Blood Lord's unusually minimal setup and strong Castlevania-like atmosphere make the project a distinctive meeting point between dungeon synth and old-school chiptune."
+            },
+            "ru": {
+                "name": "",
+                "description": "Blood Lord - vampiric dungeon synth / chiptune проект из Бристоля, Великобритания, характерное звучание которого построено вокруг синтезатора Casio VL-Tone. Дебютный Unwelcome Guests вышел в 2019 году и соединил готический хоррор, dungeon synth и намеренно примитивную 8-битную эстетику старых фэнтезийных и хоррор-игр. Альбом рассказывает о путешественнике, прибывающем в поместье загадочного Лорда и переживающем там долгую ночь.\n\nИстория получила продолжение на The Bloodstained Keep (2021), вновь записанном с использованием Casio VL-Tone: теперь сюжет посвящён возвращению Лорда и борьбе между созданиями ночи. Оба альбома получили физические издания на Dungeons Deep Records, а в 2022 году были объединены в Anthology of the Night. Минималистичный инструментарий и выраженная атмосфера старых игр в духе Castlevania делают Blood Lord интересным пересечением dungeon synth и классического chiptune."
+            }
+        }
+    },
+    {
         "id": "bronzen-oath",
         "country": "USA",
         "genre": "",
@@ -744,9 +779,9 @@
         "logo": "https://f4.bcbits.com/img/0041463172_10.jpg",
         "banner": "https://f4.bcbits.com/img/0041463172_10.jpg",
         "background": "https://f4.bcbits.com/img/0017082567_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label_name": "Dungeons Deep Records",
+        "label_img": "https://f4.bcbits.com/img/0042890191_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "510187855"
@@ -1059,9 +1094,9 @@
         "logo": "https://f4.bcbits.com/img/0041454153_10.jpg",
         "banner": "https://assets.ampwall.com/cdn-cgi/image/format=avif,width=1200/artist-assets/01920759-fb34-7842-9025-26ad9079dacc/7d533976-0512-4c7b-b9b8-10ffed1fe62b.png",
         "background": "https://f4.bcbits.com/img/0041454109_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label_name": "Dungeons Deep Records",
+        "label_img": "https://f4.bcbits.com/img/0042890191_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "2314369273"
@@ -1129,9 +1164,9 @@
         "logo": "https://f4.bcbits.com/img/0040960576_10.jpg",
         "banner": "https://yt3.googleusercontent.com/mpuvzKurol0y1RP0Dm5BVVem0PUPh_99RSCDum7Ma8dXc4Ev0ib0DYJWArjJxvJm7Zm4ZoS1UQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
         "background": "rgb(0, 0, 0)",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label_name": "Dungeons Deep Records",
+        "label_img": "https://f4.bcbits.com/img/0042890191_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "1533114019"
@@ -1374,9 +1409,9 @@
         "logo": "https://f4.bcbits.com/img/0030224949_10.jpg",
         "banner": "https://f4.bcbits.com/img/0030230616_102.avif",
         "background": "https://f4.bcbits.com/img/0031526637_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label_name": "Dungeons Deep Records",
+        "label_img": "https://f4.bcbits.com/img/0042890191_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "743008332"
@@ -1479,9 +1514,9 @@
         "logo": "https://f4.bcbits.com/img/0042843539_10.jpg",
         "banner": "https://f4.bcbits.com/img/a2450812398_10.jpg",
         "background": "https://f4.bcbits.com/img/0033473021_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label_name": "Dungeons Deep Records",
+        "label_img": "https://f4.bcbits.com/img/0042890191_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "1664298057"
@@ -1619,9 +1654,9 @@
         "logo": "https://f4.bcbits.com/img/0042109654_10.jpg",
         "banner": "https://f4.bcbits.com/img/0042109646_102.avif",
         "background": "rgb(17, 21, 24)",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label_name": "Dungeons Deep Records",
+        "label_img": "https://f4.bcbits.com/img/0042890191_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "3890011105"
@@ -1689,9 +1724,9 @@
         "logo": "https://f4.bcbits.com/img/a4196370345_10.jpg",
         "banner": "https://f4.bcbits.com/img/a4196370345_10.jpg",
         "background": "https://f4.bcbits.com/img/0011231475_130.jpg",
-        "label": "https://dungeonsynthdarkambient.bandcamp.com/",
-        "label_name": "Dungeon Synth / Dark Ambient",
-        "label_img": "https://f4.bcbits.com/img/0011239039_21.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1273768649"
@@ -1711,6 +1746,76 @@
             "ru": {
                 "name": "",
                 "description": "Grimstone - проект в стиле old-school dungeon synth и dark ambient из Пуэрто-Рико, созданный L.S.U, музыкантом, стоящим за Traurent. Grimstone задумывался как сайд-проект и обращается к нарочито сырому и традиционному звучанию dungeon synth с образами мрачных замков, забытых коридоров и эстетикой раннего андеграунда.\n\nЕдинственный релиз проекта, Shadows Journey, был записан в декабре 2022 - январе 2023 года. Демо состоит из четырёх композиций: The Hidden Past, Shadow Realm, Hidden Upon The Corridors и The Calling. Музыку, оформление и обложку сделал сам L.S.U.\n\nПозднее Shadows Journey получил несколько физических изданий. Кассетные версии выходили в том числе у пуэрто-риканского Targoviste Records, немецкого Abart Records и чилийского Forbidden Files Records. Последний прямо характеризует Grimstone как «True Old School Dungeon Synth from Puerto Rico»."
+            }
+        }
+    },
+    {
+        "id": "grol-the-goblin",
+        "country": "",
+        "genre": "",
+        "style": "Chiptune",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0012334724_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0012808360_102.avif",
+        "background": "rgb(255, 255, 255)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "1229672825"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://grolthegoblin.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Grol the Goblin",
+                "description": "Grol the Goblin is a dungeon synth project built entirely around the persona and mythology of a goblin musician, and one of the early projects to explicitly call its music Goblin Synth. Grol appeared in January 2018 and immediately became extraordinarily prolific, releasing numerous records that moved between lo-fi dungeon synth, dungeon noise, winter synth, tavern music and even synthwave. Contemporary writer Kaptain Carbon described the project as viewing these different corners of dungeon synth through a lens of “goblin foolishness,” somewhere between absurdity and genuine musical experimentation.\n\nIn two 2018 interviews, Grol named Ranseur, Erdig, Chaucerian Myth, Basic Dungeon and Tyrannus among his influences, alongside the fictional “traditional goblin folk music” that forms part of the project's deliberately maintained character. Improvisation was central to the early material: simple bass lines and riffs provided a foundation while melodies were usually improvised, and occasionally entire tracks were created this way. Grol also embraced rough and noisy production rather than polished sound, arguing that harsher elements simply suited goblins better than elves.\n\nThe project extended beyond music through Goblinoid Records, a small label Grol created with the stated aim of giving Goblin Synth artists a home and releasing their music on cassette. Return to the Dungeon was also associated with Ancient Meadow Records, which carried Grol material during this early period.\n\nAfter the dense run of early releases, Grol continued returning to the concept rather than abandoning it. Later albums include King of all Goblins (2019), Power Goblin (2020), Spooky Goblin (2021) and Transcendental Goblin (2024). In 2025 the project became particularly active again with Raiding the Wizards Tower, followed by Goblinwave and Goblotronic, pushing the original Goblin Synth idea into hardware-driven electronic and retro territory while retaining the project's intentionally crude fantasy character."
+            },
+            "ru": {
+                "name": "",
+                "description": "Grol the Goblin - dungeon synth проект, полностью построенный вокруг образа музыканта-гоблина, и один из ранних проектов, открыто называвших свою музыку Goblin Synth. Grol появился в январе 2018 года и практически сразу начал выпускать огромное количество материала, переходя от lo-fi dungeon synth к dungeon noise, winter synth, таверновой музыке и даже synthwave. Kaptain Carbon описывал эту особенность как взгляд на разные ответвления dungeon synth через призму «гоблинской глупости», балансирующей между абсурдом и настоящим музыкальным экспериментом.\n\nВ двух интервью 2018 года Grol называл среди своих источников вдохновения Ranseur, Erdig, Chaucerian Myth, Basic Dungeon и Tyrannus, а также вымышленную «традиционную гоблинскую народную музыку» - часть последовательно поддерживаемого образа проекта. Важную роль в ранних записях играла импровизация: основой служили простые басовые партии и риффы, поверх которых импровизировались мелодии, а иногда таким способом создавались целые композиции. Намеренно сырой и шумный звук также был частью эстетики Grol: по словам автора, подобное звучание просто больше подходит гоблинам, чем эльфам.\n\nПроект вышел и за пределы собственной дискографии: Grol основал Goblinoid Records, небольшой лейбл, задуманный как площадка для Goblin Synth и выпуска кассет других исполнителей этого направления. Return to the Dungeon также был связан с Ancient Meadow Records, распространявшим музыку Grol в ранний период проекта.\n\nПосле чрезвычайно продуктивного раннего периода Grol продолжил возвращаться к своему гоблинскому миру. За King of all Goblins (2019) последовали Power Goblin (2020), Spooky Goblin (2021) и Transcendental Goblin (2024), а в 2025 году проект снова заметно активизировался: появились Raiding the Wizards Tower, Goblinwave и Goblotronic. Последние релизы уводят первоначальную идею Goblin Synth в сторону аппаратной электроники и ретро-звучания, не отказываясь при этом от намеренно грубой и несерьёзной фэнтезийной эстетики проекта."
+            }
+        }
+    },
+    {
+        "id": "halberd",
+        "country": "USA",
+        "genre": "",
+        "style": "Chiptune",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0025772698_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0046683184_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "https://innerselfrecords.bandcamp.com/",
+        "label_name": "Inner Self Records",
+        "label_img": "https://f4.bcbits.com/img/0020117692_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "484470162"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://halberdsynth.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/gregoriofrancomusic/"
+        },
+        "translations": {
+            "en": {
+                "name": "Halberd",
+                "description": "Halberd is a dungeon synth and chiptune project from Atlanta, Georgia, focused on the aesthetics of old fantasy RPGs and dungeon crawlers. Its first album, Realm of the Dark, appeared in 2021, following an adventurer through ruined temples, crypts, orc attacks and underground passages. The Dungeon Noise Cavern described its style as “Chiptune / Dungeon Chip,” while WereGnome Records released a limited run of 50 cassettes.\n\nThe track Flash of Blades was later included on the community compilation Battle Synth Vol. 1, alongside artists including Elminster, Sombre Arcane and Rog.\n\nAfter several years of silence, Halberd returned in August 2026 with Depths of the Lich Lord. The artist revealed that the entire 13-track album, including its artwork, was created as a one-day challenge, with the number of tracks decided by a d20 roll in a Dungeon Synth Discord community. Musically it was made primarily with VSTs, particularly Kawai K1v and an NES VST, processed through bitcrushing. The result deliberately resembles the soundtrack to a forgotten retro dungeon crawler."
+            },
+            "ru": {
+                "name": "",
+                "description": "Halberd - dungeon synth / chiptune проект из Атланты, штат Джорджия, вдохновлённый эстетикой старых фэнтезийных RPG и dungeon crawler'ов. Первый альбом Realm of the Dark вышел в 2021 году и построен как небольшое приключение с разрушенными храмами, криптами, нападениями орков и исследованием подземелий. Канал The Dungeon Noise Cavern определил его стиль как «Chiptune / Dungeon Chip», а WereGnome Records выпустил альбом ограниченным тиражом в 50 кассет.\n\nКомпозиция Flash of Blades позднее вошла в сборник Battle Synth Vol. 1 вместе с Elminster, Sombre Arcane, Rog и другими представителями сцены.\n\nПосле нескольких лет тишины Halberd вернулся в августе 2026 года с Depths of the Lich Lord. Сам автор рассказал, что все 13 треков и оформление были сделаны за один день в качестве творческого челленджа, а количество композиций определили броском d20 в Dungeon Synth Discord-сообществе. Для записи использовались преимущественно VST, в частности Kawai K1v и NES VST, обработанные биткрашером. В результате получился намеренно игровой dungeon synth, звучащий как саундтрек к забытому ретро-dungeon crawler."
             }
         }
     },
@@ -1864,9 +1969,9 @@
         "logo": "https://f4.bcbits.com/img/0041499108_10.jpg",
         "banner": "https://f4.bcbits.com/img/a1085351107_16.jpg",
         "background": "https://f4.bcbits.com/img/0041499092_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label_name": "Dungeons Deep Records",
+        "label_img": "https://f4.bcbits.com/img/0042890191_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "3942234626"
@@ -2669,9 +2774,9 @@
         "logo": "https://f4.bcbits.com/img/0015200072_10.jpg",
         "banner": "https://f4.bcbits.com/img/0011424993_102.avif",
         "background": "https://f4.bcbits.com/img/0044776938_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label_name": "Dungeons Deep Records",
+        "label_img": "https://f4.bcbits.com/img/0042890191_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "3062855137"
@@ -3111,6 +3216,41 @@
             "ru": {
                 "name": "",
                 "description": "Soporific Sorcery - малоизвестный проект на стыке dungeon synth и dark ambient, связанный с нет-лейблом Haunted Klinik, которым управляет Vampiir of the North. Особенно интересен проект тем, что ещё в эпоху до современного возрождения сцены называл свою музыку «torture chamber music». Альбом Sarcophagus Symphony II 2010 года появился примерно в то время, когда само название «dungeon synth» только начинало входить в употребление.\n\nМузыка Soporific Sorcery сочетает мрачный эмбиент, старомодные синтезаторные тембры, повторяющиеся мелодии и необычную псевдооркестровку. Вместо привычного героического фэнтези здесь преобладают склепы, могилы, подземелья и миры мёртвых. Эта эстетика развивается на Mischievous Misanthropy (2013), Otherworldly Orchestra и Uncanny Underworld (2017), а также Incongruous Inhabitant (2018).\n\nБлагодаря своему возрасту и необычной концепции Soporific Sorcery представляет интерес как один из проектов, сохранявших и переосмысливавших эстетику dark dungeon music ещё до большого возрождения dungeon synth в 2010-х."
+            }
+        }
+    },
+    {
+        "id": "spaceseer",
+        "country": "USA",
+        "genre": "",
+        "style": "Experimental",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0040545943_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0037194664_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "598456633"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://spaceseer.bandcamp.com/",
+            "youtube": "https://www.youtube.com/@spaceseer",
+            "apple_music": "",
+            "website": "https://www.instagram.com/spaceseer/"
+        },
+        "translations": {
+            "en": {
+                "name": "spaceseer",
+                "description": "spaceseer is an experimental electronic and dungeon synth project from Provo, Utah, active since at least 2017. Its music forms part of an extensive science-fiction and fantasy universe called A Thread Between Friends, chronicling the fictional peoples, places and histories of the distant world of Ilia. Rather than adhering to a single style, spaceseer combines dungeon synth with doom synth, dark ambient, industrial and progressive electronics, using music as a form of worldbuilding.\n\nThe project's recordings range from synthesizer-driven ambient works and field-recording experiments to elaborate narrative releases. Feral Moon, first introduced in 2021 and expanded into a full-length album in 2025, combines spoken narration with dark electronic textures and features several guest performers. Other releases explore very different territory, including the lighter fantasy/comfy synth of Sporcery and the deliberately 16-bit sound of Bismuth Mace of the Orchid King. Despite these stylistic shifts, spaceseer's extensive discography remains connected by the mythology and history of its fictional universe."
+            },
+            "ru": {
+                "name": "",
+                "description": "spaceseer - экспериментальный электронный и dungeon synth проект из Прово, штат Юта, существующий как минимум с 2017 года. Его музыка является частью большой научно-фантастической и фэнтезийной вселенной A Thread Between Friends, рассказывающей о вымышленных народах, местах и истории далёкого мира Ilia. Не ограничиваясь одним жанром, spaceseer соединяет dungeon synth с doom synth, dark ambient, industrial и прогрессивной электроникой, используя музыку как инструмент построения собственного мира.\n\nДискография проекта простирается от синтезаторного эмбиента и экспериментов с полевыми записями до масштабных повествовательных работ. Feral Moon, впервые представленный в 2021 году и развёрнутый в полноценный альбом в 2025-м, сочетает spoken word с мрачной электронной музыкой и участием приглашённых исполнителей. Другие релизы уходят в совершенно иные направления - от более лёгкого fantasy/comfy synth на Sporcery до намеренно 16-битного звучания Bismuth Mace of the Orchid King. При всём стилистическом разнообразии дискографию spaceseer объединяет общая мифология его вымышленной вселенной."
             }
         }
     },
@@ -3894,9 +4034,9 @@
         "logo": "https://f4.bcbits.com/img/0045749064_10.jpg",
         "banner": "https://f4.bcbits.com/img/0045749062_102.avif",
         "background": "https://f4.bcbits.com/img/0045749086_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label_name": "Dungeons Deep Records",
+        "label_img": "https://f4.bcbits.com/img/0042890191_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "3684182084"

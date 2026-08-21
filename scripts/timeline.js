@@ -35,38 +35,44 @@ function initTimeline() {
         {
             date: { en: "Mar 28, 2025", ru: "28 марта 2025" },
             title: "Sanguis Et Mulsum",
-            cover: "https://cdn.topfhelm.com/covers/Sanguis_Et_Mulsum_cover.webp",
+            cover: "https://f4.bcbits.com/img/a3128347722_10.jpg",
             albumKey: "sanguis"
         },
         {
             date: { en: "May 9, 2025", ru: "9 мая 2025" },
             title: "Sir Godric",
-            cover: "https://cdn.topfhelm.com/covers/Sir_Godric_cover.webp",
+            cover: "https://f4.bcbits.com/img/a0971096415_10.jpg",
             albumKey: "sirgodric"
         },
         {
             date: { en: "Jul 11, 2025", ru: "11 июля 2025" },
             title: "40",
-            cover: "https://cdn.topfhelm.com/covers/40_cover.webp",
+            cover: "https://f4.bcbits.com/img/a0783448223_10.jpg",
             albumKey: "forty"
         },
         {
             date: { en: "Aug 15, 2025", ru: "15 августа 2025" },
             title: "Solemnis",
-            cover: "https://cdn.topfhelm.com/covers/Solemnis_cover.webp",
+            cover: "https://f4.bcbits.com/img/a2838361177_10.jpg",
             albumKey: "solemnis"
         },
         {
             date: { en: "Dec 12, 2025", ru: "12 декабря 2025" },
             title: "Spadčyna",
-            cover: "https://cdn.topfhelm.com/covers/Spadcyna_cover.webp",
+            cover: "https://f4.bcbits.com/img/a0524899958_10.jpg",
             albumKey: "spadcyna"
         },
         {
             date: { en: "Jul 24, 2026", ru: "24 Июля 2026" },
             title: "TES: The Still Place",
-            cover: "https://cdn.topfhelm.com/covers/TES_TSP_cover.webp",
+            cover: "https://f4.bcbits.com/img/a2023943682_10.jpg",
             link: "/the-emerald-saga/"
+        },
+        {
+            date: { en: "Aug 6, 2026", ru: "6 Августа 2026" },
+            title: "Green Waves",
+            cover: "https://f4.bcbits.com/img/a3704079906_10.jpg",
+            albumKey: "greenwaves"
         }
     ];
 

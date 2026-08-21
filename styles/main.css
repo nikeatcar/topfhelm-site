@@ -637,7 +637,6 @@ body.ru .bestiary-preview-btn{
 
     display: flex;
     justify-content: space-between;
-    gap: 18px;
 
     max-width: 980px;
     margin: 0 auto;
@@ -861,7 +860,7 @@ body.ru #countdown-text {
 }
 
 .players iframe[src*="soundcloud"] {
-  height: 320px;
+  height: 100%;
   max-width: 250px;
 }
 
