@@ -706,6 +706,74 @@ body.ru .artist-label::before{
 }
 
 /* ==========================================================
+   SEARCH
+========================================================== */
+
+.artists-search{
+
+    margin-bottom:14px;
+
+}
+
+.artists-search input{
+
+    width:100%;
+
+    box-sizing:border-box;
+
+    padding:13px 15px;
+
+    border-radius:10px;
+
+    background:
+        linear-gradient(
+            180deg,
+            #1b1b1b,
+            #161616
+        );
+
+    border:1px solid rgba(215,179,122,.18);
+
+    color:#f2e3be;
+
+    font:inherit;
+
+    outline:none;
+
+    transition:
+        border-color .25s ease,
+        box-shadow .25s ease,
+        background .25s ease;
+}
+
+
+.artists-search input::placeholder{
+
+    color:#777;
+
+}
+
+
+.artists-search input:focus{
+
+    background:#1c1b19;
+
+    border-color:rgba(215,179,122,.65);
+
+    box-shadow:
+        0 0 0 2px rgba(215,179,122,.06),
+        0 0 14px rgba(215,179,122,.08);
+
+}
+
+
+body.ru .artists-search input{
+
+    font-family:"Monomakh", serif;
+
+}
+
+/* ==========================================================
   Атрибуты
 ========================================================== */
 
@@ -849,6 +917,20 @@ body.ru .artist-label::before{
     height:100%;
 
     min-height:340px;
+
+    border:0;
+
+    border-radius:12px;
+}
+
+.artist-youtube-player{
+
+    display:block;
+
+    width:100%;
+    min-height:340px;
+
+    aspect-ratio:16 / 9;
 
     border:0;
 

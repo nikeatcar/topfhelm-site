@@ -292,36 +292,135 @@ function updateArtistsCount(){
 
 }
 
+function getYouTubeVideoId(value){
+
+    if (!value) return "";
+
+    const input = value.trim();
+
+    // Если введён сразу YouTube ID
+    if (/^[a-zA-Z0-9_-]{11}$/.test(input)){
+        return input;
+    }
+
+    try{
+
+        const url = new URL(input);
+
+        // https://youtu.be/stxkfyWXuH0?si=...
+        if (
+            url.hostname === "youtu.be" ||
+            url.hostname === "www.youtu.be"
+        ){
+
+            return url.pathname
+                .replace(/^\/+/, "")
+                .split("/")[0];
+        }
+
+        // https://www.youtube.com/watch?v=stxkfyWXuH0
+        if (
+            url.hostname === "youtube.com" ||
+            url.hostname === "www.youtube.com" ||
+            url.hostname === "m.youtube.com"
+        ){
+
+            const videoId = url.searchParams.get("v");
+
+            if (videoId){
+                return videoId;
+            }
+
+            // /embed/stxkfyWXuH0
+            const embedMatch =
+                url.pathname.match(/^\/embed\/([^/?]+)/);
+
+            if (embedMatch){
+                return embedMatch[1];
+            }
+
+            // /shorts/stxkfyWXuH0
+            const shortsMatch =
+                url.pathname.match(/^\/shorts\/([^/?]+)/);
+
+            if (shortsMatch){
+                return shortsMatch[1];
+            }
+        }
+
+    }
+    catch(error){
+
+        console.warn(
+            "Invalid YouTube Player ID:",
+            input
+        );
+    }
+
+    return "";
+}
+
 function renderPlayer(player){
 
-    if(!player) return "";
+    if (!player) return "";
+
+    const youtubeId =
+        getYouTubeVideoId(player.id);
+
+    /*
+       Если в Player ID вставлена YouTube-ссылка,
+       YouTube имеет приоритет независимо от Player Type.
+    */
+    if (youtubeId){
+
+        return `
+            <iframe
+                class="artist-youtube-player"
+                loading="lazy"
+                src="https://www.youtube.com/embed/${youtubeId}"
+                title="YouTube video player"
+                frameborder="0"
+                allow="
+                    accelerometer;
+                    autoplay;
+                    clipboard-write;
+                    encrypted-media;
+                    gyroscope;
+                    picture-in-picture;
+                    web-share
+                "
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen>
+            </iframe>
+        `;
+    }
 
     switch(player.type){
 
         case "bandcamp":
 
             return `
-            <iframe
-                class="artist-bandcamp-player"
-                loading="lazy"
-                src="https://bandcamp.com/EmbeddedPlayer/album=${player.id}/size=large/bgcol=333333/linkcol=ffffff/artwork=small/transparent=true/"
-                seamless>
-            </iframe>
+                <iframe
+                    class="artist-bandcamp-player"
+                    loading="lazy"
+                    src="https://bandcamp.com/EmbeddedPlayer/album=${player.id}/size=large/bgcol=333333/linkcol=ffffff/artwork=small/transparent=true/"
+                    seamless>
+                </iframe>
             `;
 
         case "spotify":
 
             return `
-            <iframe
-                class="artist-spotify-player"
-                loading="lazy"
-                src="https://open.spotify.com/embed/album/${player.id}"
-                width="100%"
-                height="352"
-                frameborder="0"
-                allowfullscreen
-                allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
-            </iframe>
+                <iframe
+                    class="artist-spotify-player"
+                    loading="lazy"
+                    src="https://open.spotify.com/embed/album/${player.id}"
+                    width="100%"
+                    height="352"
+                    frameborder="0"
+                    allowfullscreen
+                    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+                </iframe>
             `;
 
         default:
@@ -329,7 +428,6 @@ function renderPlayer(player){
             return "";
 
     }
-
 }
 
 function setArtistBackground(artist){

@@ -14,9 +14,13 @@ last_updated: 2026-08-22
 
 Каталог Dungeon Synth исполнителей и проектов. 
 
-Dungeon Synth Bestiary — это растущий каталог Dungeon Synth исполнителей со всего мира. Здесь можно познакомиться с жанром, найти новые андеграундные проекты и исследовать разнообразие современной Dungeon Synth сцены. 
+Dungeon Synth Bestiary — постоянно растущий каталог, посвящённый Dungeon Synth исполнителям со всего мира. 
 
-Профиль каждого исполнителя содержит информацию о стране, настроении, темпе и стиле, ссылки на музыку и встроенный плеер, помогая находить как известных Dungeon Synth артистов, так и малоизвестные андеграундные проекты. 
+Здесь можно найти как множество популярных проектов, так и малоизвестные, старые и глубоко скрытые в андеграунде имена, информацию о которых порой непросто найти в интернете. 
+
+Этот каталог полностью бесплатен и создаётся одним энтузиастом. Я лично прослушиваю каждого добавленного исполнителя, а вся информация собирается и систематизируется в самостоятельно разработанной базе данных. 
+
+Карточки исполнителей содержат страну происхождения, настроение, темп, стиль, ссылки на музыку и встроенный плеер, помогая слушателям открывать как популярных представителей Dungeon Synth, так и скрытые проекты андеграунда. 
 
 Если вы хотите предложить свой проект или сообщить об ошибке в информации, воспользуйтесь формой связи ниже. 
 
@@ -28,7 +32,6 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 
 **Страна:** Sweden
 **Лейбл:** [Hypnagoga Press](https://hypnagogapress.bandcamp.com/)
-**Жанр:** Dungeon Synth
 **Стиль:** Ambient
 **Настроение:** Melancholic
 **Темп:** Slow
@@ -118,7 +121,6 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### Ashkahn
 
 **Страна:** USA
-**Жанр:** Dungeon Synth
 **Стиль:** Percussive
 **Настроение:** Mystical
 **Темп:** Normal
@@ -156,6 +158,15 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 **Темп:** Slow
 
 [Bandcamp](https://ausum.bandcamp.com/)
+
+### Barak Tor
+
+**Страна:** Greece
+**Стиль:** Fantasy
+**Настроение:** Epic
+**Темп:** Normal
+
+[Bandcamp](https://baraktor.bandcamp.com/)
 
 ### BARBARIAN RING
 
@@ -211,6 +222,18 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 [Bandcamp](https://boreholeacoustics.bandcamp.com/)
 [Website](https://www.instagram.com/abbaths_beard)
 
+### Bound Unto Root
+
+**Страна:** USA
+**Стиль:** Narrative
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/artist/3TYHeroEEOVbS3u0S3ZVNs)
+[Bandcamp](https://bounduntoroot.bandcamp.com/)
+[Apple Music](https://music.apple.com/us/artist/bound-unto-root/1532245252)
+[Website](https://www.instagram.com/bounduntoroot/)
+
 ### Bronzen Oath
 
 **Страна:** USA
@@ -230,6 +253,28 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 **Темп:** Normal
 
 [Bandcamp](https://dungeonsquidproductions.bandcamp.com/album/gore-in-the-courtyard)
+
+### Casket of Dreams
+
+**Страна:** USA
+**Стиль:** Fantasy
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Bandcamp](https://casketofdreams.bandcamp.com/)
+[Website](https://www.instagram.com/casket_of_dreams/)
+
+### Cave Spellcaster
+
+**Страна:** Germany
+**Лейбл:** [Mushroom Keep Records](https://mushroomkeeprecords.bandcamp.com/)
+**Стиль:** Fantasy
+**Настроение:** Mystical
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/artist/3Wjkcp6xdQHHSvCAr78mGG)
+[Bandcamp](https://mushroomkeeprecords.bandcamp.com/album/the-tower-of-a-million-gems)
+[Apple Music](https://music.apple.com/us/artist/cave-spellcaster/1750097794)
 
 ### Cavern Maze
 
@@ -253,13 +298,22 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### Chestnut Brown
 
 **Страна:** Taiwan
-**Жанр:** Comfy Synth
 **Стиль:** Comfy
 **Настроение:** Adventure
 **Темп:** Normal
 
 [Bandcamp](https://chestnutbrown.bandcamp.com/)
 [Website](https://www.instagram.com/chestnutbrownmusic/)
+
+### Coniferous Myst
+
+**Страна:** USA
+**Стиль:** Oldschool
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Bandcamp](https://coniferousmyst.bandcamp.com/)
+[Website](https://www.instagram.com/coniferousmyst/)
 
 ### Criptadel
 
@@ -285,6 +339,15 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 [YouTube](https://www.youtube.com/channel/UCAP1sFLD7NEfzYzHth_rGEw)
 [Apple Music](https://music.apple.com/dk/artist/cursed-pumpkin/1484093369)
 [Website](https://www.instagram.com/cursedpumpkinsynth/)
+
+### Daoine Sidhe
+
+**Страна:** France
+**Стиль:** Oldschool
+**Настроение:** Mystical
+**Темп:** Slow
+
+[YouTube](https://www.youtube.com/watch?v=gewBohrLlS8)
 
 ### Dark Valley
 
@@ -335,10 +398,20 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 [Apple Music](https://music.apple.com/ru/artist/delmak-o/1542884901)
 [Website](https://www.instagram.com/thefogweaver/)
 
+### Depressive Silence
+
+**Страна:** Germany
+**Лейбл:** [Northern Silence Productions](https://northernsilenceproductions.bandcamp.com/)
+**Стиль:** Fantasy
+**Настроение:** Epic
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/artist/6EbzULgLY2YuMmOlv2BNAX)
+[Bandcamp](https://depressivesilence-northernsilence.bandcamp.com/)
+
 ### DIM
 
 **Страна:** Canada
-**Жанр:** Dungeon Folk
 **Стиль:** Medieval
 **Настроение:** Adventure
 **Темп:** Normal
@@ -351,7 +424,6 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 
 **Страна:** USA
 **Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
-**Жанр:** Dino Synth
 **Стиль:** Prehistoric
 **Настроение:** Epic
 **Темп:** Slow
@@ -386,7 +458,6 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 
 **Страна:** Canada
 **Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
-**Жанр:** Old-School Dungeon Synth
 **Стиль:** Fantasy
 **Настроение:** Dreamy
 **Темп:** Slow
@@ -426,7 +497,6 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### ELFFOR
 
 **Страна:** Spain
-**Жанр:** OS DS
 **Стиль:** Oldschool
 **Настроение:** Dark
 **Темп:** Slow
@@ -445,7 +515,6 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 
 **Страна:** USA
 **Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
-**Жанр:** Dungeon Synth
 **Стиль:** Medieval
 **Настроение:** Dreamy
 **Темп:** Normal
@@ -482,7 +551,6 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 
 **Страна:** France
 **Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
-**Жанр:** Dungeon Synth
 **Стиль:** Fantasy
 **Настроение:** Dreamy
 **Темп:** Normal
@@ -496,7 +564,6 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### Ervald
 
 **Страна:** USA
-**Жанр:** Dungeon Synth
 **Стиль:** Experimental
 **Настроение:** Mystical
 **Темп:** Slow
@@ -547,7 +614,6 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 
 **Страна:** USA
 **Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
-**Жанр:** Dungeon Synth
 **Стиль:** Medieval
 **Настроение:** Adventure
 **Темп:** Normal
@@ -572,7 +638,6 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 
 **Страна:** USA
 **Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
-**Жанр:** Dungeon Synth
 **Стиль:** Fantasy
 **Настроение:** Melancholic
 **Темп:** Slow
@@ -653,7 +718,6 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 
 **Страна:** USA
 **Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
-**Жанр:** Comfy Synth
 **Стиль:** Comfy
 **Настроение:** Dreamy
 **Темп:** Slow
@@ -671,6 +735,16 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 
 [Bandcamp](https://greatmercenary.bandcamp.com/)
 [Website](https://www.instagram.com/great_mercenary/)
+
+### Greenhollow
+
+**Страна:** Unknown
+**Стиль:** Ambient
+**Настроение:** Dreamy
+**Темп:** Slow
+
+[Bandcamp](https://green-hollow.bandcamp.com/)
+[Website](https://www.instagram.com/greenhollow.music/)
 
 ### Grimstone
 
@@ -724,7 +798,6 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 
 **Страна:** Denmark
 **Лейбл:** [Gondolin Records](https://gondolinrecords.bandcamp.com/)
-**Жанр:** OS DS
 **Стиль:** Oldschool
 **Настроение:** Melancholic
 **Темп:** Slow
@@ -757,6 +830,16 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 [YouTube](https://www.youtube.com/@holedwellermusic)
 [Website](https://www.instagram.com/holedwellermusic/)
 
+### Immortal Wizard's Dream
+
+**Страна:** USA
+**Стиль:** Fantasy
+**Настроение:** Dreamy
+**Темп:** Slow
+
+[Bandcamp](https://immortalwizardsdream.bandcamp.com/)
+[Apple Music](https://music.apple.com/us/artist/immortal-wizards-dream/1826971767)
+
 ### INWENDT FAERTE
 
 **Страна:** Germany
@@ -778,6 +861,16 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 [Spotify](https://open.spotify.com/artist/79HycpBP8Rij9AyhoBE4F1)
 [Bandcamp](https://personaluschirecords.bandcamp.com/album/sascha-der-striezel)
 [Website](https://www.instagram.com/kletttermax/)
+
+### Klyvr
+
+**Страна:** USA
+**Лейбл:** [Lost Armor](https://lostarmor.bandcamp.com/)
+**Стиль:** RAW
+**Настроение:** Melancholic
+**Темп:** Normal
+
+[Bandcamp](https://conifmyst.bandcamp.com/album/the-bronze-fortress-of-kalabar)
 
 ### KOBOLD
 
@@ -821,6 +914,17 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 
 [Bandcamp](https://loitommas.bandcamp.com/)
 
+### Lord Bakartia
+
+**Страна:** Spain
+**Лейбл:** [Gondolin Records](https://gondolinrecords.bandcamp.com/)
+**Стиль:** Oldschool
+**Настроение:** Epic
+**Темп:** Slow
+
+[Bandcamp](https://gondolinrecords.bandcamp.com/album/where-silence-speaks-in-hushed-tones)
+[Website](https://www.instagram.com/lordbakartia/)
+
 ### Lored Legend
 
 **Страна:** USA
@@ -851,6 +955,15 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 
 [Bandcamp](https://heinobrand.bandcamp.com/)
 
+### Maelifell
+
+**Страна:** France
+**Стиль:** Oldschool
+**Настроение:** Adventure
+**Темп:** Normal
+
+[YouTube](https://www.youtube.com/@TheDungeonSynthArchives/search?query=Maelifell)
+
 ### Malfet
 
 **Страна:** USA
@@ -878,6 +991,24 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 
 [Bandcamp](https://megafolivora.bandcamp.com/)
 
+### Midnight Silence
+
+**Страна:** Brazil
+**Лейбл:** [Stone & Shield Records](https://stoneandshield.bandcamp.com/)
+**Стиль:** Ambient
+**Настроение:** Adventure
+**Темп:** Slow
+
+<p>Родом из <strong>Баии, Бразилия</strong>, Midnight Silence - сольный проект музыканта <strong>Bard Akin</strong>.</p>
+
+<p>Его музыка представляет собой путешествие через <em>Ambient Dungeon Synth</em> и <em>Medieval Melancholy</em>, сочетая звуки природы с медитативными, почти дроуновыми текстурами и создавая мягкую и уютную фэнтезийную атмосферу.</p>
+
+<p>Midnight Silence уводит слушателя в забытые земли, туманные долины и одинокие леса.</p>
+
+[Bandcamp](https://stoneandshield.bandcamp.com/album/mixtape-ambient-1)
+[YouTube](https://www.youtube.com/watch?v=QSdGlZCz6wI)
+[Website](https://www.instagram.com/themidnightsilence)
+
 ### Mithril Axe
 
 **Стиль:** Fantasy
@@ -885,6 +1016,15 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 **Темп:** Normal
 
 [YouTube](https://www.youtube.com/watch?v=q-kitIeFXNE)
+
+### Mitternacht
+
+**Страна:** Argentina
+**Стиль:** Medieval
+**Настроение:** Battle
+**Темп:** Normal
+
+[Bandcamp](https://mitternachtproject.bandcamp.com/)
 
 ### Moonlit Path
 
@@ -909,7 +1049,6 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 
 **Страна:** Norway
 **Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
-**Жанр:** OS DS
 **Стиль:** Oldschool
 **Настроение:** Epic
 **Темп:** Slow
@@ -929,6 +1068,18 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 
 [Spotify](https://open.spotify.com/artist/5J07FUuCvPEssU2aFG6AlI)
 [Apple Music](https://music.apple.com/us/artist/moth-tower/1835142795?l=ko)
+
+### Mountain Realm
+
+**Страна:** USA
+**Лейбл:** [Cryo Chamber](https://cryochamber.bandcamp.com/)
+**Стиль:** Fantasy
+**Настроение:** Dark
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/artist/0POdKjd1tVBixid29Js0DJ)
+[Bandcamp](https://cryocrypt.bandcamp.com/album/beastbane)
+[YouTube](https://www.youtube.com/watch?v=yygFLMBEpqg)
 
 ### Mountainfog
 
@@ -955,7 +1106,6 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### Mushroom Grandpa
 
 **Страна:** Latvia
-**Жанр:** Comfy Synth
 **Стиль:** Comfy
 **Настроение:** Melancholic
 **Темп:** Normal
@@ -1001,7 +1151,6 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### Neverlur
 
 **Страна:** Canada
-**Жанр:** OS DS
 **Стиль:** Medieval
 **Настроение:** Epic
 **Темп:** Slow
@@ -1015,7 +1164,7 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### Nocturnal Effigy
 
 **Страна:** USA
-**Жанр:** RAW DS
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
 **Стиль:** RAW
 **Настроение:** Melancholic
 **Темп:** Slow
@@ -1023,6 +1172,16 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 [Spotify](https://open.spotify.com/artist/75puyPKYORcSzg3LxiWGoR)
 [Bandcamp](https://nocturnaleffigy.bandcamp.com/)
 [Apple Music](https://music.apple.com/au/artist/nocturnal-effigy/1520814849)
+
+### Noir Donjon
+
+**Страна:** France
+**Стиль:** Medieval
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Bandcamp](https://noirdonjon.bandcamp.com/)
+[Website](https://www.instagram.com/noir_donjon/)
 
 ### Nortfalke
 
@@ -1047,6 +1206,17 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 [Bandcamp](https://oldsorcery.bandcamp.com/)
 [YouTube](https://music.youtube.com/channel/UCE6YDZ6ekvfRkuWsS7AuROA)
 [Apple Music](https://music.apple.com/us/artist/old-sorcery/1370016772)
+
+### One Last Knight
+
+**Страна:** USA
+**Лейбл:** [Stone & Shield Records](https://stoneandshield.bandcamp.com/)
+**Стиль:** Experimental
+**Настроение:** Epic
+**Темп:** Slow
+
+[Bandcamp](https://stoneandshield.bandcamp.com/album/final-prayers-from-the-last-knight)
+[YouTube](https://www.youtube.com/watch?v=tXTIYOKTb6M)
 
 ### Onfang
 
@@ -1170,6 +1340,15 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 [Spotify](https://open.spotify.com/artist/4yhHFw8FBiLPPXGY9VKI1e)
 [Apple Music](https://music.apple.com/us/artist/slefnwald/1700250994)
 
+### Somnomancer
+
+**Страна:** South Africa
+**Стиль:** Experimental
+**Настроение:** Mystical
+**Темп:** Slow
+
+[Bandcamp](https://somnomancer.bandcamp.com/)
+
 ### Soporific Sorcery
 
 **Страна:** Unknown
@@ -1236,6 +1415,15 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 [Apple Music](https://music.apple.com/de/artist/summoning/47705987)
 [Website](https://www.instagram.com/summoning_band/)
 
+### Svarograd
+
+**Страна:** Poland
+**Стиль:** Fantasy
+**Настроение:** Mystical
+**Темп:** Slow
+
+[YouTube](https://www.youtube.com/watch?v=ZrW5U68oSRI&t=1774s)
+
 ### SVART TORN
 
 **Страна:** France
@@ -1301,6 +1489,7 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### Thangorodrim
 
 **Страна:** USA
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
 **Стиль:** Fantasy
 **Настроение:** Epic
 **Темп:** Slow
@@ -1364,7 +1553,6 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### TopfHelm
 
 **Страна:** Belarus
-**Жанр:** Dungeon Folk
 **Стиль:** Medieval
 **Настроение:** Battle
 **Темп:** Normal
@@ -1510,6 +1698,27 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 
 [Bandcamp](https://voldsomtapes.bandcamp.com/album/enthroned-in-forests-afar)
 
+### VOR
+
+**Страна:** Russia
+**Лейбл:** [Stone & Shield Records](https://stoneandshield.bandcamp.com/)
+**Стиль:** Fantasy
+**Настроение:** Dark
+**Темп:** Normal
+
+[Bandcamp](https://vordungeon.bandcamp.com/)
+
+### Wallachian Cobwebs
+
+**Страна:** Unknown
+**Стиль:** Ambient
+**Настроение:** Dark
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/artist/06FL6q8NyzsrtngC0GTRH3)
+[Bandcamp](https://wallachiancobwebs.bandcamp.com/)
+[Apple Music](https://music.apple.com/us/artist/wallachian-cobwebs/1577099549?l=ru)
+
 ### Waraxe
 
 **Страна:** Greece
@@ -1601,7 +1810,6 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 
 **Страна:** Sweden
 **Лейбл:** [Nordvis](https://nordvis.bandcamp.com/)
-**Жанр:** Dungeon Synth
 **Стиль:** Fantasy
 **Настроение:** Epic
 **Темп:** Normal
