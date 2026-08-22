@@ -184,9 +184,9 @@
         "logo": "https://f4.bcbits.com/img/0035254285_10.jpg",
         "banner": "https://yt3.googleusercontent.com/Jzn-cVbbzflWFacRvJ1LbQfcAQ6GUjvxY2twrnjfXTNiNOnaymiO3eH0FHPVQNINprrH24zR=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
         "background": "rgb(3, 3, 3)",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "2466712469"
@@ -919,9 +919,9 @@
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLVj8S1kGXxSiPqyNG5ICQatvl6XSXhoGkC6GjP6QOyIltQ1aArBh2wWyB&s=10",
         "banner": "https://f4.bcbits.com/img/0028875772_102.avif",
         "background": "https://f4.bcbits.com/img/0032357472_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "314745972"
@@ -1129,9 +1129,9 @@
         "logo": "https://f4.bcbits.com/img/0037138613_10.jpg",
         "banner": "https://f4.bcbits.com/img/0021670378_102.avif",
         "background": "https://f4.bcbits.com/img/0021670357_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "1717938106"
@@ -1444,9 +1444,9 @@
         "logo": "https://f4.bcbits.com/img/0040960576_10.jpg",
         "banner": "https://yt3.googleusercontent.com/mpuvzKurol0y1RP0Dm5BVVem0PUPh_99RSCDum7Ma8dXc4Ev0ib0DYJWArjJxvJm7Zm4ZoS1UQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
         "background": "rgb(0, 0, 0)",
-        "label": "https://dungeonsdeeprecords.bandcamp.com/",
-        "label_name": "Dungeons Deep Records",
-        "label_img": "https://f4.bcbits.com/img/0042890191_21.jpg",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "1533114019"
@@ -1654,9 +1654,9 @@
         "logo": "https://f4.bcbits.com/img/a0249326250_10.jpg",
         "banner": "https://f4.bcbits.com/img/a1670877584_10.jpg",
         "background": "rgb(87, 87, 87)",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "3763192730"
@@ -1724,9 +1724,9 @@
         "logo": "https://f4.bcbits.com/img/0042820414_10.jpg",
         "banner": "https://f4.bcbits.com/img/0017981412_102.avif",
         "background": "https://f4.bcbits.com/img/0018812736_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "4181215458"
@@ -1776,6 +1776,41 @@
         "translations": {
             "en": {
                 "name": "Fragmented Memories",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "frostgard",
+        "country": "Spain",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Dreamy",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0033629051_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0034573549_102.avif",
+        "background": "https://f4.bcbits.com/img/0034573443_130.jpg",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "1065524839"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://frostgard-dungeonsynth.bandcamp.com",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/frostgard_/"
+        },
+        "translations": {
+            "en": {
+                "name": "Frostgard",
                 "description": ""
             },
             "ru": {
@@ -2214,9 +2249,9 @@
         "logo": "https://f4.bcbits.com/img/0026252035_10.jpg",
         "banner": "https://f4.bcbits.com/img/0021013126_102.avif",
         "background": "https://f4.bcbits.com/img/0020828394_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "2932397172"
@@ -2809,9 +2844,9 @@
         "logo": "https://m.media-amazon.com/images/M/MV5BZDA1NzA4MzYtZWZkZC00ZjE2LTgxMDMtNTEzMDNkZDkzMmM3XkEyXkFqcGc@._V1_.jpg",
         "banner": "https://torvenius.store/cdn/shop/files/mortiis_1500x.jpg?v=1713726248",
         "background": "https://f4.bcbits.com/img/0016065647_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "1160366033"
@@ -2984,9 +3019,9 @@
         "logo": "https://f4.bcbits.com/img/0017346374_10.jpg",
         "banner": "https://f4.bcbits.com/img/0017346334_102.avif",
         "background": "rgb(53, 70, 52)",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "3764427381"
@@ -3194,9 +3229,9 @@
         "logo": "https://i.scdn.co/image/ab6761610000e5ebc48ec1fc83574e8c810a8230",
         "banner": "https://f4.bcbits.com/img/0041928980_102.avif",
         "background": "https://f4.bcbits.com/img/0015414631_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "153615476"
@@ -3299,9 +3334,9 @@
         "logo": "https://f4.bcbits.com/img/0037037514_10.jpg",
         "banner": "https://f4.bcbits.com/img/0037037472_102.avif",
         "background": "https://f4.bcbits.com/img/0037037479_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "330173495"
@@ -4734,9 +4769,9 @@
         "logo": "https://f4.bcbits.com/img/0026230281_10.jpg",
         "banner": "https://f4.bcbits.com/img/0026399268_102.avif",
         "background": "https://f4.bcbits.com/img/0026399117_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "4056359452"

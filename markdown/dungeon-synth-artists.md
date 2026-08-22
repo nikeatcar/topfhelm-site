@@ -82,6 +82,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Arcana Liturgia
 
 **Country:** Italy
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
 **Style:** Fantasy
 **Mood:** Epic
 **Tempo:** Slow
@@ -311,6 +312,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Deep Gnome
 
 **Country:** USA
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
 **Style:** Comfy
 **Mood:** Adventure
 **Tempo:** Slow
@@ -383,6 +385,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Dungeontroll
 
 **Country:** Canada
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
 **Genre:** Old-School Dungeon Synth
 **Style:** Fantasy
 **Mood:** Dreamy
@@ -478,7 +481,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Erang
 
 **Country:** France
-**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
 **Genre:** Dungeon Synth
 **Style:** Fantasy
 **Mood:** Dreamy
@@ -543,6 +546,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Fief
 
 **Country:** USA
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
 **Genre:** Dungeon Synth
 **Style:** Medieval
 **Mood:** Adventure
@@ -567,6 +571,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Fogweaver
 
 **Country:** USA
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
 **Genre:** Dungeon Synth
 **Style:** Fantasy
 **Mood:** Melancholic
@@ -588,6 +593,17 @@ If you want to suggest your project or bring a short text about it - please use 
 [Spotify](https://open.spotify.com/artist/0FiOH3YvGjfqNHCwZbUsqN)
 [Bandcamp](https://fragmentedmemories.bandcamp.com/)
 [Website](https://www.instagram.com/fragmented_memories_music/)
+
+### Frostgard
+
+**Country:** Spain
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Fantasy
+**Mood:** Dreamy
+**Tempo:** Slow
+
+[Bandcamp](https://frostgard-dungeonsynth.bandcamp.com)
+[Website](https://www.instagram.com/frostgard_/)
 
 ### Gelure
 
@@ -718,6 +734,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Hideous Gomphidius
 
 **Country:** USA
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
 **Style:** Ambient
 **Mood:** Dark
 **Tempo:** Slow
@@ -891,6 +908,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Mortiis
 
 **Country:** Norway
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
 **Genre:** OS DS
 **Style:** Oldschool
 **Mood:** Epic
@@ -950,6 +968,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Mycologia
 
 **Country:** USA
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
 **Style:** Experimental
 **Mood:** Adventure
 **Tempo:** Normal
@@ -1019,6 +1038,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Old Sorcery
 
 **Country:** Finland
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
 **Style:** Fantasy
 **Mood:** Dreamy
 **Tempo:** Normal
@@ -1053,6 +1073,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Quest Master
 
 **Country:** Australia
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
 **Style:** Fantasy
 **Mood:** Dreamy
 **Tempo:** Normal
@@ -1502,6 +1523,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Warlock Corpse
 
 **Country:** Kazakhstan
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
 **Style:** Experimental
 **Mood:** Mystical
 **Tempo:** Normal

@@ -82,6 +82,7 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### Arcana Liturgia
 
 **Страна:** Italy
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
 **Стиль:** Fantasy
 **Настроение:** Epic
 **Темп:** Slow
@@ -311,6 +312,7 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### Deep Gnome
 
 **Страна:** USA
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
 **Стиль:** Comfy
 **Настроение:** Adventure
 **Темп:** Slow
@@ -383,6 +385,7 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### Dungeontroll
 
 **Страна:** Canada
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
 **Жанр:** Old-School Dungeon Synth
 **Стиль:** Fantasy
 **Настроение:** Dreamy
@@ -478,7 +481,7 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### Erang
 
 **Страна:** France
-**Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
 **Жанр:** Dungeon Synth
 **Стиль:** Fantasy
 **Настроение:** Dreamy
@@ -543,6 +546,7 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### Fief
 
 **Страна:** USA
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
 **Жанр:** Dungeon Synth
 **Стиль:** Medieval
 **Настроение:** Adventure
@@ -567,6 +571,7 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### Fogweaver
 
 **Страна:** USA
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
 **Жанр:** Dungeon Synth
 **Стиль:** Fantasy
 **Настроение:** Melancholic
@@ -588,6 +593,17 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 [Spotify](https://open.spotify.com/artist/0FiOH3YvGjfqNHCwZbUsqN)
 [Bandcamp](https://fragmentedmemories.bandcamp.com/)
 [Website](https://www.instagram.com/fragmented_memories_music/)
+
+### Frostgard
+
+**Страна:** Spain
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Fantasy
+**Настроение:** Dreamy
+**Темп:** Slow
+
+[Bandcamp](https://frostgard-dungeonsynth.bandcamp.com)
+[Website](https://www.instagram.com/frostgard_/)
 
 ### Gelure
 
@@ -718,6 +734,7 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### Hideous Gomphidius
 
 **Страна:** USA
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
 **Стиль:** Ambient
 **Настроение:** Dark
 **Темп:** Slow
@@ -891,6 +908,7 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### Mortiis
 
 **Страна:** Norway
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
 **Жанр:** OS DS
 **Стиль:** Oldschool
 **Настроение:** Epic
@@ -950,6 +968,7 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### Mycologia
 
 **Страна:** USA
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
 **Стиль:** Experimental
 **Настроение:** Adventure
 **Темп:** Normal
@@ -1019,6 +1038,7 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### Old Sorcery
 
 **Страна:** Finland
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
 **Стиль:** Fantasy
 **Настроение:** Dreamy
 **Темп:** Normal
@@ -1053,6 +1073,7 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### Quest Master
 
 **Страна:** Australia
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
 **Стиль:** Fantasy
 **Настроение:** Dreamy
 **Темп:** Normal
@@ -1502,6 +1523,7 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 ### Труп Колдуна
 
 **Страна:** Kazakhstan
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
 **Стиль:** Experimental
 **Настроение:** Mystical
 **Темп:** Normal
