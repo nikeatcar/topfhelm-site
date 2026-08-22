@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-21
+last_updated: 2026-08-22
 ---
 
 # Dungeon Synth Artists Directory - The Dungeon Synth Bestiary 
@@ -125,6 +125,17 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://ashkahn.bandcamp.com/)
 [YouTube](https://www.youtube.com/@ashkahn4551)
 
+### Assorted Potions
+
+**Country:** USA
+**Label:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Style:** Experimental
+**Mood:** Dreamy
+**Tempo:** Slow
+
+[Bandcamp](https://assortedpotions.bandcamp.com/)
+[Website](https://www.instagram.com/assortedpotions/)
+
 ### Aura Merlin
 
 **Country:** Canada
@@ -145,6 +156,16 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://ausum.bandcamp.com/)
 
+### BARBARIAN RING
+
+**Country:** UK
+**Label:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Style:** RAW
+**Mood:** Battle
+**Tempo:** Slow
+
+[Bandcamp](https://blaggardrecords.bandcamp.com/album/barbarian-ring-the-barbarian-ring-demo)
+
 ### Black Winds of Wallachia
 
 **Country:** Puerto Rico
@@ -157,6 +178,17 @@ If you want to suggest your project or bring a short text about it - please use 
 [Apple Music](https://music.apple.com/se/artist/black-winds-of-wallachia/1797001189)
 [Website](https://www.instagram.com/blackwindsofwallachia/)
 
+### Blades of Folmär
+
+**Country:** UK
+**Label:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Style:** Fantasy
+**Mood:** Mystical
+**Tempo:** Slow
+
+[Bandcamp](https://bladesoffolmar.bandcamp.com/)
+[Website](https://www.instagram.com/blades_of_folmar/)
+
 ### Blood Lord
 
 **Country:** UK
@@ -166,6 +198,17 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Normal
 
 [Bandcamp](https://bloodlordds.bandcamp.com/)
+
+### Borehole
+
+**Country:** UK
+**Label:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Style:** Ambient
+**Mood:** Dark
+**Tempo:** Slow
+
+[Bandcamp](https://boreholeacoustics.bandcamp.com/)
+[Website](https://www.instagram.com/abbaths_beard)
 
 ### Bronzen Oath
 
@@ -241,6 +284,17 @@ If you want to suggest your project or bring a short text about it - please use 
 [YouTube](https://www.youtube.com/channel/UCAP1sFLD7NEfzYzHth_rGEw)
 [Apple Music](https://music.apple.com/dk/artist/cursed-pumpkin/1484093369)
 [Website](https://www.instagram.com/cursedpumpkinsynth/)
+
+### Dark Valley
+
+**Country:** UK
+**Label:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Style:** Fantasy
+**Mood:** Melancholic
+**Tempo:** Normal
+
+[Bandcamp](https://darkvalleyds.bandcamp.com/)
+[Website](https://www.instagram.com/darkvalleyds/)
 
 ### Decaying Castle
 
@@ -858,6 +912,17 @@ If you want to suggest your project or bring a short text about it - please use 
 [Spotify](https://open.spotify.com/artist/5J07FUuCvPEssU2aFG6AlI)
 [Apple Music](https://music.apple.com/us/artist/moth-tower/1835142795?l=ko)
 
+### Mountainfog
+
+**Country:** UK
+**Label:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Normal
+
+[Bandcamp](https://mountainfog.bandcamp.com/)
+[Website](https://www.instagram.com/mountainfogdungeonsynth/)
+
 ### MURGRIND
 
 **Country:** Germany
@@ -995,6 +1060,17 @@ If you want to suggest your project or bring a short text about it - please use 
 [Spotify](https://open.spotify.com/artist/0gv0gpgHfyolSrapq8d4Kp)
 [Bandcamp](https://questmaster.bandcamp.com/)
 [Website](https://www.instagram.com/lordgordith/)
+
+### Realm Lord
+
+**Country:** UK
+**Label:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Style:** Fantasy
+**Mood:** Dreamy
+**Tempo:** Slow
+
+[Bandcamp](https://realmlordmusic.bandcamp.com/)
+[Website](https://www.instagram.com/realmlordmusic/)
 
 ### Redhorn Gate
 
@@ -1180,6 +1256,27 @@ If you want to suggest your project or bring a short text about it - please use 
 [Apple Music](https://music.apple.com/us/artist/tales-under-the-oak/1634636515)
 [Website](https://www.instagram.com/talesundertheoak/)
 
+### TECHNICULLIS
+
+**Country:** UK
+**Label:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Style:** Experimental
+**Mood:** Melancholic
+**Tempo:** Normal
+
+[Bandcamp](https://technicullis.bandcamp.com/)
+[Website](https://www.instagram.com/technicullis/)
+
+### TEL'ARAN'RHIOD
+
+**Country:** UK
+**Label:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Style:** Ambient
+**Mood:** Dreamy
+**Tempo:** Slow
+
+[Bandcamp](https://blaggardrecords.bandcamp.com/album/telaranrhiod-the-sleep-of-time-awaits)
+
 ### Thangorodrim
 
 **Country:** USA
@@ -1202,6 +1299,17 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://theashencodex.bandcamp.com/)
 [YouTube](https://www.youtube.com/@TheAshenCodex)
 [Website](https://www.instagram.com/theashencodex/)
+
+### The Haligtree
+
+**Country:** UK
+**Label:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Style:** Ambient
+**Mood:** Dreamy
+**Tempo:** Slow
+
+[Bandcamp](https://thehaligtree.bandcamp.com/)
+[Apple Music](https://music.apple.com/us/artist/the-haligtree/1765704957)
 
 ### TIL DET BERGENS SKYGGENE
 
@@ -1267,6 +1375,16 @@ If you want to suggest your project or bring a short text about it - please use 
 [Spotify](https://open.spotify.com/artist/3Jx5P3IuoXYT31VG83G3Iv)
 [Bandcamp](https://traurent.bandcamp.com/)
 [Apple Music](https://music.apple.com/de/artist/traurent/1618058702)
+
+### TREGUARD
+
+**Country:** UK
+**Label:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Style:** Horror
+**Mood:** Mystical
+**Tempo:** Slow
+
+[Bandcamp](https://blaggardrecords.bandcamp.com/album/treguard-the-ultimate-adventure)
 
 ### Tryptacobithicus
 
@@ -1337,6 +1455,13 @@ If you want to suggest your project or bring a short text about it - please use 
 **Mood:** Adventure
 **Tempo:** Normal
 
+<p>Utrho is a Dungeon Synth project from Baja California Sur, Mexico, active since 2021. Storytelling has always been at the heart of the project, with its music drawing on fantasy, mythology, literature, video games and the natural world.</p>
+
+<p>In the early years he was inspired by Tolkien and The Elder Scrolls to winter landscapes, forests and ancient warriors. In 2024, Utrho turned to Dante Alighieri for the mini-album <a href="https://utrhomusic.bandcamp.com/album/the-divine-comedy" target="_blank" rel="noopener noreferrer"><em>The Divine Comedy</em></a>, a melancholic and romantic journey through Hell, Purgatory and Heaven. The following year brought the project's first full-length album, <a href="https://utrhomusic.bandcamp.com/album/myths-and-legends-of-ancient-times" target="_blank" rel="noopener noreferrer"><em>Myths and Legends of Ancient Times</em></a>, which embraced a more traditional medieval fantasy setting filled with knights, wizards, dragons and ancient magic.</p>
+
+<p>Utrho changed course again with <a href="https://utrhomusic.bandcamp.com/album/legendary-chronicles-from-the-digital-world" target="_blank" rel="noopener noreferrer"><em>Legendary Chronicles from the Digital World</em></a> in 2026. Inspired by Digimon, the album mixes dungeon synth with synthwave and EDM, wrapped in a distinctly Y2K/Frutiger Aero aesthetic. This willingness to move between different fantasy worlds and musical styles has become an important part of Utrho's identity, with experiments in black metal also pushing some of the project's newer material toward a heavier, more epic and melodic sound.</p>
+
+[Bandcamp](https://utrhomusic.bandcamp.com/)
 [YouTube](https://www.youtube.com/@utrhomusicDungeonsynth)
 [Website](https://www.instagram.com/utrho.music.art/)
 

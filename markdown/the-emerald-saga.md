@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/the-emerald-saga/
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-21
+last_updated: 2026-08-22
 ---
 
 # The Emerald Saga 

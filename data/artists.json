@@ -315,6 +315,41 @@
         }
     },
     {
+        "id": "assorted-potions",
+        "country": "USA",
+        "genre": "",
+        "style": "Experimental",
+        "mood": "Dreamy",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0027665174_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0027665175_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "https://blaggardrecords.bandcamp.com/",
+        "label_name": "Blaggard Records",
+        "label_img": "https://f4.bcbits.com/img/0041752048_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "618688783"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://assortedpotions.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/assortedpotions/"
+        },
+        "translations": {
+            "en": {
+                "name": "Assorted Potions",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "aura-merlin",
         "country": "Canada",
         "genre": "",
@@ -385,6 +420,41 @@
         }
     },
     {
+        "id": "barbarian-ring",
+        "country": "UK",
+        "genre": "",
+        "style": "RAW",
+        "mood": "Battle",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a2246530172_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a2246530172_10.jpg",
+        "background": "rgb(248, 248, 248)",
+        "label": "https://blaggardrecords.bandcamp.com/",
+        "label_name": "Blaggard Records",
+        "label_img": "https://f4.bcbits.com/img/0041752048_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "4148327405"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://blaggardrecords.bandcamp.com/album/barbarian-ring-the-barbarian-ring-demo",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "BARBARIAN RING",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "black-winds-of-wallachia",
         "country": "Puerto Rico",
         "genre": "",
@@ -420,6 +490,41 @@
         }
     },
     {
+        "id": "blades-of-folmär",
+        "country": "UK",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0045148434_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0038634784_102.avif",
+        "background": "rgb(2, 3, 3)",
+        "label": "https://blaggardrecords.bandcamp.com/",
+        "label_name": "Blaggard Records",
+        "label_img": "https://f4.bcbits.com/img/0041752048_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "173715069"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://bladesoffolmar.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/blades_of_folmar/"
+        },
+        "translations": {
+            "en": {
+                "name": "Blades of Folmär",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "blood-lord",
         "country": "UK",
         "genre": "",
@@ -446,6 +551,41 @@
         "translations": {
             "en": {
                 "name": "Blood Lord",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "borehole",
+        "country": "UK",
+        "genre": "",
+        "style": "Ambient",
+        "mood": "Dark",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0046121752_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0015625898_102.avif",
+        "background": "rgb(54, 50, 43)",
+        "label": "https://blaggardrecords.bandcamp.com/",
+        "label_name": "Blaggard Records",
+        "label_img": "https://f4.bcbits.com/img/0041752048_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "3427401900"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://boreholeacoustics.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/abbaths_beard"
+        },
+        "translations": {
+            "en": {
+                "name": "Borehole",
                 "description": ""
             },
             "ru": {
@@ -691,6 +831,41 @@
         "translations": {
             "en": {
                 "name": "Cursed Pumpkin",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "dark-valley",
+        "country": "UK",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0044315881_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0040005004_102.avif",
+        "background": "https://f4.bcbits.com/img/0040005262_130.jpg",
+        "label": "https://blaggardrecords.bandcamp.com/",
+        "label_name": "Blaggard Records",
+        "label_img": "https://f4.bcbits.com/img/0041752048_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "3263027468"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://darkvalleyds.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/darkvalleyds/"
+        },
+        "translations": {
+            "en": {
+                "name": "Dark Valley",
                 "description": ""
             },
             "ru": {
@@ -2695,6 +2870,41 @@
         }
     },
     {
+        "id": "mountainfog",
+        "country": "UK",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0017739604_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0045372868_102.avif",
+        "background": "rgb(219, 227, 208)",
+        "label": "https://blaggardrecords.bandcamp.com/",
+        "label_name": "Blaggard Records",
+        "label_img": "https://f4.bcbits.com/img/0041752048_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "3623788079"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://mountainfog.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/mountainfogdungeonsynth/"
+        },
+        "translations": {
+            "en": {
+                "name": "Mountainfog",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "murgrind",
         "country": "Germany",
         "genre": "",
@@ -3106,6 +3316,41 @@
         "translations": {
             "en": {
                 "name": "Quest Master",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "realm-lord",
+        "country": "UK",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Dreamy",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0043803363_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0042907559_102.avif",
+        "background": "rgb(113, 116, 99)",
+        "label": "https://blaggardrecords.bandcamp.com/",
+        "label_name": "Blaggard Records",
+        "label_img": "https://f4.bcbits.com/img/0041752048_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "2365365513"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://realmlordmusic.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/realmlordmusic/"
+        },
+        "translations": {
+            "en": {
+                "name": "Realm Lord",
                 "description": ""
             },
             "ru": {
@@ -3710,6 +3955,76 @@
         }
     },
     {
+        "id": "technicullis",
+        "country": "UK",
+        "genre": "",
+        "style": "Experimental",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0040974798_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0000365014_102.avif",
+        "background": "https://f4.bcbits.com/img/0040975250_130.jpg",
+        "label": "https://blaggardrecords.bandcamp.com/",
+        "label_name": "Blaggard Records",
+        "label_img": "https://f4.bcbits.com/img/0041752048_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "225788105"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://technicullis.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/technicullis/"
+        },
+        "translations": {
+            "en": {
+                "name": "TECHNICULLIS",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "telaranrhiod",
+        "country": "UK",
+        "genre": "",
+        "style": "Ambient",
+        "mood": "Dreamy",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a0551535022_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a0551535022_10.jpg",
+        "background": "rgb(248, 248, 248)",
+        "label": "https://blaggardrecords.bandcamp.com/",
+        "label_name": "Blaggard Records",
+        "label_img": "https://f4.bcbits.com/img/0041752048_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "4118027828"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://blaggardrecords.bandcamp.com/album/telaranrhiod-the-sleep-of-time-awaits",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "TEL'ARAN'RHIOD",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "thangorodrim",
         "country": "USA",
         "genre": "",
@@ -3771,6 +4086,41 @@
         "translations": {
             "en": {
                 "name": "The Ashen Codex",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "the-haligtree",
+        "country": "UK",
+        "genre": "",
+        "style": "Ambient",
+        "mood": "Dreamy",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0037010532_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0037010548_102.avif",
+        "background": "rgb(248, 248, 248)",
+        "label": "https://blaggardrecords.bandcamp.com/",
+        "label_name": "Blaggard Records",
+        "label_img": "https://f4.bcbits.com/img/0041752048_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "415430821"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://thehaligtree.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "https://music.apple.com/us/artist/the-haligtree/1765704957",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "The Haligtree",
                 "description": ""
             },
             "ru": {
@@ -3981,6 +4331,41 @@
         "translations": {
             "en": {
                 "name": "Traurent",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "treguard",
+        "country": "UK",
+        "genre": "",
+        "style": "Horror",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a1695509583_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a1695509583_10.jpg",
+        "background": "rgb(248, 248, 248)",
+        "label": "https://blaggardrecords.bandcamp.com/",
+        "label_name": "Blaggard Records",
+        "label_img": "https://f4.bcbits.com/img/0041752048_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "3215555532"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://blaggardrecords.bandcamp.com/album/treguard-the-ultimate-adventure",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "TREGUARD",
                 "description": ""
             },
             "ru": {
@@ -4208,17 +4593,17 @@
         "tempo": "Normal",
         "logo": "https://yt3.googleusercontent.com/qTk29u61c6tEZaZMOc0nEf7KwOm458k8SXdgDn_-v3lzLiJB_sUEGgvQpbLs-wETIFN2K-k_tA=s120-c-k-c0x00ffffff-no-rj",
         "banner": "https://yt3.googleusercontent.com/EjoEm1xqY_qeOdhPNcKJvtc6-cEnmJnyIfuG1wDMhaxXH40vbwv0vmdTxj9uvrp0hSPbpwGDSw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
-        "background": null,
+        "background": "https://f4.bcbits.com/img/0042646519_130.jpg",
         "label": "",
         "label_name": "",
         "label_img": "",
         "player": {
             "type": "bandcamp",
-            "id": "3050437818"
+            "id": "1078377149"
         },
         "links": {
             "spotify": "",
-            "bandcamp": "",
+            "bandcamp": "https://utrhomusic.bandcamp.com/",
             "youtube": "https://www.youtube.com/@utrhomusicDungeonsynth",
             "apple_music": "",
             "website": "https://www.instagram.com/utrho.music.art/"
@@ -4226,11 +4611,11 @@
         "translations": {
             "en": {
                 "name": "Utrho",
-                "description": ""
+                "description": "<p>Utrho is a Dungeon Synth project from Baja California Sur, Mexico, active since 2021. Storytelling has always been at the heart of the project, with its music drawing on fantasy, mythology, literature, video games and the natural world.</p>\n\n<p>In the early years he was inspired by Tolkien and The Elder Scrolls to winter landscapes, forests and ancient warriors. In 2024, Utrho turned to Dante Alighieri for the mini-album <a href=\"https://utrhomusic.bandcamp.com/album/the-divine-comedy\" target=\"_blank\" rel=\"noopener noreferrer\"><em>The Divine Comedy</em></a>, a melancholic and romantic journey through Hell, Purgatory and Heaven. The following year brought the project's first full-length album, <a href=\"https://utrhomusic.bandcamp.com/album/myths-and-legends-of-ancient-times\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Myths and Legends of Ancient Times</em></a>, which embraced a more traditional medieval fantasy setting filled with knights, wizards, dragons and ancient magic.</p>\n\n<p>Utrho changed course again with <a href=\"https://utrhomusic.bandcamp.com/album/legendary-chronicles-from-the-digital-world\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Legendary Chronicles from the Digital World</em></a> in 2026. Inspired by Digimon, the album mixes dungeon synth with synthwave and EDM, wrapped in a distinctly Y2K/Frutiger Aero aesthetic. This willingness to move between different fantasy worlds and musical styles has become an important part of Utrho's identity, with experiments in black metal also pushing some of the project's newer material toward a heavier, more epic and melodic sound.</p>"
             },
             "ru": {
                 "name": "",
-                "description": ""
+                "description": "<p>Utrho - Dungeon Synth проект из штата Южная Нижняя Калифорния, Мексика, существующий с 2021 года. В основе проекта всегда лежало повествование, а источниками вдохновения для музыки служат фэнтези, мифология, литература, видеоигры и природа.</p>\n\n<p>В первые годы Utrho черпал вдохновение в произведениях Толкина и <em>The Elder Scrolls</em>, а также в образах зимних пейзажей, лесов и древних воинов. В 2024 году он обратился к творчеству Данте Алигьери, выпустив мини-альбом <a href=\"https://utrhomusic.bandcamp.com/album/the-divine-comedy\" target=\"_blank\" rel=\"noopener noreferrer\"><em>The Divine Comedy</em></a> - меланхоличное и романтическое путешествие через Ад, Чистилище и Рай. Годом позже вышел первый полноформатный альбом проекта, <a href=\"https://utrhomusic.bandcamp.com/album/myths-and-legends-of-ancient-times\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Myths and Legends of Ancient Times</em></a>, уже выдержанный в более традиционном средневековом фэнтези с рыцарями, волшебниками, драконами и древней магией.</p>\n\n<p>В 2026 году Utrho вновь сменил направление с альбомом <a href=\"https://utrhomusic.bandcamp.com/album/legendary-chronicles-from-the-digital-world\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Legendary Chronicles from the Digital World</em></a>. Вдохновлённый <em>Digimon</em>, он сочетает Dungeon Synth с Synthwave и EDM и эстетикой Y2K/Frutiger Aero. Свободное перемещение между разными фэнтезийными мирами и музыкальными стилями стало важной частью характера Utrho, а эксперименты с Black Metal постепенно привносят в более поздний материал проекта более тяжёлое, эпическое и мелодичное звучание.</p>"
             }
         }
     },

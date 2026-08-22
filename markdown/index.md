@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/en
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-21
+last_updated: 2026-08-22
 ---
 
 # TopfHelm - Dungeon Folk & Dungeon Synth from Belarus
@@ -51,8 +51,6 @@ A dark medieval audio saga set in a world changed by a local catastrophe that re
 ## Support The Project
 
  
-
-### Read articles 
 
 ## TopfHelm – One-Man Dungeon Folk & Dungeon Synth Project
 

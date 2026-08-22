@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/ru/
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-21
+last_updated: 2026-08-22
 ---
 
 # Каталог Dungeon Synth исполнителей — Dungeon Synth Bestiary 
@@ -125,6 +125,17 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 [Bandcamp](https://ashkahn.bandcamp.com/)
 [YouTube](https://www.youtube.com/@ashkahn4551)
 
+### Assorted Potions
+
+**Страна:** USA
+**Лейбл:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Стиль:** Experimental
+**Настроение:** Dreamy
+**Темп:** Slow
+
+[Bandcamp](https://assortedpotions.bandcamp.com/)
+[Website](https://www.instagram.com/assortedpotions/)
+
 ### Aura Merlin
 
 **Страна:** Canada
@@ -145,6 +156,16 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 
 [Bandcamp](https://ausum.bandcamp.com/)
 
+### BARBARIAN RING
+
+**Страна:** UK
+**Лейбл:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Стиль:** RAW
+**Настроение:** Battle
+**Темп:** Slow
+
+[Bandcamp](https://blaggardrecords.bandcamp.com/album/barbarian-ring-the-barbarian-ring-demo)
+
 ### Black Winds of Wallachia
 
 **Страна:** Puerto Rico
@@ -157,6 +178,17 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 [Apple Music](https://music.apple.com/se/artist/black-winds-of-wallachia/1797001189)
 [Website](https://www.instagram.com/blackwindsofwallachia/)
 
+### Blades of Folmär
+
+**Страна:** UK
+**Лейбл:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Стиль:** Fantasy
+**Настроение:** Mystical
+**Темп:** Slow
+
+[Bandcamp](https://bladesoffolmar.bandcamp.com/)
+[Website](https://www.instagram.com/blades_of_folmar/)
+
 ### Blood Lord
 
 **Страна:** UK
@@ -166,6 +198,17 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 **Темп:** Normal
 
 [Bandcamp](https://bloodlordds.bandcamp.com/)
+
+### Borehole
+
+**Страна:** UK
+**Лейбл:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Стиль:** Ambient
+**Настроение:** Dark
+**Темп:** Slow
+
+[Bandcamp](https://boreholeacoustics.bandcamp.com/)
+[Website](https://www.instagram.com/abbaths_beard)
 
 ### Bronzen Oath
 
@@ -241,6 +284,17 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 [YouTube](https://www.youtube.com/channel/UCAP1sFLD7NEfzYzHth_rGEw)
 [Apple Music](https://music.apple.com/dk/artist/cursed-pumpkin/1484093369)
 [Website](https://www.instagram.com/cursedpumpkinsynth/)
+
+### Dark Valley
+
+**Страна:** UK
+**Лейбл:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Стиль:** Fantasy
+**Настроение:** Melancholic
+**Темп:** Normal
+
+[Bandcamp](https://darkvalleyds.bandcamp.com/)
+[Website](https://www.instagram.com/darkvalleyds/)
 
 ### Decaying Castle
 
@@ -858,6 +912,17 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 [Spotify](https://open.spotify.com/artist/5J07FUuCvPEssU2aFG6AlI)
 [Apple Music](https://music.apple.com/us/artist/moth-tower/1835142795?l=ko)
 
+### Mountainfog
+
+**Страна:** UK
+**Лейбл:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Стиль:** Fantasy
+**Настроение:** Epic
+**Темп:** Normal
+
+[Bandcamp](https://mountainfog.bandcamp.com/)
+[Website](https://www.instagram.com/mountainfogdungeonsynth/)
+
 ### MURGRIND
 
 **Страна:** Germany
@@ -995,6 +1060,17 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 [Spotify](https://open.spotify.com/artist/0gv0gpgHfyolSrapq8d4Kp)
 [Bandcamp](https://questmaster.bandcamp.com/)
 [Website](https://www.instagram.com/lordgordith/)
+
+### Realm Lord
+
+**Страна:** UK
+**Лейбл:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Стиль:** Fantasy
+**Настроение:** Dreamy
+**Темп:** Slow
+
+[Bandcamp](https://realmlordmusic.bandcamp.com/)
+[Website](https://www.instagram.com/realmlordmusic/)
 
 ### Redhorn Gate
 
@@ -1180,6 +1256,27 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 [Apple Music](https://music.apple.com/us/artist/tales-under-the-oak/1634636515)
 [Website](https://www.instagram.com/talesundertheoak/)
 
+### TECHNICULLIS
+
+**Страна:** UK
+**Лейбл:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Стиль:** Experimental
+**Настроение:** Melancholic
+**Темп:** Normal
+
+[Bandcamp](https://technicullis.bandcamp.com/)
+[Website](https://www.instagram.com/technicullis/)
+
+### TEL'ARAN'RHIOD
+
+**Страна:** UK
+**Лейбл:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Стиль:** Ambient
+**Настроение:** Dreamy
+**Темп:** Slow
+
+[Bandcamp](https://blaggardrecords.bandcamp.com/album/telaranrhiod-the-sleep-of-time-awaits)
+
 ### Thangorodrim
 
 **Страна:** USA
@@ -1202,6 +1299,17 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 [Bandcamp](https://theashencodex.bandcamp.com/)
 [YouTube](https://www.youtube.com/@TheAshenCodex)
 [Website](https://www.instagram.com/theashencodex/)
+
+### The Haligtree
+
+**Страна:** UK
+**Лейбл:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Стиль:** Ambient
+**Настроение:** Dreamy
+**Темп:** Slow
+
+[Bandcamp](https://thehaligtree.bandcamp.com/)
+[Apple Music](https://music.apple.com/us/artist/the-haligtree/1765704957)
 
 ### TIL DET BERGENS SKYGGENE
 
@@ -1267,6 +1375,16 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 [Spotify](https://open.spotify.com/artist/3Jx5P3IuoXYT31VG83G3Iv)
 [Bandcamp](https://traurent.bandcamp.com/)
 [Apple Music](https://music.apple.com/de/artist/traurent/1618058702)
+
+### TREGUARD
+
+**Страна:** UK
+**Лейбл:** [Blaggard Records](https://blaggardrecords.bandcamp.com/)
+**Стиль:** Horror
+**Настроение:** Mystical
+**Темп:** Slow
+
+[Bandcamp](https://blaggardrecords.bandcamp.com/album/treguard-the-ultimate-adventure)
 
 ### Tryptacobithicus
 
@@ -1337,6 +1455,13 @@ Dungeon Synth Bestiary — это растущий каталог Dungeon Synth 
 **Настроение:** Adventure
 **Темп:** Normal
 
+<p>Utrho - Dungeon Synth проект из штата Южная Нижняя Калифорния, Мексика, существующий с 2021 года. В основе проекта всегда лежало повествование, а источниками вдохновения для музыки служат фэнтези, мифология, литература, видеоигры и природа.</p>
+
+<p>В первые годы Utrho черпал вдохновение в произведениях Толкина и <em>The Elder Scrolls</em>, а также в образах зимних пейзажей, лесов и древних воинов. В 2024 году он обратился к творчеству Данте Алигьери, выпустив мини-альбом <a href="https://utrhomusic.bandcamp.com/album/the-divine-comedy" target="_blank" rel="noopener noreferrer"><em>The Divine Comedy</em></a> - меланхоличное и романтическое путешествие через Ад, Чистилище и Рай. Годом позже вышел первый полноформатный альбом проекта, <a href="https://utrhomusic.bandcamp.com/album/myths-and-legends-of-ancient-times" target="_blank" rel="noopener noreferrer"><em>Myths and Legends of Ancient Times</em></a>, уже выдержанный в более традиционном средневековом фэнтези с рыцарями, волшебниками, драконами и древней магией.</p>
+
+<p>В 2026 году Utrho вновь сменил направление с альбомом <a href="https://utrhomusic.bandcamp.com/album/legendary-chronicles-from-the-digital-world" target="_blank" rel="noopener noreferrer"><em>Legendary Chronicles from the Digital World</em></a>. Вдохновлённый <em>Digimon</em>, он сочетает Dungeon Synth с Synthwave и EDM и эстетикой Y2K/Frutiger Aero. Свободное перемещение между разными фэнтезийными мирами и музыкальными стилями стало важной частью характера Utrho, а эксперименты с Black Metal постепенно привносят в более поздний материал проекта более тяжёлое, эпическое и мелодичное звучание.</p>
+
+[Bandcamp](https://utrhomusic.bandcamp.com/)
 [YouTube](https://www.youtube.com/@utrhomusicDungeonsynth)
 [Website](https://www.instagram.com/utrho.music.art/)
 
