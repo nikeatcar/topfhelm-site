@@ -1365,6 +1365,41 @@
         }
     },
     {
+        "id": "dragonkeep",
+        "country": "France",
+        "genre": "",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0042052521_71.jpg",
+        "banner": "https://f4.bcbits.com/img/0042052521_10.jpg",
+        "background": "https://f4.bcbits.com/img/0042052521_10.jpg",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "3241500827"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://outofseason.bandcamp.com/album/wings-of-death-the-tale-of-ezherb",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "DragonKeep",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "drochtuarach",
         "country": "UK",
         "genre": "",
@@ -2984,9 +3019,9 @@
         "logo": "https://f4.bcbits.com/img/0016889528_10.jpg",
         "banner": "https://f4.bcbits.com/img/0035437603_102.avif",
         "background": "https://f4.bcbits.com/img/0045738762_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "948818590"
@@ -3176,6 +3211,41 @@
         "translations": {
             "en": {
                 "name": "Iron Keep",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "jim-kirkwood",
+        "country": "UK",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://dungeon-codex.com/storage/artists/708/photo.jpeg",
+        "banner": "https://dungeon-codex.com/storage/artists/708/logo.png",
+        "background": "rgb(17, 14, 14)",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "2022612154"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://jimkirkwood.bandcamp.com/",
+            "youtube": "https://music.youtube.com/playlist?list=PL3bHn-y2LJDZLX3qoyGKzHKGJolMRfBTu",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Jim Kirkwood",
                 "description": ""
             },
             "ru": {
@@ -4340,6 +4410,41 @@
         }
     },
     {
+        "id": "mystic-towers",
+        "country": "USA",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a3386989694_16.jpg",
+        "banner": "https://f4.bcbits.com/img/0000578070_102.avif",
+        "background": "rgb(35, 50, 137)",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "2803522564"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://mystictowers.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Mystic Towers",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "mystkeeper",
         "country": "UK",
         "genre": "",
@@ -4795,6 +4900,41 @@
         }
     },
     {
+        "id": "putrid-marsh",
+        "country": "USA",
+        "genre": "",
+        "style": "Oldschool",
+        "mood": "Dark",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0026243888_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0026243855_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "2720012101"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://putridmarsh.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "PUTRID MARSH",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "quest-master",
         "country": "Australia",
         "genre": "",
@@ -4926,6 +5066,41 @@
         "translations": {
             "en": {
                 "name": "Rog",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "secrets-of-maya",
+        "country": "USA",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/a1697701454_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a0323201294_10.jpg",
+        "background": "https://f4.bcbits.com/img/a0323201294_10.jpg",
+        "label": "https://darksorceryrecords.bandcamp.com/",
+        "label_name": "Dark Sorcery Records",
+        "label_img": "https://f4.bcbits.com/img/0031026370_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "1538418649"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://darksorceryrecords.bandcamp.com/album/side-quest-single",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Secrets of Maya",
                 "description": ""
             },
             "ru": {
@@ -5451,6 +5626,76 @@
         "translations": {
             "en": {
                 "name": "Splendorius",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "squire",
+        "country": "Finland",
+        "genre": "",
+        "style": "Medieval",
+        "mood": "Battle",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0036923194_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0032410220_102.avif",
+        "background": "https://f4.bcbits.com/img/0032410195_130.jpg",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "1179628042"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://squiresynth.bandcamp.com/",
+            "youtube": "https://www.youtube.com/channel/UC0ChFzKrszVPczcn06ykx2Q",
+            "apple_music": "",
+            "website": "https://www.instagram.com/squiresynth/"
+        },
+        "translations": {
+            "en": {
+                "name": "Squire",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "stormkeep",
+        "country": "USA",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0044602894_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0022609689_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "3316183138"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://stormkeep-odl.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/stormkeepofficial/"
+        },
+        "translations": {
+            "en": {
+                "name": "Stormkeep",
                 "description": ""
             },
             "ru": {
@@ -6361,11 +6606,46 @@
         "translations": {
             "en": {
                 "name": "Utrho",
-                "description": "<p>Utrho is a Dungeon Synth project from Baja California Sur, Mexico, active since 2021. Storytelling has always been at the heart of the project, with its music drawing on fantasy, mythology, literature, video games and the natural world.</p>\n\n<p>In the early years he was inspired by Tolkien and The Elder Scrolls to winter landscapes, forests and ancient warriors. In 2024, Utrho turned to Dante Alighieri for the mini-album <a href=\"https://utrhomusic.bandcamp.com/album/the-divine-comedy\" target=\"_blank\" rel=\"noopener noreferrer\"><em>The Divine Comedy</em></a>, a melancholic and romantic journey through Hell, Purgatory and Heaven. The following year brought the project's first full-length album, <a href=\"https://utrhomusic.bandcamp.com/album/myths-and-legends-of-ancient-times\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Myths and Legends of Ancient Times</em></a>, which embraced a more traditional medieval fantasy setting filled with knights, wizards, dragons and ancient magic.</p>\n\n<p>Utrho changed course again with <a href=\"https://utrhomusic.bandcamp.com/album/legendary-chronicles-from-the-digital-world\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Legendary Chronicles from the Digital World</em></a> in 2026. Inspired by Digimon, the album mixes dungeon synth with synthwave and EDM, wrapped in a distinctly Y2K/Frutiger Aero aesthetic. This willingness to move between different fantasy worlds and musical styles has become an important part of Utrho's identity, with experiments in black metal also pushing some of the project's newer material toward a heavier, more epic and melodic sound.</p>"
+                "description": "<p>\n    <strong>Utrho</strong> is a Dungeon Synth project from Baja California Sur, Mexico,\n    active since <strong>2021</strong>. He is always using storytelling as a part of every album, with music drawing on fantasy, mythology, literature, video games and the nature.\n</p>\n\n<p class=\"artist-origin\">\n    In the early years, Utrho was inspired by Tolkien, <em>The Elder Scrolls</em>,\n    winter landscapes, forests and ancient warriors.\n</p>\n\n<p class=\"artist-release-note\">\n    In <strong>2024</strong>, Utrho turned to Dante Alighieri for the mini-album\n    <a\n        href=\"https://utrhomusic.bandcamp.com/album/the-divine-comedy\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    ><em>The Divine Comedy</em></a>,\n    a melancholic and romantic journey through Hell, Purgatory and Heaven.\n</p>\n\n<p class=\"artist-release-note\">\n    The following year brought the project's first full-length album,\n    <a\n        href=\"https://utrhomusic.bandcamp.com/album/myths-and-legends-of-ancient-times\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    ><em>Myths and Legends of Ancient Times</em></a>,\n    which embraced a more traditional medieval fantasy setting filled with knights,\n    wizards, dragons and ancient magic.\n</p>\n\n<p class=\"artist-release-note\">\n    In <strong>2026</strong>, Utrho changed course again with\n    <a\n        href=\"https://utrhomusic.bandcamp.com/album/legendary-chronicles-from-the-digital-world\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    ><em>Legendary Chronicles from the Digital World</em></a>.\n    Inspired by <em>Digimon</em>, the album mixes Dungeon Synth with Synthwave and EDM,\n    wrapped in a distinctly Y2K / Frutiger Aero aesthetic.\n</p>\n\n<p>\n    This feature to move between different fantasy worlds and musical styles\n    has become an important part of Utrho's identity, with experiments in Black Metal\n    also pushing some of the project's newer material toward a heavier,\n    more epic and melodic sound.\n</p>"
             },
             "ru": {
                 "name": "",
-                "description": "<p>Utrho - Dungeon Synth проект из штата Южная Нижняя Калифорния, Мексика, существующий с 2021 года. В основе проекта всегда лежало повествование, а источниками вдохновения для музыки служат фэнтези, мифология, литература, видеоигры и природа.</p>\n\n<p>В первые годы Utrho черпал вдохновение в произведениях Толкина и <em>The Elder Scrolls</em>, а также в образах зимних пейзажей, лесов и древних воинов. В 2024 году он обратился к творчеству Данте Алигьери, выпустив мини-альбом <a href=\"https://utrhomusic.bandcamp.com/album/the-divine-comedy\" target=\"_blank\" rel=\"noopener noreferrer\"><em>The Divine Comedy</em></a> - меланхоличное и романтическое путешествие через Ад, Чистилище и Рай. Годом позже вышел первый полноформатный альбом проекта, <a href=\"https://utrhomusic.bandcamp.com/album/myths-and-legends-of-ancient-times\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Myths and Legends of Ancient Times</em></a>, уже выдержанный в более традиционном средневековом фэнтези с рыцарями, волшебниками, драконами и древней магией.</p>\n\n<p>В 2026 году Utrho вновь сменил направление с альбомом <a href=\"https://utrhomusic.bandcamp.com/album/legendary-chronicles-from-the-digital-world\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Legendary Chronicles from the Digital World</em></a>. Вдохновлённый <em>Digimon</em>, он сочетает Dungeon Synth с Synthwave и EDM и эстетикой Y2K/Frutiger Aero. Свободное перемещение между разными фэнтезийными мирами и музыкальными стилями стало важной частью характера Utrho, а эксперименты с Black Metal постепенно привносят в более поздний материал проекта более тяжёлое, эпическое и мелодичное звучание.</p>"
+                "description": "<p>\n    <strong>Utrho</strong> - Dungeon Synth проект из штата Южная Нижняя Калифорния, Мексика,\n    существующий с <strong>2021 года</strong>. В основе проекта всегда лежало повествование,\n    а источниками вдохновения для музыки служат фэнтези, мифология, литература,\n    видеоигры и природа.\n</p>\n\n<p class=\"artist-origin\">\n    В первые годы Utrho черпал вдохновение в произведениях Толкина,\n    <em>The Elder Scrolls</em>, зимних пейзажах, лесах и образах древних воинов.\n</p>\n\n<p class=\"artist-release-note\">\n    В <strong>2024 году</strong> он обратился к творчеству Данте Алигьери,\n    выпустив мини-альбом\n    <a\n        href=\"https://utrhomusic.bandcamp.com/album/the-divine-comedy\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    ><em>The Divine Comedy</em></a> -\n    меланхоличное и романтическое путешествие через Ад, Чистилище и Рай.\n</p>\n\n<p class=\"artist-release-note\">\n    Годом позже вышел первый полноформатный альбом проекта -\n    <a\n        href=\"https://utrhomusic.bandcamp.com/album/myths-and-legends-of-ancient-times\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    ><em>Myths and Legends of Ancient Times</em></a>,\n    выдержанный в более традиционном средневековом фэнтези с рыцарями,\n    волшебниками, драконами и древней магией.\n</p>\n\n<p class=\"artist-release-note\">\n    В <strong>2026 году</strong> Utrho вновь сменил направление с альбомом\n    <a\n        href=\"https://utrhomusic.bandcamp.com/album/legendary-chronicles-from-the-digital-world\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    ><em>Legendary Chronicles from the Digital World</em></a>.\n    Вдохновлённый <em>Digimon</em>, он сочетает Dungeon Synth с Synthwave и EDM\n    и эстетикой Y2K / Frutiger Aero.\n</p>\n\n<p>\n    Свободное перемещение между разными фэнтезийными мирами и музыкальными стилями\n    стало важной частью характера Utrho, а эксперименты с Black Metal постепенно\n    привносят в более поздний материал проекта более тяжёлое, эпическое\n    и мелодичное звучание.\n</p>"
+            }
+        }
+    },
+    {
+        "id": "valen",
+        "country": "Sweden",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Epic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0040006194_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0040006279_102.avif",
+        "background": "https://f4.bcbits.com/img/0040006303_130.jpg",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "1617297772"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://valen.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Valen",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
             }
         }
     },
@@ -6501,11 +6781,11 @@
         "translations": {
             "en": {
                 "name": "VOR",
-                "description": ""
+                "description": "<p>\n    <strong>VOR</strong> is a heavy and brooding dark fantasy atmosphere,\n    beginning with melancholic jubilation and ending in a total descent into nothingness.\n</p>\n\n<p>\n    The project was formed in <strong>2025</strong> by a single person -\n    <a\n        href=\"https://www.instagram.com/ancient_shoggoth\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    >Shoggoth</a>.\n</p>"
             },
             "ru": {
                 "name": "",
-                "description": ""
+                "description": "<p>\n    <strong>VOR</strong> - это тяжёлая, мрачная атмосфера тёмного фэнтези,\n    начинающаяся с меланхолического ликования и завершающаяся полным погружением в небытие.\n</p>\n\n<p>\n    Проект был основан в <strong>2025 году</strong> одним человеком -\n    <a\n        href=\"https://www.instagram.com/ancient_shoggoth\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    >Shoggoth</a>.\n</p>"
             }
         }
     },
@@ -6676,6 +6956,76 @@
         "translations": {
             "en": {
                 "name": "Windtower",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "winter-sphere",
+        "country": "Sweden",
+        "genre": "",
+        "style": "Oldschool",
+        "mood": "Epic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a3170281493_16.jpg",
+        "banner": "https://f4.bcbits.com/img/a3170281493_16.jpg",
+        "background": "https://f4.bcbits.com/img/a3360508297_10.jpg",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "1021138988"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://outofseason.bandcamp.com/album/the-forgotten-winter",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Winter Sphere",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "wraith-knight",
+        "country": "USA",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0028699333_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a1162323790_10.jpg",
+        "background": "https://f4.bcbits.com/img/0028699361_130.jpg",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "3236746649"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://wraithknight.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/oldnickwraithknight/"
+        },
+        "translations": {
+            "en": {
+                "name": "Wraith Knight",
                 "description": ""
             },
             "ru": {

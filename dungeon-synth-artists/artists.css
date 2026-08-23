@@ -906,22 +906,71 @@ body.ru .artists-search input{
   Описание
 ========================================================== */
 
-.artist-info{
+.artist-description p{
 
-    display:flex;
-
-    flex-direction:column;
-
-}
-
-.artist-info p{
+    margin:0 0 20px;
 
     line-height:1.9;
 
-    color:#ccc;
+    color:#cfcfcf;
 
-    margin-bottom:30px;
+    font-family:"Georgia", serif;
+}
 
+.artist-description p:last-child{
+
+    margin-bottom:0;
+}
+
+.artist-description .artist-person-link{
+
+    color:#d7b37a;
+
+    font-weight:600;
+
+    text-decoration:none;
+
+    border-bottom:1px dotted rgba(215,179,122,.55);
+
+    transition:
+        color .2s ease,
+        border-color .2s ease,
+        text-shadow .2s ease;
+}
+
+.artist-description .artist-person-link:hover{
+
+    color:#f2e3be;
+
+    border-color:#f2e3be;
+
+    text-shadow:
+        0 0 6px rgba(215,179,122,.25);
+}
+
+.artist-description .artist-origin{
+    margin-top:14px;
+    padding-left:12px;
+    color:#bcbcbc;
+}
+
+.artist-origin strong{
+    font-weight:500;
+    color:#d8d8d8;
+}
+
+.artist-description .artist-release-note{
+    margin-top:14px;
+    padding-left:14px;
+
+    border-left:2px solid rgba(215,179,122,.28);
+
+    color:#c4c4c4;
+}
+
+.artist-description .artist-release-note strong{
+    color:#d7b37a;
+    font-weight:600;
 }
 
 /* ==========================================================

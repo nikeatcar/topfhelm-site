@@ -14,8 +14,6 @@ last_updated: 2026-08-23
 
 A curated directory of Dungeon Synth artists and projects. 
 
-\[ POLITICAL FREE SOURCE \] 
-
 The Dungeon Synth Bestiary is a growing directory dedicated to Dungeon Synth artists from around the world. 
 
 Here you can find many popular or even deep hidden and old projects hard to find in the internet. 
@@ -23,6 +21,10 @@ Here you can find many popular or even deep hidden and old projects hard to find
 This page is totally free to use and is made by one enthusiast. Every artist is going through my ears and all information is filled through a self-made database. 
 
 Artist cards include country of origin, mood, tempo, style, music links and an embedded player, helping listeners discover both "hyped" artists and hidden underground projects. 
+
+\[ POLITICS-FREE PLATFORM \] 
+
+The Dungeon Synth Bestiary documents music, not political or religious views. Inclusion in the directory does not imply endorsement, affiliation, or support of an artist's personal beliefs. 
 
 If you want to suggest your project or bring a short text about it - please use the contact form below. 
 
@@ -457,6 +459,16 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://diplodocus.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/diplodocus/1490100897)
 [Website](https://www.instagram.com/diplodocus_dino_synth/)
+
+### DragonKeep
+
+**Country:** France
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Slow
+
+[Bandcamp](https://outofseason.bandcamp.com/album/wings-of-death-the-tale-of-ezherb)
 
 ### Drochtuarach
 
@@ -945,6 +957,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Hillsfar
 
 **Country:** USA
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
 **Style:** Medieval
 **Mood:** Adventure
 **Tempo:** Normal
@@ -1007,6 +1020,17 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://ironkeep.bandcamp.com/)
 [Website](https://www.instagram.com/ironkeep_dungeon/)
+
+### Jim Kirkwood
+
+**Country:** UK
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Normal
+
+[Bandcamp](https://jimkirkwood.bandcamp.com/)
+[YouTube](https://music.youtube.com/playlist?list=PL3bHn-y2LJDZLX3qoyGKzHKGJolMRfBTu)
 
 ### Jääportit
 
@@ -1356,6 +1380,16 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://mycologia.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/mycologia/1613706568)
 
+### Mystic Towers
+
+**Country:** USA
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Fantasy
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Bandcamp](https://mystictowers.bandcamp.com/)
+
 ### Mystkeeper
 
 **Country:** UK
@@ -1501,6 +1535,16 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://pumpkinwitch.bandcamp.com/)
 [Apple Music](https://music.apple.com/ru/artist/pumpkin-witch/1504420081)
 
+### PUTRID MARSH
+
+**Country:** USA
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Oldschool
+**Mood:** Dark
+**Tempo:** Slow
+
+[Bandcamp](https://putridmarsh.bandcamp.com/)
+
 ### Quest Master
 
 **Country:** Australia
@@ -1542,6 +1586,16 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Normal
 
 [Bandcamp](https://rogofficial.bandcamp.com/)
+
+### Secrets of Maya
+
+**Country:** USA
+**Label:** [Dark Sorcery Records](https://darksorceryrecords.bandcamp.com/)
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Normal
+
+[Bandcamp](https://darksorceryrecords.bandcamp.com/album/side-quest-single)
 
 ### Sequestered Keep
 
@@ -1700,6 +1754,29 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://splendorius.bandcamp.com)
 [Website](https://www.instagram.com/splendoriusghorgul/)
+
+### Squire
+
+**Country:** Finland
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Medieval
+**Mood:** Battle
+**Tempo:** Normal
+
+[Bandcamp](https://squiresynth.bandcamp.com/)
+[YouTube](https://www.youtube.com/channel/UC0ChFzKrszVPczcn06ykx2Q)
+[Website](https://www.instagram.com/squiresynth/)
+
+### Stormkeep
+
+**Country:** USA
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Normal
+
+[Bandcamp](https://stormkeep-odl.bandcamp.com/)
+[Website](https://www.instagram.com/stormkeepofficial/)
 
 ### Summoning
 
@@ -1973,15 +2050,71 @@ If you want to suggest your project or bring a short text about it - please use 
 **Mood:** Adventure
 **Tempo:** Normal
 
-<p>Utrho is a Dungeon Synth project from Baja California Sur, Mexico, active since 2021. Storytelling has always been at the heart of the project, with its music drawing on fantasy, mythology, literature, video games and the natural world.</p>
+<p>
+ <strong>Utrho</strong> is a Dungeon Synth project from Baja California Sur, Mexico,
+ active since <strong>2021</strong>. He is always using storytelling as a part of every album, with music drawing on fantasy, mythology, literature, video games and the nature.
+</p>
 
-<p>In the early years he was inspired by Tolkien and The Elder Scrolls to winter landscapes, forests and ancient warriors. In 2024, Utrho turned to Dante Alighieri for the mini-album <a href="https://utrhomusic.bandcamp.com/album/the-divine-comedy" target="_blank" rel="noopener noreferrer"><em>The Divine Comedy</em></a>, a melancholic and romantic journey through Hell, Purgatory and Heaven. The following year brought the project's first full-length album, <a href="https://utrhomusic.bandcamp.com/album/myths-and-legends-of-ancient-times" target="_blank" rel="noopener noreferrer"><em>Myths and Legends of Ancient Times</em></a>, which embraced a more traditional medieval fantasy setting filled with knights, wizards, dragons and ancient magic.</p>
+<p class="artist-origin">
+ In the early years, Utrho was inspired by Tolkien, <em>The Elder Scrolls</em>,
+ winter landscapes, forests and ancient warriors.
+</p>
 
-<p>Utrho changed course again with <a href="https://utrhomusic.bandcamp.com/album/legendary-chronicles-from-the-digital-world" target="_blank" rel="noopener noreferrer"><em>Legendary Chronicles from the Digital World</em></a> in 2026. Inspired by Digimon, the album mixes dungeon synth with synthwave and EDM, wrapped in a distinctly Y2K/Frutiger Aero aesthetic. This willingness to move between different fantasy worlds and musical styles has become an important part of Utrho's identity, with experiments in black metal also pushing some of the project's newer material toward a heavier, more epic and melodic sound.</p>
+<p class="artist-release-note">
+ In <strong>2024</strong>, Utrho turned to Dante Alighieri for the mini-album
+ <a
+ href="https://utrhomusic.bandcamp.com/album/the-divine-comedy"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>The Divine Comedy</em></a>,
+ a melancholic and romantic journey through Hell, Purgatory and Heaven.
+</p>
+
+<p class="artist-release-note">
+ The following year brought the project's first full-length album,
+ <a
+ href="https://utrhomusic.bandcamp.com/album/myths-and-legends-of-ancient-times"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Myths and Legends of Ancient Times</em></a>,
+ which embraced a more traditional medieval fantasy setting filled with knights,
+ wizards, dragons and ancient magic.
+</p>
+
+<p class="artist-release-note">
+ In <strong>2026</strong>, Utrho changed course again with
+ <a
+ href="https://utrhomusic.bandcamp.com/album/legendary-chronicles-from-the-digital-world"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Legendary Chronicles from the Digital World</em></a>.
+ Inspired by <em>Digimon</em>, the album mixes Dungeon Synth with Synthwave and EDM,
+ wrapped in a distinctly Y2K / Frutiger Aero aesthetic.
+</p>
+
+<p>
+ This feature to move between different fantasy worlds and musical styles
+ has become an important part of Utrho's identity, with experiments in Black Metal
+ also pushing some of the project's newer material toward a heavier,
+ more epic and melodic sound.
+</p>
 
 [Bandcamp](https://utrhomusic.bandcamp.com/)
 [YouTube](https://www.youtube.com/@utrhomusicDungeonsynth)
 [Website](https://www.instagram.com/utrho.music.art/)
+
+### Valen
+
+**Country:** Sweden
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Slow
+
+[Bandcamp](https://valen.bandcamp.com/)
 
 ### Vanishing Amulet
 
@@ -2025,6 +2158,21 @@ If you want to suggest your project or bring a short text about it - please use 
 **Style:** Fantasy
 **Mood:** Dark
 **Tempo:** Normal
+
+<p>
+ <strong>VOR</strong> is a heavy and brooding dark fantasy atmosphere,
+ beginning with melancholic jubilation and ending in a total descent into nothingness.
+</p>
+
+<p>
+ The project was formed in <strong>2025</strong> by a single person -
+ <a
+ href="https://www.instagram.com/ancient_shoggoth"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Shoggoth</a>.
+</p>
 
 [Bandcamp](https://vordungeon.bandcamp.com/)
 
@@ -2079,6 +2227,27 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Normal
 
 [Bandcamp](https://windtower.bandcamp.com/)
+
+### Winter Sphere
+
+**Country:** Sweden
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Oldschool
+**Mood:** Epic
+**Tempo:** Slow
+
+[Bandcamp](https://outofseason.bandcamp.com/album/the-forgotten-winter)
+
+### Wraith Knight
+
+**Country:** USA
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Normal
+
+[Bandcamp](https://wraithknight.bandcamp.com/)
+[Website](https://www.instagram.com/oldnickwraithknight/)
 
 ### Wydraddear
 

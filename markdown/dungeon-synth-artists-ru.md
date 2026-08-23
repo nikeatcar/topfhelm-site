@@ -14,8 +14,6 @@ last_updated: 2026-08-23
 
 Каталог Dungeon Synth исполнителей и проектов. 
 
-\[ ПЛАТФОРМА ВНЕ ПОЛИТИКИ \] 
-
 Dungeon Synth Bestiary — постоянно растущий каталог, посвящённый Dungeon Synth исполнителям со всего мира. 
 
 Здесь можно найти как множество популярных проектов, так и малоизвестные, старые и глубоко скрытые в андеграунде имена, информацию о которых порой непросто найти в интернете. 
@@ -23,6 +21,10 @@ Dungeon Synth Bestiary — постоянно растущий каталог, �
 Этот каталог полностью бесплатен и создаётся одним энтузиастом. Я лично прослушиваю каждого добавленного исполнителя, а вся информация собирается и систематизируется в самостоятельно разработанной базе данных. 
 
 Карточки исполнителей содержат страну происхождения, настроение, темп, стиль, ссылки на музыку и встроенный плеер, помогая слушателям открывать как популярных представителей Dungeon Synth, так и скрытые проекты андеграунда. 
+
+\[ ПЛАТФОРМА ВНЕ ПОЛИТИКИ \] 
+
+Dungeon Synth Bestiary посвящён музыке, а не политическим или религиозным взглядам. Присутствие проекта в каталоге не означает одобрения, связи или поддержки личных убеждений исполнителя. 
 
 Если вы хотите предложить свой проект или сообщить об ошибке в информации, воспользуйтесь формой связи ниже. 
 
@@ -457,6 +459,16 @@ Dungeon Synth Bestiary — постоянно растущий каталог, �
 [Bandcamp](https://diplodocus.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/diplodocus/1490100897)
 [Website](https://www.instagram.com/diplodocus_dino_synth/)
+
+### DragonKeep
+
+**Страна:** France
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Oldschool
+**Настроение:** Mystical
+**Темп:** Slow
+
+[Bandcamp](https://outofseason.bandcamp.com/album/wings-of-death-the-tale-of-ezherb)
 
 ### Drochtuarach
 
@@ -945,6 +957,7 @@ Dungeon Synth Bestiary — постоянно растущий каталог, �
 ### Hillsfar
 
 **Страна:** USA
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
 **Стиль:** Medieval
 **Настроение:** Adventure
 **Темп:** Normal
@@ -1007,6 +1020,17 @@ Dungeon Synth Bestiary — постоянно растущий каталог, �
 
 [Bandcamp](https://ironkeep.bandcamp.com/)
 [Website](https://www.instagram.com/ironkeep_dungeon/)
+
+### Jim Kirkwood
+
+**Страна:** UK
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Fantasy
+**Настроение:** Epic
+**Темп:** Normal
+
+[Bandcamp](https://jimkirkwood.bandcamp.com/)
+[YouTube](https://music.youtube.com/playlist?list=PL3bHn-y2LJDZLX3qoyGKzHKGJolMRfBTu)
 
 ### Jääportit
 
@@ -1356,6 +1380,16 @@ Dungeon Synth Bestiary — постоянно растущий каталог, �
 [Bandcamp](https://mycologia.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/mycologia/1613706568)
 
+### Mystic Towers
+
+**Страна:** USA
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Fantasy
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Bandcamp](https://mystictowers.bandcamp.com/)
+
 ### Mystkeeper
 
 **Страна:** UK
@@ -1501,6 +1535,16 @@ Dungeon Synth Bestiary — постоянно растущий каталог, �
 [Bandcamp](https://pumpkinwitch.bandcamp.com/)
 [Apple Music](https://music.apple.com/ru/artist/pumpkin-witch/1504420081)
 
+### PUTRID MARSH
+
+**Страна:** USA
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Oldschool
+**Настроение:** Dark
+**Темп:** Slow
+
+[Bandcamp](https://putridmarsh.bandcamp.com/)
+
 ### Quest Master
 
 **Страна:** Australia
@@ -1542,6 +1586,16 @@ Dungeon Synth Bestiary — постоянно растущий каталог, �
 **Темп:** Normal
 
 [Bandcamp](https://rogofficial.bandcamp.com/)
+
+### Secrets of Maya
+
+**Страна:** USA
+**Лейбл:** [Dark Sorcery Records](https://darksorceryrecords.bandcamp.com/)
+**Стиль:** Fantasy
+**Настроение:** Epic
+**Темп:** Normal
+
+[Bandcamp](https://darksorceryrecords.bandcamp.com/album/side-quest-single)
 
 ### Sequestered Keep
 
@@ -1700,6 +1754,29 @@ Dungeon Synth Bestiary — постоянно растущий каталог, �
 
 [Bandcamp](https://splendorius.bandcamp.com)
 [Website](https://www.instagram.com/splendoriusghorgul/)
+
+### Squire
+
+**Страна:** Finland
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Medieval
+**Настроение:** Battle
+**Темп:** Normal
+
+[Bandcamp](https://squiresynth.bandcamp.com/)
+[YouTube](https://www.youtube.com/channel/UC0ChFzKrszVPczcn06ykx2Q)
+[Website](https://www.instagram.com/squiresynth/)
+
+### Stormkeep
+
+**Страна:** USA
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Fantasy
+**Настроение:** Epic
+**Темп:** Normal
+
+[Bandcamp](https://stormkeep-odl.bandcamp.com/)
+[Website](https://www.instagram.com/stormkeepofficial/)
 
 ### Summoning
 
@@ -1973,15 +2050,74 @@ Dungeon Synth Bestiary — постоянно растущий каталог, �
 **Настроение:** Adventure
 **Темп:** Normal
 
-<p>Utrho - Dungeon Synth проект из штата Южная Нижняя Калифорния, Мексика, существующий с 2021 года. В основе проекта всегда лежало повествование, а источниками вдохновения для музыки служат фэнтези, мифология, литература, видеоигры и природа.</p>
+<p>
+ <strong>Utrho</strong> - Dungeon Synth проект из штата Южная Нижняя Калифорния, Мексика,
+ существующий с <strong>2021 года</strong>. В основе проекта всегда лежало повествование,
+ а источниками вдохновения для музыки служат фэнтези, мифология, литература,
+ видеоигры и природа.
+</p>
 
-<p>В первые годы Utrho черпал вдохновение в произведениях Толкина и <em>The Elder Scrolls</em>, а также в образах зимних пейзажей, лесов и древних воинов. В 2024 году он обратился к творчеству Данте Алигьери, выпустив мини-альбом <a href="https://utrhomusic.bandcamp.com/album/the-divine-comedy" target="_blank" rel="noopener noreferrer"><em>The Divine Comedy</em></a> - меланхоличное и романтическое путешествие через Ад, Чистилище и Рай. Годом позже вышел первый полноформатный альбом проекта, <a href="https://utrhomusic.bandcamp.com/album/myths-and-legends-of-ancient-times" target="_blank" rel="noopener noreferrer"><em>Myths and Legends of Ancient Times</em></a>, уже выдержанный в более традиционном средневековом фэнтези с рыцарями, волшебниками, драконами и древней магией.</p>
+<p class="artist-origin">
+ В первые годы Utrho черпал вдохновение в произведениях Толкина,
+ <em>The Elder Scrolls</em>, зимних пейзажах, лесах и образах древних воинов.
+</p>
 
-<p>В 2026 году Utrho вновь сменил направление с альбомом <a href="https://utrhomusic.bandcamp.com/album/legendary-chronicles-from-the-digital-world" target="_blank" rel="noopener noreferrer"><em>Legendary Chronicles from the Digital World</em></a>. Вдохновлённый <em>Digimon</em>, он сочетает Dungeon Synth с Synthwave и EDM и эстетикой Y2K/Frutiger Aero. Свободное перемещение между разными фэнтезийными мирами и музыкальными стилями стало важной частью характера Utrho, а эксперименты с Black Metal постепенно привносят в более поздний материал проекта более тяжёлое, эпическое и мелодичное звучание.</p>
+<p class="artist-release-note">
+ В <strong>2024 году</strong> он обратился к творчеству Данте Алигьери,
+ выпустив мини-альбом
+ <a
+ href="https://utrhomusic.bandcamp.com/album/the-divine-comedy"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>The Divine Comedy</em></a> -
+ меланхоличное и романтическое путешествие через Ад, Чистилище и Рай.
+</p>
+
+<p class="artist-release-note">
+ Годом позже вышел первый полноформатный альбом проекта -
+ <a
+ href="https://utrhomusic.bandcamp.com/album/myths-and-legends-of-ancient-times"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Myths and Legends of Ancient Times</em></a>,
+ выдержанный в более традиционном средневековом фэнтези с рыцарями,
+ волшебниками, драконами и древней магией.
+</p>
+
+<p class="artist-release-note">
+ В <strong>2026 году</strong> Utrho вновь сменил направление с альбомом
+ <a
+ href="https://utrhomusic.bandcamp.com/album/legendary-chronicles-from-the-digital-world"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Legendary Chronicles from the Digital World</em></a>.
+ Вдохновлённый <em>Digimon</em>, он сочетает Dungeon Synth с Synthwave и EDM
+ и эстетикой Y2K / Frutiger Aero.
+</p>
+
+<p>
+ Свободное перемещение между разными фэнтезийными мирами и музыкальными стилями
+ стало важной частью характера Utrho, а эксперименты с Black Metal постепенно
+ привносят в более поздний материал проекта более тяжёлое, эпическое
+ и мелодичное звучание.
+</p>
 
 [Bandcamp](https://utrhomusic.bandcamp.com/)
 [YouTube](https://www.youtube.com/@utrhomusicDungeonsynth)
 [Website](https://www.instagram.com/utrho.music.art/)
+
+### Valen
+
+**Страна:** Sweden
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Fantasy
+**Настроение:** Epic
+**Темп:** Slow
+
+[Bandcamp](https://valen.bandcamp.com/)
 
 ### Vanishing Amulet
 
@@ -2025,6 +2161,21 @@ Dungeon Synth Bestiary — постоянно растущий каталог, �
 **Стиль:** Fantasy
 **Настроение:** Dark
 **Темп:** Normal
+
+<p>
+ <strong>VOR</strong> - это тяжёлая, мрачная атмосфера тёмного фэнтези,
+ начинающаяся с меланхолического ликования и завершающаяся полным погружением в небытие.
+</p>
+
+<p>
+ Проект был основан в <strong>2025 году</strong> одним человеком -
+ <a
+ href="https://www.instagram.com/ancient_shoggoth"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Shoggoth</a>.
+</p>
 
 [Bandcamp](https://vordungeon.bandcamp.com/)
 
@@ -2079,6 +2230,27 @@ Dungeon Synth Bestiary — постоянно растущий каталог, �
 **Темп:** Normal
 
 [Bandcamp](https://windtower.bandcamp.com/)
+
+### Winter Sphere
+
+**Страна:** Sweden
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Oldschool
+**Настроение:** Epic
+**Темп:** Slow
+
+[Bandcamp](https://outofseason.bandcamp.com/album/the-forgotten-winter)
+
+### Wraith Knight
+
+**Страна:** USA
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Fantasy
+**Настроение:** Epic
+**Темп:** Normal
+
+[Bandcamp](https://wraithknight.bandcamp.com/)
+[Website](https://www.instagram.com/oldnickwraithknight/)
 
 ### Wydraddear
 
