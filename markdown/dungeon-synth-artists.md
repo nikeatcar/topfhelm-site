@@ -14,6 +14,8 @@ last_updated: 2026-08-23
 
 A curated directory of Dungeon Synth artists and projects. 
 
+\[ POLITICAL FREE SOURCE \] 
+
 The Dungeon Synth Bestiary is a growing directory dedicated to Dungeon Synth artists from around the world. 
 
 Here you can find many popular or even deep hidden and old projects hard to find in the internet. 
@@ -939,6 +941,17 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://hideousgomphidius.bandcamp.com/)
 [Apple Music](https://music.apple.com/ru/artist/hideous-gomphidius/1785919376)
 [Website](https://www.instagram.com/thefogweaver/)
+
+### Hillsfar
+
+**Country:** USA
+**Style:** Medieval
+**Mood:** Adventure
+**Tempo:** Normal
+
+[Bandcamp](https://hillsfar.bandcamp.com/)
+[YouTube](https://music.apple.com/us/artist/hillsfar/1728218624?l=ru)
+[Website](https://www.instagram.com/hillsfar.synth/)
 
 ### Hole Dweller
 

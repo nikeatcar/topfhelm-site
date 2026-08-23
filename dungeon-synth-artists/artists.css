@@ -773,6 +773,101 @@ body.ru .artists-search input{
 
 }
 
+.political-free-badge{
+
+    display:table;
+
+    margin:10px auto 32px;
+
+    padding:10px 18px;
+
+    font-family:"IM Fell English SC", serif;
+
+    font-size:15px;
+    font-weight:700;
+
+    letter-spacing:.16em;
+
+    color:#f6df9f;
+
+    background:
+        linear-gradient(
+            180deg,
+            rgba(44,34,18,.98),
+            rgba(18,15,10,.98)
+        );
+
+    border:1px solid rgba(215,179,122,.75);
+
+    border-radius:6px;
+
+    box-shadow:
+        0 0 0 1px rgba(0,0,0,.8),
+        0 0 18px rgba(215,179,122,.16),
+        inset 0 0 14px rgba(215,179,122,.05);
+
+    text-shadow:
+        0 0 6px rgba(215,179,122,.32);
+
+    position:relative;
+}
+
+.political-free-badge::before,
+.political-free-badge::after{
+
+    content:"";
+
+    position:absolute;
+
+    top:50%;
+
+    width:55px;
+    height:1px;
+
+    background:
+        linear-gradient(
+            90deg,
+            transparent,
+            rgba(215,179,122,.8)
+        );
+}
+
+.political-free-badge::before{
+
+    right:100%;
+
+    margin-right:12px;
+}
+
+.political-free-badge::after{
+
+    left:100%;
+
+    margin-left:12px;
+
+    transform:scaleX(-1);
+}
+
+@media (max-width:600px){
+
+    .political-free-badge{
+
+        font-size:11px;
+
+        letter-spacing:.12em;
+
+        padding:8px 12px;
+
+        margin-bottom:24px;
+    }
+
+    .political-free-badge::before,
+    .political-free-badge::after{
+
+        width:22px;
+    }
+}
+
 /* ==========================================================
   Атрибуты
 ========================================================== */

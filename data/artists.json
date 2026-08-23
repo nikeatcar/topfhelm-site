@@ -2975,6 +2975,41 @@
         }
     },
     {
+        "id": "hillsfar",
+        "country": "USA",
+        "genre": "",
+        "style": "Medieval",
+        "mood": "Adventure",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0016889528_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0035437603_102.avif",
+        "background": "https://f4.bcbits.com/img/0045738762_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "948818590"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://hillsfar.bandcamp.com/",
+            "youtube": "https://music.apple.com/us/artist/hillsfar/1728218624?l=ru",
+            "apple_music": "",
+            "website": "https://www.instagram.com/hillsfar.synth/"
+        },
+        "translations": {
+            "en": {
+                "name": "Hillsfar",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "hole-dweller",
         "country": "USA",
         "genre": "",

@@ -14,6 +14,8 @@ last_updated: 2026-08-23
 
 Каталог Dungeon Synth исполнителей и проектов. 
 
+\[ ПЛАТФОРМА ВНЕ ПОЛИТИКИ \] 
+
 Dungeon Synth Bestiary — постоянно растущий каталог, посвящённый Dungeon Synth исполнителям со всего мира. 
 
 Здесь можно найти как множество популярных проектов, так и малоизвестные, старые и глубоко скрытые в андеграунде имена, информацию о которых порой непросто найти в интернете. 
@@ -939,6 +941,17 @@ Dungeon Synth Bestiary — постоянно растущий каталог, �
 [Bandcamp](https://hideousgomphidius.bandcamp.com/)
 [Apple Music](https://music.apple.com/ru/artist/hideous-gomphidius/1785919376)
 [Website](https://www.instagram.com/thefogweaver/)
+
+### Hillsfar
+
+**Страна:** USA
+**Стиль:** Medieval
+**Настроение:** Adventure
+**Темп:** Normal
+
+[Bandcamp](https://hillsfar.bandcamp.com/)
+[YouTube](https://music.apple.com/us/artist/hillsfar/1728218624?l=ru)
+[Website](https://www.instagram.com/hillsfar.synth/)
 
 ### Hole Dweller
 
