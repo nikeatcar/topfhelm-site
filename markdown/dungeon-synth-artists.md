@@ -86,6 +86,15 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://sebran.bandcamp.com/)
 
+### Ancient Blasphemy
+
+**Country:** USA
+**Style:** Fantasy
+**Mood:** Mystical
+**Tempo:** Slow
+
+[YouTube](https://www.youtube.com/@AncientBlasphemy)
+
 ### Anglachel
 
 **Country:** Greece
@@ -243,7 +252,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Blood Lord
 
 **Country:** UK
-**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
 **Style:** Chiptune
 **Mood:** Mystical
 **Tempo:** Normal
@@ -396,6 +405,15 @@ If you want to suggest your project or bring a short text about it - please use 
 [Spotify](https://open.spotify.com/artist/2CZWgVgtHvriiCMFjEvM0J)
 [Bandcamp](https://criptadel.bandcamp.com/)
 [Website](https://www.instagram.com/criptadel/)
+
+### Cromorne
+
+**Country:** Belgium
+**Style:** Medieval
+**Mood:** Mystical
+**Tempo:** Normal
+
+[Bandcamp](https://cromorne.bandcamp.com/)
 
 ### Cursed Pumpkin
 
@@ -595,7 +613,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Diplodocus
 
 **Country:** USA
-**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
 **Style:** Prehistoric
 **Mood:** Epic
 **Tempo:** Slow
@@ -714,7 +732,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Elyvilon
 
 **Country:** USA
-**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
 **Style:** Medieval
 **Mood:** Dreamy
 **Tempo:** Normal
@@ -782,6 +800,16 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://ervald.bandcamp.com/)
 [Website](https://www.instagram.com/_ervald/)
 
+### ESTOC
+
+**Country:** Finland
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Style:** Medieval
+**Mood:** Adventure
+**Tempo:** Normal
+
+[Bandcamp](https://estoc1.bandcamp.com/)
+
 ### Eternal Axe
 
 **Country:** Russia
@@ -828,6 +856,16 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://faeryring.bandcamp.com/)
 
+### Faydark
+
+**Country:** USA
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Style:** Fanasy
+**Mood:** Epic
+**Tempo:** Normal
+
+[Bandcamp](https://faydark.bandcamp.com/)
+
 ### feth
 
 **Country:** UK
@@ -863,7 +901,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Flickers from the Fen
 
 **Country:** UK
-**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
 **Style:** Fantasy
 **Mood:** Dreamy
 **Tempo:** Normal
@@ -947,7 +985,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Gelure
 
 **Country:** Australia
-**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
 **Style:** Fantasy
 **Mood:** Epic
 **Tempo:** Normal
@@ -1010,7 +1048,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Grandma's Cottage
 
 **Country:** USA
-**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
 **Style:** Comfy
 **Mood:** Dreamy
 **Tempo:** Slow
@@ -1150,7 +1188,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Hole Dweller
 
 **Country:** USA
-**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
 **Style:** Fantasy
 **Mood:** Melancholic
 **Tempo:** Normal
@@ -1169,6 +1207,18 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://immortalwizardsdream.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/immortal-wizards-dream/1826971767)
+
+### IndrK
+
+**Country:** Russia
+**Label:** [Kitezh Records](https://kitezhrecords.bandcamp.com/)
+**Style:** Ambient
+**Mood:** Dark
+**Tempo:** Slow
+
+[Bandcamp](https://kitezhrecords.bandcamp.com/album/--12)
+[YouTube](https://www.youtube.com/channel/UCwft6daKPQSoYNK-0C25Kgw)
+[Apple Music](https://music.apple.com/ru/artist/%D0%B8%D0%BD%D0%B4%D1%80%D0%BA/1675347985)
 
 ### Inotrion
 
@@ -1201,6 +1251,17 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://ironkeep.bandcamp.com/)
 [Website](https://www.instagram.com/ironkeep_dungeon/)
+
+### Ivernal
+
+**Country:** Canada
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
+**Style:** Medieval
+**Mood:** Dreamy
+**Tempo:** Normal
+
+[Spotify](https://open.spotify.com/artist/3834gczQm4POtaLyluHDsY)
+[Bandcamp](https://ivernal.bandcamp.com/)
 
 ### Jim Kirkwood
 
@@ -1442,7 +1503,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Moonglow
 
 **Country:** USA
-**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
 **Style:** Fantasy
 **Mood:** Epic
 **Tempo:** Normal
@@ -1789,13 +1850,22 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Nortfalke
 
 **Country:** Netherlands
-**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
 **Style:** Medieval
 **Mood:** Dark
 **Tempo:** Normal
 
 [Bandcamp](https://nortfalke.bandcamp.com/)
 [Website](https://www.instagram.com/nortfalke/)
+
+### Obscura's Veil
+
+**Country:** USA
+**Style:** Fantasy
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Bandcamp](https://obscurasveil.bandcamp.com/)
 
 ### Old Sorcery
 
@@ -1831,6 +1901,15 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://oldenhelm.bandcamp.com/)
 
+### Omamori
+
+**Country:** Russia
+**Style:** Ambient
+**Mood:** Dreamy
+**Tempo:** Slow
+
+[Bandcamp](https://omamorids.bandcamp.com/)
+
 ### One Last Knight
 
 **Country:** USA
@@ -1841,6 +1920,17 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://stoneandshield.bandcamp.com/album/final-prayers-from-the-last-knight)
 [YouTube](https://www.youtube.com/watch?v=tXTIYOKTb6M)
+
+### Oneiros
+
+**Country:** USA
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Style:** Oldschool
+**Mood:** Epic
+**Tempo:** Slow
+
+[Bandcamp](https://dungeonsdeeprecords.bandcamp.com/album/songs-for-demon-funerals)
+[YouTube](https://music.youtube.com/search?q=%23oneiros)
 
 ### Onfang
 
@@ -1876,6 +1966,28 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://oublieth.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/oublieth/1593443875)
 [Website](https://www.instagram.com/oublieth/)
+
+### perīre
+
+**Country:** Germany
+**Label:** [Mispelhain](https://mispelhain.bandcamp.com/)
+**Style:** Medieval
+**Mood:** Adventure
+**Tempo:** Normal
+
+[Bandcamp](https://etas.bandcamp.com/)
+[Website](https://www.instagram.com/perire.bedroommusic/)
+
+### Potions Of Eleanor
+
+**Country:** USA
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Normal
+
+[Bandcamp](https://potionsofeleanor.bandcamp.com/)
+[Website](https://www.instagram.com/potionsofeleanor/)
 
 ### Pumpkin Witch
 
@@ -2014,11 +2126,6 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://skarpseian.bandcamp.com/)
 
 ### Skeleton Mage
-
-**Country:** Sweden
-**Style:** Medieval
-**Mood:** Adventure
-**Tempo:** Normal
 
 [Spotify](https://open.spotify.com/artist/7FqkQbLPaNJYHzjJ3U54tU)
 [Bandcamp](https://skeletonmage.bandcamp.com/)
@@ -2427,6 +2534,15 @@ If you want to suggest your project or bring a short text about it - please use 
 [YouTube](https://www.youtube.com/@TheAshenCodex)
 [Website](https://www.instagram.com/theashencodex/)
 
+### The Bells of St. Mary's
+
+**Country:** Russia
+**Style:** Ambient
+**Mood:** Dreamy
+**Tempo:** Slow
+
+[Bandcamp](https://the-bells-of-st-marys.bandcamp.com/)
+
 ### The Haligtree
 
 **Country:** UK
@@ -2502,6 +2618,15 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://traurent.bandcamp.com/)
 [Apple Music](https://music.apple.com/de/artist/traurent/1618058702)
 
+### Treasure Goblin
+
+**Country:** Faroe Islands
+**Style:** Chiptune
+**Mood:** Mystical
+**Tempo:** Normal
+
+[Bandcamp](https://treasuregoblin.bandcamp.com/)
+
 ### TREGUARD
 
 **Country:** UK
@@ -2511,6 +2636,16 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Bandcamp](https://blaggardrecords.bandcamp.com/album/treguard-the-ultimate-adventure)
+
+### Trollchameleon
+
+**Country:** Moldova
+**Style:** Fantasy
+**Mood:** Melancholic
+**Tempo:** Normal
+
+[Bandcamp](https://trollchameleon.bandcamp.com/)
+[YouTube](https://www.youtube.com/@Trollchameleon)
 
 ### Trollhunt
 
@@ -2660,6 +2795,16 @@ If you want to suggest your project or bring a short text about it - please use 
 [Apple Music](https://music.apple.com/us/artist/vaelastrasz/1459685707)
 [Website](https://www.instagram.com/vaelastrasz/)
 
+### Vale Minstrel
+
+**Country:** USA
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Normal
+
+[Bandcamp](https://valeminstrel.bandcamp.com/)
+
 ### Valen
 
 **Country:** Sweden
@@ -2673,7 +2818,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Vanishing Amulet
 
 **Country:** USA
-**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
 **Style:** Fantasy
 **Mood:** Melancholic
 **Tempo:** Slow
@@ -2683,6 +2828,16 @@ If you want to suggest your project or bring a short text about it - please use 
 [YouTube](https://www.youtube.com/channel/UC5rirUjQTWwIyJ7hkzk9H4g)
 [Apple Music](https://music.apple.com/kz/artist/vanishing-amulet/1771515398)
 [Website](https://www.instagram.com/vanishingamulet/)
+
+### Vetus Supulcrum
+
+**Country:** Netherlands
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/artist/6dsMcXfFb9fsVx6e0wXAVn)
+[Bandcamp](https://vetussupulcrum.bandcamp.com/)
 
 ### VISIONS OF NIFTEN
 
@@ -2783,6 +2938,27 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://wartoad.bandcamp.com/)
 
+### Wattle Hog
+
+**Country:** USA
+**Style:** Experimental
+**Mood:** Mystical
+**Tempo:** Slow
+
+[Bandcamp](https://wattlehog.bandcamp.com/)
+
+### Winding Hallways
+
+**Country:** Unknown
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
+**Style:** Fantasy
+**Mood:** Battle
+**Tempo:** Normal
+
+[Spotify](https://open.spotify.com/track/2iUdVBE6jbPvjjWrG8pcjr?autoplay_ok=1)
+[Bandcamp](https://windinghallways.bandcamp.com/)
+[Website](https://www.instagram.com/windinghallways/)
+
 ### Windtower
 
 **Country:** Hungary
@@ -2845,6 +3021,15 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Bandcamp](https://voldsomtapes.bandcamp.com/album/winternight)
+
+### Zavlore
+
+**Country:** Czechia
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Normal
+
+[YouTube](https://www.youtube.com/@Zavlore)
 
 ### Ziggurath
 

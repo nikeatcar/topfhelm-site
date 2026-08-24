@@ -175,6 +175,41 @@
         }
     },
     {
+        "id": "ancient-blasphemy",
+        "country": "USA",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0043416110_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0043416110_10.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "849764640"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "https://www.youtube.com/@AncientBlasphemy",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Ancient Blasphemy",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "anglachel",
         "country": "Greece",
         "genre": "",
@@ -674,9 +709,9 @@
         "logo": "https://f4.bcbits.com/img/0016208786_10.jpg",
         "banner": "https://f4.bcbits.com/img/0016208741_102.avif",
         "background": "rgb(0, 0, 0)",
-        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
         "label_name": "Dungeons Deep Records",
-        "label_img": "https://f4.bcbits.com/img/0046920340_21.jpg",
+        "label_img": "https://f4.bcbits.com/img/0046924658_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "2064750215"
@@ -1190,6 +1225,41 @@
         }
     },
     {
+        "id": "cromorne",
+        "country": "Belgium",
+        "genre": "",
+        "style": "Medieval",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0045314633_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0045212626_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "11830891"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://cromorne.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Cromorne",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "cursed-pumpkin",
         "country": "Hungary",
         "genre": "",
@@ -1514,9 +1584,9 @@
         "logo": "https://f4.bcbits.com/img/0041463172_10.jpg",
         "banner": "https://f4.bcbits.com/img/0041463172_10.jpg",
         "background": "https://f4.bcbits.com/img/0017082567_130.jpg",
-        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
         "label_name": "Dungeons Deep Records",
-        "label_img": "https://f4.bcbits.com/img/0046920340_21.jpg",
+        "label_img": "https://f4.bcbits.com/img/0046924658_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "510187855"
@@ -1934,9 +2004,9 @@
         "logo": "https://f4.bcbits.com/img/0041454153_10.jpg",
         "banner": "https://assets.ampwall.com/cdn-cgi/image/format=avif,width=1200/artist-assets/01920759-fb34-7842-9025-26ad9079dacc/7d533976-0512-4c7b-b9b8-10ffed1fe62b.png",
         "background": "https://f4.bcbits.com/img/0041454109_130.jpg",
-        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
         "label_name": "Dungeons Deep Records",
-        "label_img": "https://f4.bcbits.com/img/0046920340_21.jpg",
+        "label_img": "https://f4.bcbits.com/img/0046924658_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "2314369273"
@@ -2135,6 +2205,41 @@
         }
     },
     {
+        "id": "estoc",
+        "country": "Finland",
+        "genre": "",
+        "style": "Medieval",
+        "mood": "Adventure",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0034010908_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0044446586_10.jpg",
+        "background": "rgb(196, 196, 196)",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label_name": "Dungeons Deep Records",
+        "label_img": "https://f4.bcbits.com/img/0046924658_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "2226416085"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://estoc1.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "ESTOC",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "eternal-axe",
         "country": "Russia",
         "genre": "",
@@ -2310,6 +2415,41 @@
         }
     },
     {
+        "id": "faydark",
+        "country": "USA",
+        "genre": "",
+        "style": "Fanasy",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0039116021_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0039115895_102.avif",
+        "background": "https://f4.bcbits.com/img/0039115917_130.jpg",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label_name": "Dungeons Deep Records",
+        "label_img": "https://f4.bcbits.com/img/0046924658_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "3521872643"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://faydark.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Faydark",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "feth",
         "country": "UK",
         "genre": "",
@@ -2424,9 +2564,9 @@
         "logo": "https://f4.bcbits.com/img/0030224949_10.jpg",
         "banner": "https://f4.bcbits.com/img/0030230616_102.avif",
         "background": "https://f4.bcbits.com/img/0031526637_130.jpg",
-        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
         "label_name": "Dungeons Deep Records",
-        "label_img": "https://f4.bcbits.com/img/0046920340_21.jpg",
+        "label_img": "https://f4.bcbits.com/img/0046924658_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "743008332"
@@ -2669,9 +2809,9 @@
         "logo": "https://f4.bcbits.com/img/0042843539_10.jpg",
         "banner": "https://f4.bcbits.com/img/a2450812398_10.jpg",
         "background": "https://f4.bcbits.com/img/0033473021_130.jpg",
-        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
         "label_name": "Dungeons Deep Records",
-        "label_img": "https://f4.bcbits.com/img/0046920340_21.jpg",
+        "label_img": "https://f4.bcbits.com/img/0046924658_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "1664298057"
@@ -2879,9 +3019,9 @@
         "logo": "https://f4.bcbits.com/img/0042109654_10.jpg",
         "banner": "https://f4.bcbits.com/img/0042109646_102.avif",
         "background": "rgb(17, 21, 24)",
-        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
         "label_name": "Dungeons Deep Records",
-        "label_img": "https://f4.bcbits.com/img/0046920340_21.jpg",
+        "label_img": "https://f4.bcbits.com/img/0046924658_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "3890011105"
@@ -3334,9 +3474,9 @@
         "logo": "https://f4.bcbits.com/img/0041499108_10.jpg",
         "banner": "https://f4.bcbits.com/img/a1085351107_16.jpg",
         "background": "https://f4.bcbits.com/img/0041499092_130.jpg",
-        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
         "label_name": "Dungeons Deep Records",
-        "label_img": "https://f4.bcbits.com/img/0046920340_21.jpg",
+        "label_img": "https://f4.bcbits.com/img/0046924658_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "3942234626"
@@ -3390,6 +3530,41 @@
             },
             "ru": {
                 "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "indrk",
+        "country": "Russia",
+        "genre": "",
+        "style": "Ambient",
+        "mood": "Dark",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a1101802289_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a1101802289_10.jpg",
+        "background": "rgb(1, 4, 3)",
+        "label": "https://kitezhrecords.bandcamp.com/",
+        "label_name": "Kitezh Records",
+        "label_img": "https://f4.bcbits.com/img/0015148341_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "1852121073"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://kitezhrecords.bandcamp.com/album/--12",
+            "youtube": "https://www.youtube.com/channel/UCwft6daKPQSoYNK-0C25Kgw",
+            "apple_music": "https://music.apple.com/ru/artist/%D0%B8%D0%BD%D0%B4%D1%80%D0%BA/1675347985",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "IndrK",
+                "description": ""
+            },
+            "ru": {
+                "name": "ИндрК",
                 "description": ""
             }
         }
@@ -3491,6 +3666,41 @@
         "translations": {
             "en": {
                 "name": "Iron Keep",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "ivernal",
+        "country": "Canada",
+        "genre": "",
+        "style": "Medieval",
+        "mood": "Dreamy",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0037961758_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0037961496_102.avif",
+        "background": "https://f4.bcbits.com/img/0037961492_130.jpg",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
+        "label_name": "Dungeons Deep Records",
+        "label_img": "https://f4.bcbits.com/img/0046924658_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "1932827102"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/3834gczQm4POtaLyluHDsY",
+            "bandcamp": "https://ivernal.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Ivernal",
                 "description": ""
             },
             "ru": {
@@ -4314,9 +4524,9 @@
         "logo": "https://f4.bcbits.com/img/0043158574_10.jpg",
         "banner": "https://f4.bcbits.com/img/0043225159_102.avif",
         "background": "https://f4.bcbits.com/img/0043158516_130.jpg",
-        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
         "label_name": "Dungeons Deep Records",
-        "label_img": "https://f4.bcbits.com/img/0046920340_21.jpg",
+        "label_img": "https://f4.bcbits.com/img/0046924658_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "2879888172"
@@ -4944,9 +5154,9 @@
         "logo": "https://f4.bcbits.com/img/0015200072_10.jpg",
         "banner": "https://f4.bcbits.com/img/0011424993_102.avif",
         "background": "https://f4.bcbits.com/img/0044776938_130.jpg",
-        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
         "label_name": "Dungeons Deep Records",
-        "label_img": "https://f4.bcbits.com/img/0046920340_21.jpg",
+        "label_img": "https://f4.bcbits.com/img/0046924658_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "3062855137"
@@ -4961,6 +5171,41 @@
         "translations": {
             "en": {
                 "name": "Nortfalke",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "obscuras-veil",
+        "country": "USA",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0042199988_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0042199989_102.avif",
+        "background": "https://f4.bcbits.com/img/0042199991_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "2505374091"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://obscurasveil.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Obscura's Veil",
                 "description": ""
             },
             "ru": {
@@ -5075,6 +5320,41 @@
         }
     },
     {
+        "id": "omamori",
+        "country": "Russia",
+        "genre": "",
+        "style": "Ambient",
+        "mood": "Dreamy",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0045045676_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0045046023_102.avif",
+        "background": "rgb(248, 248, 248)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "436901796"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://omamorids.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Omamori",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "one-last-knight",
         "country": "USA",
         "genre": "",
@@ -5101,6 +5381,41 @@
         "translations": {
             "en": {
                 "name": "One Last Knight",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "oneiros",
+        "country": "USA",
+        "genre": "",
+        "style": "Oldschool",
+        "mood": "Epic",
+        "tempo": "Slow",
+        "logo": "https://dungeon-codex.com/storage/artists/1582/photo.jpeg",
+        "banner": "https://f4.bcbits.com/img/a1307348445_16.jpg",
+        "background": "https://f4.bcbits.com/img/0046924649_130.jpg",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label_name": "Dungeons Deep Records",
+        "label_img": "https://f4.bcbits.com/img/0046924658_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "3032209759"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://dungeonsdeeprecords.bandcamp.com/album/songs-for-demon-funerals",
+            "youtube": "https://music.youtube.com/search?q=%23oneiros",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Oneiros",
                 "description": ""
             },
             "ru": {
@@ -5206,6 +5521,76 @@
         "translations": {
             "en": {
                 "name": "Oublieth",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "perīre",
+        "country": "Germany",
+        "genre": "",
+        "style": "Medieval",
+        "mood": "Adventure",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0045284769_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0045284776_102.avif",
+        "background": "rgb(248, 248, 248)",
+        "label": "https://mispelhain.bandcamp.com/",
+        "label_name": "Mispelhain",
+        "label_img": "https://f4.bcbits.com/img/0043871968_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "3055220553"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://etas.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/perire.bedroommusic/"
+        },
+        "translations": {
+            "en": {
+                "name": "perīre",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "potions-of-eleanor",
+        "country": "USA",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0045923561_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0038551320_102.avif",
+        "background": "https://f4.bcbits.com/img/0044280110_130.jpg",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label_name": "Dungeons Deep Records",
+        "label_img": "https://f4.bcbits.com/img/0046924658_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "238767005"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://potionsofeleanor.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/potionsofeleanor/"
+        },
+        "translations": {
+            "en": {
+                "name": "Potions Of Eleanor",
                 "description": ""
             },
             "ru": {
@@ -5671,11 +6056,11 @@
     },
     {
         "id": "skeleton-mage",
-        "country": "Sweden",
+        "country": "",
         "genre": "",
-        "style": "Medieval",
-        "mood": "Adventure",
-        "tempo": "Normal",
+        "style": "",
+        "mood": "",
+        "tempo": "",
         "logo": "https://f4.bcbits.com/img/0039279428_10.jpg",
         "banner": "https://f4.bcbits.com/img/0040332600_102.avif",
         "background": "https://f4.bcbits.com/img/0040329427_130.jpg",
@@ -6545,6 +6930,41 @@
         }
     },
     {
+        "id": "the-bells-of-st-marys",
+        "country": "Russia",
+        "genre": "",
+        "style": "Ambient",
+        "mood": "Dreamy",
+        "tempo": "Slow",
+        "logo": "https://i1.sndcdn.com/avatars-000223431258-7v80zd-t500x500.jpg",
+        "banner": "https://i1.sndcdn.com/visuals-000006842833-6Yl12n-t1240x260.jpg",
+        "background": "rgb(248, 248, 248)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "95175436"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://the-bells-of-st-marys.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "The Bells of St. Mary's",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "the-haligtree",
         "country": "UK",
         "genre": "",
@@ -6790,6 +7210,41 @@
         }
     },
     {
+        "id": "treasure-goblin",
+        "country": "Faroe Islands",
+        "genre": "",
+        "style": "Chiptune",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0045017324_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0045138373_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "4031541052"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://treasuregoblin.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Treasure Goblin",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "treguard",
         "country": "UK",
         "genre": "",
@@ -6816,6 +7271,41 @@
         "translations": {
             "en": {
                 "name": "TREGUARD",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "trollchameleon",
+        "country": "Moldova",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0046384907_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0045687154_102.avif",
+        "background": "https://f4.bcbits.com/img/0045687170_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "362409486"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://trollchameleon.bandcamp.com/",
+            "youtube": "https://www.youtube.com/@Trollchameleon",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Trollchameleon",
                 "description": ""
             },
             "ru": {
@@ -7140,6 +7630,41 @@
         }
     },
     {
+        "id": "vale-minstrel",
+        "country": "USA",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0025795245_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0025752731_102.avif",
+        "background": "rgb(16, 24, 17)",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label_name": "Dungeons Deep Records",
+        "label_img": "https://f4.bcbits.com/img/0046924658_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "3557255158"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://valeminstrel.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Vale Minstrel",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "valen",
         "country": "Sweden",
         "genre": "",
@@ -7184,9 +7709,9 @@
         "logo": "https://f4.bcbits.com/img/0045749064_10.jpg",
         "banner": "https://f4.bcbits.com/img/0045749062_102.avif",
         "background": "https://f4.bcbits.com/img/0045749086_130.jpg",
-        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/",
         "label_name": "Dungeons Deep Records",
-        "label_img": "https://f4.bcbits.com/img/0046920340_21.jpg",
+        "label_img": "https://f4.bcbits.com/img/0046924658_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "3684182084"
@@ -7201,6 +7726,41 @@
         "translations": {
             "en": {
                 "name": "Vanishing Amulet",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "vetus-supulcrum",
+        "country": "Netherlands",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Epic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0015851344_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a1518447116_10.jpg",
+        "background": "rgb(13, 13, 13)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "1505671704"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/6dsMcXfFb9fsVx6e0wXAVn",
+            "bandcamp": "https://vetussupulcrum.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Vetus Supulcrum",
                 "description": ""
             },
             "ru": {
@@ -7490,6 +8050,76 @@
         }
     },
     {
+        "id": "wattle-hog",
+        "country": "USA",
+        "genre": "",
+        "style": "Experimental",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0044595136_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0044574428_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "1081078745"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://wattlehog.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Wattle Hog",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "winding-hallways",
+        "country": "Unknown",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Battle",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0040445713_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0041471882_102.avif",
+        "background": "https://f4.bcbits.com/img/0040454635_130.jpg",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
+        "label_name": "Dungeons Deep Records",
+        "label_img": "https://f4.bcbits.com/img/0046924658_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "459610882"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/track/2iUdVBE6jbPvjjWrG8pcjr?autoplay_ok=1",
+            "bandcamp": "https://windinghallways.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/windinghallways/"
+        },
+        "translations": {
+            "en": {
+                "name": "Winding Hallways",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "windtower",
         "country": "Hungary",
         "genre": "",
@@ -7691,6 +8321,41 @@
         "translations": {
             "en": {
                 "name": "YEARNER",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "zavlore",
+        "country": "Czechia",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0033553353_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0036306686_102.avif",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "388865737"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "https://www.youtube.com/@Zavlore",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Zavlore",
                 "description": ""
             },
             "ru": {
