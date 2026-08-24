@@ -41,7 +41,7 @@ function initTimeline() {
         {
             date: { en: "May 9, 2025", ru: "9 мая 2025" },
             title: "Sir Godric",
-            cover: "https://f4.bcbits.com/img/a0971096415_10.jpg",
+            cover: "https://f4.bcbits.com/img/a0893732963_10.jpg",
             albumKey: "sirgodric"
         },
         {
@@ -65,7 +65,7 @@ function initTimeline() {
         {
             date: { en: "Jul 24, 2026", ru: "24 Июля 2026" },
             title: "TES: The Still Place",
-            cover: "https://f4.bcbits.com/img/a2023943682_10.jpg",
+            cover: "https://f4.bcbits.com/img/a2807766050_10.jpg",
             link: "/the-emerald-saga/"
         },
         {
