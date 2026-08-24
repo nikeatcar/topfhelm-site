@@ -525,6 +525,41 @@
         }
     },
     {
+        "id": "bespin-moons",
+        "country": "USA",
+        "genre": "",
+        "style": "Sci-fi",
+        "mood": "Battle",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0019335944_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0019335794_102.avif",
+        "background": "https://f4.bcbits.com/img/0024847518_130.jpg",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "3299531108"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/0bQBXa8wwRidizT5ifY47g",
+            "bandcamp": "https://bespinmoons.bandcamp.com/album/a-binding-force",
+            "youtube": "https://music.apple.com/us/artist/bespin-moons/1577789756",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Bespin Moons",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "besteigung",
         "country": "Russia",
         "genre": "",
@@ -639,9 +674,9 @@
         "logo": "https://f4.bcbits.com/img/0016208786_10.jpg",
         "banner": "https://f4.bcbits.com/img/0016208741_102.avif",
         "background": "rgb(0, 0, 0)",
-        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
         "label_name": "Dungeons Deep Records",
-        "label_img": "https://f4.bcbits.com/img/0042890191_21.jpg",
+        "label_img": "https://f4.bcbits.com/img/0046920340_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "2064750215"
@@ -656,6 +691,41 @@
         "translations": {
             "en": {
                 "name": "Blood Lord",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "book-of-skelos",
+        "country": "Unknown",
+        "genre": "",
+        "style": "Chiptune",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0014217856_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a2897887867_16.jpg",
+        "background": "rgb(13, 13, 13)",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "512262110"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://bookofskelos.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "BOOK OF SKELOS",
                 "description": ""
             },
             "ru": {
@@ -945,6 +1015,41 @@
         }
     },
     {
+        "id": "chaucerian-myth",
+        "country": "USA",
+        "genre": "",
+        "style": "Medieval",
+        "mood": "Dreamy",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0010663181_10.jpg",
+        "banner": "https://i.ytimg.com/vi/mpXVGajv0sk/maxresdefault.jpg",
+        "background": "https://f4.bcbits.com/img/0010662970_130.jpg",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "487210440"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/1rMQJpFbLXZWpn0TOMwYCV",
+            "bandcamp": "https://chaucerianmyth.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Chaucerian Myth",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "chestnut-brown",
         "country": "Taiwan",
         "genre": "",
@@ -980,6 +1085,41 @@
         }
     },
     {
+        "id": "cimitir",
+        "country": "USA",
+        "genre": "",
+        "style": "Horror",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0024978074_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a3446235961_10.jpg",
+        "background": "rgb(255, 255, 255)",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "1821413720"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://cimitir.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Cimitir",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "coniferous-myst",
         "country": "USA",
         "genre": "",
@@ -989,9 +1129,9 @@
         "logo": "https://f4.bcbits.com/img/0016487581_10.jpg",
         "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD0Yx4fEEsd2VzOfb1vA9v6Bs4U-51LyD9QoLbSHFY-x6pv8HeAQjebFRF&s=10",
         "background": "https://f4.bcbits.com/img/0016487592_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "3660983442"
@@ -1339,9 +1479,9 @@
         "logo": "https://f4.bcbits.com/img/0041463172_10.jpg",
         "banner": "https://f4.bcbits.com/img/0041463172_10.jpg",
         "background": "https://f4.bcbits.com/img/0017082567_130.jpg",
-        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
         "label_name": "Dungeons Deep Records",
-        "label_img": "https://f4.bcbits.com/img/0042890191_21.jpg",
+        "label_img": "https://f4.bcbits.com/img/0046920340_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "510187855"
@@ -1759,9 +1899,9 @@
         "logo": "https://f4.bcbits.com/img/0041454153_10.jpg",
         "banner": "https://assets.ampwall.com/cdn-cgi/image/format=avif,width=1200/artist-assets/01920759-fb34-7842-9025-26ad9079dacc/7d533976-0512-4c7b-b9b8-10ffed1fe62b.png",
         "background": "https://f4.bcbits.com/img/0041454109_130.jpg",
-        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
         "label_name": "Dungeons Deep Records",
-        "label_img": "https://f4.bcbits.com/img/0042890191_21.jpg",
+        "label_img": "https://f4.bcbits.com/img/0046920340_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "2314369273"
@@ -2249,9 +2389,9 @@
         "logo": "https://f4.bcbits.com/img/0030224949_10.jpg",
         "banner": "https://f4.bcbits.com/img/0030230616_102.avif",
         "background": "https://f4.bcbits.com/img/0031526637_130.jpg",
-        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
         "label_name": "Dungeons Deep Records",
-        "label_img": "https://f4.bcbits.com/img/0042890191_21.jpg",
+        "label_img": "https://f4.bcbits.com/img/0046920340_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "743008332"
@@ -2266,6 +2406,41 @@
         "translations": {
             "en": {
                 "name": "Flickers from the Fen",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "foglord",
+        "country": "USA",
+        "genre": "",
+        "style": "Oldschool",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0045309522_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0034520102_10.jpg",
+        "background": "https://f4.bcbits.com/img/0045308702_130.jpg",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "3733218881"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/7L9N22Shqsfb23tR0S8lPl",
+            "bandcamp": "https://foglord.bandcamp.com/",
+            "youtube": "https://www.youtube.com/hashtag/foglord",
+            "apple_music": "",
+            "website": "https://www.instagram.com/d.drolgof/"
+        },
+        "translations": {
+            "en": {
+                "name": "Foglord",
                 "description": ""
             },
             "ru": {
@@ -2415,6 +2590,41 @@
         }
     },
     {
+        "id": "gargoylium",
+        "country": "France",
+        "genre": "",
+        "style": "Medieval",
+        "mood": "Battle",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0012712138_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0012707543_102.avif",
+        "background": "https://f4.bcbits.com/img/0012710894_130.jpg",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "1106090162"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://gargoylium.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Gargoylium",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "gelure",
         "country": "Australia",
         "genre": "",
@@ -2424,9 +2634,9 @@
         "logo": "https://f4.bcbits.com/img/0042843539_10.jpg",
         "banner": "https://f4.bcbits.com/img/a2450812398_10.jpg",
         "background": "https://f4.bcbits.com/img/0033473021_130.jpg",
-        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
         "label_name": "Dungeons Deep Records",
-        "label_img": "https://f4.bcbits.com/img/0042890191_21.jpg",
+        "label_img": "https://f4.bcbits.com/img/0046920340_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "1664298057"
@@ -2634,9 +2844,9 @@
         "logo": "https://f4.bcbits.com/img/0042109654_10.jpg",
         "banner": "https://f4.bcbits.com/img/0042109646_102.avif",
         "background": "rgb(17, 21, 24)",
-        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
         "label_name": "Dungeons Deep Records",
-        "label_img": "https://f4.bcbits.com/img/0042890191_21.jpg",
+        "label_img": "https://f4.bcbits.com/img/0046920340_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "3890011105"
@@ -2721,6 +2931,41 @@
         "translations": {
             "en": {
                 "name": "Greenhollow",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "grimdor",
+        "country": "Germany",
+        "genre": "",
+        "style": "Oldschool",
+        "mood": "Adventure",
+        "tempo": "Slow",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjVCVyjLQqqBxRng7U63BbXUNPEz69FXA44Q63x4QBhRaxIefd8a8XI4g&s=10",
+        "banner": "https://www.dungeon-codex.com/storage/artists/631/logo.jpeg",
+        "background": "rgb(255, 255, 255)",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "2715505296"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/2zAnHWtq0RqPCafyurL8Ob",
+            "bandcamp": "https://grimdorofficial.bandcamp.com/",
+            "youtube": "https://music.youtube.com/channel/UCv1B41cIjOw9Rrb5U1RKHcg",
+            "apple_music": "",
+            "website": "https://www.instagram.com/grimdorofficial/"
+        },
+        "translations": {
+            "en": {
+                "name": "Grimdor",
                 "description": ""
             },
             "ru": {
@@ -3054,9 +3299,9 @@
         "logo": "https://f4.bcbits.com/img/0041499108_10.jpg",
         "banner": "https://f4.bcbits.com/img/a1085351107_16.jpg",
         "background": "https://f4.bcbits.com/img/0041499092_130.jpg",
-        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
         "label_name": "Dungeons Deep Records",
-        "label_img": "https://f4.bcbits.com/img/0042890191_21.jpg",
+        "label_img": "https://f4.bcbits.com/img/0046920340_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "3942234626"
@@ -3264,9 +3509,9 @@
         "logo": "https://f4.bcbits.com/img/0035838993_10.jpg",
         "banner": "https://f4.bcbits.com/img/0035838809_102.avif",
         "background": "https://f4.bcbits.com/img/0035838699_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "3708718873"
@@ -4025,6 +4270,41 @@
         }
     },
     {
+        "id": "moonglow",
+        "country": "USA",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0043158574_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0043225159_102.avif",
+        "background": "https://f4.bcbits.com/img/0043158516_130.jpg",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
+        "label_name": "Dungeons Deep Records",
+        "label_img": "https://f4.bcbits.com/img/0046920340_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "2879888172"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://moonglow.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/moonglow_ds/"
+        },
+        "translations": {
+            "en": {
+                "name": "Moonglow",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "moonlit-path",
         "country": "UK",
         "genre": "",
@@ -4104,9 +4384,9 @@
         "logo": "https://f4.bcbits.com/img/0004235454_10.jpg",
         "banner": "https://lastfm.freetls.fastly.net/i/u/300x300/c74645b3fd2dff5cf8594ea109af8fc3.jpg",
         "background": "rgb(11, 15, 16)",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "67676380"
@@ -4156,11 +4436,11 @@
         "translations": {
             "en": {
                 "name": "Mortiis",
-                "description": ""
+                "description": "<p>\n    <strong>Mortiis</strong> is an electronic band from Notodden, Norway fronted by\n    <strong>Håvard Ellefsen</strong>, who is also known as the namesake of the band.\n    Mortiis started as the solo project of Ellefsen as a means to convey a story.\n    Ellefsen previously played bass in the black metal band <em>Emperor</em>\n    (1991-1992), prior to forming this project in <strong>1993</strong>.\n</p>\n\n<p class=\"artist-origin\">\n    The time he spent in his previous band laid the groundworks for mixing black metal\n    elements with various electronic genres, with these being touched upon across each\n    \"era\" of the band.\n</p>\n\n<p class=\"artist-release-note\">\n    All of the <strong>Era I</strong> albums were composed entirely on synthesizers,\n    creating a sound that Mortiis described as \"dark dungeon music\" - a fundamental\n    influence on the later dungeon synth genre.\n    The last album of this era, <em>The Stargate</em>, went a step further by introducing\n    a wider range of instruments including acoustic guitars, flutes and dark vocals.\n</p>\n\n<p class=\"artist-release-note\">\n    Mortiis shifted to a dark wave / electropop style on\n    <em>The Smell of Rain</em>, and frontman Ellefsen took to lead vocals for the first time.\n    This would be the only release under the title of <strong>Era II</strong>.\n</p>\n\n<p class=\"artist-release-note\">\n    With <strong>Era III</strong> came <em>The Grudge</em>, which took an even more drastic\n    turn from previous eras. <em>The Grudge</em> took on a heavy industrial emphasis,\n    combining grinding guitars and industrial programming.\n</p>\n\n<p>\n    In January <strong>2020</strong>, Mortiis returned to his Era I style of music with\n    the album <em>Spirit of Rebellion</em>. The album was a reworking of his 1994 work\n    <em>Ånden som Gjorde Opprør</em>.\n</p>\n\n<p>\n    Mortiis admitted to having long-held negative feelings about his 1990s output,\n    feeling resentment towards perceived lack of quality in musicianship and production.\n    However, he has since reassessed his detachment towards this material, and now sees\n    renewed worth in the honesty and originality of his early records.\n</p>\n\n<p>\n    In <strong>2026</strong>, Mortiis released <em>Ghosts of Europa</em>,\n    which resumed the band's electronic rock and industrial rock style.\n</p>\n\n<p class=\"artist-source-note\">\n    Text excerpts from\n    <a\n        href=\"https://en.wikipedia.org/wiki/Mortiis\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    >Wikipedia - Mortiis</a>.\n</p>"
             },
             "ru": {
                 "name": "",
-                "description": ""
+                "description": "<p>\n    <strong>Mortiis</strong> - электронный музыкальный проект из Нотоддена, Норвегия,\n    возглавляемый <strong>Håvard Ellefsen</strong>, который также известен под именем Mortiis.\n    Изначально Mortiis был сольным проектом Ellefsen, созданным как средство для передачи\n    истории. До основания проекта в <strong>1993 году</strong> Ellefsen играл на бас-гитаре\n    в Black Metal группе <em>Emperor</em> в 1991-1992 годах.\n</p>\n\n<p class=\"artist-origin\">\n    Опыт, полученный им в предыдущей группе, заложил основу для сочетания элементов\n    Black Metal с различными направлениями электронной музыки, которые в дальнейшем\n    проявлялись в разных «эрах» Mortiis.\n</p>\n\n<p class=\"artist-release-note\">\n    Все альбомы <strong>Era I</strong> были полностью созданы на синтезаторах,\n    формируя звучание, которое сам Mortiis называл «dark dungeon music».\n    Этот стиль оказал фундаментальное влияние на последующее формирование Dungeon Synth.\n    Последний альбом этой эры, <em>The Stargate</em>, расширил палитру проекта,\n    добавив акустические гитары, флейты и мрачный вокал.\n</p>\n\n<p class=\"artist-release-note\">\n    На <em>The Smell of Rain</em> Mortiis перешёл к Dark Wave / Electropop звучанию,\n    а Ellefsen впервые стал основным вокалистом.\n    Этот релиз оказался единственным альбомом периода <strong>Era II</strong>.\n</p>\n\n<p class=\"artist-release-note\">\n    С наступлением <strong>Era III</strong> вышел <em>The Grudge</em>,\n    ставший ещё более радикальным отходом от предыдущих работ.\n    Альбом получил выраженное Industrial звучание,\n    сочетая тяжёлые гитары и индустриальное программирование.\n</p>\n\n<p>\n    В январе <strong>2020 года</strong> Mortiis вернулся к музыкальному стилю Era I\n    с альбомом <em>Spirit of Rebellion</em>.\n    Альбом представлял собой переработку его работы 1994 года\n    <em>Ånden som Gjorde Opprør</em>.\n</p>\n\n<p>\n    Mortiis признавался, что долгое время негативно относился к своим работам 1990-х годов,\n    считая их недостаточно качественными с точки зрения исполнения и продакшена.\n    Позднее он пересмотрел отношение к этому материалу и вновь увидел ценность\n    в искренности и оригинальности своих ранних записей.\n</p>\n\n<p>\n    В <strong>2026 году</strong> Mortiis выпустил <em>Ghosts of Europa</em>,\n    вновь вернувшись к Electronic Rock и Industrial Rock звучанию.\n</p>\n\n<p class=\"artist-source-note\">\n    Текст подготовлен на основе материалов\n    <a\n        href=\"https://en.wikipedia.org/wiki/Mortiis\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    >Wikipedia - Mortiis</a>.\n</p>"
             }
         }
     },
@@ -4629,9 +4909,9 @@
         "logo": "https://f4.bcbits.com/img/0015200072_10.jpg",
         "banner": "https://f4.bcbits.com/img/0011424993_102.avif",
         "background": "https://f4.bcbits.com/img/0044776938_130.jpg",
-        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
         "label_name": "Dungeons Deep Records",
-        "label_img": "https://f4.bcbits.com/img/0042890191_21.jpg",
+        "label_img": "https://f4.bcbits.com/img/0046920340_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "3062855137"
@@ -4865,6 +5145,41 @@
         }
     },
     {
+        "id": "oublieth",
+        "country": "Canada",
+        "genre": "",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0035359447_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0033143069_10.jpg",
+        "background": "https://f4.bcbits.com/img/0035359863_130.jpg",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "471073603"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/5yYOJ5mpX2Zcvcy3O8wYDH",
+            "bandcamp": "https://oublieth.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "https://music.apple.com/us/artist/oublieth/1593443875",
+            "website": "https://www.instagram.com/oublieth/"
+        },
+        "translations": {
+            "en": {
+                "name": "Oublieth",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "pumpkin-witch",
         "country": "USA",
         "genre": "",
@@ -5075,6 +5390,41 @@
         }
     },
     {
+        "id": "sceptre-of-the-fading-dawn",
+        "country": "Australia",
+        "genre": "",
+        "style": "Oldschool",
+        "mood": "Epic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0017240537_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0020334317_102.avif",
+        "background": "https://f4.bcbits.com/img/0020106044_130.jpg",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "3820838909"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/20nzFGSMGbReCGLpVnFOxu",
+            "bandcamp": "https://sceptreofthefadingdawn.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Sceptre Of The Fading Dawn",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "secrets-of-maya",
         "country": "USA",
         "genre": "",
@@ -5119,9 +5469,9 @@
         "logo": "https://f4.bcbits.com/img/a4230729622_10.jpg",
         "banner": "https://f4.bcbits.com/img/a4230729622_10.jpg",
         "background": "rgb(64, 64, 64)",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "1694004952"
@@ -5136,6 +5486,76 @@
         "translations": {
             "en": {
                 "name": "Sequestered Keep",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "serpents-isle",
+        "country": "Unknown",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Adventure",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0016120053_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0016119882_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "1889020568"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://serpentsisle.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Serpent's Isle",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "seven-black-books",
+        "country": "Argentina",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Adventure",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0031267708_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0031268139_102.avif",
+        "background": "https://f4.bcbits.com/img/0031267597_130.jpg",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "3988015465"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://sevenblackbooks.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/sevenblackbooks/"
+        },
+        "translations": {
+            "en": {
+                "name": "Seven Black Books",
                 "description": ""
             },
             "ru": {
@@ -5346,6 +5766,41 @@
         "translations": {
             "en": {
                 "name": "Slefnwald",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "snowfall",
+        "country": "Unknown",
+        "genre": "",
+        "style": "Ambient",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0022511201_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0022511203_102.avif",
+        "background": "rgb(255, 255, 255)",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "575498806"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://snowfallambient.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Snowfall",
                 "description": ""
             },
             "ru": {
@@ -5726,16 +6181,16 @@
             "bandcamp": "https://summoning.bandcamp.com/",
             "youtube": "https://music.youtube.com/channel/UC8jG23nTKgkWYfRt8cN2M-g",
             "apple_music": "https://music.apple.com/de/artist/summoning/47705987",
-            "website": "https://www.instagram.com/summoning_band/"
+            "website": "https://www.instagram.com/summoningofficial/"
         },
         "translations": {
             "en": {
                 "name": "Summoning",
-                "description": ""
+                "description": "<p>\n    <strong>Summoning</strong> is an Austrian atmospheric black metal band based in Vienna.\n    Since their formation in <strong>1993</strong>, they have released eight full-length albums\n    and two EPs via Napalm Records. Their lyrics make extensive use of J. R. R. Tolkien's\n    Middle-earth writings and mythology.\n</p>\n\n<p class=\"artist-origin\">\n    Summoning was formed in 1993 by Silenius (Michael Gregor), Protector\n    (Richard Lederer) and Trifixion (Alexander Trondl).\n    Since 1995, their lineup has had a consistent lineup of Richard Lederer as\n    \"Protector\" and Michael Gregor as \"Silenius\".\n    The band never played live performances and has consistently maintained that\n    they have no interest in ever doing so.\n</p>\n\n<p class=\"artist-release-note\">\n    <em>Lugburz</em> was a traditional black metal, vastly different than the band's\n    future releases. The band continued as a duo after the departure of Trifixion,\n    releasing <em>Minas Morgul</em> in 1995. This was the band's first release set\n    in an epic and atmospheric style utilizing guitar purely as a background\n    instrument and synth almost as a lead, using re-recorded early songs.\n</p>\n\n<p>\n    The band's sound has remained relatively consistent since then. It was frequently\n    described as \"epic\", \"hypnotic\", and \"atmospheric\", and makes extensive use of\n    keyboards, choir vocals, clean singing, synthesized instruments, and programmed drums.\n    Though the drums are programmed, they are played using a keyboard rather than with\n    a drum machine.\n</p>\n\n<p>\n    The band's music is deeply influenced by the literature of J. R. R. Tolkien,\n    particularly <em>The Lord of the Rings</em>. Most of the band's lyrics are derived\n    from Tolkien's own works. Silenius claimed to be influenced by dark wave and\n    ritualistic music as well as fantasy literature.\n</p>\n\n<p>\n    The band stated that they consider themselves to be composers rather than musicians\n    and do not practice together before recording.\n</p>\n\n<p class=\"artist-source-note\">\n    Text excerpts from\n    <a\n        href=\"https://en.wikipedia.org/wiki/Summoning_(band)\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    >Wikipedia - Summoning (band)</a>.\n</p>"
             },
             "ru": {
                 "name": "",
-                "description": ""
+                "description": "<p>\n    <strong>Summoning</strong> - австрийская группа в жанре Atmospheric Black Metal из Вены.\n    С момента основания в <strong>1993 году</strong> группа выпустила восемь полноформатных альбомов\n    и два EP на лейбле Napalm Records. В текстах Summoning широко используются произведения\n    Дж. Р. Р. Толкина о Средиземье и связанная с ними мифология.\n</p>\n\n<p class=\"artist-origin\">\n    Summoning была основана в 1993 году Silenius (Michael Gregor),\n    Protector (Richard Lederer) и Trifixion (Alexander Trondl).\n    С 1995 года состав группы остаётся неизменным: Richard Lederer выступает под именем\n    Protector, а Michael Gregor - под именем Silenius.\n    Группа никогда не выступала вживую и неоднократно подчёркивала,\n    что не заинтересована в концертной деятельности.\n</p>\n\n<p class=\"artist-release-note\">\n    <em>Lugburz</em> был традиционным Black Metal альбомом и значительно отличался\n    от последующих работ группы. После ухода Trifixion группа продолжила существование\n    как дуэт и в 1995 году выпустила <em>Minas Morgul</em>.\n    Это был первый релиз Summoning в эпическом и атмосферном стиле,\n    где гитара использовалась преимущественно как фоновый инструмент,\n    а синтезатор фактически играл ведущую роль.\n</p>\n\n<p>\n    С тех пор звучание группы оставалось относительно стабильным.\n    Его часто описывали как «эпическое», «гипнотическое» и «атмосферное».\n    В музыке широко используются клавишные, хоровой вокал, чистое пение,\n    синтезированные инструменты и программируемые ударные.\n    Несмотря на то что ударные программируются, партии исполняются с помощью клавиатуры,\n    а не драм-машины.\n</p>\n\n<p>\n    Музыка Summoning глубоко связана с литературой Дж. Р. Р. Толкина,\n    особенно с <em>The Lord of the Rings</em>.\n    Большая часть текстов группы основана на произведениях самого Толкина.\n    Silenius также называл среди источников влияния Dark Wave,\n    ритуальную музыку и фэнтезийную литературу.\n</p>\n\n<p>\n    Участники группы заявляли, что считают себя скорее композиторами,\n    чем музыкантами, и не репетируют вместе перед записью.\n</p>\n\n<p class=\"artist-source-note\">\n    Текст подготовлен на основе материалов\n    <a\n        href=\"https://en.wikipedia.org/wiki/Summoning_(band)\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    >Wikipedia - Summoning (band)</a>.\n</p>"
             }
         }
     },
@@ -6615,6 +7070,41 @@
         }
     },
     {
+        "id": "vaelastrasz",
+        "country": "USA",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Dreamy",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0034258316_10.jpg",
+        "banner": "https://i.ytimg.com/vi/3v1AZVtl-Eg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAFOcqyS0D424xSnnRH3MxKTtd8IQ",
+        "background": "https://f4.bcbits.com/img/a3498646508_10.jpg",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "3151699564"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/0wluJgZxa9wxhGUKJMYLAW",
+            "bandcamp": "https://vaelastrasz.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "https://music.apple.com/us/artist/vaelastrasz/1459685707",
+            "website": "https://www.instagram.com/vaelastrasz/"
+        },
+        "translations": {
+            "en": {
+                "name": "Vaelastrasz",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "valen",
         "country": "Sweden",
         "genre": "",
@@ -6659,9 +7149,9 @@
         "logo": "https://f4.bcbits.com/img/0045749064_10.jpg",
         "banner": "https://f4.bcbits.com/img/0045749062_102.avif",
         "background": "https://f4.bcbits.com/img/0045749086_130.jpg",
-        "label": "https://dungeonsdeeprecords.bandcamp.com/",
+        "label": "https://dungeonsdeeprecords.bandcamp.com/music",
         "label_name": "Dungeons Deep Records",
-        "label_img": "https://f4.bcbits.com/img/0042890191_21.jpg",
+        "label_img": "https://f4.bcbits.com/img/0046920340_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "3684182084"
@@ -6851,6 +7341,41 @@
         "translations": {
             "en": {
                 "name": "Waraxe",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "warduke",
+        "country": "Unknown",
+        "genre": "",
+        "style": "Chiptune",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/a4005973074_10.jpg",
+        "banner": "https://i.ytimg.com/vi/oMXYa7EQXgY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCacUCWSu-pxLu7VRcOGf5Ml3Uqxw",
+        "background": "rgb(23, 23, 23)",
+        "label": "https://outofseason.bandcamp.com/",
+        "label_name": "Out of Season",
+        "label_img": "https://f4.bcbits.com/img/0036610813_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "1044339203"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://warduke.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "WARDUKE",
                 "description": ""
             },
             "ru": {

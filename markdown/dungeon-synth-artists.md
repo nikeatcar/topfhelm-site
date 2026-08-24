@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-23
+last_updated: 2026-08-24
 ---
 
 # Dungeon Synth Artists Directory - The Dungeon Synth Bestiary 
@@ -193,6 +193,18 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://blaggardrecords.bandcamp.com/album/barbarian-ring-the-barbarian-ring-demo)
 
+### Bespin Moons
+
+**Country:** USA
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Sci-fi
+**Mood:** Battle
+**Tempo:** Normal
+
+[Spotify](https://open.spotify.com/artist/0bQBXa8wwRidizT5ifY47g)
+[Bandcamp](https://bespinmoons.bandcamp.com/album/a-binding-force)
+[YouTube](https://music.apple.com/us/artist/bespin-moons/1577789756)
+
 ### Besteigung
 
 **Country:** Russia
@@ -231,12 +243,22 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Blood Lord
 
 **Country:** UK
-**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
 **Style:** Chiptune
 **Mood:** Mystical
 **Tempo:** Normal
 
 [Bandcamp](https://bloodlordds.bandcamp.com/)
+
+### BOOK OF SKELOS
+
+**Country:** Unknown
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Chiptune
+**Mood:** Mystical
+**Tempo:** Normal
+
+[Bandcamp](https://bookofskelos.bandcamp.com/)
 
 ### Borehole
 
@@ -322,6 +344,17 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://charneloubliette.bandcamp.com/)
 
+### Chaucerian Myth
+
+**Country:** USA
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Medieval
+**Mood:** Dreamy
+**Tempo:** Normal
+
+[Spotify](https://open.spotify.com/artist/1rMQJpFbLXZWpn0TOMwYCV)
+[Bandcamp](https://chaucerianmyth.bandcamp.com/)
+
 ### Chestnut Brown
 
 **Country:** Taiwan
@@ -332,9 +365,20 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://chestnutbrown.bandcamp.com/)
 [Website](https://www.instagram.com/chestnutbrownmusic/)
 
+### Cimitir
+
+**Country:** USA
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Horror
+**Mood:** Mystical
+**Tempo:** Normal
+
+[Bandcamp](https://cimitir.bandcamp.com/)
+
 ### Coniferous Myst
 
 **Country:** USA
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
 **Style:** Oldschool
 **Mood:** Melancholic
 **Tempo:** Slow
@@ -450,7 +494,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Diplodocus
 
 **Country:** USA
-**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
 **Style:** Prehistoric
 **Mood:** Epic
 **Tempo:** Slow
@@ -569,7 +613,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Elyvilon
 
 **Country:** USA
-**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
 **Style:** Medieval
 **Mood:** Dreamy
 **Tempo:** Normal
@@ -718,7 +762,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Flickers from the Fen
 
 **Country:** UK
-**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
 **Style:** Fantasy
 **Mood:** Dreamy
 **Tempo:** Normal
@@ -726,6 +770,19 @@ If you want to suggest your project or bring a short text about it - please use 
 [Spotify](https://open.spotify.com/artist/4wZ80S3wn5noPn1t8wwC2F)
 [Bandcamp](https://flickersfromthefen.bandcamp.com/)
 [Website](https://www.instagram.com/flickersfromthefen/)
+
+### Foglord
+
+**Country:** USA
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Oldschool
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/artist/7L9N22Shqsfb23tR0S8lPl)
+[Bandcamp](https://foglord.bandcamp.com/)
+[YouTube](https://www.youtube.com/hashtag/foglord)
+[Website](https://www.instagram.com/d.drolgof/)
 
 ### Fogweaver
 
@@ -776,10 +833,20 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://frostgard-dungeonsynth.bandcamp.com)
 [Website](https://www.instagram.com/frostgard_/)
 
+### Gargoylium
+
+**Country:** France
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Medieval
+**Mood:** Battle
+**Tempo:** Normal
+
+[Bandcamp](https://gargoylium.bandcamp.com/)
+
 ### Gelure
 
 **Country:** Australia
-**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
 **Style:** Fantasy
 **Mood:** Epic
 **Tempo:** Normal
@@ -842,7 +909,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Grandma's Cottage
 
 **Country:** USA
-**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
 **Style:** Comfy
 **Mood:** Dreamy
 **Tempo:** Slow
@@ -870,6 +937,19 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://green-hollow.bandcamp.com/)
 [Website](https://www.instagram.com/greenhollow.music/)
+
+### Grimdor
+
+**Country:** Germany
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Oldschool
+**Mood:** Adventure
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/artist/2zAnHWtq0RqPCafyurL8Ob)
+[Bandcamp](https://grimdorofficial.bandcamp.com/)
+[YouTube](https://music.youtube.com/channel/UCv1B41cIjOw9Rrb5U1RKHcg)
+[Website](https://www.instagram.com/grimdorofficial/)
 
 ### Grimstone
 
@@ -969,7 +1049,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Hole Dweller
 
 **Country:** USA
-**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
 **Style:** Fantasy
 **Mood:** Melancholic
 **Tempo:** Normal
@@ -1035,6 +1115,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Jääportit
 
 **Country:** Finland
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
 **Style:** Fantasy
 **Mood:** Melancholic
 **Tempo:** Slow
@@ -1257,6 +1338,17 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://mitternachtproject.bandcamp.com/)
 
+### Moonglow
+
+**Country:** USA
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Normal
+
+[Bandcamp](https://moonglow.bandcamp.com/)
+[Website](https://www.instagram.com/moonglow_ds/)
+
 ### Moonlit Path
 
 **Country:** UK
@@ -1279,6 +1371,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Morketsvind
 
 **Country:** Russia
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
 **Style:** Medieval
 **Mood:** Epic
 **Tempo:** Normal
@@ -1294,6 +1387,68 @@ If you want to suggest your project or bring a short text about it - please use 
 **Style:** Oldschool
 **Mood:** Epic
 **Tempo:** Slow
+
+<p>
+ <strong>Mortiis</strong> is an electronic band from Notodden, Norway fronted by
+ <strong>Håvard Ellefsen</strong>, who is also known as the namesake of the band.
+ Mortiis started as the solo project of Ellefsen as a means to convey a story.
+ Ellefsen previously played bass in the black metal band <em>Emperor</em>
+ (1991-1992), prior to forming this project in <strong>1993</strong>.
+</p>
+
+<p class="artist-origin">
+ The time he spent in his previous band laid the groundworks for mixing black metal
+ elements with various electronic genres, with these being touched upon across each
+ "era" of the band.
+</p>
+
+<p class="artist-release-note">
+ All of the <strong>Era I</strong> albums were composed entirely on synthesizers,
+ creating a sound that Mortiis described as "dark dungeon music" - a fundamental
+ influence on the later dungeon synth genre.
+ The last album of this era, <em>The Stargate</em>, went a step further by introducing
+ a wider range of instruments including acoustic guitars, flutes and dark vocals.
+</p>
+
+<p class="artist-release-note">
+ Mortiis shifted to a dark wave / electropop style on
+ <em>The Smell of Rain</em>, and frontman Ellefsen took to lead vocals for the first time.
+ This would be the only release under the title of <strong>Era II</strong>.
+</p>
+
+<p class="artist-release-note">
+ With <strong>Era III</strong> came <em>The Grudge</em>, which took an even more drastic
+ turn from previous eras. <em>The Grudge</em> took on a heavy industrial emphasis,
+ combining grinding guitars and industrial programming.
+</p>
+
+<p>
+ In January <strong>2020</strong>, Mortiis returned to his Era I style of music with
+ the album <em>Spirit of Rebellion</em>. The album was a reworking of his 1994 work
+ <em>Ånden som Gjorde Opprør</em>.
+</p>
+
+<p>
+ Mortiis admitted to having long-held negative feelings about his 1990s output,
+ feeling resentment towards perceived lack of quality in musicianship and production.
+ However, he has since reassessed his detachment towards this material, and now sees
+ renewed worth in the honesty and originality of his early records.
+</p>
+
+<p>
+ In <strong>2026</strong>, Mortiis released <em>Ghosts of Europa</em>,
+ which resumed the band's electronic rock and industrial rock style.
+</p>
+
+<p class="artist-source-note">
+ Text excerpts from
+ <a
+ href="https://en.wikipedia.org/wiki/Mortiis"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Wikipedia - Mortiis</a>.
+</p>
 
 [Spotify](https://open.spotify.com/artist/4jlxvaggBp7wVV02U6YYRQ)
 [Bandcamp](https://mortiis.bandcamp.com/)
@@ -1449,7 +1604,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Nortfalke
 
 **Country:** Netherlands
-**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
 **Style:** Medieval
 **Mood:** Dark
 **Tempo:** Normal
@@ -1524,6 +1679,19 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://onoskelis.bandcamp.com/)
 [Website](https://www.instagram.com/onoskelis_official/)
 
+### Oublieth
+
+**Country:** Canada
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/artist/5yYOJ5mpX2Zcvcy3O8wYDH)
+[Bandcamp](https://oublieth.bandcamp.com/)
+[Apple Music](https://music.apple.com/us/artist/oublieth/1593443875)
+[Website](https://www.instagram.com/oublieth/)
+
 ### Pumpkin Witch
 
 **Country:** USA
@@ -1587,6 +1755,17 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://rogofficial.bandcamp.com/)
 
+### Sceptre Of The Fading Dawn
+
+**Country:** Australia
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Oldschool
+**Mood:** Epic
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/artist/20nzFGSMGbReCGLpVnFOxu)
+[Bandcamp](https://sceptreofthefadingdawn.bandcamp.com/)
+
 ### Secrets of Maya
 
 **Country:** USA
@@ -1600,6 +1779,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Sequestered Keep
 
 **Country:** USA
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
 **Style:** Fantasy
 **Mood:** Epic
 **Tempo:** Normal
@@ -1607,6 +1787,27 @@ If you want to suggest your project or bring a short text about it - please use 
 [Spotify](https://open.spotify.com/artist/7l0DWYVf0KnhaBBhiXRi1P)
 [Bandcamp](https://sequesteredkeep.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/sequestered-keep/1723974836)
+
+### Serpent's Isle
+
+**Country:** Unknown
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Fantasy
+**Mood:** Adventure
+**Tempo:** Normal
+
+[Bandcamp](https://serpentsisle.bandcamp.com/)
+
+### Seven Black Books
+
+**Country:** Argentina
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Fantasy
+**Mood:** Adventure
+**Tempo:** Normal
+
+[Bandcamp](https://sevenblackbooks.bandcamp.com/)
+[Website](https://www.instagram.com/sevenblackbooks/)
 
 ### Sidereal Fortress
 
@@ -1672,6 +1873,16 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Spotify](https://open.spotify.com/artist/4yhHFw8FBiLPPXGY9VKI1e)
 [Apple Music](https://music.apple.com/us/artist/slefnwald/1700250994)
+
+### Snowfall
+
+**Country:** Unknown
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Ambient
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Bandcamp](https://snowfallambient.bandcamp.com/)
 
 ### Solanum
 
@@ -1785,11 +1996,65 @@ If you want to suggest your project or bring a short text about it - please use 
 **Mood:** Epic
 **Tempo:** Slow
 
+<p>
+ <strong>Summoning</strong> is an Austrian atmospheric black metal band based in Vienna.
+ Since their formation in <strong>1993</strong>, they have released eight full-length albums
+ and two EPs via Napalm Records. Their lyrics make extensive use of J. R. R. Tolkien's
+ Middle-earth writings and mythology.
+</p>
+
+<p class="artist-origin">
+ Summoning was formed in 1993 by Silenius (Michael Gregor), Protector
+ (Richard Lederer) and Trifixion (Alexander Trondl).
+ Since 1995, their lineup has had a consistent lineup of Richard Lederer as
+ "Protector" and Michael Gregor as "Silenius".
+ The band never played live performances and has consistently maintained that
+ they have no interest in ever doing so.
+</p>
+
+<p class="artist-release-note">
+ <em>Lugburz</em> was a traditional black metal, vastly different than the band's
+ future releases. The band continued as a duo after the departure of Trifixion,
+ releasing <em>Minas Morgul</em> in 1995. This was the band's first release set
+ in an epic and atmospheric style utilizing guitar purely as a background
+ instrument and synth almost as a lead, using re-recorded early songs.
+</p>
+
+<p>
+ The band's sound has remained relatively consistent since then. It was frequently
+ described as "epic", "hypnotic", and "atmospheric", and makes extensive use of
+ keyboards, choir vocals, clean singing, synthesized instruments, and programmed drums.
+ Though the drums are programmed, they are played using a keyboard rather than with
+ a drum machine.
+</p>
+
+<p>
+ The band's music is deeply influenced by the literature of J. R. R. Tolkien,
+ particularly <em>The Lord of the Rings</em>. Most of the band's lyrics are derived
+ from Tolkien's own works. Silenius claimed to be influenced by dark wave and
+ ritualistic music as well as fantasy literature.
+</p>
+
+<p>
+ The band stated that they consider themselves to be composers rather than musicians
+ and do not practice together before recording.
+</p>
+
+<p class="artist-source-note">
+ Text excerpts from
+ <a
+ href="https://en.wikipedia.org/wiki/Summoning_(band)"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Wikipedia - Summoning (band)</a>.
+</p>
+
 [Spotify](https://open.spotify.com/artist/5BViLZRXrRfhPDokkbYiMy)
 [Bandcamp](https://summoning.bandcamp.com/)
 [YouTube](https://music.youtube.com/channel/UC8jG23nTKgkWYfRt8cN2M-g)
 [Apple Music](https://music.apple.com/de/artist/summoning/47705987)
-[Website](https://www.instagram.com/summoning_band/)
+[Website](https://www.instagram.com/summoningofficial/)
 
 ### Svarograd
 
@@ -2106,6 +2371,19 @@ If you want to suggest your project or bring a short text about it - please use 
 [YouTube](https://www.youtube.com/@utrhomusicDungeonsynth)
 [Website](https://www.instagram.com/utrho.music.art/)
 
+### Vaelastrasz
+
+**Country:** USA
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Fantasy
+**Mood:** Dreamy
+**Tempo:** Normal
+
+[Spotify](https://open.spotify.com/artist/0wluJgZxa9wxhGUKJMYLAW)
+[Bandcamp](https://vaelastrasz.bandcamp.com/)
+[Apple Music](https://music.apple.com/us/artist/vaelastrasz/1459685707)
+[Website](https://www.instagram.com/vaelastrasz/)
+
 ### Valen
 
 **Country:** Sweden
@@ -2119,7 +2397,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Vanishing Amulet
 
 **Country:** USA
-**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
 **Style:** Fantasy
 **Mood:** Melancholic
 **Tempo:** Slow
@@ -2196,6 +2474,16 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://waraxeband.bandcamp.com/)
 [Website](https://www.instagram.com/waraxetheband/)
+
+### WARDUKE
+
+**Country:** Unknown
+**Label:** [Out of Season](https://outofseason.bandcamp.com/)
+**Style:** Chiptune
+**Mood:** Melancholic
+**Tempo:** Normal
+
+[Bandcamp](https://warduke.bandcamp.com/)
 
 ### Warlock Corpse
 

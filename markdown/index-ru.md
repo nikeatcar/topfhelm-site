@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/ru
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-23
+last_updated: 2026-08-24
 ---
 
 # TopfHelm - Dungeon Folk & Dungeon Synth из Беларуси
@@ -58,11 +58,11 @@ A brief path through TopfHelm releases and worlds.
 
 Данжн Фолк Данжн Синт Средневековая Музыка Дарк Фолк 
 
-**Dungeon Folk** – это жанр средневековой музыки, сочетающий тёмный фолк, древние мелодии и атмосферу фэнтези. TopfHelm – **ван-мен проект [Dungeon Folk](https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-medieval-sound-ru) & [Dungeon Synth](https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fantasy-ru)**, создающий аутентичные композиции с использованием средневековых инструментов. 
+**Dungeon Folk** – это жанр средневековой музыки, сочетающий тёмный фолк, древние мелодии и атмосферу фэнтези. TopfHelm – **ван-мен проект Dungeon Folk & Dungeon Synth** , создающий аутентичные композиции с использованием средневековых инструментов. 
 
 ### Звучание Dungeon Folk & Dungeon Synth
 
-Вдохновлённый **[средневекой музыкой](https://topfhelm.com/articles/medieval-music-from-origins-to-the-modern-era-ru), блэк-металом и саундтреками к фэнтези**, TopfHelm сочетает элементы **Dungeon Synth, Dark Folk и Средневекового эмбиента**. В композициях используются **колёсная лира, лютни, боевые барабаны и другие средневековые инструменты**, заменяя синтетическое звучание на живой и аутентичный саунд. 
+Вдохновлённый **средневекой музыкой, блэк-металом и саундтреками к фэнтези**, TopfHelm сочетает элементы **Dungeon Synth, Dark Folk и Средневекового эмбиента**. В композициях используются **колёсная лира, лютни, боевые барабаны и другие средневековые инструменты**, заменяя синтетическое звучание на живой и аутентичный саунд. 
 
 ### Независимый и андерграундный проект
 

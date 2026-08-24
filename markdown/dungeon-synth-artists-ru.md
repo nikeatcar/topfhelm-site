@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/ru/
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-23
+last_updated: 2026-08-24
 ---
 
 # Каталог Dungeon Synth исполнителей — Dungeon Synth Bestiary 
@@ -193,6 +193,18 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://blaggardrecords.bandcamp.com/album/barbarian-ring-the-barbarian-ring-demo)
 
+### Bespin Moons
+
+**Страна:** USA
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Sci-fi
+**Настроение:** Battle
+**Темп:** Normal
+
+[Spotify](https://open.spotify.com/artist/0bQBXa8wwRidizT5ifY47g)
+[Bandcamp](https://bespinmoons.bandcamp.com/album/a-binding-force)
+[YouTube](https://music.apple.com/us/artist/bespin-moons/1577789756)
+
 ### Besteigung
 
 **Страна:** Russia
@@ -231,12 +243,22 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 ### Blood Lord
 
 **Страна:** UK
-**Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
 **Стиль:** Chiptune
 **Настроение:** Mystical
 **Темп:** Normal
 
 [Bandcamp](https://bloodlordds.bandcamp.com/)
+
+### BOOK OF SKELOS
+
+**Страна:** Unknown
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Chiptune
+**Настроение:** Mystical
+**Темп:** Normal
+
+[Bandcamp](https://bookofskelos.bandcamp.com/)
 
 ### Borehole
 
@@ -322,6 +344,17 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://charneloubliette.bandcamp.com/)
 
+### Chaucerian Myth
+
+**Страна:** USA
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Medieval
+**Настроение:** Dreamy
+**Темп:** Normal
+
+[Spotify](https://open.spotify.com/artist/1rMQJpFbLXZWpn0TOMwYCV)
+[Bandcamp](https://chaucerianmyth.bandcamp.com/)
+
 ### Chestnut Brown
 
 **Страна:** Taiwan
@@ -332,9 +365,20 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://chestnutbrown.bandcamp.com/)
 [Website](https://www.instagram.com/chestnutbrownmusic/)
 
+### Cimitir
+
+**Страна:** USA
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Horror
+**Настроение:** Mystical
+**Темп:** Normal
+
+[Bandcamp](https://cimitir.bandcamp.com/)
+
 ### Coniferous Myst
 
 **Страна:** USA
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
 **Стиль:** Oldschool
 **Настроение:** Melancholic
 **Темп:** Slow
@@ -450,7 +494,7 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 ### Diplodocus
 
 **Страна:** USA
-**Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
 **Стиль:** Prehistoric
 **Настроение:** Epic
 **Темп:** Slow
@@ -569,7 +613,7 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 ### Elyvilon
 
 **Страна:** USA
-**Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
 **Стиль:** Medieval
 **Настроение:** Dreamy
 **Темп:** Normal
@@ -718,7 +762,7 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 ### Flickers from the Fen
 
 **Страна:** UK
-**Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
 **Стиль:** Fantasy
 **Настроение:** Dreamy
 **Темп:** Normal
@@ -726,6 +770,19 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Spotify](https://open.spotify.com/artist/4wZ80S3wn5noPn1t8wwC2F)
 [Bandcamp](https://flickersfromthefen.bandcamp.com/)
 [Website](https://www.instagram.com/flickersfromthefen/)
+
+### Foglord
+
+**Страна:** USA
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Oldschool
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/artist/7L9N22Shqsfb23tR0S8lPl)
+[Bandcamp](https://foglord.bandcamp.com/)
+[YouTube](https://www.youtube.com/hashtag/foglord)
+[Website](https://www.instagram.com/d.drolgof/)
 
 ### Fogweaver
 
@@ -776,10 +833,20 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://frostgard-dungeonsynth.bandcamp.com)
 [Website](https://www.instagram.com/frostgard_/)
 
+### Gargoylium
+
+**Страна:** France
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Medieval
+**Настроение:** Battle
+**Темп:** Normal
+
+[Bandcamp](https://gargoylium.bandcamp.com/)
+
 ### Gelure
 
 **Страна:** Australia
-**Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
 **Стиль:** Fantasy
 **Настроение:** Epic
 **Темп:** Normal
@@ -842,7 +909,7 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 ### Grandma's Cottage
 
 **Страна:** USA
-**Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
 **Стиль:** Comfy
 **Настроение:** Dreamy
 **Темп:** Slow
@@ -870,6 +937,19 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://green-hollow.bandcamp.com/)
 [Website](https://www.instagram.com/greenhollow.music/)
+
+### Grimdor
+
+**Страна:** Germany
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Oldschool
+**Настроение:** Adventure
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/artist/2zAnHWtq0RqPCafyurL8Ob)
+[Bandcamp](https://grimdorofficial.bandcamp.com/)
+[YouTube](https://music.youtube.com/channel/UCv1B41cIjOw9Rrb5U1RKHcg)
+[Website](https://www.instagram.com/grimdorofficial/)
 
 ### Grimstone
 
@@ -969,7 +1049,7 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 ### Hole Dweller
 
 **Страна:** USA
-**Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
 **Стиль:** Fantasy
 **Настроение:** Melancholic
 **Темп:** Normal
@@ -1035,6 +1115,7 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 ### Jääportit
 
 **Страна:** Finland
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
 **Стиль:** Fantasy
 **Настроение:** Melancholic
 **Темп:** Slow
@@ -1257,6 +1338,17 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://mitternachtproject.bandcamp.com/)
 
+### Moonglow
+
+**Страна:** USA
+**Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
+**Стиль:** Fantasy
+**Настроение:** Epic
+**Темп:** Normal
+
+[Bandcamp](https://moonglow.bandcamp.com/)
+[Website](https://www.instagram.com/moonglow_ds/)
+
 ### Moonlit Path
 
 **Страна:** UK
@@ -1279,6 +1371,7 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 ### Morketsvind
 
 **Страна:** Russia
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
 **Стиль:** Medieval
 **Настроение:** Epic
 **Темп:** Normal
@@ -1294,6 +1387,70 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Стиль:** Oldschool
 **Настроение:** Epic
 **Темп:** Slow
+
+<p>
+ <strong>Mortiis</strong> - электронный музыкальный проект из Нотоддена, Норвегия,
+ возглавляемый <strong>Håvard Ellefsen</strong>, который также известен под именем Mortiis.
+ Изначально Mortiis был сольным проектом Ellefsen, созданным как средство для передачи
+ истории. До основания проекта в <strong>1993 году</strong> Ellefsen играл на бас-гитаре
+ в Black Metal группе <em>Emperor</em> в 1991-1992 годах.
+</p>
+
+<p class="artist-origin">
+ Опыт, полученный им в предыдущей группе, заложил основу для сочетания элементов
+ Black Metal с различными направлениями электронной музыки, которые в дальнейшем
+ проявлялись в разных «эрах» Mortiis.
+</p>
+
+<p class="artist-release-note">
+ Все альбомы <strong>Era I</strong> были полностью созданы на синтезаторах,
+ формируя звучание, которое сам Mortiis называл «dark dungeon music».
+ Этот стиль оказал фундаментальное влияние на последующее формирование Dungeon Synth.
+ Последний альбом этой эры, <em>The Stargate</em>, расширил палитру проекта,
+ добавив акустические гитары, флейты и мрачный вокал.
+</p>
+
+<p class="artist-release-note">
+ На <em>The Smell of Rain</em> Mortiis перешёл к Dark Wave / Electropop звучанию,
+ а Ellefsen впервые стал основным вокалистом.
+ Этот релиз оказался единственным альбомом периода <strong>Era II</strong>.
+</p>
+
+<p class="artist-release-note">
+ С наступлением <strong>Era III</strong> вышел <em>The Grudge</em>,
+ ставший ещё более радикальным отходом от предыдущих работ.
+ Альбом получил выраженное Industrial звучание,
+ сочетая тяжёлые гитары и индустриальное программирование.
+</p>
+
+<p>
+ В январе <strong>2020 года</strong> Mortiis вернулся к музыкальному стилю Era I
+ с альбомом <em>Spirit of Rebellion</em>.
+ Альбом представлял собой переработку его работы 1994 года
+ <em>Ånden som Gjorde Opprør</em>.
+</p>
+
+<p>
+ Mortiis признавался, что долгое время негативно относился к своим работам 1990-х годов,
+ считая их недостаточно качественными с точки зрения исполнения и продакшена.
+ Позднее он пересмотрел отношение к этому материалу и вновь увидел ценность
+ в искренности и оригинальности своих ранних записей.
+</p>
+
+<p>
+ В <strong>2026 году</strong> Mortiis выпустил <em>Ghosts of Europa</em>,
+ вновь вернувшись к Electronic Rock и Industrial Rock звучанию.
+</p>
+
+<p class="artist-source-note">
+ Текст подготовлен на основе материалов
+ <a
+ href="https://en.wikipedia.org/wiki/Mortiis"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Wikipedia - Mortiis</a>.
+</p>
 
 [Spotify](https://open.spotify.com/artist/4jlxvaggBp7wVV02U6YYRQ)
 [Bandcamp](https://mortiis.bandcamp.com/)
@@ -1449,7 +1606,7 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 ### Nortfalke
 
 **Страна:** Netherlands
-**Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
 **Стиль:** Medieval
 **Настроение:** Dark
 **Темп:** Normal
@@ -1524,6 +1681,19 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://onoskelis.bandcamp.com/)
 [Website](https://www.instagram.com/onoskelis_official/)
 
+### Oublieth
+
+**Страна:** Canada
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Oldschool
+**Настроение:** Mystical
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/artist/5yYOJ5mpX2Zcvcy3O8wYDH)
+[Bandcamp](https://oublieth.bandcamp.com/)
+[Apple Music](https://music.apple.com/us/artist/oublieth/1593443875)
+[Website](https://www.instagram.com/oublieth/)
+
 ### Pumpkin Witch
 
 **Страна:** USA
@@ -1587,6 +1757,17 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://rogofficial.bandcamp.com/)
 
+### Sceptre Of The Fading Dawn
+
+**Страна:** Australia
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Oldschool
+**Настроение:** Epic
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/artist/20nzFGSMGbReCGLpVnFOxu)
+[Bandcamp](https://sceptreofthefadingdawn.bandcamp.com/)
+
 ### Secrets of Maya
 
 **Страна:** USA
@@ -1600,6 +1781,7 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 ### Sequestered Keep
 
 **Страна:** USA
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
 **Стиль:** Fantasy
 **Настроение:** Epic
 **Темп:** Normal
@@ -1607,6 +1789,27 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Spotify](https://open.spotify.com/artist/7l0DWYVf0KnhaBBhiXRi1P)
 [Bandcamp](https://sequesteredkeep.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/sequestered-keep/1723974836)
+
+### Serpent's Isle
+
+**Страна:** Unknown
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Fantasy
+**Настроение:** Adventure
+**Темп:** Normal
+
+[Bandcamp](https://serpentsisle.bandcamp.com/)
+
+### Seven Black Books
+
+**Страна:** Argentina
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Fantasy
+**Настроение:** Adventure
+**Темп:** Normal
+
+[Bandcamp](https://sevenblackbooks.bandcamp.com/)
+[Website](https://www.instagram.com/sevenblackbooks/)
 
 ### Sidereal Fortress
 
@@ -1672,6 +1875,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Spotify](https://open.spotify.com/artist/4yhHFw8FBiLPPXGY9VKI1e)
 [Apple Music](https://music.apple.com/us/artist/slefnwald/1700250994)
+
+### Snowfall
+
+**Страна:** Unknown
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Ambient
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Bandcamp](https://snowfallambient.bandcamp.com/)
 
 ### Solanum
 
@@ -1785,11 +1998,68 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Настроение:** Epic
 **Темп:** Slow
 
+<p>
+ <strong>Summoning</strong> - австрийская группа в жанре Atmospheric Black Metal из Вены.
+ С момента основания в <strong>1993 году</strong> группа выпустила восемь полноформатных альбомов
+ и два EP на лейбле Napalm Records. В текстах Summoning широко используются произведения
+ Дж. Р. Р. Толкина о Средиземье и связанная с ними мифология.
+</p>
+
+<p class="artist-origin">
+ Summoning была основана в 1993 году Silenius (Michael Gregor),
+ Protector (Richard Lederer) и Trifixion (Alexander Trondl).
+ С 1995 года состав группы остаётся неизменным: Richard Lederer выступает под именем
+ Protector, а Michael Gregor - под именем Silenius.
+ Группа никогда не выступала вживую и неоднократно подчёркивала,
+ что не заинтересована в концертной деятельности.
+</p>
+
+<p class="artist-release-note">
+ <em>Lugburz</em> был традиционным Black Metal альбомом и значительно отличался
+ от последующих работ группы. После ухода Trifixion группа продолжила существование
+ как дуэт и в 1995 году выпустила <em>Minas Morgul</em>.
+ Это был первый релиз Summoning в эпическом и атмосферном стиле,
+ где гитара использовалась преимущественно как фоновый инструмент,
+ а синтезатор фактически играл ведущую роль.
+</p>
+
+<p>
+ С тех пор звучание группы оставалось относительно стабильным.
+ Его часто описывали как «эпическое», «гипнотическое» и «атмосферное».
+ В музыке широко используются клавишные, хоровой вокал, чистое пение,
+ синтезированные инструменты и программируемые ударные.
+ Несмотря на то что ударные программируются, партии исполняются с помощью клавиатуры,
+ а не драм-машины.
+</p>
+
+<p>
+ Музыка Summoning глубоко связана с литературой Дж. Р. Р. Толкина,
+ особенно с <em>The Lord of the Rings</em>.
+ Большая часть текстов группы основана на произведениях самого Толкина.
+ Silenius также называл среди источников влияния Dark Wave,
+ ритуальную музыку и фэнтезийную литературу.
+</p>
+
+<p>
+ Участники группы заявляли, что считают себя скорее композиторами,
+ чем музыкантами, и не репетируют вместе перед записью.
+</p>
+
+<p class="artist-source-note">
+ Текст подготовлен на основе материалов
+ <a
+ href="https://en.wikipedia.org/wiki/Summoning_(band)"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Wikipedia - Summoning (band)</a>.
+</p>
+
 [Spotify](https://open.spotify.com/artist/5BViLZRXrRfhPDokkbYiMy)
 [Bandcamp](https://summoning.bandcamp.com/)
 [YouTube](https://music.youtube.com/channel/UC8jG23nTKgkWYfRt8cN2M-g)
 [Apple Music](https://music.apple.com/de/artist/summoning/47705987)
-[Website](https://www.instagram.com/summoning_band/)
+[Website](https://www.instagram.com/summoningofficial/)
 
 ### Svarograd
 
@@ -2109,6 +2379,19 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [YouTube](https://www.youtube.com/@utrhomusicDungeonsynth)
 [Website](https://www.instagram.com/utrho.music.art/)
 
+### Vaelastrasz
+
+**Страна:** USA
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Fantasy
+**Настроение:** Dreamy
+**Темп:** Normal
+
+[Spotify](https://open.spotify.com/artist/0wluJgZxa9wxhGUKJMYLAW)
+[Bandcamp](https://vaelastrasz.bandcamp.com/)
+[Apple Music](https://music.apple.com/us/artist/vaelastrasz/1459685707)
+[Website](https://www.instagram.com/vaelastrasz/)
+
 ### Valen
 
 **Страна:** Sweden
@@ -2122,7 +2405,7 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 ### Vanishing Amulet
 
 **Страна:** USA
-**Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
+**Лейбл:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/music)
 **Стиль:** Fantasy
 **Настроение:** Melancholic
 **Темп:** Slow
@@ -2199,6 +2482,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://waraxeband.bandcamp.com/)
 [Website](https://www.instagram.com/waraxetheband/)
+
+### WARDUKE
+
+**Страна:** Unknown
+**Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
+**Стиль:** Chiptune
+**Настроение:** Melancholic
+**Темп:** Normal
+
+[Bandcamp](https://warduke.bandcamp.com/)
 
 ### Труп Колдуна
 

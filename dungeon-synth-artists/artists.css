@@ -973,6 +973,66 @@ body.ru .artists-search input{
     font-weight:600;
 }
 
+.artist-description .artist-source-note{
+
+    display:table;
+
+    margin-top:32px;
+    margin-bottom:0;
+
+    padding:8px 12px;
+
+    border:1px solid rgba(215,179,122,.28);
+    border-radius:6px;
+
+    background:
+        linear-gradient(
+            180deg,
+            rgba(28,25,20,.8),
+            rgba(15,15,15,.9)
+        );
+
+    color:#888;
+
+    font-size:12px;
+    line-height:1.5;
+}
+
+.artist-description .artist-source-note::before{
+
+    content:"SOURCE";
+
+    margin-right:10px;
+
+    font-family:"IM Fell English SC", serif;
+
+    font-size:10px;
+    letter-spacing:.14em;
+
+    color:#a98c5a;
+}
+
+.artist-description .artist-source-note a{
+
+    color:#c9aa72;
+
+    text-decoration:none;
+
+    border-bottom:1px dotted rgba(215,179,122,.4);
+}
+
+.artist-description .artist-source-note a:hover{
+
+    color:#f2e3be;
+
+    border-color:#f2e3be;
+}
+
+body.ru .artist-source-note::before{
+    content:"ИСТОЧНИК";
+    font-family:"Monomakh", serif;
+}
+
 /* ==========================================================
   Ссылки
 ========================================================== */
