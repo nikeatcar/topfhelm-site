@@ -480,6 +480,102 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Spotify](https://open.spotify.com/artist/6EbzULgLY2YuMmOlv2BNAX)
 [Bandcamp](https://depressivesilence-northernsilence.bandcamp.com/)
 
+### Die Verbannten Kinder Evas
+
+**Страна:** Austria
+**Лейбл:** [Napalm Records](https://napalmrecords.bandcamp.com/)
+**Стиль:** Oldschool
+**Настроение:** Melancholic
+**Темп:** Normal
+
+<p>
+ <strong>Die verbannten Kinder Evas</strong> - австрийский музыкальный проект,
+ основанный в <strong>1993 году</strong> Richard Lederer и Michael Gregor в
+ <a
+ href="https://de.wikipedia.org/wiki/Wien"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Вене</a>.
+ Название происходит от строки из
+ <a
+ href="https://de.wikipedia.org/wiki/Salve_Regina"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Salve Regina</a>.
+</p>
+
+<p class="artist-origin">
+ В 1993 году Richard Lederer, недовольный результатами своей группы, начал создавать первые собственные композиции.
+ Вскоре к нему присоединился Michael Gregor
+ (<a
+ href="https://de.wikipedia.org/wiki/Summoning_(Band)"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Summoning</a>),
+ привнеся в песни собственные идеи.
+ После этого они основали Die verbannten Kinder Evas.
+</p>
+
+<p class="artist-release-note">
+ После выпуска двух демозаписей проект получил контракт со швейцарским лейблом Witchhunt Records.
+ В марте 1995 года вышел дебютный альбом <em>Die verbannten Kinder Evas</em>, названный в честь самого проекта.
+ После выхода первого альбома Nora El Shammah покинула группу, поскольку ей не нравилась её музыка.
+ Вскоре ушёл и Michael Gregor, решив уделять больше внимания своей собственной группе Summoning.
+</p>
+
+<p class="artist-release-note">
+ В 1997 году вышел второй альбом <em>Come Heavy Sleep</em>, ставший более классическим и разнообразным.
+ Тексты были взяты из произведений
+ <a
+ href="https://de.wikipedia.org/wiki/Percy_Bysshe_Shelley"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Percy Bysshe Shelley</a>,
+ британского писателя XIX века.
+</p>
+
+<p class="artist-release-note">
+ В 1999 году на
+ <a
+ href="https://de.wikipedia.org/wiki/Napalm_Records"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Napalm Records</a>
+ вышел третий альбом <em>In Darkness Let Me Dwell</em>, который первоначально должен был называться <em>The Spirit of Solitude</em>.
+ В нём стало меньше классических элементов, благодаря чему голос Tania звучал мощнее.
+ Как и на <em>Come Heavy Sleep</em>, тексты были взяты из произведений Percy Bysshe Shelley и композитора
+ <a
+ href="https://de.wikipedia.org/wiki/John_Dowland"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >John Dowland</a>.
+</p>
+
+<p>
+ После нескольких лет безуспешных поисков подходящей вокалистки Richard нашёл греческую певицу Christina Kroustali.
+ За короткое время она выучила все песни Die verbannten Kinder Evas, после чего началась студийная работа над четвёртым альбомом <em>Dusk and Void Became Alive</em>.
+ Весь альбом был записан за два дня и вышел 3 ноября 2006 года, как и предыдущая работа, на Napalm Records.
+</p>
+
+<p class="artist-source-note">
+ На основе материалов немецкоязычной
+ <a
+ href="https://de.wikipedia.org/wiki/Die_verbannten_Kinder_Evas"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Wikipedia - Die verbannten Kinder Evas</a>.
+</p>
+
+[Spotify](https://open.spotify.com/artist/5wrSmddDTl3c9xa5Nl1GAN)
+[Bandcamp](https://dieverbanntenkinderevas.bandcamp.com/)
+
 ### DIM
 
 **Страна:** Canada
@@ -1389,11 +1485,31 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Slow
 
 <p>
- <strong>Mortiis</strong> - электронный музыкальный проект из Нотоддена, Норвегия,
+ <strong>Mortiis</strong> - электронный музыкальный проект из
+ <a
+ href="https://en.wikipedia.org/wiki/Notodden"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Нотоддена</a>, Норвегия,
  возглавляемый <strong>Håvard Ellefsen</strong>, который также известен под именем Mortiis.
  Изначально Mortiis был сольным проектом Ellefsen, созданным как средство для передачи
  истории. До основания проекта в <strong>1993 году</strong> Ellefsen играл на бас-гитаре
- в Black Metal группе <em>Emperor</em> в 1991-1992 годах.
+ в
+ <a
+ href="https://en.wikipedia.org/wiki/Black_metal"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Black Metal</a>
+ группе
+ <a
+ href="https://en.wikipedia.org/wiki/Emperor_(Norwegian_band)"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Emperor</em></a>
+ в 1991-1992 годах.
 </p>
 
 <p class="artist-origin">
@@ -1405,29 +1521,79 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 <p class="artist-release-note">
  Все альбомы <strong>Era I</strong> были полностью созданы на синтезаторах,
  формируя звучание, которое сам Mortiis называл «dark dungeon music».
- Этот стиль оказал фундаментальное влияние на последующее формирование Dungeon Synth.
+ Этот стиль оказал фундаментальное влияние на последующее формирование
+ <a
+ href="https://en.wikipedia.org/wiki/Dungeon_synth"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Dungeon Synth</a>.
  Последний альбом этой эры, <em>The Stargate</em>, расширил палитру проекта,
  добавив акустические гитары, флейты и мрачный вокал.
 </p>
 
 <p class="artist-release-note">
- На <em>The Smell of Rain</em> Mortiis перешёл к Dark Wave / Electropop звучанию,
+ На
+ <a
+ href="https://en.wikipedia.org/wiki/The_Smell_of_Rain"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>The Smell of Rain</em></a>
+ Mortiis перешёл к
+ <a
+ href="https://en.wikipedia.org/wiki/Dark_wave"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Dark Wave</a> /
+ <a
+ href="https://en.wikipedia.org/wiki/Electropop"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Electropop</a>
+ звучанию,
  а Ellefsen впервые стал основным вокалистом.
  Этот релиз оказался единственным альбомом периода <strong>Era II</strong>.
 </p>
 
 <p class="artist-release-note">
- С наступлением <strong>Era III</strong> вышел <em>The Grudge</em>,
+ С наступлением <strong>Era III</strong> вышел
+ <a
+ href="https://en.wikipedia.org/wiki/The_Grudge_(album)"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>The Grudge</em></a>,
  ставший ещё более радикальным отходом от предыдущих работ.
- Альбом получил выраженное Industrial звучание,
+ Альбом получил выраженное
+ <a
+ href="https://en.wikipedia.org/wiki/Industrial_rock"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Industrial</a>
+ звучание,
  сочетая тяжёлые гитары и индустриальное программирование.
 </p>
 
 <p>
  В январе <strong>2020 года</strong> Mortiis вернулся к музыкальному стилю Era I
- с альбомом <em>Spirit of Rebellion</em>.
+ с альбомом
+ <a
+ href="https://en.wikipedia.org/wiki/Spirit_of_Rebellion"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Spirit of Rebellion</em></a>.
  Альбом представлял собой переработку его работы 1994 года
- <em>Ånden som Gjorde Opprør</em>.
+ <a
+ href="https://en.wikipedia.org/wiki/%C3%85nden_som_Gjorde_Oppr%C3%B8r"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Ånden som Gjorde Opprør</em></a>.
 </p>
 
 <p>
@@ -1439,11 +1605,18 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 <p>
  В <strong>2026 году</strong> Mortiis выпустил <em>Ghosts of Europa</em>,
- вновь вернувшись к Electronic Rock и Industrial Rock звучанию.
+ вновь вернувшись к
+ <a
+ href="https://en.wikipedia.org/wiki/Electronic_rock"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Electronic Rock</a>
+ и Industrial Rock звучанию.
 </p>
 
 <p class="artist-source-note">
- Текст подготовлен на основе материалов
+ На основе материалов
  <a
  href="https://en.wikipedia.org/wiki/Mortiis"
  target="_blank"
@@ -1999,17 +2172,84 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Slow
 
 <p>
- <strong>Summoning</strong> - австрийская группа в жанре Atmospheric Black Metal из Вены.
+ <strong>Summoning</strong> - австрийская группа в жанре
+ <a
+ href="https://en.wikipedia.org/wiki/Atmospheric_black_metal"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Atmospheric Black Metal</a>
+ из
+ <a
+ href="https://en.wikipedia.org/wiki/Vienna"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Вены</a>.
  С момента основания в <strong>1993 году</strong> группа выпустила восемь полноформатных альбомов
- и два EP на лейбле Napalm Records. В текстах Summoning широко используются произведения
- Дж. Р. Р. Толкина о Средиземье и связанная с ними мифология.
+ и два
+ <a
+ href="https://en.wikipedia.org/wiki/Extended_play"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >EP</a>
+ на лейбле
+ <a
+ href="https://en.wikipedia.org/wiki/Napalm_Records"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Napalm Records</a>.
+ В текстах Summoning широко используются произведения
+ <a
+ href="https://en.wikipedia.org/wiki/J._R._R._Tolkien"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Дж. Р. Р. Толкина</a>
+ о
+ <a
+ href="https://en.wikipedia.org/wiki/Middle-earth"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Средиземье</a>
+ и связанная с ними мифология.
 </p>
 
 <p class="artist-origin">
- Summoning была основана в 1993 году Silenius (Michael Gregor),
- Protector (Richard Lederer) и Trifixion (Alexander Trondl).
- С 1995 года состав группы остаётся неизменным: Richard Lederer выступает под именем
- Protector, а Michael Gregor - под именем Silenius.
+ Summoning была основана в 1993 году Silenius
+ (<a
+ href="https://en.wikipedia.org/wiki/Michael_Gregor_(musician)"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Michael Gregor</a>),
+ Protector
+ (<a
+ href="https://en.wikipedia.org/wiki/Richard_Lederer_(musician)"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Richard Lederer</a>)
+ и Trifixion (Alexander Trondl).
+ С 1995 года состав группы остаётся неизменным:
+ <a
+ href="https://en.wikipedia.org/wiki/Richard_Lederer_(musician)"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Richard Lederer</a>
+ выступает под именем
+ Protector, а
+ <a
+ href="https://en.wikipedia.org/wiki/Michael_Gregor_(musician)"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Michael Gregor</a>
+ - под именем Silenius.
  Группа никогда не выступала вживую и неоднократно подчёркивала,
  что не заинтересована в концертной деятельности.
 </p>
@@ -2017,7 +2257,13 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 <p class="artist-release-note">
  <em>Lugburz</em> был традиционным Black Metal альбомом и значительно отличался
  от последующих работ группы. После ухода Trifixion группа продолжила существование
- как дуэт и в 1995 году выпустила <em>Minas Morgul</em>.
+ как дуэт и в 1995 году выпустила
+ <a
+ href="https://en.wikipedia.org/wiki/Minas_Morgul_(album)"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Minas Morgul</em></a>.
  Это был первый релиз Summoning в эпическом и атмосферном стиле,
  где гитара использовалась преимущественно как фоновый инструмент,
  а синтезатор фактически играл ведущую роль.
@@ -2033,10 +2279,28 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 </p>
 
 <p>
- Музыка Summoning глубоко связана с литературой Дж. Р. Р. Толкина,
- особенно с <em>The Lord of the Rings</em>.
+ Музыка Summoning глубоко связана с литературой
+ <a
+ href="https://en.wikipedia.org/wiki/J._R._R._Tolkien"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Дж. Р. Р. Толкина</a>,
+ особенно с
+ <a
+ href="https://en.wikipedia.org/wiki/The_Lord_of_the_Rings"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>The Lord of the Rings</em></a>.
  Большая часть текстов группы основана на произведениях самого Толкина.
- Silenius также называл среди источников влияния Dark Wave,
+ Silenius также называл среди источников влияния
+ <a
+ href="https://en.wikipedia.org/wiki/Dark_wave"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Dark Wave</a>,
  ритуальную музыку и фэнтезийную литературу.
 </p>
 
@@ -2046,7 +2310,7 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 </p>
 
 <p class="artist-source-note">
- Текст подготовлен на основе материалов
+ На основе материалов
  <a
  href="https://en.wikipedia.org/wiki/Summoning_(band)"
  target="_blank"

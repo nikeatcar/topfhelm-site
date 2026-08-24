@@ -480,6 +480,107 @@ If you want to suggest your project or bring a short text about it - please use 
 [Spotify](https://open.spotify.com/artist/6EbzULgLY2YuMmOlv2BNAX)
 [Bandcamp](https://depressivesilence-northernsilence.bandcamp.com/)
 
+### Die Verbannten Kinder Evas
+
+**Country:** Austria
+**Label:** [Napalm Records](https://napalmrecords.bandcamp.com/)
+**Style:** Oldschool
+**Mood:** Melancholic
+**Tempo:** Normal
+
+<p>
+ <strong>Die verbannten Kinder Evas</strong> is an
+ <a
+ href="https://de.wikipedia.org/wiki/%C3%96sterreich"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Austrian</a>
+ music project founded in <strong>1993</strong> by Richard Lederer and Michael Gregor in
+ <a
+ href="https://de.wikipedia.org/wiki/Wien"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Vienna</a>.
+ The name is derived from a line of the
+ <a
+ href="https://de.wikipedia.org/wiki/Salve_Regina"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Salve Regina</a>.
+</p>
+
+<p class="artist-origin">
+ In 1993, Richard Lederer began putting together his first compositions, dissatisfied with the results of his band.
+ Shortly afterwards, Michael Gregor
+ (<a
+ href="https://de.wikipedia.org/wiki/Summoning_(Band)"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Summoning</a>)
+ joined him and contributed his own ideas to the individual songs.
+ They subsequently founded Die verbannten Kinder Evas.
+</p>
+
+<p class="artist-release-note">
+ After releasing two demos, they received a contract with the Swiss record label Witchhunt Records.
+ In March 1995, the first album, <em>Die verbannten Kinder Evas</em>, named after the band itself, was released.
+ After the first album came out, Nora El Shammah left the band because she did not like its music.
+ Shortly afterwards, Michael Gregor also left because he wanted to concentrate more on his own band, Summoning.
+</p>
+
+<p class="artist-release-note">
+ In 1997, the band's second album, <em>Come Heavy Sleep</em>, was released and was more classical and diverse.
+ The band took the lyrics from
+ <a
+ href="https://de.wikipedia.org/wiki/Percy_Bysshe_Shelley"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Percy Bysshe Shelley</a>,
+ a British writer of the 19th century.
+</p>
+
+<p class="artist-release-note">
+ In 1999, the third album, <em>In Darkness Let Me Dwell</em>, originally intended to be titled <em>The Spirit of Solitude</em>, followed on
+ <a
+ href="https://de.wikipedia.org/wiki/Napalm_Records"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Napalm Records</a>.
+ It contained fewer classical elements, which made Tania's voice sound more powerful.
+ As with <em>Come Heavy Sleep</em>, the lyrics were taken from the writings of Percy Bysshe Shelley and the composer
+ <a
+ href="https://de.wikipedia.org/wiki/John_Dowland"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >John Dowland</a>.
+</p>
+
+<p>
+ After several years of unsuccessful searching for a singer for his songs, Richard found the Greek vocalist Christina Kroustali.
+ After only a short time, she had learned all the songs of Die verbannten Kinder Evas by heart, and studio work on the fourth album, <em>Dusk and Void Became Alive</em>, could begin.
+ The entire album was recorded within two days and was released on 3 November 2006, like its predecessor, by Napalm Records.
+</p>
+
+<p class="artist-source-note">
+ Text excerpts from the German-language
+ <a
+ href="https://de.wikipedia.org/wiki/Die_verbannten_Kinder_Evas"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Wikipedia - Die verbannten Kinder Evas</a>.
+</p>
+
+[Spotify](https://open.spotify.com/artist/5wrSmddDTl3c9xa5Nl1GAN)
+[Bandcamp](https://dieverbanntenkinderevas.bandcamp.com/)
+
 ### DIM
 
 **Country:** Canada
@@ -1389,10 +1490,36 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 <p>
- <strong>Mortiis</strong> is an electronic band from Notodden, Norway fronted by
+ <strong>Mortiis</strong> is an
+ <a
+ href="https://en.wikipedia.org/wiki/Electronic_music"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >electronic</a>
+ band from
+ <a
+ href="https://en.wikipedia.org/wiki/Notodden"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Notodden</a>, Norway fronted by
  <strong>Håvard Ellefsen</strong>, who is also known as the namesake of the band.
  Mortiis started as the solo project of Ellefsen as a means to convey a story.
- Ellefsen previously played bass in the black metal band <em>Emperor</em>
+ Ellefsen previously played bass in the
+ <a
+ href="https://en.wikipedia.org/wiki/Black_metal"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >black metal</a>
+ band
+ <a
+ href="https://en.wikipedia.org/wiki/Emperor_(Norwegian_band)"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Emperor</em></a>
  (1991-1992), prior to forming this project in <strong>1993</strong>.
 </p>
 
@@ -1405,27 +1532,78 @@ If you want to suggest your project or bring a short text about it - please use 
 <p class="artist-release-note">
  All of the <strong>Era I</strong> albums were composed entirely on synthesizers,
  creating a sound that Mortiis described as "dark dungeon music" - a fundamental
- influence on the later dungeon synth genre.
+ influence on the later
+ <a
+ href="https://en.wikipedia.org/wiki/Dungeon_synth"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >dungeon synth</a>
+ genre.
  The last album of this era, <em>The Stargate</em>, went a step further by introducing
  a wider range of instruments including acoustic guitars, flutes and dark vocals.
 </p>
 
 <p class="artist-release-note">
- Mortiis shifted to a dark wave / electropop style on
- <em>The Smell of Rain</em>, and frontman Ellefsen took to lead vocals for the first time.
+ Mortiis shifted to a
+ <a
+ href="https://en.wikipedia.org/wiki/Dark_wave"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >dark wave</a> /
+ <a
+ href="https://en.wikipedia.org/wiki/Electropop"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >electropop</a>
+ style on
+ <a
+ href="https://en.wikipedia.org/wiki/The_Smell_of_Rain"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>The Smell of Rain</em></a>,
+ and frontman Ellefsen took to lead vocals for the first time.
  This would be the only release under the title of <strong>Era II</strong>.
 </p>
 
 <p class="artist-release-note">
- With <strong>Era III</strong> came <em>The Grudge</em>, which took an even more drastic
- turn from previous eras. <em>The Grudge</em> took on a heavy industrial emphasis,
- combining grinding guitars and industrial programming.
+ With <strong>Era III</strong> came
+ <a
+ href="https://en.wikipedia.org/wiki/The_Grudge_(album)"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>The Grudge</em></a>,
+ which took an even more drastic turn from previous eras.
+ <em>The Grudge</em> took on a heavy
+ <a
+ href="https://en.wikipedia.org/wiki/Industrial_rock"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >industrial</a>
+ emphasis, combining grinding guitars and industrial programming.
 </p>
 
 <p>
  In January <strong>2020</strong>, Mortiis returned to his Era I style of music with
- the album <em>Spirit of Rebellion</em>. The album was a reworking of his 1994 work
- <em>Ånden som Gjorde Opprør</em>.
+ the album
+ <a
+ href="https://en.wikipedia.org/wiki/Spirit_of_Rebellion"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Spirit of Rebellion</em></a>.
+ The album was a reworking of his 1994 work
+ <a
+ href="https://en.wikipedia.org/wiki/%C3%85nden_som_Gjorde_Oppr%C3%B8r"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Ånden som Gjorde Opprør</em></a>.
 </p>
 
 <p>
@@ -1437,7 +1615,14 @@ If you want to suggest your project or bring a short text about it - please use 
 
 <p>
  In <strong>2026</strong>, Mortiis released <em>Ghosts of Europa</em>,
- which resumed the band's electronic rock and industrial rock style.
+ which resumed the band's
+ <a
+ href="https://en.wikipedia.org/wiki/Electronic_rock"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >electronic rock</a>
+ and industrial rock style.
 </p>
 
 <p class="artist-source-note">
@@ -1997,17 +2182,82 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 <p>
- <strong>Summoning</strong> is an Austrian atmospheric black metal band based in Vienna.
+ <strong>Summoning</strong> is an Austrian
+ <a
+ href="https://en.wikipedia.org/wiki/Atmospheric_black_metal"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >atmospheric black metal</a>
+ band based in
+ <a
+ href="https://en.wikipedia.org/wiki/Vienna"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Vienna</a>.
  Since their formation in <strong>1993</strong>, they have released eight full-length albums
- and two EPs via Napalm Records. Their lyrics make extensive use of J. R. R. Tolkien's
- Middle-earth writings and mythology.
+ and two
+ <a
+ href="https://en.wikipedia.org/wiki/Extended_play"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >EPs</a>
+ via
+ <a
+ href="https://en.wikipedia.org/wiki/Napalm_Records"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Napalm Records</a>.
+ Their lyrics make extensive use of
+ <a
+ href="https://en.wikipedia.org/wiki/J._R._R._Tolkien"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >J. R. R. Tolkien</a>'s
+ <a
+ href="https://en.wikipedia.org/wiki/Middle-earth"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Middle-earth</a>
+ writings and mythology.
 </p>
 
 <p class="artist-origin">
- Summoning was formed in 1993 by Silenius (Michael Gregor), Protector
- (Richard Lederer) and Trifixion (Alexander Trondl).
- Since 1995, their lineup has had a consistent lineup of Richard Lederer as
- "Protector" and Michael Gregor as "Silenius".
+ Summoning was formed in 1993 by Silenius
+ (<a
+ href="https://en.wikipedia.org/wiki/Michael_Gregor_(musician)"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Michael Gregor</a>),
+ Protector
+ (<a
+ href="https://en.wikipedia.org/wiki/Richard_Lederer_(musician)"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Richard Lederer</a>)
+ and Trifixion (Alexander Trondl).
+ Since 1995, their lineup has had a consistent lineup of
+ <a
+ href="https://en.wikipedia.org/wiki/Richard_Lederer_(musician)"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Richard Lederer</a>
+ as "Protector" and
+ <a
+ href="https://en.wikipedia.org/wiki/Michael_Gregor_(musician)"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >Michael Gregor</a>
+ as "Silenius".
  The band never played live performances and has consistently maintained that
  they have no interest in ever doing so.
 </p>
@@ -2015,7 +2265,14 @@ If you want to suggest your project or bring a short text about it - please use 
 <p class="artist-release-note">
  <em>Lugburz</em> was a traditional black metal, vastly different than the band's
  future releases. The band continued as a duo after the departure of Trifixion,
- releasing <em>Minas Morgul</em> in 1995. This was the band's first release set
+ releasing
+ <a
+ href="https://en.wikipedia.org/wiki/Minas_Morgul_(album)"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Minas Morgul</em></a>
+ in 1995. This was the band's first release set
  in an epic and atmospheric style utilizing guitar purely as a background
  instrument and synth almost as a lead, using re-recorded early songs.
 </p>
@@ -2029,10 +2286,29 @@ If you want to suggest your project or bring a short text about it - please use 
 </p>
 
 <p>
- The band's music is deeply influenced by the literature of J. R. R. Tolkien,
- particularly <em>The Lord of the Rings</em>. Most of the band's lyrics are derived
- from Tolkien's own works. Silenius claimed to be influenced by dark wave and
- ritualistic music as well as fantasy literature.
+ The band's music is deeply influenced by the literature of
+ <a
+ href="https://en.wikipedia.org/wiki/J._R._R._Tolkien"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >J. R. R. Tolkien</a>,
+ particularly
+ <a
+ href="https://en.wikipedia.org/wiki/The_Lord_of_the_Rings"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>The Lord of the Rings</em></a>.
+ Most of the band's lyrics are derived
+ from Tolkien's own works. Silenius claimed to be influenced by
+ <a
+ href="https://en.wikipedia.org/wiki/Dark_wave"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ >dark wave</a>
+ and ritualistic music as well as fantasy literature.
 </p>
 
 <p>
