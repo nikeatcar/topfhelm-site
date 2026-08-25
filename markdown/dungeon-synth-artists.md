@@ -235,6 +235,16 @@ If you want to suggest your project or bring a short text about it - please use 
 [YouTube](https://www.youtube.com/channel/UCJBe4nuaXiaVGg5lm-4nPWg)
 [Apple Music](https://music.apple.com/us/album/das-imperium-der-reinheit/1617847147)
 
+### BLACK HEKATE
+
+**Country:** Greece
+**Label:** [BLACK DEATH INDUSTRY](https://blackdeathindustry.bandcamp.com/)
+**Style:** Experimental
+**Mood:** Dark
+**Tempo:** Slow
+
+[Bandcamp](https://blackdeathindustry.bandcamp.com/album/lilith-vampire)
+
 ### Black Winds of Wallachia
 
 **Country:** Puerto Rico
@@ -322,6 +332,16 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://gondolinrecords.bandcamp.com/album/eulogy-for-a-noble-age)
 
+### Carpathian Sphinx
+
+**Country:** USA
+**Label:** [Entmoot](https://entmootlabel.bandcamp.com/)
+**Style:** Oldschool
+**Mood:** Epic
+**Tempo:** Slow
+
+[Bandcamp](https://entmootlabel.bandcamp.com/album/from-the-womb-of-time)
+
 ### Carrion Cloak
 
 **Country:** USA
@@ -393,6 +413,16 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://chestnutbrown.bandcamp.com/)
 [Website](https://www.instagram.com/chestnutbrownmusic/)
+
+### Chevalier Errant
+
+**Country:** France
+**Style:** Medieval
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/playlist/36gSbfJqCgI6HJGFLdhz40)
+[Bandcamp](https://chevaliererrant.bandcamp.com/)
 
 ### Cimitir
 
@@ -880,7 +910,7 @@ If you want to suggest your project or bring a short text about it - please use 
 
 **Country:** USA
 **Label:** [Dungeons Deep Records](https://dungeonsdeeprecords.bandcamp.com/)
-**Style:** Fanasy
+**Style:** Fantasy
 **Mood:** Epic
 **Tempo:** Normal
 
@@ -1096,6 +1126,16 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://green-hollow.bandcamp.com/)
 [Website](https://www.instagram.com/greenhollow.music/)
+
+### Grim Keep
+
+**Country:** Unknown
+**Label:** [Dungeonlord Records](https://dungeonlordrecords.bandcamp.com/)
+**Style:** Oldschool
+**Mood:** Epic
+**Tempo:** Slow
+
+[Bandcamp](https://dungeonlordrecords.bandcamp.com/album/a-grim-quest-demo-ii)
 
 ### Grimdor
 
@@ -1866,6 +1906,16 @@ If you want to suggest your project or bring a short text about it - please use 
 [Apple Music](https://music.apple.com/us/artist/neverlur/1482439936)
 [Website](https://www.instagram.com/neverluren_toner/)
 
+### Niloxian Protocols
+
+**Country:** Norway
+**Style:** Sci-fi
+**Mood:** Melancholic
+**Tempo:** Normal
+
+[Spotify](https://open.spotify.com/artist/5BTWIrpy8IDQkqCm3DDZKV)
+[Bandcamp](https://niloxianprotocols.bandcamp.com/)
+
 ### Nocturnal Effigy
 
 **Country:** USA
@@ -2016,6 +2066,18 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Bandcamp](https://owlens.bandcamp.com/)
+
+### Pauldron
+
+**Country:** Norway
+**Style:** Prehistoric
+**Mood:** Epic
+**Tempo:** Normal
+
+[Spotify](https://open.spotify.com/artist/5rlMYypa3uihUB7EBecWL7)
+[Bandcamp](https://pauldronds.bandcamp.com/)
+[YouTube](https://www.youtube.com/channel/UCKXXscs6lO6GH4SD4hC0INA)
+[Website](https://www.instagram.com/pauldronds/)
 
 ### perīre
 
@@ -2506,6 +2568,11 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Normal
 
 [Bandcamp](https://svartnoisemusic.bandcamp.com/)
+
+### Swordcerer
+
+[Spotify](https://open.spotify.com/artist/7gBAOHrkP19qrY9rWrDlW4)
+[Bandcamp](https://swordcerer.bandcamp.com/)
 
 ### Swords of Midi
 

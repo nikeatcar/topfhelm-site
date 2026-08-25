@@ -665,6 +665,41 @@
         }
     },
     {
+        "id": "black-hekate",
+        "country": "Greece",
+        "genre": "",
+        "style": "Experimental",
+        "mood": "Dark",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a2619273979_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a2619273979_10.jpg",
+        "background": "https://f4.bcbits.com/img/0039005893_130.jpg",
+        "label": "https://blackdeathindustry.bandcamp.com/",
+        "label_name": "BLACK DEATH INDUSTRY",
+        "label_img": "https://f4.bcbits.com/img/0039005138_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "520376789"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://blackdeathindustry.bandcamp.com/album/lilith-vampire",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "BLACK HEKATE",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "black-winds-of-wallachia",
         "country": "Puerto Rico",
         "genre": "",
@@ -945,6 +980,41 @@
         }
     },
     {
+        "id": "carpathian-sphinx",
+        "country": "USA",
+        "genre": "",
+        "style": "Oldschool",
+        "mood": "Epic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a1654855945_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a1654855945_10.jpg",
+        "background": "rgb(15, 15, 15)",
+        "label": "https://entmootlabel.bandcamp.com/",
+        "label_name": "Entmoot",
+        "label_img": "https://f4.bcbits.com/img/0041510975_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "4189922976"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://entmootlabel.bandcamp.com/album/from-the-womb-of-time",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Carpathian Sphinx",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "carrion-cloak",
         "country": "USA",
         "genre": "",
@@ -1181,6 +1251,41 @@
         "translations": {
             "en": {
                 "name": "Chestnut Brown",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "chevalier-errant",
+        "country": "France",
+        "genre": "",
+        "style": "Medieval",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0024952492_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0025033275_102.avif",
+        "background": "rgb(248, 248, 248)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "2750863777"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/playlist/36gSbfJqCgI6HJGFLdhz40",
+            "bandcamp": "https://chevaliererrant.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Chevalier Errant",
                 "description": ""
             },
             "ru": {
@@ -2488,7 +2593,7 @@
         "id": "faydark",
         "country": "USA",
         "genre": "",
-        "style": "Fanasy",
+        "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
         "logo": "https://f4.bcbits.com/img/0039116021_10.jpg",
@@ -3176,6 +3281,41 @@
         "translations": {
             "en": {
                 "name": "Greenhollow",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "grim-keep",
+        "country": "Unknown",
+        "genre": "",
+        "style": "Oldschool",
+        "mood": "Epic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a2651243371_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a2651243371_10.jpg",
+        "background": "rgb(0, 0, 0)",
+        "label": "https://dungeonlordrecords.bandcamp.com/",
+        "label_name": "Dungeonlord Records",
+        "label_img": "https://f4.bcbits.com/img/0044733370_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "3443702487"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://dungeonlordrecords.bandcamp.com/album/a-grim-quest-demo-ii",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Grim Keep",
                 "description": ""
             },
             "ru": {
@@ -5215,6 +5355,41 @@
         }
     },
     {
+        "id": "niloxian-protocols",
+        "country": "Norway",
+        "genre": "",
+        "style": "Sci-fi",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0043261112_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0043261112_10.jpg",
+        "background": "https://f4.bcbits.com/img/0042909634_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "1582869057"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/5BTWIrpy8IDQkqCm3DDZKV",
+            "bandcamp": "https://niloxianprotocols.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Niloxian Protocols",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "nocturnal-effigy",
         "country": "USA",
         "genre": "",
@@ -5696,6 +5871,41 @@
         "translations": {
             "en": {
                 "name": "Owlens",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "pauldron",
+        "country": "Norway",
+        "genre": "",
+        "style": "Prehistoric",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0042786174_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0027703304_102.avif",
+        "background": "https://f4.bcbits.com/img/0043439140_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "3946103486"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/5rlMYypa3uihUB7EBecWL7",
+            "bandcamp": "https://pauldronds.bandcamp.com/",
+            "youtube": "https://www.youtube.com/channel/UCKXXscs6lO6GH4SD4hC0INA",
+            "apple_music": "",
+            "website": "https://www.instagram.com/pauldronds/"
+        },
+        "translations": {
+            "en": {
+                "name": "Pauldron",
                 "description": ""
             },
             "ru": {
@@ -6851,6 +7061,41 @@
         "translations": {
             "en": {
                 "name": "SVART TORN",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "swordcerer",
+        "country": "",
+        "genre": "",
+        "style": "",
+        "mood": "",
+        "tempo": "",
+        "logo": "https://f4.bcbits.com/img/0040353934_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0041465928_102.avif",
+        "background": "https://f4.bcbits.com/img/0040645141_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "3179915928"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/7gBAOHrkP19qrY9rWrDlW4",
+            "bandcamp": "https://swordcerer.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Swordcerer",
                 "description": ""
             },
             "ru": {
