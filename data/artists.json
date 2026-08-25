@@ -455,6 +455,41 @@
         }
     },
     {
+        "id": "aurora-relicta",
+        "country": "Argentina",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0044619104_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0044618652_102.avif",
+        "background": "https://f4.bcbits.com/img/0044618597_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "235608686"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://aurorarelicta.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Aurora Relicta",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "ausum",
         "country": "Germany",
         "genre": "",
@@ -831,6 +866,41 @@
         "translations": {
             "en": {
                 "name": "Bound Unto Root",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "braemblewulf",
+        "country": "Germany",
+        "genre": "",
+        "style": "Medieval",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0045709115_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a0076607454_10.jpg",
+        "background": "https://f4.bcbits.com/img/0045710151_130.jpg",
+        "label": "https://mispelhain.bandcamp.com/",
+        "label_name": "Mispelhain",
+        "label_img": "https://f4.bcbits.com/img/0043871968_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "713741739"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://welwltsann.bandcamp.com/track/the-light-took-me",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/welwl.tsann/"
+        },
+        "translations": {
+            "en": {
+                "name": "Braemblewulf",
                 "description": ""
             },
             "ru": {
@@ -3815,6 +3885,41 @@
         }
     },
     {
+        "id": "kinderlinsky-gul",
+        "country": "Russia",
+        "genre": "",
+        "style": "Ambient",
+        "mood": "Dark",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a3502222376_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a3502222376_10.jpg",
+        "background": "rgb(0, 0, 0)",
+        "label": "https://bednoiseroomrecords.bandcamp.com/music",
+        "label_name": "BEDNOISEROOM RECORDS",
+        "label_img": "https://f4.bcbits.com/img/0024245013_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "1365085536"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://bednoiseroomrecords.bandcamp.com/album/2026-4",
+            "youtube": "",
+            "apple_music": "https://music.apple.com/ru/artist/%D0%BA%D0%B8%D0%BD%D0%B4%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D1%83%D0%BB/1796875909",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Kinderlinsky Gul",
+                "description": ""
+            },
+            "ru": {
+                "name": "Киндерлинский Гул",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "kletttermax",
         "country": "Germany",
         "genre": "",
@@ -4121,6 +4226,41 @@
         "translations": {
             "en": {
                 "name": "Lored Legend",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "luna-doloris",
+        "country": "Russia",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0044412680_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0044413000_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "1442841535"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://lunadoloris.bandcamp.com/",
+            "youtube": "https://www.youtube.com/@Luna_Doloris",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Luna Doloris",
                 "description": ""
             },
             "ru": {
@@ -5530,6 +5670,41 @@
         }
     },
     {
+        "id": "owlens",
+        "country": "Hungary",
+        "genre": "",
+        "style": "Horror",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0043148714_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a0896133172_10.jpg",
+        "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "3975383604"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://owlens.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Owlens",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "perīre",
         "country": "Germany",
         "genre": "",
@@ -6676,6 +6851,41 @@
         "translations": {
             "en": {
                 "name": "SVART TORN",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "swords-of-midi",
+        "country": "USA",
+        "genre": "",
+        "style": "Medieval",
+        "mood": "Adventure",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a1565652723_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a1565652723_10.jpg",
+        "background": "https://f4.bcbits.com/img/0039200757_130.jpg",
+        "label": "https://neverwood.bandcamp.com/",
+        "label_name": "Neverwood Records - Long live dungeon synth!",
+        "label_img": "https://f4.bcbits.com/img/0039200752_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "3921657581"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://neverwood.bandcamp.com/album/fort-exile",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Swords of Midi",
                 "description": ""
             },
             "ru": {

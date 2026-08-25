@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/ru/
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-24
+last_updated: 2026-08-25
 ---
 
 # Каталог Dungeon Synth исполнителей — Dungeon Synth Bestiary 
@@ -174,6 +174,15 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://auramerlin.bandcamp.com/)
 [Website](https://www.instagram.com/aura_merlin/)
 
+### Aurora Relicta
+
+**Страна:** Argentina
+**Стиль:** Fantasy
+**Настроение:** Mystical
+**Темп:** Slow
+
+[Bandcamp](https://aurorarelicta.bandcamp.com/)
+
 ### Ausum
 
 **Страна:** Germany
@@ -291,6 +300,17 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://bounduntoroot.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/bound-unto-root/1532245252)
 [Website](https://www.instagram.com/bounduntoroot/)
+
+### Braemblewulf
+
+**Страна:** Germany
+**Лейбл:** [Mispelhain](https://mispelhain.bandcamp.com/)
+**Стиль:** Medieval
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Bandcamp](https://welwltsann.bandcamp.com/track/the-light-took-me)
+[Website](https://www.instagram.com/welwl.tsann/)
 
 ### Bronzen Oath
 
@@ -1291,6 +1311,17 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Website](https://www.instagram.com/vitaliikarakarn_ds/)
 
+### Киндерлинский Гул
+
+**Страна:** Russia
+**Лейбл:** [BEDNOISEROOM RECORDS](https://bednoiseroomrecords.bandcamp.com/music)
+**Стиль:** Ambient
+**Настроение:** Dark
+**Темп:** Slow
+
+[Bandcamp](https://bednoiseroomrecords.bandcamp.com/album/2026-4)
+[Apple Music](https://music.apple.com/ru/artist/%D0%BA%D0%B8%D0%BD%D0%B4%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D1%83%D0%BB/1796875909)
+
 ### KletTtermax
 
 **Страна:** Germany
@@ -1386,6 +1417,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://loredlegend.bandcamp.com/)
 [Apple Music](https://music.apple.com/bt/artist/lored-legend/1726109247)
 [Website](https://www.instagram.com/lored_legend/)
+
+### Luna Doloris
+
+**Страна:** Russia
+**Стиль:** Fantasy
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Bandcamp](https://lunadoloris.bandcamp.com/)
+[YouTube](https://www.youtube.com/@Luna_Doloris)
 
 ### Lunar Womb
 
@@ -1957,6 +1998,15 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Apple Music](https://music.apple.com/us/artist/oublieth/1593443875)
 [Website](https://www.instagram.com/oublieth/)
 
+### Owlens
+
+**Страна:** Hungary
+**Стиль:** Horror
+**Настроение:** Mystical
+**Темп:** Slow
+
+[Bandcamp](https://owlens.bandcamp.com/)
+
 ### perīre
 
 **Страна:** Germany
@@ -2449,6 +2499,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Normal
 
 [Bandcamp](https://svartnoisemusic.bandcamp.com/)
+
+### Swords of Midi
+
+**Страна:** USA
+**Лейбл:** [Neverwood Records - Long live dungeon synth!](https://neverwood.bandcamp.com/)
+**Стиль:** Medieval
+**Настроение:** Adventure
+**Темп:** Slow
+
+[Bandcamp](https://neverwood.bandcamp.com/album/fort-exile)
 
 ### Sybil Aleyerkh
 

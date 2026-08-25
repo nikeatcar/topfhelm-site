@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-24
+last_updated: 2026-08-25
 ---
 
 # Dungeon Synth Artists Directory - The Dungeon Synth Bestiary 
@@ -174,6 +174,15 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://auramerlin.bandcamp.com/)
 [Website](https://www.instagram.com/aura_merlin/)
 
+### Aurora Relicta
+
+**Country:** Argentina
+**Style:** Fantasy
+**Mood:** Mystical
+**Tempo:** Slow
+
+[Bandcamp](https://aurorarelicta.bandcamp.com/)
+
 ### Ausum
 
 **Country:** Germany
@@ -291,6 +300,17 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://bounduntoroot.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/bound-unto-root/1532245252)
 [Website](https://www.instagram.com/bounduntoroot/)
+
+### Braemblewulf
+
+**Country:** Germany
+**Label:** [Mispelhain](https://mispelhain.bandcamp.com/)
+**Style:** Medieval
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Bandcamp](https://welwltsann.bandcamp.com/track/the-light-took-me)
+[Website](https://www.instagram.com/welwl.tsann/)
 
 ### Bronzen Oath
 
@@ -1296,6 +1316,17 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Website](https://www.instagram.com/vitaliikarakarn_ds/)
 
+### Kinderlinsky Gul
+
+**Country:** Russia
+**Label:** [BEDNOISEROOM RECORDS](https://bednoiseroomrecords.bandcamp.com/music)
+**Style:** Ambient
+**Mood:** Dark
+**Tempo:** Slow
+
+[Bandcamp](https://bednoiseroomrecords.bandcamp.com/album/2026-4)
+[Apple Music](https://music.apple.com/ru/artist/%D0%BA%D0%B8%D0%BD%D0%B4%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D1%83%D0%BB/1796875909)
+
 ### KletTtermax
 
 **Country:** Germany
@@ -1391,6 +1422,16 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://loredlegend.bandcamp.com/)
 [Apple Music](https://music.apple.com/bt/artist/lored-legend/1726109247)
 [Website](https://www.instagram.com/lored_legend/)
+
+### Luna Doloris
+
+**Country:** Russia
+**Style:** Fantasy
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Bandcamp](https://lunadoloris.bandcamp.com/)
+[YouTube](https://www.youtube.com/@Luna_Doloris)
 
 ### Lunar Womb
 
@@ -1967,6 +2008,15 @@ If you want to suggest your project or bring a short text about it - please use 
 [Apple Music](https://music.apple.com/us/artist/oublieth/1593443875)
 [Website](https://www.instagram.com/oublieth/)
 
+### Owlens
+
+**Country:** Hungary
+**Style:** Horror
+**Mood:** Mystical
+**Tempo:** Slow
+
+[Bandcamp](https://owlens.bandcamp.com/)
+
 ### perīre
 
 **Country:** Germany
@@ -2456,6 +2506,16 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Normal
 
 [Bandcamp](https://svartnoisemusic.bandcamp.com/)
+
+### Swords of Midi
+
+**Country:** USA
+**Label:** [Neverwood Records - Long live dungeon synth!](https://neverwood.bandcamp.com/)
+**Style:** Medieval
+**Mood:** Adventure
+**Tempo:** Slow
+
+[Bandcamp](https://neverwood.bandcamp.com/album/fort-exile)
 
 ### Sybil Aleyerkh
 

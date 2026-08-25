@@ -398,6 +398,9 @@
 
     text-align:center;
 
+    transition:
+        color .3s ease,
+        text-shadow .3s ease;
 }
 
 .artist-arrow{
@@ -571,6 +574,14 @@
 
     transform:rotate(180deg);
 
+}
+
+.artist-card.open .artist-header .artist-name{
+
+    color:#f2e3be;
+
+    text-shadow:
+        0 0 8px rgba(215,179,122,.18);
 }
 
 /* ==========================================================
