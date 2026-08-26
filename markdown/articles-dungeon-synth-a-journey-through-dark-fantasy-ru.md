@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/articles/dungeon-synth-a-journey-through-dark-fa
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-25
+last_updated: 2026-08-26
 ---
 
 Dark Mode 

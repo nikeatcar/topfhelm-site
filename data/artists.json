@@ -210,6 +210,41 @@
         }
     },
     {
+        "id": "andy-shapiro",
+        "country": "USA",
+        "genre": "",
+        "style": "Proto DS",
+        "mood": "Dreamy",
+        "tempo": "Normal",
+        "logo": "https://i.discogs.com/j_pDTneeCpIjO78UnKstbavt_SUl0T3VuJ-RF7fM8Dc/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI5NDQ2/NDAtMTUxNTM3ODYy/OS0xMzI0LmpwZWc.jpeg",
+        "banner": "https://i.discogs.com/cjs9IqHxnx6vId-PpO1PYjzJNkEnZm3_wbSeaUMd564/rs:fit/g:sm/q:90/h:272/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTI3/MTgtMTM0OTAwNTk5/MC0zMzAyLmpwZWc.jpeg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "AtvCMxuO9zQ"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "https://www.youtube.com/watch?v=AtvCMxuO9zQ",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Andy Shapiro",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "anglachel",
         "country": "Greece",
         "genre": "",
@@ -420,6 +455,41 @@
         }
     },
     {
+        "id": "atlantean-sword",
+        "country": "UK",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Epic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0040577868_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0034133110_102.avif",
+        "background": "https://f4.bcbits.com/img/0030634838_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "2559957564"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/7LLYqFSD4TOpQnARriUMoo",
+            "bandcamp": "https://atlanteansword.bandcamp.com/",
+            "youtube": "https://www.youtube.com/@vhsatanist9146/videos",
+            "apple_music": "",
+            "website": "https://www.instagram.com/atlantean_sword_ds/"
+        },
+        "translations": {
+            "en": {
+                "name": "Atlantean Sword",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "aura-merlin",
         "country": "Canada",
         "genre": "",
@@ -464,9 +534,9 @@
         "logo": "https://f4.bcbits.com/img/0044619104_10.jpg",
         "banner": "https://f4.bcbits.com/img/0044618652_102.avif",
         "background": "https://f4.bcbits.com/img/0044618597_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://guivernorecords.com/",
+        "label_name": "Guiverno Records",
+        "label_img": "https://guivernorecords.com/cdn/shop/files/logo_dragon_y_letras_rojo.png?v=1787135038&width=80",
         "player": {
             "type": "bandcamp",
             "id": "235608686"
@@ -770,6 +840,41 @@
         }
     },
     {
+        "id": "blod-besvimelse",
+        "country": "Norway",
+        "genre": "",
+        "style": "RAW",
+        "mood": "Battle",
+        "tempo": "Normal",
+        "logo": "https://i.scdn.co/image/ab67616d0000b273dc859a5482ee40698a571842",
+        "banner": "https://www.metal-archives.com/images/3/2/2/6/32268_logo.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "spotify",
+            "id": "1g1Ypo2vDKKKpot1swTIyK"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/4fX7zAUjAwhJIQKIcqJlsk",
+            "bandcamp": "",
+            "youtube": "https://www.youtube.com/channel/UC4SF93TsUJdB78xVj1LwMQA",
+            "apple_music": "https://music.apple.com/de/artist/blod-besvimelse/1755294377",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Blod Besvimelse",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "blood-lord",
         "country": "UK",
         "genre": "",
@@ -976,6 +1081,76 @@
             "ru": {
                 "name": "",
                 "description": ""
+            }
+        }
+    },
+    {
+        "id": "budrum",
+        "country": "Greece",
+        "genre": "",
+        "style": "Medieval",
+        "mood": "Adventure",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0041222565_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0037978639_102.avif",
+        "background": "https://f4.bcbits.com/img/0040772706_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "4116115125"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://budrum.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/budrum_ds31/"
+        },
+        "translations": {
+            "en": {
+                "name": "Budrum",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "burzum",
+        "country": "Norway",
+        "genre": "",
+        "style": "Influential",
+        "mood": "Battle",
+        "tempo": "Slow",
+        "logo": "https://static.wikia.nocookie.net/metal/images/e/e9/VargVikernes.jpg/revision/latest?cb=20111031083920",
+        "banner": "https://www.nordicmetal.net/wp-content/uploads/2018/01/Burzum-header2.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "spotify",
+            "id": "3U6xIoGR1EhTR8yIHgIw6A"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/7L6u6TyhjuwubrcojPeNgf",
+            "bandcamp": "",
+            "youtube": "https://music.youtube.com/search?q=%23burzum",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Burzum",
+                "description": "<p>\n    <strong>Burzum</strong> is primarily a Norwegian Black Metal project, but its synthesizer-based albums\n    <a\n        href=\"https://open.spotify.com/album/3U6xIoGR1EhTR8yIHgIw6A\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    ><em>Dauði Baldrs</em></a> (<strong>1997</strong>) and\n    <a\n        href=\"https://open.spotify.com/album/1gEGcadlGCYKAnIvOxkJsU\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    ><em>Hliðskjálf</em></a> (<strong>1999</strong>) became important reference points in the early development of Dungeon Synth.\n</p>\n\n<p class=\"artist-source-note\">\n    The Dungeon Synth Bestiary editorial team does not support the political views of Varg Vikernes. Burzum is included solely as an integral part of the history and development of the Dungeon Synth genre.\n</p>"
+            },
+            "ru": {
+                "name": "",
+                "description": "<p>\n    <strong>Burzum</strong> - прежде всего норвежский Black Metal проект, однако его основанные на синтезаторах альбомы\n    <a\n        href=\"https://open.spotify.com/album/3U6xIoGR1EhTR8yIHgIw6A\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    ><em>Dauði Baldrs</em></a> (<strong>1997</strong>) и\n    <a\n        href=\"https://open.spotify.com/album/1gEGcadlGCYKAnIvOxkJsU\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    ><em>Hliðskjálf</em></a> (<strong>1999</strong>) стали важными ориентирами на раннем этапе развития Dungeon Synth.\n</p>\n\n<p class=\"artist-source-note\">\n    Редакция Dungeon Synth Bestiary не поддерживает политические взгляды Варга Викернесса. Burzum представлен в каталоге исключительно как неотъемлемая часть истории и развития жанра Dungeon Synth.\n</p>"
             }
         }
     },
@@ -1683,7 +1858,7 @@
         "id": "die-verbannten-kinder-evas",
         "country": "Austria",
         "genre": "",
-        "style": "Oldschool",
+        "style": "Influential",
         "mood": "Melancholic",
         "tempo": "Normal",
         "logo": "https://f4.bcbits.com/img/0013513199_10.jpg",
@@ -1785,6 +1960,41 @@
         }
     },
     {
+        "id": "dolch",
+        "country": "Germany",
+        "genre": "",
+        "style": "Experimental",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0024676507_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0024676916_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "2201396712"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://dolch1999.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Dolch",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "dragonkeep",
         "country": "France",
         "genre": "",
@@ -1811,6 +2021,76 @@
         "translations": {
             "en": {
                 "name": "DragonKeep",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "dream-waves",
+        "country": "USA",
+        "genre": "",
+        "style": "Proto DS",
+        "mood": "Dreamy",
+        "tempo": "Normal",
+        "logo": "https://i.discogs.com/d6EA-yTc9gUZxZv55ZVVpfCwDIxo09qkYH0PKKRjFc4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1MTEy/MjYtMTU4NjgzNTM5/Ny02ODkzLmpwZWc.jpeg",
+        "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpXMiWI04AWHGl4ByyhnUGiatjTdvRItNBVkrP2lKWkscmFfA3wluvV24s&s=10",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "IajJzztMPTE"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "https://www.youtube.com/playlist?list=PLqQ35H538UQBFhNEvs5vAC4g6BMsLKZhb",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Dream Waves",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "driftwood",
+        "country": "Denmark",
+        "genre": "",
+        "style": "Medieval",
+        "mood": "Battle",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0031863190_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0035726299_102.avif",
+        "background": "rgb(41, 41, 41)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "2712540601"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://driftwoodds.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Driftwood",
                 "description": ""
             },
             "ru": {
@@ -2196,6 +2476,41 @@
         "translations": {
             "en": {
                 "name": "Elyvilon",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "emerald-web",
+        "country": "USA",
+        "genre": "",
+        "style": "Proto DS",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0018823352_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0018826721_102.avif",
+        "background": "https://f4.bcbits.com/img/0032300195_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "605212906"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe",
+            "bandcamp": "https://emeraldweb.bandcamp.com/",
+            "youtube": "https://www.youtube.com/channel/UCEx6GWoMbsBo5JRitMan9xg",
+            "apple_music": "https://music.apple.com/gb/artist/emerald-web/49779827",
+            "website": "https://www.instagram.com/kat_epple/"
+        },
+        "translations": {
+            "en": {
+                "name": "Emerald Web",
                 "description": ""
             },
             "ru": {
@@ -2625,6 +2940,41 @@
         }
     },
     {
+        "id": "fen-lume",
+        "country": "Unknown",
+        "genre": "",
+        "style": "Experimental",
+        "mood": "Dark",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0035186792_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0035186801_102.avif",
+        "background": "rgb(95, 112, 104)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "522543406"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://fenlume.bandcamp.com/",
+            "youtube": "https://www.youtube.com/@FenLume",
+            "apple_music": "",
+            "website": "https://www.instagram.com/fenlume/"
+        },
+        "translations": {
+            "en": {
+                "name": "Fen Lume",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "feth",
         "country": "UK",
         "genre": "",
@@ -2905,6 +3255,76 @@
         }
     },
     {
+        "id": "frank-lentz",
+        "country": "Denmark",
+        "genre": "",
+        "style": "Proto DS",
+        "mood": "Dreamy",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0039363425_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0039363855_102.avif",
+        "background": "rgb(248, 248, 248)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "4028896015"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://franklentz.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Frank Lentz",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "frigid-caves-of-unspoken-territories",
+        "country": "USA",
+        "genre": "",
+        "style": "Ambient",
+        "mood": "Dark",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a2036419207_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a2036419207_10.jpg",
+        "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "3744714220"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://matcaronmusic.bandcamp.com/album/frigid-caves-of-unspoken-territories",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/matthewjamescaron/"
+        },
+        "translations": {
+            "en": {
+                "name": "Frigid Caves of Unspoken Territories",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "frostgard",
         "country": "Spain",
         "genre": "",
@@ -3001,6 +3421,41 @@
         "translations": {
             "en": {
                 "name": "Gelure",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "george-garside",
+        "country": "UK",
+        "genre": "",
+        "style": "Proto DS",
+        "mood": "Dreamy",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0046069112_10.jpg",
+        "banner": "https://i.ytimg.com/vi/ktTfV6VEATk/maxresdefault.jpg",
+        "background": "rgb(248, 248, 248)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "3524722145"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/playlist/0fSmN8bbZVTjn6eK1l9k8X",
+            "bandcamp": "https://wildpendulumrecords.bandcamp.com/album/george-garside-the-jester",
+            "youtube": "https://www.youtube.com/results?search_query=George+Garside",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "George Garside",
                 "description": ""
             },
             "ru": {
@@ -3640,6 +4095,41 @@
         }
     },
     {
+        "id": "high-strange",
+        "country": "USA",
+        "genre": "",
+        "style": "Sci-fi",
+        "mood": "Dreamy",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a1378440390_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a1378440390_10.jpg",
+        "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "1841164936"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://matcaronmusic.bandcamp.com/album/communion-cosmic-divination",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/matthewjamescaron/"
+        },
+        "translations": {
+            "en": {
+                "name": "High Strange",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "hillsfar",
         "country": "USA",
         "genre": "",
@@ -3920,6 +4410,41 @@
         }
     },
     {
+        "id": "j-d-emmanuel",
+        "country": "USA",
+        "genre": "",
+        "style": "Proto DS",
+        "mood": "Dreamy",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0000242901_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0000412588_102.avif",
+        "background": "https://f4.bcbits.com/img/0003170757_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "934091106"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://jdemmanuel.bandcamp.com/",
+            "youtube": "https://www.youtube.com/spacewizard13",
+            "apple_music": "",
+            "website": "https://www.instagram.com/mindmusic13/"
+        },
+        "translations": {
+            "en": {
+                "name": "J D Emmanuel",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "jim-kirkwood",
         "country": "UK",
         "genre": "",
@@ -3946,6 +4471,41 @@
         "translations": {
             "en": {
                 "name": "Jim Kirkwood",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "jim-oliver",
+        "country": "USA",
+        "genre": "",
+        "style": "Proto DS",
+        "mood": "Dreamy",
+        "tempo": "Slow",
+        "logo": "https://jimolivermusic.com//wp-content/uploads/2021/04/logo.png",
+        "banner": "https://i.ytimg.com/vi/PueHjH5xBBg/maxresdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "GmEXZRvWij8"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/2SM7TRJynUQgute7ZDRd92",
+            "bandcamp": "",
+            "youtube": "https://www.youtube.com/@JimOliverMusic",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Jim Oliver",
                 "description": ""
             },
             "ru": {
@@ -4025,6 +4585,41 @@
         }
     },
     {
+        "id": "kevin-oneill",
+        "country": "UK",
+        "genre": "",
+        "style": "Proto DS",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/a3621704334_10.jpg",
+        "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3IY85lnrm3E-pCnWNirQJypGBn2A23cC6_thB3jC6MLGzhmWEOVGUEE&s=10",
+        "background": "rgb(161, 152, 130)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "944497712"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://kevinoneill1.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Kevin O'Neill",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "kinderlinsky-gul",
         "country": "Russia",
         "genre": "",
@@ -4055,6 +4650,41 @@
             },
             "ru": {
                 "name": "Киндерлинский Гул",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "kindofdeath",
+        "country": "Russia",
+        "genre": "",
+        "style": "Experimental",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0033614893_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0037387602_102.avif",
+        "background": "https://f4.bcbits.com/img/0037387632_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "2089423692"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://kindofdeath.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "kindofdeath",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
                 "description": ""
             }
         }
@@ -4226,6 +4856,41 @@
         "translations": {
             "en": {
                 "name": "L A N D S R A A D",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "lambert-ringlage",
+        "country": "Germany",
+        "genre": "",
+        "style": "Proto DS",
+        "mood": "Dreamy",
+        "tempo": "Normal",
+        "logo": "http://www.sphericmusic.de/images/rl1.jpg",
+        "banner": "https://f4.bcbits.com/img/0011279033_102.avif",
+        "background": "https://f4.bcbits.com/img/0011279069_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "RvgJrh9J8QE"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://lambert3.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Lambert Ringlage",
                 "description": ""
             },
             "ru": {
@@ -4515,6 +5180,41 @@
         }
     },
     {
+        "id": "macadum",
+        "country": "Russia",
+        "genre": "",
+        "style": "Medieval",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0035527439_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0039524590_102.avif",
+        "background": "https://f4.bcbits.com/img/0036000018_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "1457383053"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://macadum.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Macadum",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "maelifell",
         "country": "France",
         "genre": "",
@@ -4541,6 +5241,41 @@
         "translations": {
             "en": {
                 "name": "Maelifell",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "maiden-hair",
+        "country": "USA",
+        "genre": "",
+        "style": "Medieval",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a1817148645_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a1817148645_10.jpg",
+        "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "4254757634"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://matcaronmusic.bandcamp.com/album/the-adder-witch",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/matthewjamescaron/"
+        },
+        "translations": {
+            "en": {
+                "name": "Maiden Hair",
                 "description": ""
             },
             "ru": {
@@ -4611,6 +5346,76 @@
         "translations": {
             "en": {
                 "name": "Mammoth Master",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "mark-ellery-griffiths",
+        "country": "UK",
+        "genre": "",
+        "style": "Proto DS",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://i.discogs.com/J__uWoAeaqJMwMGPiESzycObbpBEuq5OzzvudWR3h3M/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE3NTYw/MjYtMTMxOTc5NTA5/Ni5qcGVn.jpeg",
+        "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQChvXhTqtkiLvcO8slO_07sZM9ldBHkjkBXBdRzaDFU1zxW4FRTvvvuJA&s=10",
+        "background": "rgb(206, 218, 217)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "1303659240"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/2SfH38kKpN7AlIaxn3fHtp",
+            "bandcamp": "https://markgriffiths.bandcamp.com/",
+            "youtube": "https://www.youtube.com/@markgriffiths5122",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Mark Ellery Griffiths",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "martin-kornberger-and-volker-kuhn",
+        "country": "Germany",
+        "genre": "",
+        "style": "Proto DS",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://gfx67.decks.de/decks/gfx/co_large/front/end_a/cad-fa.jpg",
+        "banner": "https://gfx2.decks.de/decks/gfx/co_large/front/end_a/cad-fa.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "fgEVghV45oQ"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Martin Kornberger & Volker Kuhn",
                 "description": ""
             },
             "ru": {
@@ -4721,6 +5526,76 @@
             "ru": {
                 "name": "",
                 "description": "<p>Родом из <strong>Баии, Бразилия</strong>, Midnight Silence - сольный проект музыканта <strong>Bard Akin</strong>.</p>\n\n<p>Его музыка представляет собой путешествие через <em>Ambient Dungeon Synth</em> и <em>Medieval Melancholy</em>, сочетая звуки природы с медитативными, почти дроуновыми текстурами и создавая мягкую и уютную фэнтезийную атмосферу.</p>\n\n<p>Midnight Silence уводит слушателя в забытые земли, туманные долины и одинокие леса.</p>"
+            }
+        }
+    },
+    {
+        "id": "mike-brooks",
+        "country": "UK",
+        "genre": "",
+        "style": "Proto DS",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://i.discogs.com/ewKnq5vWd1dwutL9lINWYttT6UH6aLeOl-PoHRSvBPc/rs:fit/g:sm/q:90/h:542/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDI0/NjctMTQxMjEyMjk4/Mi01NDgyLmpwZWc.jpeg",
+        "banner": "https://i.discogs.com/ewKnq5vWd1dwutL9lINWYttT6UH6aLeOl-PoHRSvBPc/rs:fit/g:sm/q:90/h:542/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDI0/NjctMTQxMjEyMjk4/Mi01NDgyLmpwZWc.jpeg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "0BZme4ctoqs"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "https://www.youtube.com/playlist?list=PLfyNxAPiiJpymii3bjPS6VaqLeqKcDsZl",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Mike Brooks",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "mike-rowland",
+        "country": "UK",
+        "genre": "",
+        "style": "Proto DS",
+        "mood": "Dreamy",
+        "tempo": "Slow",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQcehFZIfHa1wCiLiQrOJmcQt4aolOp-OYpU9uMxB7Sf0tgUUjqvVwEnxydJs8fsM_tJPPc5-QQKWZDnZqaLVgD7rHl_jYODMt_pC849nJMvmJWO84AJ6joIim5XPDOf2U4ZD4-yYZuxiE/s1600/Mike+Rowland.jpg",
+        "banner": "https://m.media-amazon.com/images/I/51KDX99ZGVL._UF894,1000_QL80_.jpg",
+        "background": "rgb(248, 248, 248)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "2458664765"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/0mwKdjgZIEQeYC8zoUuZ6P",
+            "bandcamp": "https://newworldmusicltd.bandcamp.com/album/fairy-ring-the",
+            "youtube": "https://music.youtube.com/channel/UCYM4-uPZ3LVFzjdEeQlMEqw",
+            "apple_music": "https://music.apple.com/de/artist/mike-rowland/538179",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Mike Rowland",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
             }
         }
     },
@@ -4926,6 +5801,41 @@
         "translations": {
             "en": {
                 "name": "Morketsvind",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "mors-silvestris",
+        "country": "Spain",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0042399468_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0042404580_102.avif",
+        "background": "rgb(248, 248, 248)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "2795643054"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://morssilvestris.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/morssilvestris/"
+        },
+        "translations": {
+            "en": {
+                "name": "Mors Silvestris",
                 "description": ""
             },
             "ru": {
@@ -5250,6 +6160,41 @@
         }
     },
     {
+        "id": "mystiska-skogen",
+        "country": "Sweden",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Adventure",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0018235432_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0017415862_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "https://nordvis.bandcamp.com/",
+        "label_name": "Nordvis",
+        "label_img": "https://f4.bcbits.com/img/0014615767_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "1068382501"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://mystiskaskogen.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Mystiska Skogen",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "mystkeeper",
         "country": "UK",
         "genre": "",
@@ -5276,6 +6221,41 @@
         "translations": {
             "en": {
                 "name": "Mystkeeper",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "nameless-mage",
+        "country": "USA",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/a1457271178_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a1457271178_10.jpg",
+        "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "2394254148"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://matcaronmusic.bandcamp.com/album/trilogy",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/matthewjamescaron/"
+        },
+        "translations": {
+            "en": {
+                "name": "Nameless Mage",
                 "description": ""
             },
             "ru": {
@@ -5346,6 +6326,41 @@
         "translations": {
             "en": {
                 "name": "Neverlur",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "nieveterna",
+        "country": "Argentina",
+        "genre": "",
+        "style": "Ambient",
+        "mood": "Mystic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0041665818_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0041666507_102.avif",
+        "background": "https://f4.bcbits.com/img/0041666474_130.jpg",
+        "label": "https://guivernorecords.com/",
+        "label_name": "Guiverno Records",
+        "label_img": "https://guivernorecords.com/cdn/shop/files/logo_dragon_y_letras_rojo.png?v=1787135038&width=80",
+        "player": {
+            "type": "bandcamp",
+            "id": "4251471624"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://nieveterna.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Nieveterna",
                 "description": ""
             },
             "ru": {
@@ -5521,6 +6536,41 @@
         "translations": {
             "en": {
                 "name": "Obscura's Veil",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "ojas",
+        "country": "USA",
+        "genre": "",
+        "style": "Proto DS",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSif2Vwavwt8fKFLINmY0vYqV1rGzVkBLn7S1PVGkMePFQwjoD9S5_wNt74&s=10",
+        "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSif2Vwavwt8fKFLINmY0vYqV1rGzVkBLn7S1PVGkMePFQwjoD9S5_wNt74&s=10",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "Dy_ineQEOoM"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "https://www.youtube.com/playlist?list=PLqQ35H538UQBx6G9WHsgDMJkf_VT6w1eg",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Ojas",
                 "description": ""
             },
             "ru": {
@@ -5810,6 +6860,41 @@
         }
     },
     {
+        "id": "order-of-dark-times",
+        "country": "Russia",
+        "genre": "",
+        "style": "Experimental",
+        "mood": "Dark",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0037925353_10.jpg",
+        "banner": "https://yt3.googleusercontent.com/hHlmpGVPvijekoHLtNgqAoVKfthIZaS0QA-qv0pqhqQGQ35kA3npwjVXiW-ijLgPKTmw7C4e=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "background": "rgb(25, 24, 21)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "1629658119"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://orderofdarktimes.bandcamp.com/",
+            "youtube": "https://www.youtube.com/@orderofdarktimes",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Order of Dark Times",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "oublieth",
         "country": "Canada",
         "genre": "",
@@ -5871,6 +6956,76 @@
         "translations": {
             "en": {
                 "name": "Owlens",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "paixomenos",
+        "country": "Greece",
+        "genre": "",
+        "style": "Chiptune",
+        "mood": "Adventure",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0031361430_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0031361430_10.jpg",
+        "background": "rgb(12, 24, 6)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "3669106184"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://paixomenos.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Paixomenos",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "paul-nagle",
+        "country": "UK",
+        "genre": "",
+        "style": "Proto DS",
+        "mood": "Dark",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0023922030_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0000495276_102.avif",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "1112695547"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/3r23c2F6grSGwCWPYHOjwN",
+            "bandcamp": "",
+            "youtube": "https://www.youtube.com/results?search_query=Paul+Nagle",
+            "apple_music": "https://music.apple.com/us/artist/paul-nagle/96341026",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Paul Nagle",
                 "description": ""
             },
             "ru": {
@@ -6230,6 +7385,41 @@
         }
     },
     {
+        "id": "secret-minotaur",
+        "country": "Poland",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Dreamy",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0040103322_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0041317411_102.avif",
+        "background": "https://f4.bcbits.com/img/0041317412_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "2731225379"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://secretminotaur.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/secretminotaur"
+        },
+        "translations": {
+            "en": {
+                "name": "Secret Minotaur",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "secrets-of-maya",
         "country": "USA",
         "genre": "",
@@ -6396,6 +7586,41 @@
         "translations": {
             "en": {
                 "name": "Sidereal Fortress",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "sir-krox",
+        "country": "Russia",
+        "genre": "",
+        "style": "Chiptune",
+        "mood": "Mystical",
+        "tempo": "",
+        "logo": "https://f4.bcbits.com/img/0044350930_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0044635270_102.avif",
+        "background": "rgb(248, 248, 248)",
+        "label": "https://sweet8bitterness.bandcamp.com/",
+        "label_name": "Sweet 8-Bitterness",
+        "label_img": "https://f4.bcbits.com/img/0028863269_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "954469866"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://sirkrox.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Sir Krox",
                 "description": ""
             },
             "ru": {
@@ -6720,6 +7945,41 @@
         }
     },
     {
+        "id": "sourcerior",
+        "country": "Italy",
+        "genre": "",
+        "style": "Oldschool",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0042746093_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0041915380_102.avif",
+        "background": "https://f4.bcbits.com/img/0030844982_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "228433821"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/6iQvxGGxLRSjA7gAmnnVFw",
+            "bandcamp": "https://sourcerior.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/sourcerior_/"
+        },
+        "translations": {
+            "en": {
+                "name": "Sourcerior",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "spaceseer",
         "country": "USA",
         "genre": "",
@@ -6930,6 +8190,41 @@
         }
     },
     {
+        "id": "stalker",
+        "country": "USA",
+        "genre": "",
+        "style": "Experimental",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a3709312521_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a3709312521_10.jpg",
+        "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "367957272"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://matcaronmusic.bandcamp.com/album/music-for-tracking-the-sasquatch-of-north-america",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/matthewjamescaron/"
+        },
+        "translations": {
+            "en": {
+                "name": "Stalker",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "stormkeep",
         "country": "USA",
         "genre": "",
@@ -6968,7 +8263,7 @@
         "id": "summoning",
         "country": "Austria",
         "genre": "",
-        "style": "Oldschool",
+        "style": "Influential",
         "mood": "Epic",
         "tempo": "Slow",
         "logo": "https://thisisblackmetal.com/wp-content/uploads/2018/05/20638791_124296964868344_2394526698329299176_n.jpg",
@@ -7455,6 +8750,41 @@
         }
     },
     {
+        "id": "the-nightcrawlers",
+        "country": "USA",
+        "genre": "",
+        "style": "Proto DS",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0011935559_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0012394887_71.jpg",
+        "background": "https://f4.bcbits.com/img/0012395174_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "qkmsWKKPVvo"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://thenightcrawlerspa.bandcamp.com/",
+            "youtube": "https://music.youtube.com/channel/UCskia0Mz-bswIiXG4J7Q41g",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "The Nightcrawlers",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "til-det-bergens-skyggene",
         "country": "Germany",
         "genre": "",
@@ -7516,6 +8846,41 @@
         "translations": {
             "en": {
                 "name": "Toad Sage",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "tom-bombakill",
+        "country": "USA",
+        "genre": "",
+        "style": "RAW",
+        "mood": "Adventure",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/a3195181909_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a3195181909_10.jpg",
+        "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "2963755136"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://matcaronmusic.bandcamp.com/album/tom-bombakill-o",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/matthewjamescaron/"
+        },
+        "translations": {
+            "en": {
+                "name": "Tom Bombakill",
                 "description": ""
             },
             "ru": {
@@ -7910,6 +9275,41 @@
         }
     },
     {
+        "id": "umbral-regency",
+        "country": "Sweden",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0035592801_10.jpg",
+        "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQBgaUlj_FApVdylb5qurFs47Skq06SM-XqXrfBb7xWy9g7Mp2vw3gXcY&s=10",
+        "background": "https://f4.bcbits.com/img/0035592780_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "3233137459"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://umbralregency.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Umbral Regency",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "under-the-frost-moon",
         "country": "Puerto Rico",
         "genre": "",
@@ -7971,6 +9371,41 @@
         "translations": {
             "en": {
                 "name": "Ur Pale",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "urku-llanthu",
+        "country": "Ecuador",
+        "genre": "",
+        "style": "Experimental",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0044802180_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0038145904_102.avif",
+        "background": "https://f4.bcbits.com/img/0044802406_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "825189647"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/user/12137389372",
+            "bandcamp": "https://urkullanthuofficial.bandcamp.com/",
+            "youtube": "https://www.youtube.com/channel/UC8dhe-KkpjXzpJXfUXhK6Lw",
+            "apple_music": "",
+            "website": "https://www.instagram.com/urkullanthuofficial/"
+        },
+        "translations": {
+            "en": {
+                "name": "Urku Llanthu",
                 "description": ""
             },
             "ru": {
@@ -8155,6 +9590,41 @@
         }
     },
     {
+        "id": "valscharuhn",
+        "country": "USA",
+        "genre": "",
+        "style": "Experimental",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/a2401557814_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0000496608_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "https://foggedentity.bandcamp.com/",
+        "label_name": "Fogged Entity",
+        "label_img": "https://f4.bcbits.com/img/0035102721_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "3826216399"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://valscharuhn.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Valscharuhn",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "vanishing-amulet",
         "country": "USA",
         "genre": "",
@@ -8190,6 +9660,41 @@
         }
     },
     {
+        "id": "vespermort",
+        "country": "Spain",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Epic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0042199925_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0045640291_102.avif",
+        "background": "",
+        "label": "https://guivernorecords.com/",
+        "label_name": "Guiverno Records",
+        "label_img": "https://guivernorecords.com/cdn/shop/files/logo_dragon_y_letras_rojo.png?v=1787135038&width=80",
+        "player": {
+            "type": "bandcamp",
+            "id": "3885549962"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/7G1vQW3QoEhxIP4X0adRwx?si=nc-PENkiTjK8PY6l6twwEA&nd=1&dlsi=5cb04e2395444574",
+            "bandcamp": "",
+            "youtube": "https://www.youtube.com/@Vespermort",
+            "apple_music": "",
+            "website": "https://www.instagram.com/vespermort_"
+        },
+        "translations": {
+            "en": {
+                "name": "Vespermort",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "vetus-supulcrum",
         "country": "Netherlands",
         "genre": "",
@@ -8216,6 +9721,41 @@
         "translations": {
             "en": {
                 "name": "Vetus Supulcrum",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "vindalf",
+        "country": "Chile",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0040633197_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0032936032_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "https://guivernorecords.com/",
+        "label_name": "Guiverno Records",
+        "label_img": "https://guivernorecords.com/cdn/shop/files/logo_dragon_y_letras_rojo.png?v=1787135038&width=80",
+        "player": {
+            "type": "bandcamp",
+            "id": "1695467192"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/0ZXq7ixi3DM00qBETEjfEF?si=1taSQVvSRaGQgX22cHKqMQ&utm_source=copy-link&nd=1",
+            "bandcamp": "https://vindalfbm.bandcamp.com/",
+            "youtube": "https://www.youtube.com/channel/UCIe4l9doxAAnYejKMlTlaEw",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Vindalf",
                 "description": ""
             },
             "ru": {
@@ -8326,6 +9866,41 @@
             "ru": {
                 "name": "",
                 "description": "<p>\n    <strong>VOR</strong> - это тяжёлая, мрачная атмосфера тёмного фэнтези,\n    начинающаяся с меланхолического ликования и завершающаяся полным погружением в небытие.\n</p>\n\n<p>\n    Проект был основан в <strong>2025 году</strong> одним человеком -\n    <a\n        href=\"https://www.instagram.com/ancient_shoggoth\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    >Shoggoth</a>.\n</p>"
+            }
+        }
+    },
+    {
+        "id": "wachturm",
+        "country": "Germany",
+        "genre": "",
+        "style": "Fantasy",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a2503245510_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a2503245510_10.jpg",
+        "background": "https://f4.bcbits.com/img/0035983075_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "280977640"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://siegegolem.bandcamp.com/album/kapitel-iv",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/siege_golem/"
+        },
+        "translations": {
+            "en": {
+                "name": "Wachturm",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
             }
         }
     },

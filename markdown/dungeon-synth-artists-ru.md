@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/ru/
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-25
+last_updated: 2026-08-26
 ---
 
 # Каталог Dungeon Synth исполнителей — Dungeon Synth Bestiary 
@@ -95,6 +95,15 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [YouTube](https://www.youtube.com/@AncientBlasphemy)
 
+### Andy Shapiro
+
+**Страна:** USA
+**Стиль:** Proto DS
+**Настроение:** Dreamy
+**Темп:** Normal
+
+[YouTube](https://www.youtube.com/watch?v=AtvCMxuO9zQ)
+
 ### Anglachel
 
 **Страна:** Greece
@@ -163,6 +172,18 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://assortedpotions.bandcamp.com/)
 [Website](https://www.instagram.com/assortedpotions/)
 
+### Atlantean Sword
+
+**Страна:** UK
+**Стиль:** Fantasy
+**Настроение:** Epic
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/artist/7LLYqFSD4TOpQnARriUMoo)
+[Bandcamp](https://atlanteansword.bandcamp.com/)
+[YouTube](https://www.youtube.com/@vhsatanist9146/videos)
+[Website](https://www.instagram.com/atlantean_sword_ds/)
+
 ### Aura Merlin
 
 **Страна:** Canada
@@ -177,6 +198,7 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 ### Aurora Relicta
 
 **Страна:** Argentina
+**Лейбл:** [Guiverno Records](https://guivernorecords.com/)
 **Стиль:** Fantasy
 **Настроение:** Mystical
 **Темп:** Slow
@@ -268,6 +290,17 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://bladesoffolmar.bandcamp.com/)
 [Website](https://www.instagram.com/blades_of_folmar/)
 
+### Blod Besvimelse
+
+**Страна:** Norway
+**Стиль:** RAW
+**Настроение:** Battle
+**Темп:** Normal
+
+[Spotify](https://open.spotify.com/artist/4fX7zAUjAwhJIQKIcqJlsk)
+[YouTube](https://www.youtube.com/channel/UC4SF93TsUJdB78xVj1LwMQA)
+[Apple Music](https://music.apple.com/de/artist/blod-besvimelse/1755294377)
+
 ### Blood Lord
 
 **Страна:** UK
@@ -331,6 +364,46 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Slow
 
 [Bandcamp](https://gondolinrecords.bandcamp.com/album/eulogy-for-a-noble-age)
+
+### Budrum
+
+**Страна:** Greece
+**Стиль:** Medieval
+**Настроение:** Adventure
+**Темп:** Normal
+
+[Bandcamp](https://budrum.bandcamp.com/)
+[Website](https://www.instagram.com/budrum_ds31/)
+
+### Burzum
+
+**Страна:** Norway
+**Стиль:** Influential
+**Настроение:** Battle
+**Темп:** Slow
+
+<p>
+ <strong>Burzum</strong> - прежде всего норвежский Black Metal проект, однако его основанные на синтезаторах альбомы
+ <a
+ href="https://open.spotify.com/album/3U6xIoGR1EhTR8yIHgIw6A"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Dauði Baldrs</em></a> (<strong>1997</strong>) и
+ <a
+ href="https://open.spotify.com/album/1gEGcadlGCYKAnIvOxkJsU"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Hliðskjálf</em></a> (<strong>1999</strong>) стали важными ориентирами на раннем этапе развития Dungeon Synth.
+</p>
+
+<p class="artist-source-note">
+ Редакция Dungeon Synth Bestiary не поддерживает политические взгляды Варга Викернесса. Burzum представлен в каталоге исключительно как неотъемлемая часть истории и развития жанра Dungeon Synth.
+</p>
+
+[Spotify](https://open.spotify.com/artist/7L6u6TyhjuwubrcojPeNgf)
+[YouTube](https://music.youtube.com/search?q=%23burzum)
 
 ### Carpathian Sphinx
 
@@ -552,7 +625,7 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 **Страна:** Austria
 **Лейбл:** [Napalm Records](https://napalmrecords.bandcamp.com/)
-**Стиль:** Oldschool
+**Стиль:** Influential
 **Настроение:** Melancholic
 **Темп:** Normal
 
@@ -668,6 +741,15 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Apple Music](https://music.apple.com/us/artist/diplodocus/1490100897)
 [Website](https://www.instagram.com/diplodocus_dino_synth/)
 
+### Dolch
+
+**Страна:** Germany
+**Стиль:** Experimental
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Bandcamp](https://dolch1999.bandcamp.com/)
+
 ### DragonKeep
 
 **Страна:** France
@@ -677,6 +759,24 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Slow
 
 [Bandcamp](https://outofseason.bandcamp.com/album/wings-of-death-the-tale-of-ezherb)
+
+### Dream Waves
+
+**Страна:** USA
+**Стиль:** Proto DS
+**Настроение:** Dreamy
+**Темп:** Normal
+
+[YouTube](https://www.youtube.com/playlist?list=PLqQ35H538UQBFhNEvs5vAC4g6BMsLKZhb)
+
+### Driftwood
+
+**Страна:** Denmark
+**Стиль:** Medieval
+**Настроение:** Battle
+**Темп:** Normal
+
+[Bandcamp](https://driftwoodds.bandcamp.com/)
 
 ### Drochtuarach
 
@@ -787,6 +887,19 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [YouTube](https://www.youtube.com/@ElyvilonDS)
 [Apple Music](https://music.apple.com/us/artist/elyvilon/1580836408?l=ru)
 [Website](https://www.instagram.com/elyvilon_/)
+
+### Emerald Web
+
+**Страна:** USA
+**Стиль:** Proto DS
+**Настроение:** Melancholic
+**Темп:** Normal
+
+[Spotify](https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe)
+[Bandcamp](https://emeraldweb.bandcamp.com/)
+[YouTube](https://www.youtube.com/channel/UCEx6GWoMbsBo5JRitMan9xg)
+[Apple Music](https://music.apple.com/gb/artist/emerald-web/49779827)
+[Website](https://www.instagram.com/kat_epple/)
 
 ### Enchanted Helm
 
@@ -911,6 +1024,17 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://faydark.bandcamp.com/)
 
+### Fen Lume
+
+**Страна:** Unknown
+**Стиль:** Experimental
+**Настроение:** Dark
+**Темп:** Slow
+
+[Bandcamp](https://fenlume.bandcamp.com/)
+[YouTube](https://www.youtube.com/@FenLume)
+[Website](https://www.instagram.com/fenlume/)
+
 ### feth
 
 **Страна:** UK
@@ -1006,6 +1130,25 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://fragmentedmemories.bandcamp.com/)
 [Website](https://www.instagram.com/fragmented_memories_music/)
 
+### Frank Lentz
+
+**Страна:** Denmark
+**Стиль:** Proto DS
+**Настроение:** Dreamy
+**Темп:** Slow
+
+[Bandcamp](https://franklentz.bandcamp.com/)
+
+### Frigid Caves of Unspoken Territories
+
+**Страна:** USA
+**Стиль:** Ambient
+**Настроение:** Dark
+**Темп:** Slow
+
+[Bandcamp](https://matcaronmusic.bandcamp.com/album/frigid-caves-of-unspoken-territories)
+[Website](https://www.instagram.com/matthewjamescaron/)
+
 ### Frostgard
 
 **Страна:** Spain
@@ -1039,6 +1182,17 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://gelure.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/gelure/1595760666)
 [Website](https://www.instagram.com/gelureofficial/)
+
+### George Garside
+
+**Страна:** UK
+**Стиль:** Proto DS
+**Настроение:** Dreamy
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/playlist/0fSmN8bbZVTjn6eK1l9k8X)
+[Bandcamp](https://wildpendulumrecords.bandcamp.com/album/george-garside-the-jester)
+[YouTube](https://www.youtube.com/results?search_query=George+Garside)
 
 ### GNOLL
 
@@ -1228,6 +1382,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Apple Music](https://music.apple.com/ru/artist/hideous-gomphidius/1785919376)
 [Website](https://www.instagram.com/thefogweaver/)
 
+### High Strange
+
+**Страна:** USA
+**Стиль:** Sci-fi
+**Настроение:** Dreamy
+**Темп:** Slow
+
+[Bandcamp](https://matcaronmusic.bandcamp.com/album/communion-cosmic-divination)
+[Website](https://www.instagram.com/matthewjamescaron/)
+
 ### Hillsfar
 
 **Страна:** USA
@@ -1318,6 +1482,17 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Spotify](https://open.spotify.com/artist/3834gczQm4POtaLyluHDsY)
 [Bandcamp](https://ivernal.bandcamp.com/)
 
+### J D Emmanuel
+
+**Страна:** USA
+**Стиль:** Proto DS
+**Настроение:** Dreamy
+**Темп:** Normal
+
+[Bandcamp](https://jdemmanuel.bandcamp.com/)
+[YouTube](https://www.youtube.com/spacewizard13)
+[Website](https://www.instagram.com/mindmusic13/)
+
 ### Jim Kirkwood
 
 **Страна:** UK
@@ -1328,6 +1503,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://jimkirkwood.bandcamp.com/)
 [YouTube](https://music.youtube.com/playlist?list=PL3bHn-y2LJDZLX3qoyGKzHKGJolMRfBTu)
+
+### Jim Oliver
+
+**Страна:** USA
+**Стиль:** Proto DS
+**Настроение:** Dreamy
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/artist/2SM7TRJynUQgute7ZDRd92)
+[YouTube](https://www.youtube.com/@JimOliverMusic)
 
 ### Jääportit
 
@@ -1351,6 +1536,15 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Website](https://www.instagram.com/vitaliikarakarn_ds/)
 
+### Kevin O'Neill
+
+**Страна:** UK
+**Стиль:** Proto DS
+**Настроение:** Melancholic
+**Темп:** Normal
+
+[Bandcamp](https://kevinoneill1.bandcamp.com/)
+
 ### Киндерлинский Гул
 
 **Страна:** Russia
@@ -1361,6 +1555,15 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://bednoiseroomrecords.bandcamp.com/album/2026-4)
 [Apple Music](https://music.apple.com/ru/artist/%D0%BA%D0%B8%D0%BD%D0%B4%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D1%83%D0%BB/1796875909)
+
+### kindofdeath
+
+**Страна:** Russia
+**Стиль:** Experimental
+**Настроение:** Mystical
+**Темп:** Normal
+
+[Bandcamp](https://kindofdeath.bandcamp.com/)
 
 ### KletTtermax
 
@@ -1416,6 +1619,15 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Spotify](https://open.spotify.com/artist/0QCJuJZRj2MUeKZTp8ZgNs)
 [Bandcamp](https://landsraad.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/l-a-n-d-s-r-a-a-d/1624569378)
+
+### Lambert Ringlage
+
+**Страна:** Germany
+**Стиль:** Proto DS
+**Настроение:** Dreamy
+**Темп:** Normal
+
+[Bandcamp](https://lambert3.bandcamp.com/)
 
 ### Loitommas
 
@@ -1495,6 +1707,15 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://heinobrand.bandcamp.com/)
 
+### Macadum
+
+**Страна:** Russia
+**Стиль:** Medieval
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Bandcamp](https://macadum.bandcamp.com/)
+
 ### Maelifell
 
 **Страна:** France
@@ -1503,6 +1724,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Normal
 
 [YouTube](https://www.youtube.com/@TheDungeonSynthArchives/search?query=Maelifell)
+
+### Maiden Hair
+
+**Страна:** USA
+**Стиль:** Medieval
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Bandcamp](https://matcaronmusic.bandcamp.com/album/the-adder-witch)
+[Website](https://www.instagram.com/matthewjamescaron/)
 
 ### Malfet
 
@@ -1521,6 +1752,24 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Стиль:** Prehistoric
 **Настроение:** Mystical
 **Темп:** Slow
+
+### Mark Ellery Griffiths
+
+**Страна:** UK
+**Стиль:** Proto DS
+**Настроение:** Melancholic
+**Темп:** Normal
+
+[Spotify](https://open.spotify.com/artist/2SfH38kKpN7AlIaxn3fHtp)
+[Bandcamp](https://markgriffiths.bandcamp.com/)
+[YouTube](https://www.youtube.com/@markgriffiths5122)
+
+### Martin Kornberger & Volker Kuhn
+
+**Страна:** Germany
+**Стиль:** Proto DS
+**Настроение:** Epic
+**Темп:** Normal
 
 ### Meadow Grove
 
@@ -1558,6 +1807,27 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://stoneandshield.bandcamp.com/album/mixtape-ambient-1)
 [YouTube](https://www.youtube.com/watch?v=QSdGlZCz6wI)
 [Website](https://www.instagram.com/themidnightsilence)
+
+### Mike Brooks
+
+**Страна:** UK
+**Стиль:** Proto DS
+**Настроение:** Epic
+**Темп:** Normal
+
+[YouTube](https://www.youtube.com/playlist?list=PLfyNxAPiiJpymii3bjPS6VaqLeqKcDsZl)
+
+### Mike Rowland
+
+**Страна:** UK
+**Стиль:** Proto DS
+**Настроение:** Dreamy
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/artist/0mwKdjgZIEQeYC8zoUuZ6P)
+[Bandcamp](https://newworldmusicltd.bandcamp.com/album/fairy-ring-the)
+[YouTube](https://music.youtube.com/channel/UCYM4-uPZ3LVFzjdEeQlMEqw)
+[Apple Music](https://music.apple.com/de/artist/mike-rowland/538179)
 
 ### Mithril Axe
 
@@ -1617,6 +1887,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Spotify](https://open.spotify.com/artist/74vNsRWFo5mZeIVzS15yav)
 [Bandcamp](https://morketsvind.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/morketsvind/1397986290?l=ko)
+
+### Mors Silvestris
+
+**Страна:** Spain
+**Стиль:** Fantasy
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Bandcamp](https://morssilvestris.bandcamp.com/)
+[Website](https://www.instagram.com/morssilvestris/)
 
 ### Mortiis
 
@@ -1862,6 +2142,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://mystictowers.bandcamp.com/)
 
+### Mystiska Skogen
+
+**Страна:** Sweden
+**Лейбл:** [Nordvis](https://nordvis.bandcamp.com/)
+**Стиль:** Fantasy
+**Настроение:** Adventure
+**Темп:** Normal
+
+[Bandcamp](https://mystiskaskogen.bandcamp.com/)
+
 ### Mystkeeper
 
 **Страна:** UK
@@ -1872,6 +2162,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://mystkeeper.bandcamp.com/)
 [YouTube](https://www.youtube.com/@mystkeeperds)
 [Website](https://www.instagram.com/_mystkeeper_/)
+
+### Nameless Mage
+
+**Страна:** USA
+**Стиль:** Fantasy
+**Настроение:** Mystical
+**Темп:** Normal
+
+[Bandcamp](https://matcaronmusic.bandcamp.com/album/trilogy)
+[Website](https://www.instagram.com/matthewjamescaron/)
 
 ### Necromancer Tower
 
@@ -1895,6 +2195,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [YouTube](https://www.youtube.com/channel/UC95ng9IKaCeoE0F9qUf7FJw)
 [Apple Music](https://music.apple.com/us/artist/neverlur/1482439936)
 [Website](https://www.instagram.com/neverluren_toner/)
+
+### Nieveterna
+
+**Страна:** Argentina
+**Лейбл:** [Guiverno Records](https://guivernorecords.com/)
+**Стиль:** Ambient
+**Настроение:** Mystic
+**Темп:** Slow
+
+[Bandcamp](https://nieveterna.bandcamp.com/)
 
 ### Niloxian Protocols
 
@@ -1947,6 +2257,15 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Slow
 
 [Bandcamp](https://obscurasveil.bandcamp.com/)
+
+### Ojas
+
+**Страна:** USA
+**Стиль:** Proto DS
+**Настроение:** Mystical
+**Темп:** Slow
+
+[YouTube](https://www.youtube.com/playlist?list=PLqQ35H538UQBx6G9WHsgDMJkf_VT6w1eg)
 
 ### Old Sorcery
 
@@ -2035,6 +2354,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://onoskelis.bandcamp.com/)
 [Website](https://www.instagram.com/onoskelis_official/)
 
+### Order of Dark Times
+
+**Страна:** Russia
+**Стиль:** Experimental
+**Настроение:** Dark
+**Темп:** Slow
+
+[Bandcamp](https://orderofdarktimes.bandcamp.com/)
+[YouTube](https://www.youtube.com/@orderofdarktimes)
+
 ### Oublieth
 
 **Страна:** Canada
@@ -2056,6 +2385,26 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Slow
 
 [Bandcamp](https://owlens.bandcamp.com/)
+
+### Paixomenos
+
+**Страна:** Greece
+**Стиль:** Chiptune
+**Настроение:** Adventure
+**Темп:** Slow
+
+[Bandcamp](https://paixomenos.bandcamp.com/)
+
+### Paul Nagle
+
+**Страна:** UK
+**Стиль:** Proto DS
+**Настроение:** Dark
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/artist/3r23c2F6grSGwCWPYHOjwN)
+[YouTube](https://www.youtube.com/results?search_query=Paul+Nagle)
+[Apple Music](https://music.apple.com/us/artist/paul-nagle/96341026)
 
 ### Pauldron
 
@@ -2165,6 +2514,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Spotify](https://open.spotify.com/artist/20nzFGSMGbReCGLpVnFOxu)
 [Bandcamp](https://sceptreofthefadingdawn.bandcamp.com/)
 
+### Secret Minotaur
+
+**Страна:** Poland
+**Стиль:** Fantasy
+**Настроение:** Dreamy
+**Темп:** Slow
+
+[Bandcamp](https://secretminotaur.bandcamp.com/)
+[Website](https://www.instagram.com/secretminotaur)
+
 ### Secrets of Maya
 
 **Страна:** USA
@@ -2217,6 +2576,15 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://siderealfortress.bandcamp.com/)
 [Website](https://www.instagram.com/siderealfortress/)
+
+### Sir Krox
+
+**Страна:** Russia
+**Лейбл:** [Sweet 8-Bitterness](https://sweet8bitterness.bandcamp.com/)
+**Стиль:** Chiptune
+**Настроение:** Mystical
+
+[Bandcamp](https://sirkrox.bandcamp.com/)
 
 ### Skarpseian
 
@@ -2308,6 +2676,17 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://hauntedklinik.bandcamp.com/album/mischievous-misanthropy)
 [Website](vampiir-of-the-north.eu5.net)
 
+### Sourcerior
+
+**Страна:** Italy
+**Стиль:** Oldschool
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/artist/6iQvxGGxLRSjA7gAmnnVFw)
+[Bandcamp](https://sourcerior.bandcamp.com/)
+[Website](https://www.instagram.com/sourcerior_/)
+
 ### spaceseer
 
 **Страна:** USA
@@ -2372,6 +2751,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [YouTube](https://www.youtube.com/channel/UC0ChFzKrszVPczcn06ykx2Q)
 [Website](https://www.instagram.com/squiresynth/)
 
+### Stalker
+
+**Страна:** USA
+**Стиль:** Experimental
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Bandcamp](https://matcaronmusic.bandcamp.com/album/music-for-tracking-the-sasquatch-of-north-america)
+[Website](https://www.instagram.com/matthewjamescaron/)
+
 ### Stormkeep
 
 **Страна:** USA
@@ -2386,7 +2775,7 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 ### Summoning
 
 **Страна:** Austria
-**Стиль:** Oldschool
+**Стиль:** Influential
 **Настроение:** Epic
 **Темп:** Slow
 
@@ -2674,6 +3063,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://thehaligtree.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/the-haligtree/1765704957)
 
+### The Nightcrawlers
+
+**Страна:** USA
+**Стиль:** Proto DS
+**Настроение:** Mystical
+**Темп:** Normal
+
+[Bandcamp](https://thenightcrawlerspa.bandcamp.com/)
+[YouTube](https://music.youtube.com/channel/UCskia0Mz-bswIiXG4J7Q41g)
+
 ### TIL DET BERGENS SKYGGENE
 
 **Страна:** Germany
@@ -2692,6 +3091,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Стиль:** Medieval
 **Настроение:** Battle
 **Темп:** Normal
+
+### Tom Bombakill
+
+**Страна:** USA
+**Стиль:** RAW
+**Настроение:** Adventure
+**Темп:** Normal
+
+[Bandcamp](https://matcaronmusic.bandcamp.com/album/tom-bombakill-o)
+[Website](https://www.instagram.com/matthewjamescaron/)
 
 ### Tomb Snail
 
@@ -2808,6 +3217,15 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://ulkmusic.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/ulk/1475225540)
 
+### Umbral Regency
+
+**Страна:** Sweden
+**Стиль:** Fantasy
+**Настроение:** Epic
+**Темп:** Normal
+
+[Bandcamp](https://umbralregency.bandcamp.com/)
+
 ### Under the Frost Moon
 
 **Страна:** Puerto Rico
@@ -2829,6 +3247,18 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Spotify](https://open.spotify.com/artist/3ufIXUx174A4eaaUrUfRko)
 [Bandcamp](https://urpalemperor.bandcamp.com/)
+
+### Urku Llanthu
+
+**Страна:** Ecuador
+**Стиль:** Experimental
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/user/12137389372)
+[Bandcamp](https://urkullanthuofficial.bandcamp.com/)
+[YouTube](https://www.youtube.com/channel/UC8dhe-KkpjXzpJXfUXhK6Lw)
+[Website](https://www.instagram.com/urkullanthuofficial/)
 
 ### Utred
 
@@ -2938,6 +3368,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://valen.bandcamp.com/)
 
+### Valscharuhn
+
+**Страна:** USA
+**Лейбл:** [Fogged Entity](https://foggedentity.bandcamp.com/)
+**Стиль:** Experimental
+**Настроение:** Melancholic
+**Темп:** Normal
+
+[Bandcamp](https://valscharuhn.bandcamp.com/)
+
 ### Vanishing Amulet
 
 **Страна:** USA
@@ -2952,6 +3392,18 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Apple Music](https://music.apple.com/kz/artist/vanishing-amulet/1771515398)
 [Website](https://www.instagram.com/vanishingamulet/)
 
+### Vespermort
+
+**Страна:** Spain
+**Лейбл:** [Guiverno Records](https://guivernorecords.com/)
+**Стиль:** Fantasy
+**Настроение:** Epic
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/artist/7G1vQW3QoEhxIP4X0adRwx?si=nc-PENkiTjK8PY6l6twwEA&nd=1&dlsi=5cb04e2395444574)
+[YouTube](https://www.youtube.com/@Vespermort)
+[Website](https://www.instagram.com/vespermort_)
+
 ### Vetus Supulcrum
 
 **Страна:** Netherlands
@@ -2961,6 +3413,18 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Spotify](https://open.spotify.com/artist/6dsMcXfFb9fsVx6e0wXAVn)
 [Bandcamp](https://vetussupulcrum.bandcamp.com/)
+
+### Vindalf
+
+**Страна:** Chile
+**Лейбл:** [Guiverno Records](https://guivernorecords.com/)
+**Стиль:** Fantasy
+**Настроение:** Melancholic
+**Темп:** Normal
+
+[Spotify](https://open.spotify.com/artist/0ZXq7ixi3DM00qBETEjfEF?si=1taSQVvSRaGQgX22cHKqMQ&utm_source=copy-link&nd=1)
+[Bandcamp](https://vindalfbm.bandcamp.com/)
+[YouTube](https://www.youtube.com/channel/UCIe4l9doxAAnYejKMlTlaEw)
 
 ### VISIONS OF NIFTEN
 
@@ -3007,6 +3471,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 </p>
 
 [Bandcamp](https://vordungeon.bandcamp.com/)
+
+### Wachturm
+
+**Страна:** Germany
+**Стиль:** Fantasy
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Bandcamp](https://siegegolem.bandcamp.com/album/kapitel-iv)
+[Website](https://www.instagram.com/siege_golem/)
 
 ### Wallachian Cobwebs
 

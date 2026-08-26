@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-25
+last_updated: 2026-08-26
 ---
 
 # Dungeon Synth Artists Directory - The Dungeon Synth Bestiary 
@@ -95,6 +95,15 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [YouTube](https://www.youtube.com/@AncientBlasphemy)
 
+### Andy Shapiro
+
+**Country:** USA
+**Style:** Proto DS
+**Mood:** Dreamy
+**Tempo:** Normal
+
+[YouTube](https://www.youtube.com/watch?v=AtvCMxuO9zQ)
+
 ### Anglachel
 
 **Country:** Greece
@@ -163,6 +172,18 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://assortedpotions.bandcamp.com/)
 [Website](https://www.instagram.com/assortedpotions/)
 
+### Atlantean Sword
+
+**Country:** UK
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/artist/7LLYqFSD4TOpQnARriUMoo)
+[Bandcamp](https://atlanteansword.bandcamp.com/)
+[YouTube](https://www.youtube.com/@vhsatanist9146/videos)
+[Website](https://www.instagram.com/atlantean_sword_ds/)
+
 ### Aura Merlin
 
 **Country:** Canada
@@ -177,6 +198,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Aurora Relicta
 
 **Country:** Argentina
+**Label:** [Guiverno Records](https://guivernorecords.com/)
 **Style:** Fantasy
 **Mood:** Mystical
 **Tempo:** Slow
@@ -268,6 +290,17 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://bladesoffolmar.bandcamp.com/)
 [Website](https://www.instagram.com/blades_of_folmar/)
 
+### Blod Besvimelse
+
+**Country:** Norway
+**Style:** RAW
+**Mood:** Battle
+**Tempo:** Normal
+
+[Spotify](https://open.spotify.com/artist/4fX7zAUjAwhJIQKIcqJlsk)
+[YouTube](https://www.youtube.com/channel/UC4SF93TsUJdB78xVj1LwMQA)
+[Apple Music](https://music.apple.com/de/artist/blod-besvimelse/1755294377)
+
 ### Blood Lord
 
 **Country:** UK
@@ -331,6 +364,46 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Bandcamp](https://gondolinrecords.bandcamp.com/album/eulogy-for-a-noble-age)
+
+### Budrum
+
+**Country:** Greece
+**Style:** Medieval
+**Mood:** Adventure
+**Tempo:** Normal
+
+[Bandcamp](https://budrum.bandcamp.com/)
+[Website](https://www.instagram.com/budrum_ds31/)
+
+### Burzum
+
+**Country:** Norway
+**Style:** Influential
+**Mood:** Battle
+**Tempo:** Slow
+
+<p>
+ <strong>Burzum</strong> is primarily a Norwegian Black Metal project, but its synthesizer-based albums
+ <a
+ href="https://open.spotify.com/album/3U6xIoGR1EhTR8yIHgIw6A"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Dauði Baldrs</em></a> (<strong>1997</strong>) and
+ <a
+ href="https://open.spotify.com/album/1gEGcadlGCYKAnIvOxkJsU"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Hliðskjálf</em></a> (<strong>1999</strong>) became important reference points in the early development of Dungeon Synth.
+</p>
+
+<p class="artist-source-note">
+ The Dungeon Synth Bestiary editorial team does not support the political views of Varg Vikernes. Burzum is included solely as an integral part of the history and development of the Dungeon Synth genre.
+</p>
+
+[Spotify](https://open.spotify.com/artist/7L6u6TyhjuwubrcojPeNgf)
+[YouTube](https://music.youtube.com/search?q=%23burzum)
 
 ### Carpathian Sphinx
 
@@ -552,7 +625,7 @@ If you want to suggest your project or bring a short text about it - please use 
 
 **Country:** Austria
 **Label:** [Napalm Records](https://napalmrecords.bandcamp.com/)
-**Style:** Oldschool
+**Style:** Influential
 **Mood:** Melancholic
 **Tempo:** Normal
 
@@ -673,6 +746,15 @@ If you want to suggest your project or bring a short text about it - please use 
 [Apple Music](https://music.apple.com/us/artist/diplodocus/1490100897)
 [Website](https://www.instagram.com/diplodocus_dino_synth/)
 
+### Dolch
+
+**Country:** Germany
+**Style:** Experimental
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Bandcamp](https://dolch1999.bandcamp.com/)
+
 ### DragonKeep
 
 **Country:** France
@@ -682,6 +764,24 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Bandcamp](https://outofseason.bandcamp.com/album/wings-of-death-the-tale-of-ezherb)
+
+### Dream Waves
+
+**Country:** USA
+**Style:** Proto DS
+**Mood:** Dreamy
+**Tempo:** Normal
+
+[YouTube](https://www.youtube.com/playlist?list=PLqQ35H538UQBFhNEvs5vAC4g6BMsLKZhb)
+
+### Driftwood
+
+**Country:** Denmark
+**Style:** Medieval
+**Mood:** Battle
+**Tempo:** Normal
+
+[Bandcamp](https://driftwoodds.bandcamp.com/)
 
 ### Drochtuarach
 
@@ -792,6 +892,19 @@ If you want to suggest your project or bring a short text about it - please use 
 [YouTube](https://www.youtube.com/@ElyvilonDS)
 [Apple Music](https://music.apple.com/us/artist/elyvilon/1580836408?l=ru)
 [Website](https://www.instagram.com/elyvilon_/)
+
+### Emerald Web
+
+**Country:** USA
+**Style:** Proto DS
+**Mood:** Melancholic
+**Tempo:** Normal
+
+[Spotify](https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe)
+[Bandcamp](https://emeraldweb.bandcamp.com/)
+[YouTube](https://www.youtube.com/channel/UCEx6GWoMbsBo5JRitMan9xg)
+[Apple Music](https://music.apple.com/gb/artist/emerald-web/49779827)
+[Website](https://www.instagram.com/kat_epple/)
 
 ### Enchanted Helm
 
@@ -916,6 +1029,17 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://faydark.bandcamp.com/)
 
+### Fen Lume
+
+**Country:** Unknown
+**Style:** Experimental
+**Mood:** Dark
+**Tempo:** Slow
+
+[Bandcamp](https://fenlume.bandcamp.com/)
+[YouTube](https://www.youtube.com/@FenLume)
+[Website](https://www.instagram.com/fenlume/)
+
 ### feth
 
 **Country:** UK
@@ -1011,6 +1135,25 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://fragmentedmemories.bandcamp.com/)
 [Website](https://www.instagram.com/fragmented_memories_music/)
 
+### Frank Lentz
+
+**Country:** Denmark
+**Style:** Proto DS
+**Mood:** Dreamy
+**Tempo:** Slow
+
+[Bandcamp](https://franklentz.bandcamp.com/)
+
+### Frigid Caves of Unspoken Territories
+
+**Country:** USA
+**Style:** Ambient
+**Mood:** Dark
+**Tempo:** Slow
+
+[Bandcamp](https://matcaronmusic.bandcamp.com/album/frigid-caves-of-unspoken-territories)
+[Website](https://www.instagram.com/matthewjamescaron/)
+
 ### Frostgard
 
 **Country:** Spain
@@ -1044,6 +1187,17 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://gelure.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/gelure/1595760666)
 [Website](https://www.instagram.com/gelureofficial/)
+
+### George Garside
+
+**Country:** UK
+**Style:** Proto DS
+**Mood:** Dreamy
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/playlist/0fSmN8bbZVTjn6eK1l9k8X)
+[Bandcamp](https://wildpendulumrecords.bandcamp.com/album/george-garside-the-jester)
+[YouTube](https://www.youtube.com/results?search_query=George+Garside)
 
 ### GNOLL
 
@@ -1233,6 +1387,16 @@ If you want to suggest your project or bring a short text about it - please use 
 [Apple Music](https://music.apple.com/ru/artist/hideous-gomphidius/1785919376)
 [Website](https://www.instagram.com/thefogweaver/)
 
+### High Strange
+
+**Country:** USA
+**Style:** Sci-fi
+**Mood:** Dreamy
+**Tempo:** Slow
+
+[Bandcamp](https://matcaronmusic.bandcamp.com/album/communion-cosmic-divination)
+[Website](https://www.instagram.com/matthewjamescaron/)
+
 ### Hillsfar
 
 **Country:** USA
@@ -1323,6 +1487,17 @@ If you want to suggest your project or bring a short text about it - please use 
 [Spotify](https://open.spotify.com/artist/3834gczQm4POtaLyluHDsY)
 [Bandcamp](https://ivernal.bandcamp.com/)
 
+### J D Emmanuel
+
+**Country:** USA
+**Style:** Proto DS
+**Mood:** Dreamy
+**Tempo:** Normal
+
+[Bandcamp](https://jdemmanuel.bandcamp.com/)
+[YouTube](https://www.youtube.com/spacewizard13)
+[Website](https://www.instagram.com/mindmusic13/)
+
 ### Jim Kirkwood
 
 **Country:** UK
@@ -1333,6 +1508,16 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://jimkirkwood.bandcamp.com/)
 [YouTube](https://music.youtube.com/playlist?list=PL3bHn-y2LJDZLX3qoyGKzHKGJolMRfBTu)
+
+### Jim Oliver
+
+**Country:** USA
+**Style:** Proto DS
+**Mood:** Dreamy
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/artist/2SM7TRJynUQgute7ZDRd92)
+[YouTube](https://www.youtube.com/@JimOliverMusic)
 
 ### Jääportit
 
@@ -1356,6 +1541,15 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Website](https://www.instagram.com/vitaliikarakarn_ds/)
 
+### Kevin O'Neill
+
+**Country:** UK
+**Style:** Proto DS
+**Mood:** Melancholic
+**Tempo:** Normal
+
+[Bandcamp](https://kevinoneill1.bandcamp.com/)
+
 ### Kinderlinsky Gul
 
 **Country:** Russia
@@ -1366,6 +1560,15 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://bednoiseroomrecords.bandcamp.com/album/2026-4)
 [Apple Music](https://music.apple.com/ru/artist/%D0%BA%D0%B8%D0%BD%D0%B4%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D1%83%D0%BB/1796875909)
+
+### kindofdeath
+
+**Country:** Russia
+**Style:** Experimental
+**Mood:** Mystical
+**Tempo:** Normal
+
+[Bandcamp](https://kindofdeath.bandcamp.com/)
 
 ### KletTtermax
 
@@ -1421,6 +1624,15 @@ If you want to suggest your project or bring a short text about it - please use 
 [Spotify](https://open.spotify.com/artist/0QCJuJZRj2MUeKZTp8ZgNs)
 [Bandcamp](https://landsraad.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/l-a-n-d-s-r-a-a-d/1624569378)
+
+### Lambert Ringlage
+
+**Country:** Germany
+**Style:** Proto DS
+**Mood:** Dreamy
+**Tempo:** Normal
+
+[Bandcamp](https://lambert3.bandcamp.com/)
 
 ### Loitommas
 
@@ -1500,6 +1712,15 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://heinobrand.bandcamp.com/)
 
+### Macadum
+
+**Country:** Russia
+**Style:** Medieval
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Bandcamp](https://macadum.bandcamp.com/)
+
 ### Maelifell
 
 **Country:** France
@@ -1508,6 +1729,16 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Normal
 
 [YouTube](https://www.youtube.com/@TheDungeonSynthArchives/search?query=Maelifell)
+
+### Maiden Hair
+
+**Country:** USA
+**Style:** Medieval
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Bandcamp](https://matcaronmusic.bandcamp.com/album/the-adder-witch)
+[Website](https://www.instagram.com/matthewjamescaron/)
 
 ### Malfet
 
@@ -1526,6 +1757,24 @@ If you want to suggest your project or bring a short text about it - please use 
 **Style:** Prehistoric
 **Mood:** Mystical
 **Tempo:** Slow
+
+### Mark Ellery Griffiths
+
+**Country:** UK
+**Style:** Proto DS
+**Mood:** Melancholic
+**Tempo:** Normal
+
+[Spotify](https://open.spotify.com/artist/2SfH38kKpN7AlIaxn3fHtp)
+[Bandcamp](https://markgriffiths.bandcamp.com/)
+[YouTube](https://www.youtube.com/@markgriffiths5122)
+
+### Martin Kornberger & Volker Kuhn
+
+**Country:** Germany
+**Style:** Proto DS
+**Mood:** Epic
+**Tempo:** Normal
 
 ### Meadow Grove
 
@@ -1563,6 +1812,27 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://stoneandshield.bandcamp.com/album/mixtape-ambient-1)
 [YouTube](https://www.youtube.com/watch?v=QSdGlZCz6wI)
 [Website](https://www.instagram.com/themidnightsilence)
+
+### Mike Brooks
+
+**Country:** UK
+**Style:** Proto DS
+**Mood:** Epic
+**Tempo:** Normal
+
+[YouTube](https://www.youtube.com/playlist?list=PLfyNxAPiiJpymii3bjPS6VaqLeqKcDsZl)
+
+### Mike Rowland
+
+**Country:** UK
+**Style:** Proto DS
+**Mood:** Dreamy
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/artist/0mwKdjgZIEQeYC8zoUuZ6P)
+[Bandcamp](https://newworldmusicltd.bandcamp.com/album/fairy-ring-the)
+[YouTube](https://music.youtube.com/channel/UCYM4-uPZ3LVFzjdEeQlMEqw)
+[Apple Music](https://music.apple.com/de/artist/mike-rowland/538179)
 
 ### Mithril Axe
 
@@ -1622,6 +1892,16 @@ If you want to suggest your project or bring a short text about it - please use 
 [Spotify](https://open.spotify.com/artist/74vNsRWFo5mZeIVzS15yav)
 [Bandcamp](https://morketsvind.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/morketsvind/1397986290?l=ko)
+
+### Mors Silvestris
+
+**Country:** Spain
+**Style:** Fantasy
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Bandcamp](https://morssilvestris.bandcamp.com/)
+[Website](https://www.instagram.com/morssilvestris/)
 
 ### Mortiis
 
@@ -1872,6 +2152,16 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://mystictowers.bandcamp.com/)
 
+### Mystiska Skogen
+
+**Country:** Sweden
+**Label:** [Nordvis](https://nordvis.bandcamp.com/)
+**Style:** Fantasy
+**Mood:** Adventure
+**Tempo:** Normal
+
+[Bandcamp](https://mystiskaskogen.bandcamp.com/)
+
 ### Mystkeeper
 
 **Country:** UK
@@ -1882,6 +2172,16 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://mystkeeper.bandcamp.com/)
 [YouTube](https://www.youtube.com/@mystkeeperds)
 [Website](https://www.instagram.com/_mystkeeper_/)
+
+### Nameless Mage
+
+**Country:** USA
+**Style:** Fantasy
+**Mood:** Mystical
+**Tempo:** Normal
+
+[Bandcamp](https://matcaronmusic.bandcamp.com/album/trilogy)
+[Website](https://www.instagram.com/matthewjamescaron/)
 
 ### Necromancer Tower
 
@@ -1905,6 +2205,16 @@ If you want to suggest your project or bring a short text about it - please use 
 [YouTube](https://www.youtube.com/channel/UC95ng9IKaCeoE0F9qUf7FJw)
 [Apple Music](https://music.apple.com/us/artist/neverlur/1482439936)
 [Website](https://www.instagram.com/neverluren_toner/)
+
+### Nieveterna
+
+**Country:** Argentina
+**Label:** [Guiverno Records](https://guivernorecords.com/)
+**Style:** Ambient
+**Mood:** Mystic
+**Tempo:** Slow
+
+[Bandcamp](https://nieveterna.bandcamp.com/)
 
 ### Niloxian Protocols
 
@@ -1957,6 +2267,15 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Bandcamp](https://obscurasveil.bandcamp.com/)
+
+### Ojas
+
+**Country:** USA
+**Style:** Proto DS
+**Mood:** Mystical
+**Tempo:** Slow
+
+[YouTube](https://www.youtube.com/playlist?list=PLqQ35H538UQBx6G9WHsgDMJkf_VT6w1eg)
 
 ### Old Sorcery
 
@@ -2045,6 +2364,16 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://onoskelis.bandcamp.com/)
 [Website](https://www.instagram.com/onoskelis_official/)
 
+### Order of Dark Times
+
+**Country:** Russia
+**Style:** Experimental
+**Mood:** Dark
+**Tempo:** Slow
+
+[Bandcamp](https://orderofdarktimes.bandcamp.com/)
+[YouTube](https://www.youtube.com/@orderofdarktimes)
+
 ### Oublieth
 
 **Country:** Canada
@@ -2066,6 +2395,26 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Bandcamp](https://owlens.bandcamp.com/)
+
+### Paixomenos
+
+**Country:** Greece
+**Style:** Chiptune
+**Mood:** Adventure
+**Tempo:** Slow
+
+[Bandcamp](https://paixomenos.bandcamp.com/)
+
+### Paul Nagle
+
+**Country:** UK
+**Style:** Proto DS
+**Mood:** Dark
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/artist/3r23c2F6grSGwCWPYHOjwN)
+[YouTube](https://www.youtube.com/results?search_query=Paul+Nagle)
+[Apple Music](https://music.apple.com/us/artist/paul-nagle/96341026)
 
 ### Pauldron
 
@@ -2175,6 +2524,16 @@ If you want to suggest your project or bring a short text about it - please use 
 [Spotify](https://open.spotify.com/artist/20nzFGSMGbReCGLpVnFOxu)
 [Bandcamp](https://sceptreofthefadingdawn.bandcamp.com/)
 
+### Secret Minotaur
+
+**Country:** Poland
+**Style:** Fantasy
+**Mood:** Dreamy
+**Tempo:** Slow
+
+[Bandcamp](https://secretminotaur.bandcamp.com/)
+[Website](https://www.instagram.com/secretminotaur)
+
 ### Secrets of Maya
 
 **Country:** USA
@@ -2227,6 +2586,15 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://siderealfortress.bandcamp.com/)
 [Website](https://www.instagram.com/siderealfortress/)
+
+### Sir Krox
+
+**Country:** Russia
+**Label:** [Sweet 8-Bitterness](https://sweet8bitterness.bandcamp.com/)
+**Style:** Chiptune
+**Mood:** Mystical
+
+[Bandcamp](https://sirkrox.bandcamp.com/)
 
 ### Skarpseian
 
@@ -2318,6 +2686,17 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://hauntedklinik.bandcamp.com/album/mischievous-misanthropy)
 [Website](vampiir-of-the-north.eu5.net)
 
+### Sourcerior
+
+**Country:** Italy
+**Style:** Oldschool
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/artist/6iQvxGGxLRSjA7gAmnnVFw)
+[Bandcamp](https://sourcerior.bandcamp.com/)
+[Website](https://www.instagram.com/sourcerior_/)
+
 ### spaceseer
 
 **Country:** USA
@@ -2382,6 +2761,16 @@ If you want to suggest your project or bring a short text about it - please use 
 [YouTube](https://www.youtube.com/channel/UC0ChFzKrszVPczcn06ykx2Q)
 [Website](https://www.instagram.com/squiresynth/)
 
+### Stalker
+
+**Country:** USA
+**Style:** Experimental
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Bandcamp](https://matcaronmusic.bandcamp.com/album/music-for-tracking-the-sasquatch-of-north-america)
+[Website](https://www.instagram.com/matthewjamescaron/)
+
 ### Stormkeep
 
 **Country:** USA
@@ -2396,7 +2785,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Summoning
 
 **Country:** Austria
-**Style:** Oldschool
+**Style:** Influential
 **Mood:** Epic
 **Tempo:** Slow
 
@@ -2681,6 +3070,16 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://thehaligtree.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/the-haligtree/1765704957)
 
+### The Nightcrawlers
+
+**Country:** USA
+**Style:** Proto DS
+**Mood:** Mystical
+**Tempo:** Normal
+
+[Bandcamp](https://thenightcrawlerspa.bandcamp.com/)
+[YouTube](https://music.youtube.com/channel/UCskia0Mz-bswIiXG4J7Q41g)
+
 ### TIL DET BERGENS SKYGGENE
 
 **Country:** Germany
@@ -2699,6 +3098,16 @@ If you want to suggest your project or bring a short text about it - please use 
 **Style:** Medieval
 **Mood:** Battle
 **Tempo:** Normal
+
+### Tom Bombakill
+
+**Country:** USA
+**Style:** RAW
+**Mood:** Adventure
+**Tempo:** Normal
+
+[Bandcamp](https://matcaronmusic.bandcamp.com/album/tom-bombakill-o)
+[Website](https://www.instagram.com/matthewjamescaron/)
 
 ### Tomb Snail
 
@@ -2815,6 +3224,15 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://ulkmusic.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/ulk/1475225540)
 
+### Umbral Regency
+
+**Country:** Sweden
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Normal
+
+[Bandcamp](https://umbralregency.bandcamp.com/)
+
 ### Under the Frost Moon
 
 **Country:** Puerto Rico
@@ -2836,6 +3254,18 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Spotify](https://open.spotify.com/artist/3ufIXUx174A4eaaUrUfRko)
 [Bandcamp](https://urpalemperor.bandcamp.com/)
+
+### Urku Llanthu
+
+**Country:** Ecuador
+**Style:** Experimental
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/user/12137389372)
+[Bandcamp](https://urkullanthuofficial.bandcamp.com/)
+[YouTube](https://www.youtube.com/channel/UC8dhe-KkpjXzpJXfUXhK6Lw)
+[Website](https://www.instagram.com/urkullanthuofficial/)
 
 ### Utred
 
@@ -2942,6 +3372,16 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://valen.bandcamp.com/)
 
+### Valscharuhn
+
+**Country:** USA
+**Label:** [Fogged Entity](https://foggedentity.bandcamp.com/)
+**Style:** Experimental
+**Mood:** Melancholic
+**Tempo:** Normal
+
+[Bandcamp](https://valscharuhn.bandcamp.com/)
+
 ### Vanishing Amulet
 
 **Country:** USA
@@ -2956,6 +3396,18 @@ If you want to suggest your project or bring a short text about it - please use 
 [Apple Music](https://music.apple.com/kz/artist/vanishing-amulet/1771515398)
 [Website](https://www.instagram.com/vanishingamulet/)
 
+### Vespermort
+
+**Country:** Spain
+**Label:** [Guiverno Records](https://guivernorecords.com/)
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/artist/7G1vQW3QoEhxIP4X0adRwx?si=nc-PENkiTjK8PY6l6twwEA&nd=1&dlsi=5cb04e2395444574)
+[YouTube](https://www.youtube.com/@Vespermort)
+[Website](https://www.instagram.com/vespermort_)
+
 ### Vetus Supulcrum
 
 **Country:** Netherlands
@@ -2965,6 +3417,18 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Spotify](https://open.spotify.com/artist/6dsMcXfFb9fsVx6e0wXAVn)
 [Bandcamp](https://vetussupulcrum.bandcamp.com/)
+
+### Vindalf
+
+**Country:** Chile
+**Label:** [Guiverno Records](https://guivernorecords.com/)
+**Style:** Fantasy
+**Mood:** Melancholic
+**Tempo:** Normal
+
+[Spotify](https://open.spotify.com/artist/0ZXq7ixi3DM00qBETEjfEF?si=1taSQVvSRaGQgX22cHKqMQ&utm_source=copy-link&nd=1)
+[Bandcamp](https://vindalfbm.bandcamp.com/)
+[YouTube](https://www.youtube.com/channel/UCIe4l9doxAAnYejKMlTlaEw)
 
 ### VISIONS OF NIFTEN
 
@@ -3011,6 +3475,16 @@ If you want to suggest your project or bring a short text about it - please use 
 </p>
 
 [Bandcamp](https://vordungeon.bandcamp.com/)
+
+### Wachturm
+
+**Country:** Germany
+**Style:** Fantasy
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Bandcamp](https://siegegolem.bandcamp.com/album/kapitel-iv)
+[Website](https://www.instagram.com/siege_golem/)
 
 ### Wallachian Cobwebs
 
