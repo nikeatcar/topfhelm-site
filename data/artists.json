@@ -35,6 +35,111 @@
         }
     },
     {
+        "id": "aardia",
+        "country": "Sweden",
+        "invention": "1990s",
+        "style": "Fantasy",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://i.ytimg.com/vi/7Bcr7AyIo28/maxresdefault.jpg",
+        "banner": "https://i.ytimg.com/vi/VYtWvWK5X08/maxresdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "P8G9OTlEg0Q"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/album/37h1NJxf3jWamj2MplzyRH",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Aardia",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "abaddon",
+        "country": "Brazil",
+        "invention": "1990s",
+        "style": "RAW",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://i.discogs.com/gPRlCveqMC2AvS6XwpYAszWZjnC9qpr9f7EAkBRYHzw/rs:fit/g:sm/q:90/h:480/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4ODkz/MTAtMTQ2MTEyMTkx/Ny00MTQxLmpwZWc.jpeg",
+        "banner": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/484039680_2088734191572762_1713835948957865396_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1448&ctp=s960x960&_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=ol0ls9wW5uIQ7kNvwFX2wDW&_nc_oc=AdphNcRUAkJ8UvjkpNVN8ieZX-8UJGytk7yR5D9xUY--1DJAzAskehFMVlOcBjY4AFY&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=hJBlvP_wRf35PiSdY_VZmg&_nc_ss=7f2a8&oh=00_AQGHUzpOiXpEPjZ-NIGOR1YBDoqlIVOLH3asLSW4WKduew&oe=6A95D844",
+        "background": "rgb(248, 248, 248)",
+        "label": "https://vozdamorteprod.bandcamp.com/",
+        "label_name": "Voz da Morte Prod",
+        "label_img": "https://f4.bcbits.com/img/0030401982_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "495443889"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://vozdamorteprod.bandcamp.com/album/potestatem-et-virtutis-demo-tape-1996",
+            "youtube": "https://www.youtube.com/channel/UCeNFWf8cRtdbP5dkZbVhKGg",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Abaddon",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "aeternum-maleficium",
+        "country": "Brazil",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://i.pinimg.com/736x/d7/33/71/d7337164194b01bfe16b4b05adda2f74.jpg",
+        "banner": "https://i.pinimg.com/736x/d7/33/71/d7337164194b01bfe16b4b05adda2f74.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "eMLHPJPRzZw"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "https://www.youtube.com/watch?v=eMLHPJPRzZw",
+            "apple_music": "",
+            "website": "https://ascoven.blogspot.com/2016/06/aeternum-maleficium-sons-of-sun-demo.html"
+        },
+        "translations": {
+            "en": {
+                "name": "Aeternum Maleficium",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "aindulmedir",
         "country": "Sweden",
         "invention": "2010s",
@@ -70,6 +175,76 @@
         }
     },
     {
+        "id": "akhenaton",
+        "country": "France",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/a0340340217_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0004237042_102.avif",
+        "background": "https://f4.bcbits.com/img/0004191831_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "573233831"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://sangdragon.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/sangdragon_official/"
+        },
+        "translations": {
+            "en": {
+                "name": "AKHENATON",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "alchem",
+        "country": "Poland",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Adventure",
+        "tempo": "Normal",
+        "logo": "https://i.ytimg.com/vi/8RAdwvhbGSA/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGF8gZShOMA8=&rs=AOn4CLAzsXL0j7cj_1k4Gdj5ZRX1xzuCSg",
+        "banner": "https://i.ytimg.com/vi/apFYvtgdipw/hqdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "bYub5mvZW1w"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Alchem",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "alkilith",
         "country": "USA",
         "invention": "2020s",
@@ -96,6 +271,76 @@
         "translations": {
             "en": {
                 "name": "Alkilith",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "alpheratz",
+        "country": "Mexico",
+        "invention": "1990s",
+        "style": "Influential",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://www.metal-archives.com/images/9/7/9/5/979566.jpg?3647",
+        "banner": "https://www.metal-archives.com/images/9/7/9/5/979563.jpg?2722",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "Ou93P55Nfbs"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "ALPHERATZ",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "ammit",
+        "country": "Chile",
+        "invention": "1990s",
+        "style": "Influential",
+        "mood": "Dark",
+        "tempo": "Normal",
+        "logo": "https://i.discogs.com/Z4mk6k_YitqBKo6-rMYfpWFfkCHz0UE6oJXkoECM6Uk/rs:fit/g:sm/q:90/h:283/w:280/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTU2/NDYtMTI5MzM5MzUx/NS5qcGVn.jpeg",
+        "banner": "https://i.discogs.com/PPltZHrNB1kYzQj662jCOD8m5xrjTKpJSeWzHhcA2n4/rs:fit/g:sm/q:90/h:300/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDk0/MjAtMTQyMzg0ODI2/NS0xMTQ2LmpwZWc.jpeg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "aq1ReaYu7Do"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Ammit",
                 "description": ""
             },
             "ru": {
@@ -280,9 +525,79 @@
         }
     },
     {
+        "id": "annwn",
+        "country": "Portugal",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://www.metal-archives.com/images/7/9/7/0/79709_logo.jpg",
+        "banner": "https://i.ytimg.com/vi/lmFNQW1Fh2U/maxresdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "Szmss42IRY4"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Annwn",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "apeiron",
+        "country": "Austria",
+        "invention": "1990s",
+        "style": "Ambient",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a3351952378_10.jpg",
+        "banner": "https://i.discogs.com/e60n1CtSfUFbRU7nlNk_F_yLKPBUnogbqQSAgYEKHCo/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjky/NjktMTQ2MzU5ODgw/OS0yMDAxLmpwZWc.jpeg",
+        "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "799638667"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://traunmuller-archives.bandcamp.com/album/apeiron-a-separate-reality-1995",
+            "youtube": "https://www.youtube.com/watch?v=-oTduXC-dz4",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Apeiron",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "arcana-liturgia",
         "country": "Italy",
-        "invention": "2010s",
+        "invention": "1990s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Slow",
@@ -306,6 +621,41 @@
         "translations": {
             "en": {
                 "name": "Arcana Liturgia",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "arden",
+        "country": "France",
+        "invention": "1990s",
+        "style": "Medieval",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://i.discogs.com/yoSG8A1QfvNpEQrtyXWCtjbT-WFdGz9szB1dE85rp2M/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTcy/NTEtMTQ2NzE5MTg0/Mi0zOTQ4LmpwZWc.jpeg",
+        "banner": "https://i.ytimg.com/vi/kE-zoPdEw74/maxresdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "kE-zoPdEw74"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Arden",
                 "description": ""
             },
             "ru": {
@@ -341,6 +691,76 @@
         "translations": {
             "en": {
                 "name": "Armsman Commander",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "ars-poetica",
+        "country": "Poland",
+        "invention": "1990s",
+        "style": "Medieval",
+        "mood": "Epic",
+        "tempo": "Slow",
+        "logo": "https://i.ytimg.com/vi/m_xkmVi6r4w/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgVSg6MA8=&rs=AOn4CLDGIfVGQ57SxDeIfXFdALqzlZ76aA",
+        "banner": "https://i.ytimg.com/vi/m_xkmVi6r4w/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgVSg6MA8=&rs=AOn4CLDGIfVGQ57SxDeIfXFdALqzlZ76aA",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "m_xkmVi6r4w"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://ascoven.blogspot.com/2011/04/ars-poetica-theatre-demo-1996.html"
+        },
+        "translations": {
+            "en": {
+                "name": "Ars Poetica",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "arthame",
+        "country": "Finland",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Epic",
+        "tempo": "Slow",
+        "logo": "https://www.spirit-of-metal.com/les%20goupes/A/Arthame/pics/logo.jpg",
+        "banner": "https://f4.bcbits.com/img/0021359829_71.jpg",
+        "background": "https://f4.bcbits.com/img/0018066899_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "4206700557"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://cosmicoceansound.bandcamp.com/album/fiendish-symphonies",
+            "youtube": "https://www.youtube.com/watch?v=KaEMhlGaXf4",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Arthame",
                 "description": ""
             },
             "ru": {
@@ -420,6 +840,111 @@
         }
     },
     {
+        "id": "ashmadai",
+        "country": "Portugal",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg68jby7naysRdMc3ZoklkHJLKqF5A1ievCqU9YYuyhn7dCHIdA3fze60mE5ddcPaMMtwwwAme7hY5KIsaGV6tdOH717GM90_V9z52cQhjsrS758K84EC4ArFwmXeVvxUViehFx1-5qfQZm/s1600/ashcovercut.png",
+        "banner": "https://i.discogs.com/iG_3roIjEQnjKxVCxDGSUk3_UkBD5XDxsutaBn6KJm8/rs:fit/g:sm/q:90/h:390/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzODYy/MDktMTYwMzk5MDA5/OS01NDk2LmpwZWc.jpeg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "voZCW7-H2jE"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "https://www.youtube.com/watch?v=9fq8uxePzjc",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Ashmadai",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "ashmedi",
+        "country": "Israel",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://i.ytimg.com/vi/qXL1W7coH9o/hqdefault.jpg",
+        "banner": "https://i.ytimg.com/vi/qXL1W7coH9o/hqdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "qXL1W7coH9o"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/1bjUcmZxY4zJO1V5LaKzUY",
+            "bandcamp": "",
+            "youtube": "https://www.youtube.com/playlist?list=PLUwFRxJomYVpG0rclb5qXyWiK22aohGbO",
+            "apple_music": "https://music.apple.com/by/album/sentinels-of-shamash-single/1870657336",
+            "website": "https://www.instagram.com/melechesh/"
+        },
+        "translations": {
+            "en": {
+                "name": "Ashmedi",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "asmorod",
+        "country": "France",
+        "invention": "1990s",
+        "style": "Influential",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://lastfm.freetls.fastly.net/i/u/500x500/d1177aaf937d561dec0a49d4867a0254.jpg",
+        "banner": "https://lastfm.freetls.fastly.net/i/u/500x500/d1177aaf937d561dec0a49d4867a0254.jpg",
+        "background": "https://e.snmc.io/i/300/s/d0064e3cd7ec4ce23f2dd0e466d6c2ad/6053950/Asmorod%20-%20Dance%20in%20the%20Winter%20Fog%2C%20Cover%20art.png",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "V9QqtH6bf2I"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "https://www.youtube.com/watch?v=V9QqtH6bf2I",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Asmorod",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "assorted-potions",
         "country": "USA",
         "invention": "2020s",
@@ -481,6 +1006,41 @@
         "translations": {
             "en": {
                 "name": "Atlantean Sword",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "atropos",
+        "country": "Italy",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://i.ytimg.com/vi/vsdUJLZu-7I/maxresdefault.jpg",
+        "banner": "https://www.metal-archives.com/images/6/2/5/9/62596_logo.png?5157",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "vsdUJLZu-7I"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "https://www.youtube.com/watch?v=vsdUJLZu-7I",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Atropos",
                 "description": ""
             },
             "ru": {
@@ -586,6 +1146,41 @@
         "translations": {
             "en": {
                 "name": "Ausum",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "avalist",
+        "country": "Germany",
+        "invention": "1990s",
+        "style": "Medieval",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/a1855701515_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a1855701515_10.jpg",
+        "background": "https://f4.bcbits.com/img/a1855701515_10.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "1743615487"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://alice-in.bandcamp.com/album/the-entire-silence",
+            "youtube": "https://www.youtube.com/channel/UCQixDHurTZAxICFj9g-m3Iw",
+            "apple_music": "https://music.apple.com/us/artist/avalist/266272806",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Avalist",
                 "description": ""
             },
             "ru": {
@@ -1508,7 +2103,7 @@
         "id": "coniferous-myst",
         "country": "USA",
         "invention": "2010s",
-        "style": "Oldschool",
+        "style": "RAW",
         "mood": "Melancholic",
         "tempo": "Slow",
         "logo": "https://f4.bcbits.com/img/0016487581_10.jpg",
@@ -3921,11 +4516,11 @@
     },
     {
         "id": "hecate",
-        "country": "USA",
-        "invention": "2020s",
-        "style": "Experimental",
-        "mood": "Dark",
-        "tempo": "Slow",
+        "country": "",
+        "invention": "",
+        "style": "",
+        "mood": "",
+        "tempo": "",
         "logo": "https://f4.bcbits.com/img/0041618252_10.jpg",
         "banner": "https://f4.bcbits.com/img/a2030868362_10.jpg",
         "background": "rgb(215, 120, 15)",
@@ -6706,7 +7301,7 @@
             "bandcamp": "https://omamorids.bandcamp.com/",
             "youtube": "",
             "apple_music": "",
-            "website": ""
+            "website": "https://www.instagram.com/igorian_wfbe/"
         },
         "translations": {
             "en": {
@@ -7245,6 +7840,41 @@
         }
     },
     {
+        "id": "rainbow-dungeon",
+        "country": "Austria",
+        "invention": "2020s",
+        "style": "Experimental",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0044913751_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0044913661_102.avif",
+        "background": "rgb(233, 230, 223)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "2077770767"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://rainbowdungeon.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Rainbow Dungeon",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "realm-lord",
         "country": "UK",
         "invention": "2020s",
@@ -7714,14 +8344,14 @@
         "label_img": "",
         "player": {
             "type": "bandcamp",
-            "id": "2485460824"
+            "id": "3691658040"
         },
         "links": {
             "spotify": "https://open.spotify.com/artist/7FqkQbLPaNJYHzjJ3U54tU",
             "bandcamp": "https://skeletonmage.bandcamp.com/",
-            "youtube": "",
+            "youtube": "https://www.youtube.com/channel/UCYNrJ2VO4G7341Zh9KRJbxQ",
             "apple_music": "",
-            "website": "https://www.instagram.com/the_skeleton_mage/"
+            "website": "https://www.instagram.com/the_skeleton_mage"
         },
         "translations": {
             "en": {

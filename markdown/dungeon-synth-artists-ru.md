@@ -43,6 +43,36 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://withstrangeraeons.bandcamp.com/)
 [Website](https://www.instagram.com/withstrangeraeons)
 
+### Aardia
+
+**Страна:** Sweden
+**Стиль:** Fantasy
+**Настроение:** Epic
+**Темп:** Normal
+
+[Spotify](https://open.spotify.com/album/37h1NJxf3jWamj2MplzyRH)
+
+### Abaddon
+
+**Страна:** Brazil
+**Лейбл:** [Voz da Morte Prod](https://vozdamorteprod.bandcamp.com/)
+**Стиль:** RAW
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Bandcamp](https://vozdamorteprod.bandcamp.com/album/potestatem-et-virtutis-demo-tape-1996)
+[YouTube](https://www.youtube.com/channel/UCeNFWf8cRtdbP5dkZbVhKGg)
+
+### Aeternum Maleficium
+
+**Страна:** Brazil
+**Стиль:** Oldschool
+**Настроение:** Mystical
+**Темп:** Slow
+
+[YouTube](https://www.youtube.com/watch?v=eMLHPJPRzZw)
+[Website](https://ascoven.blogspot.com/2016/06/aeternum-maleficium-sons-of-sun-demo.html)
+
 ### Aindulmedir
 
 **Страна:** Sweden
@@ -56,6 +86,23 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [YouTube](https://www.youtube.com/channel/UC7xUUlYIdEfCs9aE9m8fayA)
 [Apple Music](https://music.apple.com/us/artist/aindulmedir/1450190890)
 
+### AKHENATON
+
+**Страна:** France
+**Стиль:** Oldschool
+**Настроение:** Epic
+**Темп:** Normal
+
+[Bandcamp](https://sangdragon.bandcamp.com/)
+[Website](https://www.instagram.com/sangdragon_official/)
+
+### Alchem
+
+**Страна:** Poland
+**Стиль:** Oldschool
+**Настроение:** Adventure
+**Темп:** Normal
+
 ### Alkilith
 
 **Страна:** USA
@@ -64,6 +111,20 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Slow
 
 [Bandcamp](https://alkilithmage.bandcamp.com/)
+
+### ALPHERATZ
+
+**Страна:** Mexico
+**Стиль:** Influential
+**Настроение:** Mystical
+**Темп:** Normal
+
+### Ammit
+
+**Страна:** Chile
+**Стиль:** Influential
+**Настроение:** Dark
+**Темп:** Normal
 
 ### An Old Sad Ghost
 
@@ -116,6 +177,23 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://anglachelds.bandcamp.com/)
 [Website](https://www.instagram.com/anglachel_dungeon_synth/)
 
+### Annwn
+
+**Страна:** Portugal
+**Стиль:** Oldschool
+**Настроение:** Melancholic
+**Темп:** Slow
+
+### Apeiron
+
+**Страна:** Austria
+**Стиль:** Ambient
+**Настроение:** Mystical
+**Темп:** Slow
+
+[Bandcamp](https://traunmuller-archives.bandcamp.com/album/apeiron-a-separate-reality-1995)
+[YouTube](https://www.youtube.com/watch?v=-oTduXC-dz4)
+
 ### Arcana Liturgia
 
 **Страна:** Italy
@@ -129,6 +207,13 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [YouTube](https://www.youtube.com/channel/UCOFYW5HaWLcDSymBpwkUGAg)
 [Website](https://www.instagram.com/arcanaliturgia/)
 
+### Arden
+
+**Страна:** France
+**Стиль:** Medieval
+**Настроение:** Mystical
+**Темп:** Slow
+
 ### Armsman Commander
 
 **Страна:** Hungary
@@ -140,6 +225,25 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Spotify](https://open.spotify.com/artist/5D5X3PodiSeSscR057Cik5)
 [Bandcamp](https://swallowedkeyproductions.bandcamp.com/album/obedience)
 [Apple Music](https://music.apple.com/us/album/obedience-ep/1484307403)
+
+### Ars Poetica
+
+**Страна:** Poland
+**Стиль:** Medieval
+**Настроение:** Epic
+**Темп:** Slow
+
+[Website](https://ascoven.blogspot.com/2011/04/ars-poetica-theatre-demo-1996.html)
+
+### Arthame
+
+**Страна:** Finland
+**Стиль:** Oldschool
+**Настроение:** Epic
+**Темп:** Slow
+
+[Bandcamp](https://cosmicoceansound.bandcamp.com/album/fiendish-symphonies)
+[YouTube](https://www.youtube.com/watch?v=KaEMhlGaXf4)
 
 ### ARTHUROS
 
@@ -161,6 +265,36 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://ashkahn.bandcamp.com/)
 [YouTube](https://www.youtube.com/@ashkahn4551)
+
+### Ashmadai
+
+**Страна:** Portugal
+**Стиль:** Oldschool
+**Настроение:** Mystical
+**Темп:** Slow
+
+[YouTube](https://www.youtube.com/watch?v=9fq8uxePzjc)
+
+### Ashmedi
+
+**Страна:** Israel
+**Стиль:** Oldschool
+**Настроение:** Mystical
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/artist/1bjUcmZxY4zJO1V5LaKzUY)
+[YouTube](https://www.youtube.com/playlist?list=PLUwFRxJomYVpG0rclb5qXyWiK22aohGbO)
+[Apple Music](https://music.apple.com/by/album/sentinels-of-shamash-single/1870657336)
+[Website](https://www.instagram.com/melechesh/)
+
+### Asmorod
+
+**Страна:** France
+**Стиль:** Influential
+**Настроение:** Mystical
+**Темп:** Slow
+
+[YouTube](https://www.youtube.com/watch?v=V9QqtH6bf2I)
 
 ### Assorted Potions
 
@@ -184,6 +318,15 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://atlanteansword.bandcamp.com/)
 [YouTube](https://www.youtube.com/@vhsatanist9146/videos)
 [Website](https://www.instagram.com/atlantean_sword_ds/)
+
+### Atropos
+
+**Страна:** Italy
+**Стиль:** Oldschool
+**Настроение:** Mystical
+**Темп:** Slow
+
+[YouTube](https://www.youtube.com/watch?v=vsdUJLZu-7I)
 
 ### Aura Merlin
 
@@ -214,6 +357,17 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Slow
 
 [Bandcamp](https://ausum.bandcamp.com/)
+
+### Avalist
+
+**Страна:** Germany
+**Стиль:** Medieval
+**Настроение:** Epic
+**Темп:** Normal
+
+[Bandcamp](https://alice-in.bandcamp.com/album/the-entire-silence)
+[YouTube](https://www.youtube.com/channel/UCQixDHurTZAxICFj9g-m3Iw)
+[Apple Music](https://music.apple.com/us/artist/avalist/266272806)
 
 ### Barak Tor
 
@@ -513,7 +667,7 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 **Страна:** USA
 **Лейбл:** [Out of Season](https://outofseason.bandcamp.com/)
-**Стиль:** Oldschool
+**Стиль:** RAW
 **Настроение:** Melancholic
 **Темп:** Slow
 
@@ -1334,11 +1488,6 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Website](https://www.instagram.com/gregoriofrancomusic/)
 
 ### Hecate
-
-**Страна:** USA
-**Стиль:** Experimental
-**Настроение:** Dark
-**Темп:** Slow
 
 [Bandcamp](https://hecate2113.bandcamp.com/)
 [Website](https://www.instagram.com/hecate.music.93/)
@@ -2322,6 +2471,7 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Slow
 
 [Bandcamp](https://omamorids.bandcamp.com/)
+[Website](https://www.instagram.com/igorian_wfbe/)
 
 ### One Last Knight
 
@@ -2486,6 +2636,15 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://questmaster.bandcamp.com/)
 [Website](https://www.instagram.com/lordgordith/)
 
+### Rainbow Dungeon
+
+**Страна:** Austria
+**Стиль:** Experimental
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Bandcamp](https://rainbowdungeon.bandcamp.com/)
+
 ### Realm Lord
 
 **Страна:** UK
@@ -2620,7 +2779,8 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Spotify](https://open.spotify.com/artist/7FqkQbLPaNJYHzjJ3U54tU)
 [Bandcamp](https://skeletonmage.bandcamp.com/)
-[Website](https://www.instagram.com/the_skeleton_mage/)
+[YouTube](https://www.youtube.com/channel/UCYNrJ2VO4G7341Zh9KRJbxQ)
+[Website](https://www.instagram.com/the_skeleton_mage)
 
 ### Skhemty
 

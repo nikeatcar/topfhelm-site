@@ -43,6 +43,36 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://withstrangeraeons.bandcamp.com/)
 [Website](https://www.instagram.com/withstrangeraeons)
 
+### Aardia
+
+**Country:** Sweden
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Normal
+
+[Spotify](https://open.spotify.com/album/37h1NJxf3jWamj2MplzyRH)
+
+### Abaddon
+
+**Country:** Brazil
+**Label:** [Voz da Morte Prod](https://vozdamorteprod.bandcamp.com/)
+**Style:** RAW
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Bandcamp](https://vozdamorteprod.bandcamp.com/album/potestatem-et-virtutis-demo-tape-1996)
+[YouTube](https://www.youtube.com/channel/UCeNFWf8cRtdbP5dkZbVhKGg)
+
+### Aeternum Maleficium
+
+**Country:** Brazil
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Slow
+
+[YouTube](https://www.youtube.com/watch?v=eMLHPJPRzZw)
+[Website](https://ascoven.blogspot.com/2016/06/aeternum-maleficium-sons-of-sun-demo.html)
+
 ### Aindulmedir
 
 **Country:** Sweden
@@ -56,6 +86,23 @@ If you want to suggest your project or bring a short text about it - please use 
 [YouTube](https://www.youtube.com/channel/UC7xUUlYIdEfCs9aE9m8fayA)
 [Apple Music](https://music.apple.com/us/artist/aindulmedir/1450190890)
 
+### AKHENATON
+
+**Country:** France
+**Style:** Oldschool
+**Mood:** Epic
+**Tempo:** Normal
+
+[Bandcamp](https://sangdragon.bandcamp.com/)
+[Website](https://www.instagram.com/sangdragon_official/)
+
+### Alchem
+
+**Country:** Poland
+**Style:** Oldschool
+**Mood:** Adventure
+**Tempo:** Normal
+
 ### Alkilith
 
 **Country:** USA
@@ -64,6 +111,20 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Bandcamp](https://alkilithmage.bandcamp.com/)
+
+### ALPHERATZ
+
+**Country:** Mexico
+**Style:** Influential
+**Mood:** Mystical
+**Tempo:** Normal
+
+### Ammit
+
+**Country:** Chile
+**Style:** Influential
+**Mood:** Dark
+**Tempo:** Normal
 
 ### An Old Sad Ghost
 
@@ -116,6 +177,23 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://anglachelds.bandcamp.com/)
 [Website](https://www.instagram.com/anglachel_dungeon_synth/)
 
+### Annwn
+
+**Country:** Portugal
+**Style:** Oldschool
+**Mood:** Melancholic
+**Tempo:** Slow
+
+### Apeiron
+
+**Country:** Austria
+**Style:** Ambient
+**Mood:** Mystical
+**Tempo:** Slow
+
+[Bandcamp](https://traunmuller-archives.bandcamp.com/album/apeiron-a-separate-reality-1995)
+[YouTube](https://www.youtube.com/watch?v=-oTduXC-dz4)
+
 ### Arcana Liturgia
 
 **Country:** Italy
@@ -129,6 +207,13 @@ If you want to suggest your project or bring a short text about it - please use 
 [YouTube](https://www.youtube.com/channel/UCOFYW5HaWLcDSymBpwkUGAg)
 [Website](https://www.instagram.com/arcanaliturgia/)
 
+### Arden
+
+**Country:** France
+**Style:** Medieval
+**Mood:** Mystical
+**Tempo:** Slow
+
 ### Armsman Commander
 
 **Country:** Hungary
@@ -140,6 +225,25 @@ If you want to suggest your project or bring a short text about it - please use 
 [Spotify](https://open.spotify.com/artist/5D5X3PodiSeSscR057Cik5)
 [Bandcamp](https://swallowedkeyproductions.bandcamp.com/album/obedience)
 [Apple Music](https://music.apple.com/us/album/obedience-ep/1484307403)
+
+### Ars Poetica
+
+**Country:** Poland
+**Style:** Medieval
+**Mood:** Epic
+**Tempo:** Slow
+
+[Website](https://ascoven.blogspot.com/2011/04/ars-poetica-theatre-demo-1996.html)
+
+### Arthame
+
+**Country:** Finland
+**Style:** Oldschool
+**Mood:** Epic
+**Tempo:** Slow
+
+[Bandcamp](https://cosmicoceansound.bandcamp.com/album/fiendish-symphonies)
+[YouTube](https://www.youtube.com/watch?v=KaEMhlGaXf4)
 
 ### ARTHUROS
 
@@ -161,6 +265,36 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://ashkahn.bandcamp.com/)
 [YouTube](https://www.youtube.com/@ashkahn4551)
+
+### Ashmadai
+
+**Country:** Portugal
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Slow
+
+[YouTube](https://www.youtube.com/watch?v=9fq8uxePzjc)
+
+### Ashmedi
+
+**Country:** Israel
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/artist/1bjUcmZxY4zJO1V5LaKzUY)
+[YouTube](https://www.youtube.com/playlist?list=PLUwFRxJomYVpG0rclb5qXyWiK22aohGbO)
+[Apple Music](https://music.apple.com/by/album/sentinels-of-shamash-single/1870657336)
+[Website](https://www.instagram.com/melechesh/)
+
+### Asmorod
+
+**Country:** France
+**Style:** Influential
+**Mood:** Mystical
+**Tempo:** Slow
+
+[YouTube](https://www.youtube.com/watch?v=V9QqtH6bf2I)
 
 ### Assorted Potions
 
@@ -184,6 +318,15 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://atlanteansword.bandcamp.com/)
 [YouTube](https://www.youtube.com/@vhsatanist9146/videos)
 [Website](https://www.instagram.com/atlantean_sword_ds/)
+
+### Atropos
+
+**Country:** Italy
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Slow
+
+[YouTube](https://www.youtube.com/watch?v=vsdUJLZu-7I)
 
 ### Aura Merlin
 
@@ -214,6 +357,17 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Bandcamp](https://ausum.bandcamp.com/)
+
+### Avalist
+
+**Country:** Germany
+**Style:** Medieval
+**Mood:** Epic
+**Tempo:** Normal
+
+[Bandcamp](https://alice-in.bandcamp.com/album/the-entire-silence)
+[YouTube](https://www.youtube.com/channel/UCQixDHurTZAxICFj9g-m3Iw)
+[Apple Music](https://music.apple.com/us/artist/avalist/266272806)
 
 ### Barak Tor
 
@@ -513,7 +667,7 @@ If you want to suggest your project or bring a short text about it - please use 
 
 **Country:** USA
 **Label:** [Out of Season](https://outofseason.bandcamp.com/)
-**Style:** Oldschool
+**Style:** RAW
 **Mood:** Melancholic
 **Tempo:** Slow
 
@@ -1339,11 +1493,6 @@ If you want to suggest your project or bring a short text about it - please use 
 [Website](https://www.instagram.com/gregoriofrancomusic/)
 
 ### Hecate
-
-**Country:** USA
-**Style:** Experimental
-**Mood:** Dark
-**Tempo:** Slow
 
 [Bandcamp](https://hecate2113.bandcamp.com/)
 [Website](https://www.instagram.com/hecate.music.93/)
@@ -2332,6 +2481,7 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Bandcamp](https://omamorids.bandcamp.com/)
+[Website](https://www.instagram.com/igorian_wfbe/)
 
 ### One Last Knight
 
@@ -2496,6 +2646,15 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://questmaster.bandcamp.com/)
 [Website](https://www.instagram.com/lordgordith/)
 
+### Rainbow Dungeon
+
+**Country:** Austria
+**Style:** Experimental
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Bandcamp](https://rainbowdungeon.bandcamp.com/)
+
 ### Realm Lord
 
 **Country:** UK
@@ -2630,7 +2789,8 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Spotify](https://open.spotify.com/artist/7FqkQbLPaNJYHzjJ3U54tU)
 [Bandcamp](https://skeletonmage.bandcamp.com/)
-[Website](https://www.instagram.com/the_skeleton_mage/)
+[YouTube](https://www.youtube.com/channel/UCYNrJ2VO4G7341Zh9KRJbxQ)
+[Website](https://www.instagram.com/the_skeleton_mage)
 
 ### Skhemty
 
