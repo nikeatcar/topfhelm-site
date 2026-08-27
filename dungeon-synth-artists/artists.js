@@ -116,6 +116,11 @@ function renderArtists(){
                     </div>
 
                     <div>
+                        <strong>${ui.invention}</strong>
+                        <span>${artist.invention}</span>
+                    </div>
+
+                    <div>
                         <strong>${ui.mood}</strong>
                         <span>${artist.mood}</span>
                     </div>

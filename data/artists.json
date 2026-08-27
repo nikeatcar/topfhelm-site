@@ -2,7 +2,7 @@
     {
         "id": "with-stranger-aeons",
         "country": "Germany",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -37,7 +37,7 @@
     {
         "id": "aindulmedir",
         "country": "Sweden",
-        "genre": "",
+        "invention": "2010s",
         "style": "Ambient",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -72,7 +72,7 @@
     {
         "id": "alkilith",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "RAW",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -107,7 +107,7 @@
     {
         "id": "an-old-sad-ghost",
         "country": "Austria",
-        "genre": "",
+        "invention": "2010s",
         "style": "Experimental",
         "mood": "Dark",
         "tempo": "Normal",
@@ -142,7 +142,7 @@
     {
         "id": "anachronistic-fiefdom",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Chiptune",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -177,13 +177,13 @@
     {
         "id": "ancient-blasphemy",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Mystical",
         "tempo": "Slow",
         "logo": "https://f4.bcbits.com/img/0043416110_10.jpg",
         "banner": "https://f4.bcbits.com/img/0043416110_10.jpg",
-        "background": "",
+        "background": "rgb(0, 0, 0)",
         "label": "",
         "label_name": "",
         "label_img": "",
@@ -193,7 +193,7 @@
         },
         "links": {
             "spotify": "",
-            "bandcamp": "",
+            "bandcamp": "https://ancientblasphemy.bandcamp.com/",
             "youtube": "https://www.youtube.com/@AncientBlasphemy",
             "apple_music": "",
             "website": ""
@@ -212,7 +212,7 @@
     {
         "id": "andy-shapiro",
         "country": "USA",
-        "genre": "",
+        "invention": "1980s",
         "style": "Proto DS",
         "mood": "Dreamy",
         "tempo": "Normal",
@@ -247,7 +247,7 @@
     {
         "id": "anglachel",
         "country": "Greece",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
@@ -282,7 +282,7 @@
     {
         "id": "arcana-liturgia",
         "country": "Italy",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Slow",
@@ -317,7 +317,7 @@
     {
         "id": "armsman-commander",
         "country": "Hungary",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Battle",
         "tempo": "Slow",
@@ -352,7 +352,7 @@
     {
         "id": "arthuros",
         "country": "Greece",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
@@ -387,7 +387,7 @@
     {
         "id": "ashkahn",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Percussive",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -422,7 +422,7 @@
     {
         "id": "assorted-potions",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -457,7 +457,7 @@
     {
         "id": "atlantean-sword",
         "country": "UK",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Slow",
@@ -492,7 +492,7 @@
     {
         "id": "aura-merlin",
         "country": "Canada",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -527,7 +527,7 @@
     {
         "id": "aurora-relicta",
         "country": "Argentina",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -562,7 +562,7 @@
     {
         "id": "ausum",
         "country": "Germany",
-        "genre": "",
+        "invention": "2020s",
         "style": "Ambient",
         "mood": "Dark",
         "tempo": "Slow",
@@ -597,7 +597,7 @@
     {
         "id": "barak-tor",
         "country": "Greece",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
@@ -632,7 +632,7 @@
     {
         "id": "barbarian-ring",
         "country": "UK",
-        "genre": "",
+        "invention": "2020s",
         "style": "RAW",
         "mood": "Battle",
         "tempo": "Slow",
@@ -667,7 +667,7 @@
     {
         "id": "bespin-moons",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Sci-fi",
         "mood": "Battle",
         "tempo": "Normal",
@@ -702,7 +702,7 @@
     {
         "id": "besteigung",
         "country": "Russia",
-        "genre": "",
+        "invention": "2010s",
         "style": "Oldschool",
         "mood": "Epic",
         "tempo": "Melancholic",
@@ -737,7 +737,7 @@
     {
         "id": "black-hekate",
         "country": "Greece",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Dark",
         "tempo": "Slow",
@@ -772,16 +772,16 @@
     {
         "id": "black-winds-of-wallachia",
         "country": "Puerto Rico",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Mystical",
         "tempo": "Normal",
         "logo": "https://f4.bcbits.com/img/0037674061_10.jpg",
         "banner": "https://f4.bcbits.com/img/0037674118_102.avif",
         "background": "https://f4.bcbits.com/img/0039856517_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://entmootlabel.bandcamp.com/",
+        "label_name": "Entmoot",
+        "label_img": "https://f4.bcbits.com/img/0041510975_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "2862997846"
@@ -807,7 +807,7 @@
     {
         "id": "blades-of-folmär",
         "country": "UK",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -842,7 +842,7 @@
     {
         "id": "blod-besvimelse",
         "country": "Norway",
-        "genre": "",
+        "invention": "1990s",
         "style": "RAW",
         "mood": "Battle",
         "tempo": "Normal",
@@ -877,7 +877,7 @@
     {
         "id": "blood-lord",
         "country": "UK",
-        "genre": "",
+        "invention": "2010s",
         "style": "Chiptune",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -912,7 +912,7 @@
     {
         "id": "book-of-skelos",
         "country": "Unknown",
-        "genre": "",
+        "invention": "2010s",
         "style": "Chiptune",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -947,11 +947,11 @@
     {
         "id": "borehole",
         "country": "UK",
-        "genre": "",
+        "invention": "2010s",
         "style": "Ambient",
         "mood": "Dark",
         "tempo": "Slow",
-        "logo": "https://f4.bcbits.com/img/0046121752_10.jpg",
+        "logo": "https://f4.bcbits.com/img/0046938369_10.jpg",
         "banner": "https://f4.bcbits.com/img/0015625898_102.avif",
         "background": "rgb(54, 50, 43)",
         "label": "https://blaggardrecords.bandcamp.com/",
@@ -982,7 +982,7 @@
     {
         "id": "bound-unto-root",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Narrative",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -1017,7 +1017,7 @@
     {
         "id": "braemblewulf",
         "country": "Germany",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -1052,7 +1052,7 @@
     {
         "id": "bronzen-oath",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Ambient",
         "mood": "Battle",
         "tempo": "Slow",
@@ -1087,7 +1087,7 @@
     {
         "id": "budrum",
         "country": "Greece",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -1122,7 +1122,7 @@
     {
         "id": "burzum",
         "country": "Norway",
-        "genre": "",
+        "invention": "1990s",
         "style": "Influential",
         "mood": "Battle",
         "tempo": "Slow",
@@ -1157,7 +1157,7 @@
     {
         "id": "carpathian-sphinx",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Oldschool",
         "mood": "Epic",
         "tempo": "Slow",
@@ -1192,7 +1192,7 @@
     {
         "id": "carrion-cloak",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Dark",
         "tempo": "Normal",
@@ -1227,7 +1227,7 @@
     {
         "id": "casket-of-dreams",
         "country": "USA",
-        "genre": "",
+        "invention": "1990s",
         "style": "Fantasy",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -1262,7 +1262,7 @@
     {
         "id": "cave-spellcaster",
         "country": "Germany",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -1297,7 +1297,7 @@
     {
         "id": "cavern-maze",
         "country": "Germany",
-        "genre": "",
+        "invention": "2020s",
         "style": "Chiptune",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -1332,7 +1332,7 @@
     {
         "id": "charnel-oubliette",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Ambient",
         "mood": "Dark",
         "tempo": "Slow",
@@ -1367,7 +1367,7 @@
     {
         "id": "chaucerian-myth",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Medieval",
         "mood": "Dreamy",
         "tempo": "Normal",
@@ -1402,7 +1402,7 @@
     {
         "id": "chestnut-brown",
         "country": "Taiwan",
-        "genre": "",
+        "invention": "2020s",
         "style": "Comfy",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -1437,7 +1437,7 @@
     {
         "id": "chevalier-errant",
         "country": "France",
-        "genre": "",
+        "invention": "2010s",
         "style": "Medieval",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -1472,7 +1472,7 @@
     {
         "id": "cimitir",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Horror",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -1507,7 +1507,7 @@
     {
         "id": "coniferous-myst",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Oldschool",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -1542,7 +1542,7 @@
     {
         "id": "criptadel",
         "country": "Argentina",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Battle",
         "tempo": "Normal",
@@ -1577,7 +1577,7 @@
     {
         "id": "cromorne",
         "country": "Belgium",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -1612,7 +1612,7 @@
     {
         "id": "cursed-pumpkin",
         "country": "Hungary",
-        "genre": "",
+        "invention": "2020s",
         "style": "Horror",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -1647,7 +1647,7 @@
     {
         "id": "daoine-sidhe",
         "country": "France",
-        "genre": "",
+        "invention": "1990s",
         "style": "Oldschool",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -1659,7 +1659,7 @@
         "label_img": "",
         "player": {
             "type": "youtube",
-            "id": "https://youtu.be/gewBohrLlS8?si=uXZ-ZYVIHlfnYCum"
+            "id": "gewBohrLlS8"
         },
         "links": {
             "spotify": "",
@@ -1682,7 +1682,7 @@
     {
         "id": "dark-valley",
         "country": "UK",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Melancholic",
         "tempo": "Normal",
@@ -1717,7 +1717,7 @@
     {
         "id": "decaying-castle",
         "country": "UK",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Dark",
         "tempo": "Normal",
@@ -1752,7 +1752,7 @@
     {
         "id": "deep-gnome",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Comfy",
         "mood": "Adventure",
         "tempo": "Slow",
@@ -1787,7 +1787,7 @@
     {
         "id": "delmak-o",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Sci-fi",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -1822,7 +1822,7 @@
     {
         "id": "depressive-silence",
         "country": "Germany",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Slow",
@@ -1857,7 +1857,7 @@
     {
         "id": "die-verbannten-kinder-evas",
         "country": "Austria",
-        "genre": "",
+        "invention": "1990s",
         "style": "Influential",
         "mood": "Melancholic",
         "tempo": "Normal",
@@ -1892,16 +1892,16 @@
     {
         "id": "dim",
         "country": "Canada",
-        "genre": "",
+        "invention": "2010s",
         "style": "Medieval",
         "mood": "Adventure",
         "tempo": "Normal",
         "logo": "https://f4.bcbits.com/img/0045514710_10.jpg",
         "banner": "https://f4.bcbits.com/img/a3667017537_10.jpg",
         "background": "rgb(243, 241, 236)",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://lowlydyingsteward.bandcamp.com/",
+        "label_name": "Lowly Dying Steward Records",
+        "label_img": "https://f4.bcbits.com/img/0042602598_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "720642040"
@@ -1927,7 +1927,7 @@
     {
         "id": "diplodocus",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Prehistoric",
         "mood": "Epic",
         "tempo": "Slow",
@@ -1962,7 +1962,7 @@
     {
         "id": "dolch",
         "country": "Germany",
-        "genre": "",
+        "invention": "1990s",
         "style": "Experimental",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -1997,7 +1997,7 @@
     {
         "id": "dragonkeep",
         "country": "France",
-        "genre": "",
+        "invention": "2020s",
         "style": "Oldschool",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -2032,7 +2032,7 @@
     {
         "id": "dream-waves",
         "country": "USA",
-        "genre": "",
+        "invention": "1980s",
         "style": "Proto DS",
         "mood": "Dreamy",
         "tempo": "Normal",
@@ -2067,7 +2067,7 @@
     {
         "id": "driftwood",
         "country": "Denmark",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Battle",
         "tempo": "Normal",
@@ -2102,7 +2102,7 @@
     {
         "id": "drochtuarach",
         "country": "UK",
-        "genre": "",
+        "invention": "2010s",
         "style": "Medieval",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -2137,7 +2137,7 @@
     {
         "id": "druad",
         "country": "Croatia",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Slow",
@@ -2172,7 +2172,7 @@
     {
         "id": "dungeontroll",
         "country": "Canada",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -2207,7 +2207,7 @@
     {
         "id": "dunjon-magik",
         "country": "Italy",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -2242,7 +2242,7 @@
     {
         "id": "ekthelion",
         "country": "Greece",
-        "genre": "",
+        "invention": "2010s",
         "style": "Oldschool",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -2277,7 +2277,7 @@
     {
         "id": "elador",
         "country": "Russia",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Slow",
@@ -2312,7 +2312,7 @@
     {
         "id": "elasmoterium",
         "country": "Poland",
-        "genre": "",
+        "invention": "2020s",
         "style": "Prehistoric",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -2347,16 +2347,16 @@
     {
         "id": "eldritch-wizardry",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Dark",
         "tempo": "Slow",
         "logo": "https://f4.bcbits.com/img/0018463681_10.jpg",
         "banner": "https://f4.bcbits.com/img/0018576280_102.avif",
         "background": "rgb(0, 0, 0)",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://wroughtrecords.bandcamp.com/",
+        "label_name": "𝔚𝔯𝔬𝔲𝔤𝔥𝔱 ℜ𝔢𝔠𝔬𝔯𝔡𝔰",
+        "label_img": "https://f4.bcbits.com/img/0041560611_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "1547403877"
@@ -2382,7 +2382,7 @@
     {
         "id": "elffor",
         "country": "Spain",
-        "genre": "",
+        "invention": "1990s",
         "style": "Oldschool",
         "mood": "Dark",
         "tempo": "Slow",
@@ -2417,13 +2417,13 @@
     {
         "id": "elminster",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Epic",
         "tempo": "Normal",
         "logo": "https://f4.bcbits.com/img/a0518971944_10.jpg",
         "banner": "https://thedungeonindeepspace.com/wp-content/uploads/2021/08/elmnewlogored-1.png",
-        "background": "",
+        "background": "https://f4.bcbits.com/img/0032792824_130.jpg",
         "label": "https://ithildintapeproduction.bandcamp.com/music",
         "label_name": "Ithildin Tape Production",
         "label_img": "https://f4.bcbits.com/img/0032797292_21.jpg",
@@ -2433,7 +2433,7 @@
         },
         "links": {
             "spotify": "",
-            "bandcamp": "",
+            "bandcamp": "https://ithildintapeproduction.bandcamp.com/album/--5",
             "youtube": "",
             "apple_music": "",
             "website": ""
@@ -2452,7 +2452,7 @@
     {
         "id": "elyvilon",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Dreamy",
         "tempo": "Normal",
@@ -2487,7 +2487,7 @@
     {
         "id": "emerald-web",
         "country": "USA",
-        "genre": "",
+        "invention": "1980s",
         "style": "Proto DS",
         "mood": "Melancholic",
         "tempo": "Normal",
@@ -2522,7 +2522,7 @@
     {
         "id": "enchanted-helm",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Chiptune",
         "mood": "Epic",
         "tempo": "Normal",
@@ -2557,7 +2557,7 @@
     {
         "id": "eneraith",
         "country": "Germany",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -2592,7 +2592,7 @@
     {
         "id": "erang",
         "country": "France",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Dreamy",
         "tempo": "Normal",
@@ -2627,7 +2627,7 @@
     {
         "id": "erevos",
         "country": "Greece",
-        "genre": "",
+        "invention": "2020s",
         "style": "Oldschool",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -2662,7 +2662,7 @@
     {
         "id": "ervald",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -2697,7 +2697,7 @@
     {
         "id": "estoc",
         "country": "Finland",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -2732,7 +2732,7 @@
     {
         "id": "eternal-axe",
         "country": "Russia",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -2767,7 +2767,7 @@
     {
         "id": "ethereal-journeys",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Ambient",
         "mood": "Dark",
         "tempo": "Slow",
@@ -2802,7 +2802,7 @@
     {
         "id": "execration-chamber",
         "country": "Canada",
-        "genre": "",
+        "invention": "2010s",
         "style": "Medieval",
         "mood": "Dark",
         "tempo": "Slow",
@@ -2837,7 +2837,7 @@
     {
         "id": "faded-memory",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Ambient",
         "mood": "Dark",
         "tempo": "Slow",
@@ -2872,7 +2872,7 @@
     {
         "id": "faery-ring",
         "country": "UK",
-        "genre": "",
+        "invention": "2010s",
         "style": "Medieval",
         "mood": "Epic",
         "tempo": "Slow",
@@ -2907,7 +2907,7 @@
     {
         "id": "faydark",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
@@ -2942,7 +2942,7 @@
     {
         "id": "fen-lume",
         "country": "Unknown",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Dark",
         "tempo": "Slow",
@@ -2977,7 +2977,7 @@
     {
         "id": "feth",
         "country": "UK",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Dark",
         "tempo": "Normal",
@@ -3012,7 +3012,7 @@
     {
         "id": "fief",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Medieval",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -3047,7 +3047,7 @@
     {
         "id": "final-heaven",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Oldschool",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -3082,7 +3082,7 @@
     {
         "id": "flickers-from-the-fen",
         "country": "UK",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Dreamy",
         "tempo": "Normal",
@@ -3117,7 +3117,7 @@
     {
         "id": "foglord",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Oldschool",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -3152,7 +3152,7 @@
     {
         "id": "fogweaver",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -3187,7 +3187,7 @@
     {
         "id": "forgotten-pathways",
         "country": "Germany",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -3222,7 +3222,7 @@
     {
         "id": "fragmented-memories",
         "country": "Netherlands",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -3257,7 +3257,7 @@
     {
         "id": "frank-lentz",
         "country": "Denmark",
-        "genre": "",
+        "invention": "1980s",
         "style": "Proto DS",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -3292,7 +3292,7 @@
     {
         "id": "frigid-caves-of-unspoken-territories",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Ambient",
         "mood": "Dark",
         "tempo": "Slow",
@@ -3327,7 +3327,7 @@
     {
         "id": "frostgard",
         "country": "Spain",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -3362,7 +3362,7 @@
     {
         "id": "gargoylium",
         "country": "France",
-        "genre": "",
+        "invention": "2010s",
         "style": "Medieval",
         "mood": "Battle",
         "tempo": "Normal",
@@ -3397,7 +3397,7 @@
     {
         "id": "gelure",
         "country": "Australia",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
@@ -3432,7 +3432,7 @@
     {
         "id": "george-garside",
         "country": "UK",
-        "genre": "",
+        "invention": "1980s",
         "style": "Proto DS",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -3467,7 +3467,7 @@
     {
         "id": "gnoll",
         "country": "Italy",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -3502,7 +3502,7 @@
     {
         "id": "goblintropp",
         "country": "Argentina",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
@@ -3537,7 +3537,7 @@
     {
         "id": "gorgons-alter",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Melancholic",
         "tempo": "Normal",
@@ -3572,7 +3572,7 @@
     {
         "id": "goryō",
         "country": "France",
-        "genre": "",
+        "invention": "2020s",
         "style": "Percussive",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -3607,7 +3607,7 @@
     {
         "id": "gothmog",
         "country": "Germany",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Battle",
         "tempo": "Normal",
@@ -3642,7 +3642,7 @@
     {
         "id": "grandmas-cottage",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Comfy",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -3677,7 +3677,7 @@
     {
         "id": "great-mercenary",
         "country": "Indonesia",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -3712,7 +3712,7 @@
     {
         "id": "greenhollow",
         "country": "Unknown",
-        "genre": "",
+        "invention": "2020s",
         "style": "Ambient",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -3747,7 +3747,7 @@
     {
         "id": "grim-keep",
         "country": "Unknown",
-        "genre": "",
+        "invention": "2020s",
         "style": "Oldschool",
         "mood": "Epic",
         "tempo": "Slow",
@@ -3782,7 +3782,7 @@
     {
         "id": "grimdor",
         "country": "Germany",
-        "genre": "",
+        "invention": "2020s",
         "style": "Oldschool",
         "mood": "Adventure",
         "tempo": "Slow",
@@ -3817,7 +3817,7 @@
     {
         "id": "grimstone",
         "country": "Puerto Rico",
-        "genre": "",
+        "invention": "2020s",
         "style": "RAW",
         "mood": "Battle",
         "tempo": "Normal",
@@ -3829,11 +3829,11 @@
         "label_img": "",
         "player": {
             "type": "bandcamp",
-            "id": "1273768649"
+            "id": "3347506082"
         },
         "links": {
             "spotify": "",
-            "bandcamp": "https://dungeonsynthdarkambient.bandcamp.com/album/shadows-journey",
+            "bandcamp": "https://grimstone.bandcamp.com/",
             "youtube": "",
             "apple_music": "",
             "website": ""
@@ -3852,7 +3852,7 @@
     {
         "id": "grol-the-goblin",
         "country": "",
-        "genre": "",
+        "invention": "2010s",
         "style": "Chiptune",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -3887,7 +3887,7 @@
     {
         "id": "halberd",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Chiptune",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -3922,7 +3922,7 @@
     {
         "id": "hecate",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Dark",
         "tempo": "Slow",
@@ -3957,7 +3957,7 @@
     {
         "id": "hemlock-goblin",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Horror",
         "mood": "Dark",
         "tempo": "Slow",
@@ -3992,7 +3992,7 @@
     {
         "id": "henbane",
         "country": "Denmark",
-        "genre": "",
+        "invention": "2010s",
         "style": "Oldschool",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -4027,7 +4027,7 @@
     {
         "id": "hexelwir",
         "country": "Russia",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
@@ -4062,7 +4062,7 @@
     {
         "id": "hideous-gomphidius",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Ambient",
         "mood": "Dark",
         "tempo": "Slow",
@@ -4097,7 +4097,7 @@
     {
         "id": "high-strange",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Sci-fi",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -4132,7 +4132,7 @@
     {
         "id": "hillsfar",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Medieval",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -4167,7 +4167,7 @@
     {
         "id": "hole-dweller",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Melancholic",
         "tempo": "Normal",
@@ -4202,7 +4202,7 @@
     {
         "id": "immortal-wizards-dream",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -4237,7 +4237,7 @@
     {
         "id": "indrk",
         "country": "Russia",
-        "genre": "",
+        "invention": "2020s",
         "style": "Ambient",
         "mood": "Dark",
         "tempo": "Slow",
@@ -4272,7 +4272,7 @@
     {
         "id": "inotrion",
         "country": "Russia",
-        "genre": "",
+        "invention": "2020s",
         "style": "Oldschool",
         "mood": "Battle",
         "tempo": "Slow",
@@ -4307,7 +4307,7 @@
     {
         "id": "inwendt-faerte",
         "country": "Germany",
-        "genre": "",
+        "invention": "2010s",
         "style": "Sci-fi",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -4342,7 +4342,7 @@
     {
         "id": "iron-keep",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -4377,7 +4377,7 @@
     {
         "id": "ivernal",
         "country": "Canada",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Dreamy",
         "tempo": "Normal",
@@ -4412,7 +4412,7 @@
     {
         "id": "j-d-emmanuel",
         "country": "USA",
-        "genre": "",
+        "invention": "1980s",
         "style": "Proto DS",
         "mood": "Dreamy",
         "tempo": "Normal",
@@ -4447,7 +4447,7 @@
     {
         "id": "jim-kirkwood",
         "country": "UK",
-        "genre": "",
+        "invention": "1980s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
@@ -4482,7 +4482,7 @@
     {
         "id": "jim-oliver",
         "country": "USA",
-        "genre": "",
+        "invention": "1980s",
         "style": "Proto DS",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -4517,7 +4517,7 @@
     {
         "id": "jääportit",
         "country": "Finland",
-        "genre": "",
+        "invention": "1990s",
         "style": "Fantasy",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -4552,13 +4552,13 @@
     {
         "id": "karakarn",
         "country": "Russia",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Slow",
         "logo": "https://f4.bcbits.com/img/a3685896843_10.jpg",
         "banner": "https://i.discogs.com/Z7PkYPM7V0kL4lM0Knwa8BVOra1jm99lV7ghPDfaixU/rs:fit/g:sm/q:90/h:324/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTkxMTI3/MTQtMTYxNzk2NDM3/OC00OTc3LmpwZWc.jpeg",
-        "background": "",
+        "background": "https://f4.bcbits.com/img/0027810559_130.jpg",
         "label": "https://btbsrecords.bandcamp.com/",
         "label_name": "BTBS Records",
         "label_img": "https://f4.bcbits.com/img/0031943628_21.jpg",
@@ -4568,7 +4568,7 @@
         },
         "links": {
             "spotify": "",
-            "bandcamp": "",
+            "bandcamp": "https://btbsrecords.bandcamp.com/album/karakarn",
             "youtube": "",
             "apple_music": "",
             "website": "https://www.instagram.com/vitaliikarakarn_ds/"
@@ -4587,7 +4587,7 @@
     {
         "id": "kevin-oneill",
         "country": "UK",
-        "genre": "",
+        "invention": "1980s",
         "style": "Proto DS",
         "mood": "Melancholic",
         "tempo": "Normal",
@@ -4622,7 +4622,7 @@
     {
         "id": "kinderlinsky-gul",
         "country": "Russia",
-        "genre": "",
+        "invention": "2020s",
         "style": "Ambient",
         "mood": "Dark",
         "tempo": "Slow",
@@ -4657,7 +4657,7 @@
     {
         "id": "kindofdeath",
         "country": "Russia",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -4692,7 +4692,7 @@
     {
         "id": "kletttermax",
         "country": "Germany",
-        "genre": "",
+        "invention": "2020s",
         "style": "Comfy",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -4727,7 +4727,7 @@
     {
         "id": "klyvr",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "RAW",
         "mood": "Melancholic",
         "tempo": "Normal",
@@ -4762,7 +4762,7 @@
     {
         "id": "kobold",
         "country": "Italy",
-        "genre": "",
+        "invention": "2020s",
         "style": "Chiptune",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -4797,7 +4797,7 @@
     {
         "id": "kyūketsuki",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Dark",
         "tempo": "Slow",
@@ -4832,7 +4832,7 @@
     {
         "id": "l-a-n-d-s-r-a-a-d",
         "country": "UK",
-        "genre": "",
+        "invention": "2020s",
         "style": "Sci-fi",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -4867,7 +4867,7 @@
     {
         "id": "lambert-ringlage",
         "country": "Germany",
-        "genre": "",
+        "invention": "1980s",
         "style": "Proto DS",
         "mood": "Dreamy",
         "tempo": "Normal",
@@ -4902,7 +4902,7 @@
     {
         "id": "loitommas",
         "country": "Finland",
-        "genre": "",
+        "invention": "2020s",
         "style": "Ambient",
         "mood": "Dark",
         "tempo": "Slow",
@@ -4937,7 +4937,7 @@
     {
         "id": "lord-bakartia",
         "country": "Spain",
-        "genre": "",
+        "invention": "2020s",
         "style": "Oldschool",
         "mood": "Epic",
         "tempo": "Slow",
@@ -4972,7 +4972,7 @@
     {
         "id": "lord-lovidicus",
         "country": "USA",
-        "genre": "",
+        "invention": "2000s",
         "style": "Fantasy",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -5007,7 +5007,7 @@
     {
         "id": "lored-legend",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -5042,7 +5042,7 @@
     {
         "id": "luna-doloris",
         "country": "Russia",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -5077,7 +5077,7 @@
     {
         "id": "lunar-womb",
         "country": "Finland",
-        "genre": "",
+        "invention": "1990s",
         "style": "Fantasy",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -5112,7 +5112,7 @@
     {
         "id": "lurk",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Epic",
         "tempo": "Slow",
@@ -5147,7 +5147,7 @@
     {
         "id": "maanskild",
         "country": "South Africa",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
@@ -5182,7 +5182,7 @@
     {
         "id": "macadum",
         "country": "Russia",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -5217,7 +5217,7 @@
     {
         "id": "maelifell",
         "country": "France",
-        "genre": "",
+        "invention": "1990s",
         "style": "Oldschool",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -5252,11 +5252,11 @@
     {
         "id": "maiden-hair",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Melancholic",
         "tempo": "Slow",
-        "logo": "https://f4.bcbits.com/img/a1817148645_10.jpg",
+        "logo": "https://f4.bcbits.com/img/0037915044_10.jpg",
         "banner": "https://f4.bcbits.com/img/a1817148645_10.jpg",
         "background": "rgb(0, 0, 0)",
         "label": "",
@@ -5264,12 +5264,12 @@
         "label_img": "",
         "player": {
             "type": "bandcamp",
-            "id": "4254757634"
+            "id": "2890366408"
         },
         "links": {
             "spotify": "",
-            "bandcamp": "https://matcaronmusic.bandcamp.com/album/the-adder-witch",
-            "youtube": "",
+            "bandcamp": "https://maidenhairuk.bandcamp.com/",
+            "youtube": "https://www.youtube.com/channel/UCp-7MZgVx7cJBgwRwkbEZ5Q",
             "apple_music": "",
             "website": "https://www.instagram.com/matthewjamescaron/"
         },
@@ -5287,7 +5287,7 @@
     {
         "id": "malfet",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Melancholic",
         "tempo": "Normal",
@@ -5322,13 +5322,13 @@
     {
         "id": "mammoth-master",
         "country": "Denmark",
-        "genre": "",
+        "invention": "2010s",
         "style": "Prehistoric",
         "mood": "Mystical",
         "tempo": "Slow",
         "logo": "https://f4.bcbits.com/img/a3321134286_10.jpg",
         "banner": "https://f4.bcbits.com/img/a3321134286_10.jpg",
-        "background": null,
+        "background": "rgb(0, 0, 0)",
         "label": "",
         "label_name": "",
         "label_img": "",
@@ -5338,7 +5338,7 @@
         },
         "links": {
             "spotify": "",
-            "bandcamp": "",
+            "bandcamp": "https://mammothmaster.bandcamp.com/",
             "youtube": "",
             "apple_music": "",
             "website": ""
@@ -5357,7 +5357,7 @@
     {
         "id": "mark-ellery-griffiths",
         "country": "UK",
-        "genre": "",
+        "invention": "1980s",
         "style": "Proto DS",
         "mood": "Melancholic",
         "tempo": "Normal",
@@ -5392,7 +5392,7 @@
     {
         "id": "martin-kornberger-and-volker-kuhn",
         "country": "Germany",
-        "genre": "",
+        "invention": "1980s",
         "style": "Proto DS",
         "mood": "Epic",
         "tempo": "Normal",
@@ -5427,13 +5427,13 @@
     {
         "id": "meadow-grove",
         "country": "Finland",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
         "logo": "https://f4.bcbits.com/img/0027748409_10.jpg",
         "banner": "https://f4.bcbits.com/img/0024590251_102.avif",
-        "background": "",
+        "background": "https://f4.bcbits.com/img/0033329181_130.jpg",
         "label": "",
         "label_name": "",
         "label_img": "",
@@ -5443,7 +5443,7 @@
         },
         "links": {
             "spotify": "https://open.spotify.com/artist/0QQobVSCXRXNzMwjUIUQqx",
-            "bandcamp": "",
+            "bandcamp": "https://meadowgrove.bandcamp.com/",
             "youtube": "",
             "apple_music": "",
             "website": "https://www.instagram.com/meadowgrove_ds/"
@@ -5462,7 +5462,7 @@
     {
         "id": "megafolivora",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Prehistoric",
         "mood": "Dark",
         "tempo": "Slow",
@@ -5497,7 +5497,7 @@
     {
         "id": "midnight-silence",
         "country": "Brazil",
-        "genre": "",
+        "invention": "2010s",
         "style": "Ambient",
         "mood": "Adventure",
         "tempo": "Slow",
@@ -5532,7 +5532,7 @@
     {
         "id": "mike-brooks",
         "country": "UK",
-        "genre": "",
+        "invention": "1980s",
         "style": "Proto DS",
         "mood": "Epic",
         "tempo": "Normal",
@@ -5567,7 +5567,7 @@
     {
         "id": "mike-rowland",
         "country": "UK",
-        "genre": "",
+        "invention": "1980s",
         "style": "Proto DS",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -5602,13 +5602,13 @@
     {
         "id": "mithril-axe",
         "country": "",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Battle",
         "tempo": "Normal",
         "logo": "https://i.discogs.com/sybCyiqSPeT37qEEUsxUDgimaQzwpBkEQlKy6YS1vVo/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk4NjMw/MDItMTcwNjMwMjM0/Ny04MjU3LmpwZWc.jpeg",
         "banner": "https://i.ytimg.com/vi/G6K7-53sQC8/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLD5JGII2o3tsffIsd5E32ydfp73EA",
-        "background": null,
+        "background": "",
         "label": "",
         "label_name": "",
         "label_img": "",
@@ -5637,7 +5637,7 @@
     {
         "id": "mitternacht",
         "country": "Argentina",
-        "genre": "",
+        "invention": "2000s",
         "style": "Medieval",
         "mood": "Battle",
         "tempo": "Normal",
@@ -5672,7 +5672,7 @@
     {
         "id": "moonglow",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
@@ -5707,7 +5707,7 @@
     {
         "id": "moonlit-path",
         "country": "UK",
-        "genre": "",
+        "invention": "2020s",
         "style": "Chiptune",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -5742,7 +5742,7 @@
     {
         "id": "morgan-the-bard",
         "country": "Italy",
-        "genre": "",
+        "invention": "2010s",
         "style": "Medieval",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -5777,7 +5777,7 @@
     {
         "id": "morketsvind",
         "country": "Russia",
-        "genre": "",
+        "invention": "2000s",
         "style": "Medieval",
         "mood": "Epic",
         "tempo": "Normal",
@@ -5812,7 +5812,7 @@
     {
         "id": "mors-silvestris",
         "country": "Spain",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -5847,7 +5847,7 @@
     {
         "id": "mortiis",
         "country": "Norway",
-        "genre": "",
+        "invention": "1990s",
         "style": "Oldschool",
         "mood": "Epic",
         "tempo": "Slow",
@@ -5882,13 +5882,13 @@
     {
         "id": "moth-tower",
         "country": "Denmark",
-        "genre": "",
+        "invention": "2010s",
         "style": "Medieval",
         "mood": "Dreamy",
         "tempo": "Normal",
         "logo": "https://f4.bcbits.com/img/a0520317097_16.jpg",
         "banner": "https://i.ytimg.com/vi/PLN0MiC2VCM/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH8gSygtMA8=&rs=AOn4CLDFq_TvtK-iY1sXoetHU8s8Z_YV6Q",
-        "background": "",
+        "background": "rgb(0, 0, 0)",
         "label": "https://gondolinrecords.bandcamp.com/",
         "label_name": "Gondolin Records",
         "label_img": "https://f4.bcbits.com/img/0028052481_21.jpg",
@@ -5898,7 +5898,7 @@
         },
         "links": {
             "spotify": "https://open.spotify.com/artist/5J07FUuCvPEssU2aFG6AlI",
-            "bandcamp": "",
+            "bandcamp": "https://gondolinrecords.bandcamp.com/album/sharpen-thy-knife-curse-the-sky",
             "youtube": "",
             "apple_music": "https://music.apple.com/us/artist/moth-tower/1835142795?l=ko",
             "website": ""
@@ -5917,7 +5917,7 @@
     {
         "id": "mountain-realm",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Dark",
         "tempo": "Slow",
@@ -5952,7 +5952,7 @@
     {
         "id": "mountainfog",
         "country": "UK",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
@@ -5987,7 +5987,7 @@
     {
         "id": "mourning-keep",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Ambient",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -6022,16 +6022,16 @@
     {
         "id": "murgrind",
         "country": "Germany",
-        "genre": "",
+        "invention": "2010s",
         "style": "Oldschool",
         "mood": "Battle",
         "tempo": "Slow",
         "logo": "https://f4.bcbits.com/img/0039723134_10.jpg",
         "banner": "https://f4.bcbits.com/img/a3376603341_10.jpg",
         "background": "https://f4.bcbits.com/img/0042753600_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://urherrschaft.bandcamp.com/",
+        "label_name": "Uralte Herrschaft Productions",
+        "label_img": "https://f4.bcbits.com/img/0039708346_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "3961464772"
@@ -6057,7 +6057,7 @@
     {
         "id": "mushroom-grandpa",
         "country": "Latvia",
-        "genre": "",
+        "invention": "2020s",
         "style": "Comfy",
         "mood": "Melancholic",
         "tempo": "Normal",
@@ -6092,7 +6092,7 @@
     {
         "id": "mycologia",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Experimental",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -6127,7 +6127,7 @@
     {
         "id": "mystic-towers",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -6162,7 +6162,7 @@
     {
         "id": "mystiska-skogen",
         "country": "Sweden",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -6197,7 +6197,7 @@
     {
         "id": "mystkeeper",
         "country": "UK",
-        "genre": "",
+        "invention": "2020s",
         "style": "Horror",
         "mood": "Dark",
         "tempo": "Normal",
@@ -6232,7 +6232,7 @@
     {
         "id": "nameless-mage",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -6267,7 +6267,7 @@
     {
         "id": "necromancer-tower",
         "country": "Germany",
-        "genre": "",
+        "invention": "2020s",
         "style": "Chiptune",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -6302,7 +6302,7 @@
     {
         "id": "neverlur",
         "country": "Canada",
-        "genre": "",
+        "invention": "2010s",
         "style": "Medieval",
         "mood": "Epic",
         "tempo": "Slow",
@@ -6337,9 +6337,9 @@
     {
         "id": "nieveterna",
         "country": "Argentina",
-        "genre": "",
+        "invention": "2020s",
         "style": "Ambient",
-        "mood": "Mystic",
+        "mood": "Mystical",
         "tempo": "Slow",
         "logo": "https://f4.bcbits.com/img/0041665818_10.jpg",
         "banner": "https://f4.bcbits.com/img/0041666507_102.avif",
@@ -6372,7 +6372,7 @@
     {
         "id": "niloxian-protocols",
         "country": "Norway",
-        "genre": "",
+        "invention": "2020s",
         "style": "Sci-fi",
         "mood": "Melancholic",
         "tempo": "Normal",
@@ -6407,7 +6407,7 @@
     {
         "id": "nocturnal-effigy",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "RAW",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -6442,7 +6442,7 @@
     {
         "id": "noir-donjon",
         "country": "France",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -6477,7 +6477,7 @@
     {
         "id": "nortfalke",
         "country": "Netherlands",
-        "genre": "",
+        "invention": "2010s",
         "style": "Medieval",
         "mood": "Dark",
         "tempo": "Normal",
@@ -6512,7 +6512,7 @@
     {
         "id": "obscuras-veil",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -6547,7 +6547,7 @@
     {
         "id": "ojas",
         "country": "USA",
-        "genre": "",
+        "invention": "1980s",
         "style": "Proto DS",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -6582,7 +6582,7 @@
     {
         "id": "old-sorcery",
         "country": "Finland",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Dreamy",
         "tempo": "Normal",
@@ -6617,7 +6617,7 @@
     {
         "id": "old-tower",
         "country": "Netherlands",
-        "genre": "",
+        "invention": "2020s",
         "style": "Ambient",
         "mood": "Dark",
         "tempo": "Slow",
@@ -6652,7 +6652,7 @@
     {
         "id": "oldenhelm",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -6687,7 +6687,7 @@
     {
         "id": "omamori",
         "country": "Russia",
-        "genre": "",
+        "invention": "2020s",
         "style": "Ambient",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -6722,7 +6722,7 @@
     {
         "id": "one-last-knight",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Epic",
         "tempo": "Slow",
@@ -6757,7 +6757,7 @@
     {
         "id": "oneiros",
         "country": "USA",
-        "genre": "",
+        "invention": "1990s",
         "style": "Oldschool",
         "mood": "Epic",
         "tempo": "Slow",
@@ -6792,7 +6792,7 @@
     {
         "id": "onfang",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Comfy",
         "mood": "Dreamy",
         "tempo": "Normal",
@@ -6827,7 +6827,7 @@
     {
         "id": "onoskelis",
         "country": "Brazil",
-        "genre": "",
+        "invention": "1990s",
         "style": "Percussive",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -6862,7 +6862,7 @@
     {
         "id": "order-of-dark-times",
         "country": "Russia",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Dark",
         "tempo": "Slow",
@@ -6897,7 +6897,7 @@
     {
         "id": "oublieth",
         "country": "Canada",
-        "genre": "",
+        "invention": "2010s",
         "style": "Oldschool",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -6932,7 +6932,7 @@
     {
         "id": "owlens",
         "country": "Hungary",
-        "genre": "",
+        "invention": "2020s",
         "style": "Horror",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -6967,7 +6967,7 @@
     {
         "id": "paixomenos",
         "country": "Greece",
-        "genre": "",
+        "invention": "2020s",
         "style": "Chiptune",
         "mood": "Adventure",
         "tempo": "Slow",
@@ -7002,7 +7002,7 @@
     {
         "id": "paul-nagle",
         "country": "UK",
-        "genre": "",
+        "invention": "1980s",
         "style": "Proto DS",
         "mood": "Dark",
         "tempo": "Slow",
@@ -7037,7 +7037,7 @@
     {
         "id": "pauldron",
         "country": "Norway",
-        "genre": "",
+        "invention": "2020s",
         "style": "Prehistoric",
         "mood": "Epic",
         "tempo": "Normal",
@@ -7072,7 +7072,7 @@
     {
         "id": "perīre",
         "country": "Germany",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -7107,7 +7107,7 @@
     {
         "id": "potions-of-eleanor",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
@@ -7142,7 +7142,7 @@
     {
         "id": "pumpkin-witch",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Horror",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -7177,7 +7177,7 @@
     {
         "id": "putrid-marsh",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Oldschool",
         "mood": "Dark",
         "tempo": "Slow",
@@ -7212,7 +7212,7 @@
     {
         "id": "quest-master",
         "country": "Australia",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Dreamy",
         "tempo": "Normal",
@@ -7247,7 +7247,7 @@
     {
         "id": "realm-lord",
         "country": "UK",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -7282,16 +7282,16 @@
     {
         "id": "redhorn-gate",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Adventure",
         "tempo": "Normal",
         "logo": "https://f4.bcbits.com/img/0038625448_10.jpg",
         "banner": "https://f4.bcbits.com/img/0038312139_102.avif",
         "background": "https://f4.bcbits.com/img/0038625857_130.jpg",
-        "label": "",
-        "label_name": "",
-        "label_img": "",
+        "label": "https://wroughtrecords.bandcamp.com/",
+        "label_name": "𝔚𝔯𝔬𝔲𝔤𝔥𝔱 ℜ𝔢𝔠𝔬𝔯𝔡𝔰",
+        "label_img": "https://f4.bcbits.com/img/0041560611_21.jpg",
         "player": {
             "type": "bandcamp",
             "id": "3525075054"
@@ -7317,7 +7317,7 @@
     {
         "id": "rog",
         "country": "Croatia",
-        "genre": "",
+        "invention": "2020s",
         "style": "Percussive",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -7350,9 +7350,44 @@
         }
     },
     {
+        "id": "ron-berry",
+        "country": "UK",
+        "invention": "1980s",
+        "style": "Proto DS",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://ron-berry.co.uk/wpimages/wp5c6ec320.png",
+        "banner": "https://ron-berry.co.uk/wpimages/wpe8c8eb9b.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "jF51LCvj_gM"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Ron Berry",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "sceptre-of-the-fading-dawn",
         "country": "Australia",
-        "genre": "",
+        "invention": "2010s",
         "style": "Oldschool",
         "mood": "Epic",
         "tempo": "Slow",
@@ -7387,7 +7422,7 @@
     {
         "id": "secret-minotaur",
         "country": "Poland",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -7422,7 +7457,7 @@
     {
         "id": "secrets-of-maya",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
@@ -7457,7 +7492,7 @@
     {
         "id": "sequestered-keep",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
@@ -7492,7 +7527,7 @@
     {
         "id": "serpents-isle",
         "country": "Unknown",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -7527,7 +7562,7 @@
     {
         "id": "seven-black-books",
         "country": "Argentina",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -7562,7 +7597,7 @@
     {
         "id": "sidereal-fortress",
         "country": "Italy",
-        "genre": "",
+        "invention": "2010s",
         "style": "Experimental",
         "mood": "Melancholic",
         "tempo": "Normal",
@@ -7597,7 +7632,7 @@
     {
         "id": "sir-krox",
         "country": "Russia",
-        "genre": "",
+        "invention": "2020s",
         "style": "Chiptune",
         "mood": "Mystical",
         "tempo": "",
@@ -7632,7 +7667,7 @@
     {
         "id": "skarpseian",
         "country": "Russia",
-        "genre": "",
+        "invention": "2010s",
         "style": "Oldschool",
         "mood": "Epic",
         "tempo": "Slow",
@@ -7667,7 +7702,7 @@
     {
         "id": "skeleton-mage",
         "country": "",
-        "genre": "",
+        "invention": "",
         "style": "",
         "mood": "",
         "tempo": "",
@@ -7702,7 +7737,7 @@
     {
         "id": "skhemty",
         "country": "France",
-        "genre": "",
+        "invention": "2020s",
         "style": "Percussive",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -7735,9 +7770,44 @@
         }
     },
     {
+        "id": "sky-douglas",
+        "country": "USA",
+        "invention": "1980s",
+        "style": "Proto DS",
+        "mood": "Dreamy",
+        "tempo": "Slow",
+        "logo": "https://i.discogs.com/oNdoSMp5dj5CX0lCtilo8xixLLAbOGdOFuN2oSBOu-8/rs:fit/g:sm/q:90/h:600/w:402/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Mzg2/OTktMTU1MDYxMzY3/OS00NzY0LmpwZWc.jpeg",
+        "banner": "https://i.ytimg.com/vi/izfncG_R-jA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAkE3-OwbTvrEDFT_4V8t6LMAF4Kw",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "izfncG_R-jA"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Sky Douglas",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "skymx",
         "country": "South Africa",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Dreamy",
         "tempo": "Normal",
@@ -7772,13 +7842,13 @@
     {
         "id": "slefnwald",
         "country": "UK",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Adventure",
         "tempo": "Normal",
         "logo": "https://f4.bcbits.com/img/0033052711_10.jpg",
         "banner": "https://f4.bcbits.com/img/0033052703_102.avif",
-        "background": null,
+        "background": "rgb(248, 248, 248)",
         "label": "",
         "label_name": "",
         "label_img": "",
@@ -7788,7 +7858,7 @@
         },
         "links": {
             "spotify": "https://open.spotify.com/artist/4yhHFw8FBiLPPXGY9VKI1e",
-            "bandcamp": "",
+            "bandcamp": "https://slefnwald.bandcamp.com/",
             "youtube": "",
             "apple_music": "https://music.apple.com/us/artist/slefnwald/1700250994",
             "website": ""
@@ -7807,7 +7877,7 @@
     {
         "id": "snowfall",
         "country": "Unknown",
-        "genre": "",
+        "invention": "2020s",
         "style": "Ambient",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -7842,7 +7912,7 @@
     {
         "id": "solanum",
         "country": "Germany",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
@@ -7877,7 +7947,7 @@
     {
         "id": "somnomancer",
         "country": "South Africa",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -7912,7 +7982,7 @@
     {
         "id": "soporific-sorcery",
         "country": "Unknown",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -7947,7 +8017,7 @@
     {
         "id": "sourcerior",
         "country": "Italy",
-        "genre": "",
+        "invention": "2020s",
         "style": "Oldschool",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -7982,7 +8052,7 @@
     {
         "id": "spaceseer",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Experimental",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -8017,7 +8087,7 @@
     {
         "id": "spectral-bastion",
         "country": "South Africa",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Dark",
         "tempo": "Slow",
@@ -8052,7 +8122,7 @@
     {
         "id": "spektrale-minstreel",
         "country": "South Africa",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -8087,7 +8157,7 @@
     {
         "id": "spellbound-mire",
         "country": "Australia",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -8122,7 +8192,7 @@
     {
         "id": "splendorius",
         "country": "Russia",
-        "genre": "",
+        "invention": "2010s",
         "style": "Medieval",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -8157,7 +8227,7 @@
     {
         "id": "squire",
         "country": "Finland",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Battle",
         "tempo": "Normal",
@@ -8192,7 +8262,7 @@
     {
         "id": "stalker",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -8227,7 +8297,7 @@
     {
         "id": "stormkeep",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
@@ -8262,7 +8332,7 @@
     {
         "id": "summoning",
         "country": "Austria",
-        "genre": "",
+        "invention": "1990s",
         "style": "Influential",
         "mood": "Epic",
         "tempo": "Slow",
@@ -8297,7 +8367,7 @@
     {
         "id": "svarograd",
         "country": "Poland",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -8332,7 +8402,7 @@
     {
         "id": "svart-torn",
         "country": "France",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Dark",
         "tempo": "Normal",
@@ -8367,7 +8437,7 @@
     {
         "id": "swordcerer",
         "country": "",
-        "genre": "",
+        "invention": "2020s",
         "style": "",
         "mood": "",
         "tempo": "",
@@ -8402,7 +8472,7 @@
     {
         "id": "swords-of-midi",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Adventure",
         "tempo": "Slow",
@@ -8437,7 +8507,7 @@
     {
         "id": "sybil-aleyerkh",
         "country": "Puerto Rico",
-        "genre": "",
+        "invention": "2020s",
         "style": "Ambient",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -8470,9 +8540,44 @@
         }
     },
     {
+        "id": "synco",
+        "country": "Germany",
+        "invention": "1980s",
+        "style": "Proto DS",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://i.ytimg.com/vi/SpUTvxq3hZc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBlVlkUKcMwXsljuQnpbpVzfTiPYA",
+        "banner": "https://i.ytimg.com/vi/SpUTvxq3hZc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBlVlkUKcMwXsljuQnpbpVzfTiPYA",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "SpUTvxq3hZc"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Synco-Music",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "synth-bard",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Chiptune",
         "mood": "Battle",
         "tempo": "Normal",
@@ -8507,7 +8612,7 @@
     {
         "id": "tales-under-the-oak",
         "country": "Germany",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -8542,7 +8647,7 @@
     {
         "id": "technicullis",
         "country": "UK",
-        "genre": "",
+        "invention": "2010s",
         "style": "Experimental",
         "mood": "Melancholic",
         "tempo": "Normal",
@@ -8577,7 +8682,7 @@
     {
         "id": "telaranrhiod",
         "country": "UK",
-        "genre": "",
+        "invention": "2020s",
         "style": "Ambient",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -8612,7 +8717,7 @@
     {
         "id": "thangorodrim",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Slow",
@@ -8647,7 +8752,7 @@
     {
         "id": "the-ashen-codex",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Dreamy",
         "tempo": "Normal",
@@ -8682,7 +8787,7 @@
     {
         "id": "the-bells-of-st-marys",
         "country": "Russia",
-        "genre": "",
+        "invention": "2010s",
         "style": "Ambient",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -8717,7 +8822,7 @@
     {
         "id": "the-haligtree",
         "country": "UK",
-        "genre": "",
+        "invention": "2020s",
         "style": "Ambient",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -8752,7 +8857,7 @@
     {
         "id": "the-nightcrawlers",
         "country": "USA",
-        "genre": "",
+        "invention": "1980s",
         "style": "Proto DS",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -8787,7 +8892,7 @@
     {
         "id": "til-det-bergens-skyggene",
         "country": "Germany",
-        "genre": "",
+        "invention": "2010s",
         "style": "Oldschool",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -8820,15 +8925,85 @@
         }
     },
     {
+        "id": "tim-clark",
+        "country": "USA",
+        "invention": "1980s",
+        "style": "Proto DS",
+        "mood": "Dark",
+        "tempo": "Slow",
+        "logo": "https://i.discogs.com/URC3a8FU_6n5WsG39x_VgDlp3oUdjTV-exXusBcYkU4/rs:fit/g:sm/q:90/h:142/w:142/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5ODc4/OC0xMTAzNjYwNTEx/LmpwZw.jpeg",
+        "banner": "https://i.discogs.com/CtlOPcrLoNwF0aDJaRR-iKgAd3JAs9ConrFPVclk-W4/rs:fit/g:sm/q:90/h:358/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDI1/NjEzLTE2OTU5MTg5/MTItNjUxOS5qcGVn.jpeg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "lQox4tIOjpw"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Tim Clark",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "tim-stebbing",
+        "country": "UK",
+        "invention": "1980s",
+        "style": "Proto DS",
+        "mood": "Dreamy",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0033844819_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0034772502_102.avif",
+        "background": "https://f4.bcbits.com/img/0034772520_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "1554042537"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://tim-stebbing.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Tim Stebbing",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "toad-sage",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Battle",
         "tempo": "Normal",
         "logo": "https://f4.bcbits.com/img/0027959258_10.jpg",
         "banner": "https://f4.bcbits.com/img/0027959326_102.avif",
-        "background": null,
+        "background": "https://f4.bcbits.com/img/0027959939_130.jpg",
         "label": "",
         "label_name": "",
         "label_img": "",
@@ -8838,7 +9013,7 @@
         },
         "links": {
             "spotify": "",
-            "bandcamp": "",
+            "bandcamp": "https://toadsage.bandcamp.com/",
             "youtube": "",
             "apple_music": "",
             "website": ""
@@ -8857,7 +9032,7 @@
     {
         "id": "tom-bombakill",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "RAW",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -8892,7 +9067,7 @@
     {
         "id": "tomb-snail",
         "country": "UK",
-        "genre": "",
+        "invention": "2020s",
         "style": "RAW",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -8927,7 +9102,7 @@
     {
         "id": "topfhelm",
         "country": "Belarus",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Battle",
         "tempo": "Normal",
@@ -8962,7 +9137,7 @@
     {
         "id": "torchlight",
         "country": "Italy",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -8997,7 +9172,7 @@
     {
         "id": "traurent",
         "country": "Puerto Rico",
-        "genre": "",
+        "invention": "2020s",
         "style": "Oldschool",
         "mood": "Epic",
         "tempo": "Slow",
@@ -9032,7 +9207,7 @@
     {
         "id": "treasure-goblin",
         "country": "Faroe Islands",
-        "genre": "",
+        "invention": "2020s",
         "style": "Chiptune",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -9067,7 +9242,7 @@
     {
         "id": "treguard",
         "country": "UK",
-        "genre": "",
+        "invention": "2020s",
         "style": "Horror",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -9102,7 +9277,7 @@
     {
         "id": "trollchameleon",
         "country": "Moldova",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Melancholic",
         "tempo": "Normal",
@@ -9137,7 +9312,7 @@
     {
         "id": "trollhunt",
         "country": "Greece",
-        "genre": "",
+        "invention": "2020s",
         "style": "Medieval",
         "mood": "Dreamy",
         "tempo": "Slow",
@@ -9172,7 +9347,7 @@
     {
         "id": "tryptacobithicus",
         "country": "Germany",
-        "genre": "",
+        "invention": "2020s",
         "style": "Prehistoric",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -9207,7 +9382,7 @@
     {
         "id": "ulfberht",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Battle",
         "tempo": "Slow",
@@ -9242,7 +9417,7 @@
     {
         "id": "ulk",
         "country": "Netherlands",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -9277,7 +9452,7 @@
     {
         "id": "umbral-regency",
         "country": "Sweden",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
@@ -9312,7 +9487,7 @@
     {
         "id": "under-the-frost-moon",
         "country": "Puerto Rico",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Melancholic",
         "tempo": "Normal",
@@ -9347,7 +9522,7 @@
     {
         "id": "ur-pale",
         "country": "Poland",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -9382,7 +9557,7 @@
     {
         "id": "urku-llanthu",
         "country": "Ecuador",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -9417,7 +9592,7 @@
     {
         "id": "utred",
         "country": "Russia",
-        "genre": "",
+        "invention": "2010s",
         "style": "Medieval",
         "mood": "Battle",
         "tempo": "Normal",
@@ -9452,7 +9627,7 @@
     {
         "id": "utrho",
         "country": "Mexico",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -9487,7 +9662,7 @@
     {
         "id": "vaelastrasz",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Dreamy",
         "tempo": "Normal",
@@ -9522,7 +9697,7 @@
     {
         "id": "vale-minstrel",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
@@ -9557,7 +9732,7 @@
     {
         "id": "valen",
         "country": "Sweden",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Slow",
@@ -9592,7 +9767,7 @@
     {
         "id": "valscharuhn",
         "country": "USA",
-        "genre": "",
+        "invention": "2000s",
         "style": "Experimental",
         "mood": "Melancholic",
         "tempo": "Normal",
@@ -9627,7 +9802,7 @@
     {
         "id": "vanishing-amulet",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -9662,13 +9837,13 @@
     {
         "id": "vespermort",
         "country": "Spain",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Slow",
         "logo": "https://f4.bcbits.com/img/0042199925_10.jpg",
         "banner": "https://f4.bcbits.com/img/0045640291_102.avif",
-        "background": "",
+        "background": "https://f4.bcbits.com/img/0045681449_130.jpg",
         "label": "https://guivernorecords.com/",
         "label_name": "Guiverno Records",
         "label_img": "https://guivernorecords.com/cdn/shop/files/logo_dragon_y_letras_rojo.png?v=1787135038&width=80",
@@ -9678,7 +9853,7 @@
         },
         "links": {
             "spotify": "https://open.spotify.com/artist/7G1vQW3QoEhxIP4X0adRwx?si=nc-PENkiTjK8PY6l6twwEA&nd=1&dlsi=5cb04e2395444574",
-            "bandcamp": "",
+            "bandcamp": "https://vespermort.bandcamp.com/",
             "youtube": "https://www.youtube.com/@Vespermort",
             "apple_music": "",
             "website": "https://www.instagram.com/vespermort_"
@@ -9697,7 +9872,7 @@
     {
         "id": "vetus-supulcrum",
         "country": "Netherlands",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Slow",
@@ -9732,7 +9907,7 @@
     {
         "id": "vindalf",
         "country": "Chile",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Melancholic",
         "tempo": "Normal",
@@ -9767,7 +9942,7 @@
     {
         "id": "visions-of-niften",
         "country": "Germany",
-        "genre": "",
+        "invention": "2010s",
         "style": "Oldschool",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -9802,7 +9977,7 @@
     {
         "id": "vongrath",
         "country": "Russia",
-        "genre": "",
+        "invention": "2020s",
         "style": "Ambient",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -9837,7 +10012,7 @@
     {
         "id": "vor",
         "country": "Russia",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Dark",
         "tempo": "Normal",
@@ -9872,7 +10047,7 @@
     {
         "id": "wachturm",
         "country": "Germany",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -9907,7 +10082,7 @@
     {
         "id": "wallachian-cobwebs",
         "country": "Unknown",
-        "genre": "",
+        "invention": "2010s",
         "style": "Ambient",
         "mood": "Dark",
         "tempo": "Slow",
@@ -9942,7 +10117,7 @@
     {
         "id": "waraxe",
         "country": "Greece",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Adventure",
         "tempo": "Slow",
@@ -9977,7 +10152,7 @@
     {
         "id": "warduke",
         "country": "Unknown",
-        "genre": "",
+        "invention": "2010s",
         "style": "Chiptune",
         "mood": "Melancholic",
         "tempo": "Normal",
@@ -10012,7 +10187,7 @@
     {
         "id": "warlock-corpse",
         "country": "Kazakhstan",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Mystical",
         "tempo": "Normal",
@@ -10047,7 +10222,7 @@
     {
         "id": "wartoad",
         "country": "USA",
-        "genre": "",
+        "invention": "2010s",
         "style": "Experimental",
         "mood": "Battle",
         "tempo": "Slow",
@@ -10082,7 +10257,7 @@
     {
         "id": "wattle-hog",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -10115,9 +10290,44 @@
         }
     },
     {
+        "id": "will-vukin",
+        "country": "USA",
+        "invention": "1980s",
+        "style": "Proto DS",
+        "mood": "Dreamy",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0044938979_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0044939314_10.jpg",
+        "background": "rgb(248, 248, 248)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "829990845"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/7tCEtAebMa8U4qW1mdSgyz",
+            "bandcamp": "https://willvukin.bandcamp.com/album/spiritstones",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Will Vukin",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "winding-hallways",
         "country": "Unknown",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Battle",
         "tempo": "Normal",
@@ -10152,7 +10362,7 @@
     {
         "id": "windtower",
         "country": "Hungary",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Adventure",
         "tempo": "Normal",
@@ -10187,7 +10397,7 @@
     {
         "id": "winter-sphere",
         "country": "Sweden",
-        "genre": "",
+        "invention": "2020s",
         "style": "Oldschool",
         "mood": "Epic",
         "tempo": "Slow",
@@ -10222,7 +10432,7 @@
     {
         "id": "wraith-knight",
         "country": "USA",
-        "genre": "",
+        "invention": "2020s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
@@ -10257,7 +10467,7 @@
     {
         "id": "wydraddear",
         "country": "France",
-        "genre": "",
+        "invention": "2020s",
         "style": "Experimental",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -10292,7 +10502,7 @@
     {
         "id": "wyrd-gnome",
         "country": "Canada",
-        "genre": "",
+        "invention": "2020s",
         "style": "Comfy",
         "mood": "Adventure",
         "tempo": "Slow",
@@ -10327,7 +10537,7 @@
     {
         "id": "yearner",
         "country": "Germany",
-        "genre": "",
+        "invention": "2010s",
         "style": "Oldschool",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -10362,13 +10572,13 @@
     {
         "id": "zavlore",
         "country": "Czechia",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
         "logo": "https://f4.bcbits.com/img/0033553353_10.jpg",
         "banner": "https://f4.bcbits.com/img/0036306686_102.avif",
-        "background": "",
+        "background": "https://f4.bcbits.com/img/0036305976_130.jpg",
         "label": "",
         "label_name": "",
         "label_img": "",
@@ -10378,7 +10588,7 @@
         },
         "links": {
             "spotify": "",
-            "bandcamp": "",
+            "bandcamp": "https://zavlore.bandcamp.com/",
             "youtube": "https://www.youtube.com/@Zavlore",
             "apple_music": "",
             "website": ""
@@ -10397,7 +10607,7 @@
     {
         "id": "ziggurath",
         "country": "Germany",
-        "genre": "",
+        "invention": "2020s",
         "style": "Percussive",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -10432,7 +10642,7 @@
     {
         "id": "örnatorpet",
         "country": "Sweden",
-        "genre": "",
+        "invention": "2010s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
@@ -10467,7 +10677,7 @@
     {
         "id": "ねじれたスーパーグラフィックス",
         "country": "Japan",
-        "genre": "",
+        "invention": "2010s",
         "style": "Ambient",
         "mood": "Dark",
         "tempo": "Slow",

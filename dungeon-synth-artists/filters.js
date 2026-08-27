@@ -7,12 +7,13 @@ function initFilters() {
     const artists = window.DSArtists || [];
 
     const country = document.getElementById("filter-country");
+    const invention   = document.getElementById("filter-invention");
     const label   = document.getElementById("filter-label");
     const style   = document.getElementById("filter-style");
     const mood    = document.getElementById("filter-mood");
     const tempo   = document.getElementById("filter-tempo");
 
-    if (!label || !country || !style || !mood || !tempo) {
+    if (!label || !country || !invention || !style || !mood || !tempo) {
         return;
     }
 
@@ -20,12 +21,13 @@ function initFilters() {
     const ui = window.ArtistsI18N?.[lang] || window.ArtistsI18N.en;
 
     fillSelect(country, artists, "country", ui.country);
+    fillSelect(invention, artists, "invention", ui.invention);
     fillLabelSelect(label, artists, ui.label, ui.noLabel);
     fillSelect(style, artists, "style", ui.style);
     fillSelect(mood, artists, "mood", ui.mood);
     fillSelect(tempo, artists, "tempo", ui.tempo);
 
-    [country, label, style, mood, tempo].forEach(select => {
+    [country, invention, label, style, mood, tempo].forEach(select => {
 
         select.addEventListener("change", filterArtists);
 
@@ -83,6 +85,7 @@ function initFilters() {
 
                 matches(country.value, artist.country) &&
                 labelMatches &&
+                matches(invention.value, artist.invention) &&
                 matches(style.value, artist.style) &&
                 matches(mood.value, artist.mood) &&
                 matches(tempo.value, artist.tempo);

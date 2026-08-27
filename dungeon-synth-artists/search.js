@@ -50,7 +50,7 @@ function searchArtists(query){
             artist.label_name,
 
             artist.country,
-            artist.genre,
+            artist.invention,
             artist.style,
             artist.mood,
             artist.tempo,

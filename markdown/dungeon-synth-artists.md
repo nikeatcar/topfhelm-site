@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-26
+last_updated: 2026-08-27
 ---
 
 # Dungeon Synth Artists Directory - The Dungeon Synth Bestiary 
@@ -93,6 +93,7 @@ If you want to suggest your project or bring a short text about it - please use 
 **Mood:** Mystical
 **Tempo:** Slow
 
+[Bandcamp](https://ancientblasphemy.bandcamp.com/)
 [YouTube](https://www.youtube.com/@AncientBlasphemy)
 
 ### Andy Shapiro
@@ -270,6 +271,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Black Winds of Wallachia
 
 **Country:** Puerto Rico
+**Label:** [Entmoot](https://entmootlabel.bandcamp.com/)
 **Style:** Experimental
 **Mood:** Mystical
 **Tempo:** Normal
@@ -725,6 +727,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### DIM
 
 **Country:** Canada
+**Label:** [Lowly Dying Steward Records](https://lowlydyingsteward.bandcamp.com/)
 **Style:** Medieval
 **Mood:** Adventure
 **Tempo:** Normal
@@ -856,6 +859,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Eldritch Wizardry
 
 **Country:** USA
+**Label:** [𝔚𝔯𝔬𝔲𝔤𝔥𝔱 ℜ𝔢𝔠𝔬𝔯𝔡𝔰](https://wroughtrecords.bandcamp.com/)
 **Style:** Fantasy
 **Mood:** Dark
 **Tempo:** Slow
@@ -878,6 +882,8 @@ If you want to suggest your project or bring a short text about it - please use 
 **Style:** Medieval
 **Mood:** Epic
 **Tempo:** Normal
+
+[Bandcamp](https://ithildintapeproduction.bandcamp.com/album/--5)
 
 ### Elyvilon
 
@@ -1311,7 +1317,7 @@ If you want to suggest your project or bring a short text about it - please use 
 **Mood:** Battle
 **Tempo:** Normal
 
-[Bandcamp](https://dungeonsynthdarkambient.bandcamp.com/album/shadows-journey)
+[Bandcamp](https://grimstone.bandcamp.com/)
 
 ### Grol the Goblin
 
@@ -1539,6 +1545,7 @@ If you want to suggest your project or bring a short text about it - please use 
 **Mood:** Epic
 **Tempo:** Slow
 
+[Bandcamp](https://btbsrecords.bandcamp.com/album/karakarn)
 [Website](https://www.instagram.com/vitaliikarakarn_ds/)
 
 ### Kevin O'Neill
@@ -1737,7 +1744,8 @@ If you want to suggest your project or bring a short text about it - please use 
 **Mood:** Melancholic
 **Tempo:** Slow
 
-[Bandcamp](https://matcaronmusic.bandcamp.com/album/the-adder-witch)
+[Bandcamp](https://maidenhairuk.bandcamp.com/)
+[YouTube](https://www.youtube.com/channel/UCp-7MZgVx7cJBgwRwkbEZ5Q)
 [Website](https://www.instagram.com/matthewjamescaron/)
 
 ### Malfet
@@ -1757,6 +1765,8 @@ If you want to suggest your project or bring a short text about it - please use 
 **Style:** Prehistoric
 **Mood:** Mystical
 **Tempo:** Slow
+
+[Bandcamp](https://mammothmaster.bandcamp.com/)
 
 ### Mark Ellery Griffiths
 
@@ -1784,6 +1794,7 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Normal
 
 [Spotify](https://open.spotify.com/artist/0QQobVSCXRXNzMwjUIUQqx)
+[Bandcamp](https://meadowgrove.bandcamp.com/)
 [Website](https://www.instagram.com/meadowgrove_ds/)
 
 ### MEGAFOLIVORA
@@ -2071,6 +2082,7 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Normal
 
 [Spotify](https://open.spotify.com/artist/5J07FUuCvPEssU2aFG6AlI)
+[Bandcamp](https://gondolinrecords.bandcamp.com/album/sharpen-thy-knife-curse-the-sky)
 [Apple Music](https://music.apple.com/us/artist/moth-tower/1835142795?l=ko)
 
 ### Mountain Realm
@@ -2110,6 +2122,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### MURGRIND
 
 **Country:** Germany
+**Label:** [Uralte Herrschaft Productions](https://urherrschaft.bandcamp.com/)
 **Style:** Oldschool
 **Mood:** Battle
 **Tempo:** Slow
@@ -2211,7 +2224,7 @@ If you want to suggest your project or bring a short text about it - please use 
 **Country:** Argentina
 **Label:** [Guiverno Records](https://guivernorecords.com/)
 **Style:** Ambient
-**Mood:** Mystic
+**Mood:** Mystical
 **Tempo:** Slow
 
 [Bandcamp](https://nieveterna.bandcamp.com/)
@@ -2497,6 +2510,7 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Redhorn Gate
 
 **Country:** USA
+**Label:** [𝔚𝔯𝔬𝔲𝔤𝔥𝔱 ℜ𝔢𝔠𝔬𝔯𝔡𝔰](https://wroughtrecords.bandcamp.com/)
 **Style:** Fantasy
 **Mood:** Adventure
 **Tempo:** Normal
@@ -2512,6 +2526,13 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Normal
 
 [Bandcamp](https://rogofficial.bandcamp.com/)
+
+### Ron Berry
+
+**Country:** UK
+**Style:** Proto DS
+**Mood:** Mystical
+**Tempo:** Normal
 
 ### Sceptre Of The Fading Dawn
 
@@ -2625,6 +2646,13 @@ If you want to suggest your project or bring a short text about it - please use 
 [Apple Music](https://music.apple.com/fr/artist/skhemty/1629729909)
 [Website](https://www.instagram.com/john_lordswood)
 
+### Sky Douglas
+
+**Country:** USA
+**Style:** Proto DS
+**Mood:** Dreamy
+**Tempo:** Slow
+
 ### skymx
 
 **Country:** South Africa
@@ -2644,6 +2672,7 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Normal
 
 [Spotify](https://open.spotify.com/artist/4yhHFw8FBiLPPXGY9VKI1e)
+[Bandcamp](https://slefnwald.bandcamp.com/)
 [Apple Music](https://music.apple.com/us/artist/slefnwald/1700250994)
 
 ### Snowfall
@@ -2983,6 +3012,13 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://sybilaleyerkh.bandcamp.com/)
 [YouTube](https://www.youtube.com/channel/UCzeG7TpeU9oS5d7PGyyAF-Q)
 
+### Synco-Music
+
+**Country:** Germany
+**Style:** Proto DS
+**Mood:** Melancholic
+**Tempo:** Normal
+
 ### Synth Bard
 
 **Country:** USA
@@ -3092,12 +3128,30 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://voldsomtapes.bandcamp.com/album/til-det-bergens-skyggene)
 [Apple Music](https://music.apple.com/de/artist/til-det-bergens-skyggene/1787548784)
 
+### Tim Clark
+
+**Country:** USA
+**Style:** Proto DS
+**Mood:** Dark
+**Tempo:** Slow
+
+### Tim Stebbing
+
+**Country:** UK
+**Style:** Proto DS
+**Mood:** Dreamy
+**Tempo:** Normal
+
+[Bandcamp](https://tim-stebbing.bandcamp.com/)
+
 ### Toad Sage
 
 **Country:** USA
 **Style:** Medieval
 **Mood:** Battle
 **Tempo:** Normal
+
+[Bandcamp](https://toadsage.bandcamp.com/)
 
 ### Tom Bombakill
 
@@ -3405,6 +3459,7 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Spotify](https://open.spotify.com/artist/7G1vQW3QoEhxIP4X0adRwx?si=nc-PENkiTjK8PY6l6twwEA&nd=1&dlsi=5cb04e2395444574)
+[Bandcamp](https://vespermort.bandcamp.com/)
 [YouTube](https://www.youtube.com/@Vespermort)
 [Website](https://www.instagram.com/vespermort_)
 
@@ -3548,6 +3603,16 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://wattlehog.bandcamp.com/)
 
+### Will Vukin
+
+**Country:** USA
+**Style:** Proto DS
+**Mood:** Dreamy
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/artist/7tCEtAebMa8U4qW1mdSgyz)
+[Bandcamp](https://willvukin.bandcamp.com/album/spiritstones)
+
 ### Winding Hallways
 
 **Country:** Unknown
@@ -3630,6 +3695,7 @@ If you want to suggest your project or bring a short text about it - please use 
 **Mood:** Epic
 **Tempo:** Normal
 
+[Bandcamp](https://zavlore.bandcamp.com/)
 [YouTube](https://www.youtube.com/@Zavlore)
 
 ### Ziggurath
