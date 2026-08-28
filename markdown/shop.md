@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/shop
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-27
+last_updated: 2026-08-28
 ---
 
 Cart (0) 

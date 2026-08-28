@@ -1330,6 +1330,41 @@
         }
     },
     {
+        "id": "bimble-bridge",
+        "country": "UK",
+        "invention": "2020s",
+        "style": "Experimental",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0046438373_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0046476881_102.avif",
+        "background": "https://f4.bcbits.com/img/0046477524_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "1415403433"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/4NGNRdc6Uw0krYiDCN9DaE?si=X3ZmoaSxRJ-0ea8bYVk8pQ",
+            "bandcamp": "https://bimblebridge.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/bimblebridge/"
+        },
+        "translations": {
+            "en": {
+                "name": "Bimble Bridge",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "black-hekate",
         "country": "Greece",
         "invention": "2020s",
@@ -4550,6 +4585,41 @@
         }
     },
     {
+        "id": "hellige",
+        "country": "USA",
+        "invention": "2020s",
+        "style": "Medieval",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0038504967_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0040651071_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "https://lowlydyingsteward.bandcamp.com/",
+        "label_name": "Lowly Dying Steward Records",
+        "label_img": "https://f4.bcbits.com/img/0042602598_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "255880136"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://helligeburied.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/mithrilmommy/"
+        },
+        "translations": {
+            "en": {
+                "name": "Hellige",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "hemlock-goblin",
         "country": "USA",
         "invention": "2020s",
@@ -4611,6 +4681,41 @@
         "translations": {
             "en": {
                 "name": "Henbane",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "hermit-knight",
+        "country": "USA",
+        "invention": "2020s",
+        "style": "Medieval",
+        "mood": "Adventure",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0034217203_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0040737503_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "2555699484"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/390hnkuMeqTQAGGCWzfzq5?si=4hsW0_TmTneZUc_k_7q_mA",
+            "bandcamp": "https://hermitknight.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/hermitknight/"
+        },
+        "translations": {
+            "en": {
+                "name": "Hermit Knight",
                 "description": ""
             },
             "ru": {
@@ -6816,6 +6921,41 @@
         "translations": {
             "en": {
                 "name": "Mystkeeper",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "mythráen",
+        "country": "Greece",
+        "invention": "2020s",
+        "style": "Medieval",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0044349851_10.jpg",
+        "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSKbbSRxKo67QQkWkdN06_s_h-teFhEcGbxM40c-IC7A&s",
+        "background": "https://f4.bcbits.com/img/0043138381_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "3982292177"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/6q0F8a3RakGDlnlfigwiW6?si=YtBLXwK3S-OR_nrZlouiIw",
+            "bandcamp": "https://mythraen.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/mythraen_ds/"
+        },
+        "translations": {
+            "en": {
+                "name": "Mythráen",
                 "description": ""
             },
             "ru": {
@@ -10141,6 +10281,41 @@
         "translations": {
             "en": {
                 "name": "Under the Frost Moon",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "unsheathed-glory",
+        "country": "USA",
+        "invention": "2020s",
+        "style": "Fantasy",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0035814463_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0035814283_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "1986344633"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/4jCvhBIl4JhMyGmp1vo9fJ?si=ROh6NoYvRvimCflzRKg66A",
+            "bandcamp": "https://unsheathedglory.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/unsheathedglory/"
+        },
+        "translations": {
+            "en": {
+                "name": "Unsheathed Glory",
                 "description": ""
             },
             "ru": {

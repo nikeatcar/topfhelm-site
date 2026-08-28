@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/composer/ru
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-27
+last_updated: 2026-08-28
 ---
 
 # Музыка на заказ для игр, персонажей и фэнтези-миров | TopfHelm

@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-27
+last_updated: 2026-08-28
 ---
 
 # Dungeon Synth Artists Directory - The Dungeon Synth Bestiary 
@@ -411,6 +411,17 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://besteigung.bandcamp.com/)
 [YouTube](https://www.youtube.com/channel/UCJBe4nuaXiaVGg5lm-4nPWg)
 [Apple Music](https://music.apple.com/us/album/das-imperium-der-reinheit/1617847147)
+
+### Bimble Bridge
+
+**Country:** UK
+**Style:** Experimental
+**Mood:** Mystical
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/artist/4NGNRdc6Uw0krYiDCN9DaE?si=X3ZmoaSxRJ-0ea8bYVk8pQ)
+[Bandcamp](https://bimblebridge.bandcamp.com/)
+[Website](https://www.instagram.com/bimblebridge/)
 
 ### BLACK HEKATE
 
@@ -1497,6 +1508,17 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://hecate2113.bandcamp.com/)
 [Website](https://www.instagram.com/hecate.music.93/)
 
+### Hellige
+
+**Country:** USA
+**Label:** [Lowly Dying Steward Records](https://lowlydyingsteward.bandcamp.com/)
+**Style:** Medieval
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Bandcamp](https://helligeburied.bandcamp.com/)
+[Website](https://www.instagram.com/mithrilmommy/)
+
 ### hemlock goblin
 
 **Country:** USA
@@ -1516,6 +1538,17 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Bandcamp](https://gondolinrecords.bandcamp.com/album/indre-kamp)
+
+### Hermit Knight
+
+**Country:** USA
+**Style:** Medieval
+**Mood:** Adventure
+**Tempo:** Normal
+
+[Spotify](https://open.spotify.com/artist/390hnkuMeqTQAGGCWzfzq5?si=4hsW0_TmTneZUc_k_7q_mA)
+[Bandcamp](https://hermitknight.bandcamp.com/)
+[Website](https://www.instagram.com/hermitknight/)
 
 ### Hexelwir
 
@@ -2334,6 +2367,17 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://mystkeeper.bandcamp.com/)
 [YouTube](https://www.youtube.com/@mystkeeperds)
 [Website](https://www.instagram.com/_mystkeeper_/)
+
+### Mythráen
+
+**Country:** Greece
+**Style:** Medieval
+**Mood:** Melancholic
+**Tempo:** Normal
+
+[Spotify](https://open.spotify.com/artist/6q0F8a3RakGDlnlfigwiW6?si=YtBLXwK3S-OR_nrZlouiIw)
+[Bandcamp](https://mythraen.bandcamp.com/)
+[Website](https://www.instagram.com/mythraen_ds/)
 
 ### Nameless Mage
 
@@ -3458,6 +3502,17 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://underthefrostmoon.bandcamp.com/)
 [Apple Music](https://music.apple.com/no/artist/under-the-frost-moon/1736887652?l=nb)
 [Website](https://www.instagram.com/underthefrostmoon/)
+
+### Unsheathed Glory
+
+**Country:** USA
+**Style:** Fantasy
+**Mood:** Mystical
+**Tempo:** Normal
+
+[Spotify](https://open.spotify.com/artist/4jCvhBIl4JhMyGmp1vo9fJ?si=ROh6NoYvRvimCflzRKg66A)
+[Bandcamp](https://unsheathedglory.bandcamp.com/)
+[Website](https://www.instagram.com/unsheathedglory/)
 
 ### Ur Pale
 
