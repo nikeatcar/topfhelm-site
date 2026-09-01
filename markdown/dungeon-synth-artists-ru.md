@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/ru/
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-28
+last_updated: 2026-09-01
 ---
 
 # Каталог Dungeon Synth исполнителей — Dungeon Synth Bestiary 
@@ -585,7 +585,6 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 ### Carrion Cloak
 
 **Страна:** USA
-**Лейбл:** [Dungeon Squid Productions](https://dungeonsquidproductions.bandcamp.com/)
 **Стиль:** Experimental
 **Настроение:** Dark
 **Темп:** Normal
@@ -3502,6 +3501,8 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Стиль:** Fantasy
 **Настроение:** Mystical
 **Темп:** Normal
+
+Unsheathed Glory - исполнитель в жанре фэнтезийного данжен-синта (dungeon synth) из Бостона (штат Массачусетс), чьи мелодии переносят слушателя в мистические земли Шарвенсии. Облачайтесь в тунику, берите в руки кубок и устраивайтесь поудобнее у очага.
 
 [Spotify](https://open.spotify.com/artist/4jCvhBIl4JhMyGmp1vo9fJ?si=ROh6NoYvRvimCflzRKg66A)
 [Bandcamp](https://unsheathedglory.bandcamp.com/)

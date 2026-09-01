@@ -1829,9 +1829,9 @@
         "logo": "https://f4.bcbits.com/img/a2832381339_10.jpg",
         "banner": "https://f4.bcbits.com/img/0026215746_102.avif",
         "background": "https://f4.bcbits.com/img/0026215762_130.jpg",
-        "label": "https://dungeonsquidproductions.bandcamp.com/",
-        "label_name": "Dungeon Squid Productions",
-        "label_img": "https://f4.bcbits.com/img/0025280197_21.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
         "player": {
             "type": "bandcamp",
             "id": "1639344133"
@@ -10316,11 +10316,11 @@
         "translations": {
             "en": {
                 "name": "Unsheathed Glory",
-                "description": ""
+                "description": "Hailing from Boston Massachusetts, Unsheathed Glory is a fantasy dungeon synth artist weaving melodies from the mystical lands of Charvencia. Donn your tunic, grab your flagon, and take a seat by the hearth."
             },
             "ru": {
                 "name": "",
-                "description": ""
+                "description": "Unsheathed Glory - исполнитель в жанре фэнтезийного данжен-синта (dungeon synth) из Бостона (штат Массачусетс), чьи мелодии переносят слушателя в мистические земли Шарвенсии. Облачайтесь в тунику, берите в руки кубок и устраивайтесь поудобнее у очага."
             }
         }
     },

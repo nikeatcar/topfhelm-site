@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-08-28
+last_updated: 2026-09-01
 ---
 
 # Dungeon Synth Artists Directory - The Dungeon Synth Bestiary 
@@ -585,7 +585,6 @@ If you want to suggest your project or bring a short text about it - please use 
 ### Carrion Cloak
 
 **Country:** USA
-**Label:** [Dungeon Squid Productions](https://dungeonsquidproductions.bandcamp.com/)
 **Style:** Experimental
 **Mood:** Dark
 **Tempo:** Normal
@@ -3509,6 +3508,8 @@ If you want to suggest your project or bring a short text about it - please use 
 **Style:** Fantasy
 **Mood:** Mystical
 **Tempo:** Normal
+
+Hailing from Boston Massachusetts, Unsheathed Glory is a fantasy dungeon synth artist weaving melodies from the mystical lands of Charvencia. Donn your tunic, grab your flagon, and take a seat by the hearth.
 
 [Spotify](https://open.spotify.com/artist/4jCvhBIl4JhMyGmp1vo9fJ?si=ROh6NoYvRvimCflzRKg66A)
 [Bandcamp](https://unsheathedglory.bandcamp.com/)
