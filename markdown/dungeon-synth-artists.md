@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-09-01
+last_updated: 2026-09-03
 ---
 
 # Dungeon Synth Artists Directory - The Dungeon Synth Bestiary 
@@ -277,7 +277,7 @@ If you want to suggest your project or bring a short text about it - please use 
 
 ### Ashmedi
 
-**Country:** Israel
+**Country:** Jerusalem
 **Style:** Oldschool
 **Mood:** Mystical
 **Tempo:** Slow
@@ -369,6 +369,29 @@ If you want to suggest your project or bring a short text about it - please use 
 [YouTube](https://www.youtube.com/channel/UCQixDHurTZAxICFj9g-m3Iw)
 [Apple Music](https://music.apple.com/us/artist/avalist/266272806)
 
+### Avox
+
+**Country:** Italy
+**Style:** Oldschool
+**Mood:** Fantasy
+**Tempo:** Mystical
+
+### Bachus
+
+**Country:** Belarus
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Normal
+
+[Bandcamp](https://i.ytimg.com/vi/UprdT8Vql5c/maxresdefault.jpg)
+
+### Balam
+
+**Country:** France
+**Style:** Horror
+**Mood:** Dark
+**Tempo:** Slow
+
 ### Barak Tor
 
 **Country:** Greece
@@ -387,6 +410,13 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Bandcamp](https://blaggardrecords.bandcamp.com/album/barbarian-ring-the-barbarian-ring-demo)
+
+### Barzabel
+
+**Country:** Germany
+**Style:** Oldschool
+**Mood:** Melancholic
+**Tempo:** Normal
 
 ### Bespin Moons
 
@@ -423,6 +453,19 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://bimblebridge.bandcamp.com/)
 [Website](https://www.instagram.com/bimblebridge/)
 
+### Bird Violence
+
+**Country:** Unknown
+**Label:** [Violent Synth Order](https://violentsynth.bandcamp.com/)
+**Style:** Ambient
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/artist/1YUTh3wfzoZ1kVfCKCZkyI)
+[Bandcamp](https://violentsynth.bandcamp.com/album/dive-into-a-violet-horizon)
+[YouTube](https://www.youtube.com/@violentsynth)
+[Website](https://www.instagram.com/violentsynth/)
+
 ### BLACK HEKATE
 
 **Country:** Greece
@@ -432,6 +475,15 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Bandcamp](https://blackdeathindustry.bandcamp.com/album/lilith-vampire)
+
+### Black Numenorean Woe
+
+**Country:** USA
+**Style:** Fantasy
+**Mood:** Epic
+**Tempo:** Slow
+
+[Bandcamp](https://blacknumenoreanwoe.bandcamp.com/)
 
 ### Black Winds of Wallachia
 
@@ -662,6 +714,7 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Spotify](https://open.spotify.com/playlist/36gSbfJqCgI6HJGFLdhz40)
 [Bandcamp](https://chevaliererrant.bandcamp.com/)
+[Website](https://www.instagram.com/chevalier_errant_fr/)
 
 ### Cimitir
 
@@ -673,6 +726,15 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://cimitir.bandcamp.com/)
 
+### Clandestine Warlock
+
+**Country:** USA
+**Style:** RAW
+**Mood:** Mystical
+**Tempo:** Slow
+
+[Bandcamp](https://clandestinewarlock.bandcamp.com/)
+
 ### Coniferous Myst
 
 **Country:** USA
@@ -683,6 +745,28 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://coniferousmyst.bandcamp.com/)
 [Website](https://www.instagram.com/coniferousmyst/)
+
+### Count Diefenbach
+
+**Country:** Unknown
+**Style:** Fantasy
+**Mood:** Adventure
+**Tempo:** Slow
+
+[Bandcamp](https://countdiefenbach.bandcamp.com/)
+[Website](https://www.instagram.com/countdiefenbach/)
+
+### Covered Bridges
+
+**Country:** USA
+**Style:** Fantasy
+**Mood:** Adventure
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/artist/0gVKKqNaVIrGTO5sN9m55v)
+[Bandcamp](https://coveredbridges.bandcamp.com/)
+[Apple Music](https://music.apple.com/us/artist/covered-bridges/1672125513)
+[Website](https://www.instagram.com/covered.bridges/)
 
 ### Criptadel
 
@@ -982,6 +1066,16 @@ If you want to suggest your project or bring a short text about it - please use 
 [Spotify](https://open.spotify.com/artist/5H5OL2hXSU85HQFz5SvFsE)
 [Bandcamp](https://dungeontroll.bandcamp.com/)
 [Apple Music](https://music.apple.com/gb/artist/dungeontroll/1513126578)
+
+### Dunhal
+
+**Country:** Austria
+**Style:** Fantasy
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Bandcamp](https://dunhal.bandcamp.com/)
+[Website](https://www.instagram.com/_amidst_the_ruins_/)
 
 ### DUNJON MAGIK
 
@@ -1369,6 +1463,37 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://wildpendulumrecords.bandcamp.com/album/george-garside-the-jester)
 [YouTube](https://www.youtube.com/results?search_query=George+Garside)
 
+### Glaive Wielder
+
+**Country:** USA
+**Label:** [Violent Synth Order](https://violentsynth.bandcamp.com/)
+**Style:** Ambient
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Bandcamp](https://glaivewielder.bandcamp.com/)
+[Website](https://www.instagram.com/glaive.wielder/)
+
+### Glastir
+
+**Country:** UK
+**Style:** Experimental
+**Mood:** Mystical
+**Tempo:** Slow
+
+[Bandcamp](https://glastir.bandcamp.com/)
+[Website](https://www.instagram.com/glastir_dungeon_synth/)
+
+### Gloom Wraith
+
+**Country:** Belgium
+**Style:** Medieval
+**Mood:** Mystical
+**Tempo:** Slow
+
+[Bandcamp](https://gloomwraith.bandcamp.com/)
+[Website](https://www.instagram.com/gloomwrvith/)
+
 ### GNOLL
 
 **Country:** Italy
@@ -1440,6 +1565,16 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://greatmercenary.bandcamp.com/)
 [Website](https://www.instagram.com/great_mercenary/)
+
+### Greebo
+
+**Country:** UK
+**Style:** Experimental
+**Mood:** Melancholic
+**Tempo:** Normal
+
+[YouTube](https://www.youtube.com/@Maurice_666)
+[Website](https://www.instagram.com/_maurice_666_)
 
 ### Greenhollow
 
@@ -2053,6 +2188,16 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://moonglow.bandcamp.com/)
 [Website](https://www.instagram.com/moonglow_ds/)
+
+### Moonlit Corridors
+
+**Country:** USA
+**Style:** Fantasy
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Bandcamp](https://moonlitcorridors.bandcamp.com/)
+[Website](https://www.instagram.com/moonlit_corridors)
 
 ### Moonlit Path
 
@@ -2767,6 +2912,17 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://darksorceryrecords.bandcamp.com/album/side-quest-single)
 
+### Segadeath
+
+**Country:** Netherlands
+**Label:** [Violent Synth Order](https://violentsynth.bandcamp.com/)
+**Style:** Experimental
+**Mood:** Adventure
+**Tempo:** Slow
+
+[Bandcamp](https://segadeath.bandcamp.com/)
+[Website](https://www.instagram.com/segadeath/)
+
 ### Sequestered Keep
 
 **Country:** USA
@@ -2866,6 +3022,17 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://skymx.bandcamp.com/)
 [YouTube](https://www.youtube.com/channel/UCJsFgD1WEWVgiiaZ64evGew)
 [Website](https://www.instagram.com/skyemaxilian/)
+
+### Slaves for Architecture
+
+**Country:** Argentina
+**Style:** Percussive
+**Mood:** Melancholic
+**Tempo:** Normal
+
+[Bandcamp](https://drytemple.bandcamp.com/)
+[YouTube](https://www.youtube.com/channel/UCd5DjO-yDM3jeq-cJJS1Eyw)
+[Website](https://www.instagram.com/slavesforarchitecture/)
 
 ### Slefnwald
 
@@ -3231,6 +3398,18 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://synthbard.bandcamp.com/)
 
+### Synth for Pets
+
+**Country:** Unknown
+**Label:** [Violent Synth Order](https://violentsynth.bandcamp.com/)
+**Style:** Experimental
+**Mood:** Dreamy
+**Tempo:** Slow
+
+[Bandcamp](https://violentsynth.bandcamp.com/album/small-talk-and-warm-coffee)
+[YouTube](https://www.youtube.com/@violentsynth)
+[Website](https://www.instagram.com/violentsynth/)
+
 ### Tales Under The Oak
 
 **Country:** Germany
@@ -3319,6 +3498,18 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://thenightcrawlerspa.bandcamp.com/)
 [YouTube](https://music.youtube.com/channel/UCskia0Mz-bswIiXG4J7Q41g)
 
+### Thelema
+
+**Country:** USA
+**Label:** [Violent Synth Order](https://violentsynth.bandcamp.com/)
+**Style:** Fantasy
+**Mood:** Mystical
+**Tempo:** Slow
+
+[Bandcamp](https://thelema2.bandcamp.com/)
+[YouTube](https://www.youtube.com/@thelemadungeonsynth)
+[Website](https://www.instagram.com/thelema_dungeonsynth/)
+
 ### TIL DET BERGENS SKYGGENE
 
 **Country:** Germany
@@ -3382,6 +3573,42 @@ If you want to suggest your project or bring a short text about it - please use 
 **Style:** Medieval
 **Mood:** Battle
 **Tempo:** Normal
+
+<p>
+ <strong>TopfHelm</strong> is a one-man Dungeon Folk and Dungeon Synth project from Belarus, created by Nikita Shkurd. Its music draws on medieval history, folk traditions, Black Metal and fantasy soundtracks, moving between raw Dungeon Synth and more organic arrangements built around the sounds of hurdy-gurdy, lutes, violin, war drums and other traditional instruments.
+</p>
+
+<p class="artist-release-note">
+ The project first gained attention with
+ <a
+ href="https://topfhelm.bandcamp.com/album/sanguis-et-mulsum"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Sanguis Et Mulsum</em></a> (2025), a deliberately chaotic and humorous take on crusaders, drunken feasts and medieval battles. The concept was developed further on
+ <a
+ href="https://topfhelm.bandcamp.com/album/sir-godric"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Sir Godric</em></a> (2025), a dark medieval tragicomedy expanded with narration and handcrafted physical editions. Later that year,
+ <a
+ href="https://topfhelm.bandcamp.com/album/spad-yna"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Spadčyna</em></a> turned toward Belarusian traditional music, reworking folk melodies, river songs, harvest rituals and winter chants through the lens of Dungeon Folk.
+</p>
+
+<p>
+ TopfHelm has gradually expanded beyond individual albums into larger narrative and multimedia works. In 2026,
+ <a
+ href="https://topfhelm.bandcamp.com/album/the-emerald-saga-the-still-place"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>The Emerald Saga: The Still Place</em></a> opened an original saga combining music, written storytelling and illustration. A strong DIY approach remains part of the project: physical editions are assembled by hand, while composition, arrangement and production are handled independently by TopfHelm.
+</p>
 
 [Spotify](https://open.spotify.com/artist/5NHkqDnmyOUMMUrHy2n9Mq)
 [Bandcamp](https://topfhelm.bandcamp.com/)
@@ -3666,6 +3893,16 @@ Hailing from Boston Massachusetts, Unsheathed Glory is a fantasy dungeon synth a
 [Apple Music](https://music.apple.com/kz/artist/vanishing-amulet/1771515398)
 [Website](https://www.instagram.com/vanishingamulet/)
 
+### Venader
+
+**Country:** Mexico
+**Style:** Fantasy
+**Mood:** Mystical
+**Tempo:** Normal
+
+[Bandcamp](https://venader.bandcamp.com/)
+[Website](https://www.instagram.com/venadersynth/)
+
 ### Vespermort
 
 **Country:** Spain
@@ -3849,6 +4086,16 @@ Hailing from Boston Massachusetts, Unsheathed Glory is a fantasy dungeon synth a
 **Tempo:** Normal
 
 [Bandcamp](https://windtower.bandcamp.com/)
+
+### Winter Knight
+
+**Country:** Mexico
+**Style:** Percussive
+**Mood:** Mystical
+**Tempo:** Slow
+
+[Bandcamp](https://winterknight.bandcamp.com/)
+[Website](https://www.instagram.com/noctis_thewinterknight/)
 
 ### Winter Sphere
 

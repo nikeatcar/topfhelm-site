@@ -876,7 +876,7 @@
     },
     {
         "id": "ashmedi",
-        "country": "Israel",
+        "country": "Jerusalem",
         "invention": "1990s",
         "style": "Oldschool",
         "mood": "Mystical",
@@ -1190,13 +1190,118 @@
         }
     },
     {
+        "id": "avox",
+        "country": "Italy",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Fantasy",
+        "tempo": "Mystical",
+        "logo": "https://e.snmc.io/i/150/s/6817db4af8649280c967b336b3933a7c/6653324",
+        "banner": "https://i.ytimg.com/vi/VpjvrmKDT3Q/maxresdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "VpjvrmKDT3Q"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Avox",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "bachus",
+        "country": "Belarus",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://i.ytimg.com/vi/gqHhZBGOA04/maxresdefault.jpg",
+        "banner": "https://i.ytimg.com/vi/UprdT8Vql5c/maxresdefault.jpg",
+        "background": "rgb(14, 14, 14)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "gqHhZBGOA04"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://i.ytimg.com/vi/UprdT8Vql5c/maxresdefault.jpg",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Bachus",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "balam",
+        "country": "France",
+        "invention": "1990s",
+        "style": "Horror",
+        "mood": "Dark",
+        "tempo": "Slow",
+        "logo": "https://www.dungeon-codex.com/storage/artists/798/logo.jpeg",
+        "banner": "https://i.ytimg.com/vi/9jHi0KF9wU0/maxresdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "9jHi0KF9wU0"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Balam",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "barak-tor",
         "country": "Greece",
         "invention": "2010s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Normal",
-        "logo": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/631364070_1561702672627896_3312447643808595436_n.jpg?stp=dst-jpg_tt6&cstp=mx600x600&ctp=s600x600&_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=vxOU8QQ3EUoQ7kNvwFBVpyt&_nc_oc=AdrBdRY1bwsPVxhrkoAYTHKTzonbrzj2cS_B-68nZK1f9OGWYDMQkyQVtkMie4-XGiY&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=xk8qBk70mtuD0Be_XwYCoQ&_nc_ss=7e2a8&oh=00_AQE78VUF9jEy6PtZJ2KtxURLW6cT3KPuP3kAMGmyJFqJIw&oe=6A8FB1C3",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuG8ZyxSjvVHdt3LdbZ1PQegEqpmggkcAAY0lM0SoKnpmbEObNwJArvhXx&s=10",
         "banner": "https://dungeon-codex.com/storage/artists/35/logo.jpeg",
         "background": "https://f4.bcbits.com/img/0042325705_130.jpg",
         "label": "",
@@ -1251,6 +1356,41 @@
         "translations": {
             "en": {
                 "name": "BARBARIAN RING",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "barzabel",
+        "country": "Germany",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/a2771188826_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a2771188826_10.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "1432551561"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Barzabel",
                 "description": ""
             },
             "ru": {
@@ -1365,6 +1505,41 @@
         }
     },
     {
+        "id": "bird-violence",
+        "country": "Unknown",
+        "invention": "2020s",
+        "style": "Ambient",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a1970419101_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a1970419101_10.jpg",
+        "background": "https://f4.bcbits.com/img/0046768672_130.jpg",
+        "label": "https://violentsynth.bandcamp.com/",
+        "label_name": "Violent Synth Order",
+        "label_img": "https://f4.bcbits.com/img/0038946840_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "569727104"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/1YUTh3wfzoZ1kVfCKCZkyI",
+            "bandcamp": "https://violentsynth.bandcamp.com/album/dive-into-a-violet-horizon",
+            "youtube": "https://www.youtube.com/@violentsynth",
+            "apple_music": "",
+            "website": "https://www.instagram.com/violentsynth/"
+        },
+        "translations": {
+            "en": {
+                "name": "Bird Violence",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "black-hekate",
         "country": "Greece",
         "invention": "2020s",
@@ -1391,6 +1566,41 @@
         "translations": {
             "en": {
                 "name": "BLACK HEKATE",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "black-numenorean-woe",
+        "country": "USA",
+        "invention": "2020s",
+        "style": "Fantasy",
+        "mood": "Epic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0034897337_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0034897337_10.jpg",
+        "background": "rgb(20, 21, 20)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "2516220042"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://blacknumenoreanwoe.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Black Numenorean Woe",
                 "description": ""
             },
             "ru": {
@@ -2086,7 +2296,7 @@
             "bandcamp": "https://chevaliererrant.bandcamp.com/",
             "youtube": "",
             "apple_music": "",
-            "website": ""
+            "website": "https://www.instagram.com/chevalier_errant_fr/"
         },
         "translations": {
             "en": {
@@ -2135,6 +2345,41 @@
         }
     },
     {
+        "id": "clandestine-warlock",
+        "country": "USA",
+        "invention": "2020s",
+        "style": "RAW",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a2061874829_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a2061874829_10.jpg",
+        "background": "rgb(23, 18, 18)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "4176405541"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://clandestinewarlock.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Clandestine Warlock",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "coniferous-myst",
         "country": "USA",
         "invention": "2010s",
@@ -2161,6 +2406,76 @@
         "translations": {
             "en": {
                 "name": "Coniferous Myst",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "count-diefenbach",
+        "country": "Unknown",
+        "invention": "2020s",
+        "style": "Fantasy",
+        "mood": "Adventure",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0044344980_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0045124488_102.avif",
+        "background": "https://f4.bcbits.com/img/0043686676_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "3757701632"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://countdiefenbach.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/countdiefenbach/"
+        },
+        "translations": {
+            "en": {
+                "name": "Count Diefenbach",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "covered-bridges",
+        "country": "USA",
+        "invention": "2020s",
+        "style": "Fantasy",
+        "mood": "Adventure",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0031809047_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0038635986_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "3542635828"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/0gVKKqNaVIrGTO5sN9m55v",
+            "bandcamp": "https://coveredbridges.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "https://music.apple.com/us/artist/covered-bridges/1672125513",
+            "website": "https://www.instagram.com/covered.bridges/"
+        },
+        "translations": {
+            "en": {
+                "name": "Covered Bridges",
                 "description": ""
             },
             "ru": {
@@ -2826,6 +3141,41 @@
         "translations": {
             "en": {
                 "name": "Dungeontroll",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "dunhal",
+        "country": "Austria",
+        "invention": "2020s",
+        "style": "Fantasy",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0031213524_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a2444789634_10.jpg",
+        "background": "https://f4.bcbits.com/img/0032411614_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "2380580652"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://dunhal.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/_amidst_the_ruins_/"
+        },
+        "translations": {
+            "en": {
+                "name": "Dunhal",
                 "description": ""
             },
             "ru": {
@@ -4095,6 +4445,111 @@
         }
     },
     {
+        "id": "glaive-wielder",
+        "country": "USA",
+        "invention": "2020s",
+        "style": "Ambient",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0036047671_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0036790453_102.avif",
+        "background": "https://f4.bcbits.com/img/0043750384_130.jpg",
+        "label": "https://violentsynth.bandcamp.com/",
+        "label_name": "Violent Synth Order",
+        "label_img": "https://f4.bcbits.com/img/0038946840_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "1943214563"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://glaivewielder.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/glaive.wielder/"
+        },
+        "translations": {
+            "en": {
+                "name": "Glaive Wielder",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "glastir",
+        "country": "UK",
+        "invention": "2020s",
+        "style": "Experimental",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0045398563_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a2843568773_10.jpg",
+        "background": "rgb(134, 105, 105)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "3959148648"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://glastir.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/glastir_dungeon_synth/"
+        },
+        "translations": {
+            "en": {
+                "name": "Glastir",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "gloom-wraith",
+        "country": "Belgium",
+        "invention": "2020s",
+        "style": "Medieval",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0046160674_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a1380738736_10.jpg",
+        "background": "rgb(248, 248, 248)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "2743214319"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://gloomwraith.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/gloomwrvith/"
+        },
+        "translations": {
+            "en": {
+                "name": "Gloom Wraith",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "gnoll",
         "country": "Italy",
         "invention": "2020s",
@@ -4331,6 +4786,41 @@
         "translations": {
             "en": {
                 "name": "Great Mercenary",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "greebo",
+        "country": "UK",
+        "invention": "2020s",
+        "style": "Experimental",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://i.ytimg.com/vi/Wdi2s9SDr_0/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGE8gVyhlMA8=&rs=AOn4CLBEfMbDJ9Hrg2c1RkZnwyomvP2naA",
+        "banner": "https://i.ytimg.com/vi/nxIHPqv9f1U/hqdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "nxIHPqv9f1U"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "https://www.youtube.com/@Maurice_666",
+            "apple_music": "",
+            "website": "https://www.instagram.com/_maurice_666_"
+        },
+        "translations": {
+            "en": {
+                "name": "Greebo",
                 "description": ""
             },
             "ru": {
@@ -6405,6 +6895,41 @@
         }
     },
     {
+        "id": "moonlit-corridors",
+        "country": "USA",
+        "invention": "2020s",
+        "style": "Fantasy",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0040721097_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0039166321_102.avif",
+        "background": "rgb(22, 19, 22)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "3527895779"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://moonlitcorridors.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/moonlit_corridors"
+        },
+        "translations": {
+            "en": {
+                "name": "Moonlit Corridors",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "moonlit-path",
         "country": "UK",
         "invention": "2020s",
@@ -8260,6 +8785,41 @@
         }
     },
     {
+        "id": "segadeath",
+        "country": "Netherlands",
+        "invention": "2010s",
+        "style": "Experimental",
+        "mood": "Adventure",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0044984364_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a2801408980_10.jpg",
+        "background": "https://f4.bcbits.com/img/0045274999_130.jpg",
+        "label": "https://violentsynth.bandcamp.com/",
+        "label_name": "Violent Synth Order",
+        "label_img": "https://f4.bcbits.com/img/0038946840_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "161819359"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://segadeath.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/segadeath/"
+        },
+        "translations": {
+            "en": {
+                "name": "Segadeath",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "sequestered-keep",
         "country": "USA",
         "invention": "2010s",
@@ -8601,6 +9161,41 @@
         "translations": {
             "en": {
                 "name": "skymx",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "slaves-for-architecture",
+        "country": "Argentina",
+        "invention": "2020s",
+        "style": "Percussive",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0031862361_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0046152771_102.avif",
+        "background": "https://f4.bcbits.com/img/0041783639_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "2957549468"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://drytemple.bandcamp.com/",
+            "youtube": "https://www.youtube.com/channel/UCd5DjO-yDM3jeq-cJJS1Eyw",
+            "apple_music": "",
+            "website": "https://www.instagram.com/slavesforarchitecture/"
+        },
+        "translations": {
+            "en": {
+                "name": "Slaves for Architecture",
                 "description": ""
             },
             "ru": {
@@ -9380,6 +9975,41 @@
         }
     },
     {
+        "id": "synth-for-pets",
+        "country": "Unknown",
+        "invention": "2020s",
+        "style": "Experimental",
+        "mood": "Dreamy",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a2989670368_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a2989670368_10.jpg",
+        "background": "https://f4.bcbits.com/img/0046768672_130.jpg",
+        "label": "https://violentsynth.bandcamp.com/",
+        "label_name": "Violent Synth Order",
+        "label_img": "https://f4.bcbits.com/img/0038946840_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "1697533302"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://violentsynth.bandcamp.com/album/small-talk-and-warm-coffee",
+            "youtube": "https://www.youtube.com/@violentsynth",
+            "apple_music": "",
+            "website": "https://www.instagram.com/violentsynth/"
+        },
+        "translations": {
+            "en": {
+                "name": "Synth for Pets",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "tales-under-the-oak",
         "country": "Germany",
         "invention": "2020s",
@@ -9660,6 +10290,41 @@
         }
     },
     {
+        "id": "thelema",
+        "country": "USA",
+        "invention": "2020s",
+        "style": "Fantasy",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0036048720_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0039684045_102.avif",
+        "background": "https://f4.bcbits.com/img/0039683776_130.jpg",
+        "label": "https://violentsynth.bandcamp.com/",
+        "label_name": "Violent Synth Order",
+        "label_img": "https://f4.bcbits.com/img/0038946840_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "1050283166"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://thelema2.bandcamp.com/",
+            "youtube": "https://www.youtube.com/@thelemadungeonsynth",
+            "apple_music": "",
+            "website": "https://www.instagram.com/thelema_dungeonsynth/"
+        },
+        "translations": {
+            "en": {
+                "name": "Thelema",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "til-det-bergens-skyggene",
         "country": "Germany",
         "invention": "2010s",
@@ -9876,15 +10541,15 @@
         "style": "Medieval",
         "mood": "Battle",
         "tempo": "Normal",
-        "logo": "https://f4.bcbits.com/img/0040167808_20.jpg",
-        "banner": "https://styles.redditmedia.com/t5_jcri60/styles/profileBanner_putm4wnmqwhh1.png?width=1280&height=384&frame=1&auto=webp&crop=1280:384,smart&s=b1c9480aab92b7f44cb68c1d076eafea8a582566",
+        "logo": "https://f4.bcbits.com/img/0046901365_10.jpg",
+        "banner": "https://scontent-fra3-2.xx.fbcdn.net/v/t39.30808-6/778226592_122198026922798972_5766997543282341969_n.png?stp=dst-png&cstp=mx2048x1152&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=wtGy1dwUacMQ7kNvwEaUFmY&_nc_oc=AdpiAJKHTF_xB8mN5FmiintLQyXTA0jHS9DdToaDTv8lKwBBAHclhgCxQLVQ-vR8Hnc&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=nuZPvoZWqWTM_7eXXn7TbQ&_nc_ss=7f2a8&oh=00_AQLCKat3n4cLRiEbqTCR3zAvrE0TII7AuzVjg_UIGzEjCA&oe=6A9F49CF",
         "background": "https://f4.bcbits.com/img/0040167909_130.jpg",
         "label": "",
         "label_name": "",
         "label_img": "",
         "player": {
             "type": "bandcamp",
-            "id": "4099180322"
+            "id": "2235068302"
         },
         "links": {
             "spotify": "https://open.spotify.com/artist/5NHkqDnmyOUMMUrHy2n9Mq",
@@ -9896,11 +10561,11 @@
         "translations": {
             "en": {
                 "name": "TopfHelm",
-                "description": ""
+                "description": "<p>\n    <strong>TopfHelm</strong> is a one-man Dungeon Folk and Dungeon Synth project from Belarus, created by Nikita Shkurd. Its music draws on medieval history, folk traditions, Black Metal and fantasy soundtracks, moving between raw Dungeon Synth and more organic arrangements built around the sounds of hurdy-gurdy, lutes, violin, war drums and other traditional instruments.\n</p>\n\n<p class=\"artist-release-note\">\n    The project first gained attention with\n    <a\n        href=\"https://topfhelm.bandcamp.com/album/sanguis-et-mulsum\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    ><em>Sanguis Et Mulsum</em></a> (2025), a deliberately chaotic and humorous take on crusaders, drunken feasts and medieval battles. The concept was developed further on\n    <a\n        href=\"https://topfhelm.bandcamp.com/album/sir-godric\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    ><em>Sir Godric</em></a> (2025), a dark medieval tragicomedy expanded with narration and handcrafted physical editions. Later that year,\n    <a\n        href=\"https://topfhelm.bandcamp.com/album/spad-yna\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    ><em>Spadčyna</em></a> turned toward Belarusian traditional music, reworking folk melodies, river songs, harvest rituals and winter chants through the lens of Dungeon Folk.\n</p>\n\n<p>\n    TopfHelm has gradually expanded beyond individual albums into larger narrative and multimedia works. In 2026,\n    <a\n        href=\"https://topfhelm.bandcamp.com/album/the-emerald-saga-the-still-place\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    ><em>The Emerald Saga: The Still Place</em></a> opened an original saga combining music, written storytelling and illustration. A strong DIY approach remains part of the project: physical editions are assembled by hand, while composition, arrangement and production are handled independently by TopfHelm.\n</p>"
             },
             "ru": {
                 "name": "",
-                "description": ""
+                "description": "<p>\n    <strong>TopfHelm</strong> - сольный Dungeon Folk и Dungeon Synth проект из Беларуси, созданный Никитой Шкурдем. В музыке проекта соединяются средневековая история, народные традиции, Black Metal и музыка из фэнтезийных произведений: от сырого Dungeon Synth до более органичных аранжировок со звучанием колёсной лиры, лютни, скрипки, боевых барабанов и других традиционных инструментов.\n</p>\n\n<p class=\"artist-release-note\">\n    Первую заметность проект получил благодаря\n    <a\n        href=\"https://topfhelm.bandcamp.com/album/sanguis-et-mulsum\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    ><em>Sanguis Et Mulsum</em></a> (2025) - намеренно хаотичному и ироничному взгляду на крестоносцев, пьяные пиры и средневековые сражения. Эта идея получила дальнейшее развитие на\n    <a\n        href=\"https://topfhelm.bandcamp.com/album/sir-godric\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    ><em>Sir Godric</em></a> (2025), мрачной средневековой трагикомедии, дополненной повествованием и созданными вручную физическими изданиями. Позже в том же году\n    <a\n        href=\"https://topfhelm.bandcamp.com/album/spad-yna\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    ><em>Spadčyna</em></a> обратился уже к белорусской традиционной музыке, переосмысливая народные мелодии, речные песни, обрядовые мотивы и зимние напевы через призму Dungeon Folk.\n</p>\n\n<p>\n    Постепенно TopfHelm вышел за рамки отдельных музыкальных альбомов в сторону более масштабных повествовательных и мультимедийных работ. В 2026 году\n    <a\n        href=\"https://topfhelm.bandcamp.com/album/the-emerald-saga-the-still-place\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    ><em>The Emerald Saga: The Still Place</em></a> открыл оригинальную сагу, объединяющую музыку, литературное повествование и иллюстрации. Важной частью TopfHelm остаётся DIY-подход: физические издания собираются вручную, а созданием музыки, аранжировкой и продюсированием проекта автор занимается самостоятельно.\n</p>"
             }
         }
     },
@@ -10640,6 +11305,41 @@
         }
     },
     {
+        "id": "venader",
+        "country": "Mexico",
+        "invention": "2020s",
+        "style": "Fantasy",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0034073340_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0038179155_102.avif",
+        "background": "https://f4.bcbits.com/img/0038179080_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "560544063"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://venader.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/venadersynth/"
+        },
+        "translations": {
+            "en": {
+                "name": "Venader",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "vespermort",
         "country": "Spain",
         "invention": "2020s",
@@ -11191,6 +11891,41 @@
         "translations": {
             "en": {
                 "name": "Windtower",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "winter-knight",
+        "country": "Mexico",
+        "invention": "2020s",
+        "style": "Percussive",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0035554395_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0035553699_102.avif",
+        "background": "https://f4.bcbits.com/img/0034072675_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "741921361"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://winterknight.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/noctis_thewinterknight/"
+        },
+        "translations": {
+            "en": {
+                "name": "Winter Knight",
                 "description": ""
             },
             "ru": {

@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/articles/dungeon-folk-reviving-the-authentic-med
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-09-01
+last_updated: 2026-09-03
 ---
 
 Dark Mode 

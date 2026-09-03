@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/ru/
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-09-01
+last_updated: 2026-09-03
 ---
 
 # Каталог Dungeon Synth исполнителей — Dungeon Synth Bestiary 
@@ -277,7 +277,7 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 ### Ashmedi
 
-**Страна:** Israel
+**Страна:** Jerusalem
 **Стиль:** Oldschool
 **Настроение:** Mystical
 **Темп:** Slow
@@ -369,6 +369,29 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [YouTube](https://www.youtube.com/channel/UCQixDHurTZAxICFj9g-m3Iw)
 [Apple Music](https://music.apple.com/us/artist/avalist/266272806)
 
+### Avox
+
+**Страна:** Italy
+**Стиль:** Oldschool
+**Настроение:** Fantasy
+**Темп:** Mystical
+
+### Bachus
+
+**Страна:** Belarus
+**Стиль:** Oldschool
+**Настроение:** Mystical
+**Темп:** Normal
+
+[Bandcamp](https://i.ytimg.com/vi/UprdT8Vql5c/maxresdefault.jpg)
+
+### Balam
+
+**Страна:** France
+**Стиль:** Horror
+**Настроение:** Dark
+**Темп:** Slow
+
 ### Barak Tor
 
 **Страна:** Greece
@@ -387,6 +410,13 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Slow
 
 [Bandcamp](https://blaggardrecords.bandcamp.com/album/barbarian-ring-the-barbarian-ring-demo)
+
+### Barzabel
+
+**Страна:** Germany
+**Стиль:** Oldschool
+**Настроение:** Melancholic
+**Темп:** Normal
 
 ### Bespin Moons
 
@@ -423,6 +453,19 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://bimblebridge.bandcamp.com/)
 [Website](https://www.instagram.com/bimblebridge/)
 
+### Bird Violence
+
+**Страна:** Unknown
+**Лейбл:** [Violent Synth Order](https://violentsynth.bandcamp.com/)
+**Стиль:** Ambient
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/artist/1YUTh3wfzoZ1kVfCKCZkyI)
+[Bandcamp](https://violentsynth.bandcamp.com/album/dive-into-a-violet-horizon)
+[YouTube](https://www.youtube.com/@violentsynth)
+[Website](https://www.instagram.com/violentsynth/)
+
 ### BLACK HEKATE
 
 **Страна:** Greece
@@ -432,6 +475,15 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Slow
 
 [Bandcamp](https://blackdeathindustry.bandcamp.com/album/lilith-vampire)
+
+### Black Numenorean Woe
+
+**Страна:** USA
+**Стиль:** Fantasy
+**Настроение:** Epic
+**Темп:** Slow
+
+[Bandcamp](https://blacknumenoreanwoe.bandcamp.com/)
 
 ### Black Winds of Wallachia
 
@@ -662,6 +714,7 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Spotify](https://open.spotify.com/playlist/36gSbfJqCgI6HJGFLdhz40)
 [Bandcamp](https://chevaliererrant.bandcamp.com/)
+[Website](https://www.instagram.com/chevalier_errant_fr/)
 
 ### Cimitir
 
@@ -673,6 +726,15 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://cimitir.bandcamp.com/)
 
+### Clandestine Warlock
+
+**Страна:** USA
+**Стиль:** RAW
+**Настроение:** Mystical
+**Темп:** Slow
+
+[Bandcamp](https://clandestinewarlock.bandcamp.com/)
+
 ### Coniferous Myst
 
 **Страна:** USA
@@ -683,6 +745,28 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://coniferousmyst.bandcamp.com/)
 [Website](https://www.instagram.com/coniferousmyst/)
+
+### Count Diefenbach
+
+**Страна:** Unknown
+**Стиль:** Fantasy
+**Настроение:** Adventure
+**Темп:** Slow
+
+[Bandcamp](https://countdiefenbach.bandcamp.com/)
+[Website](https://www.instagram.com/countdiefenbach/)
+
+### Covered Bridges
+
+**Страна:** USA
+**Стиль:** Fantasy
+**Настроение:** Adventure
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/artist/0gVKKqNaVIrGTO5sN9m55v)
+[Bandcamp](https://coveredbridges.bandcamp.com/)
+[Apple Music](https://music.apple.com/us/artist/covered-bridges/1672125513)
+[Website](https://www.instagram.com/covered.bridges/)
 
 ### Criptadel
 
@@ -977,6 +1061,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Spotify](https://open.spotify.com/artist/5H5OL2hXSU85HQFz5SvFsE)
 [Bandcamp](https://dungeontroll.bandcamp.com/)
 [Apple Music](https://music.apple.com/gb/artist/dungeontroll/1513126578)
+
+### Dunhal
+
+**Страна:** Austria
+**Стиль:** Fantasy
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Bandcamp](https://dunhal.bandcamp.com/)
+[Website](https://www.instagram.com/_amidst_the_ruins_/)
 
 ### DUNJON MAGIK
 
@@ -1364,6 +1458,37 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://wildpendulumrecords.bandcamp.com/album/george-garside-the-jester)
 [YouTube](https://www.youtube.com/results?search_query=George+Garside)
 
+### Glaive Wielder
+
+**Страна:** USA
+**Лейбл:** [Violent Synth Order](https://violentsynth.bandcamp.com/)
+**Стиль:** Ambient
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Bandcamp](https://glaivewielder.bandcamp.com/)
+[Website](https://www.instagram.com/glaive.wielder/)
+
+### Glastir
+
+**Страна:** UK
+**Стиль:** Experimental
+**Настроение:** Mystical
+**Темп:** Slow
+
+[Bandcamp](https://glastir.bandcamp.com/)
+[Website](https://www.instagram.com/glastir_dungeon_synth/)
+
+### Gloom Wraith
+
+**Страна:** Belgium
+**Стиль:** Medieval
+**Настроение:** Mystical
+**Темп:** Slow
+
+[Bandcamp](https://gloomwraith.bandcamp.com/)
+[Website](https://www.instagram.com/gloomwrvith/)
+
 ### GNOLL
 
 **Страна:** Italy
@@ -1435,6 +1560,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://greatmercenary.bandcamp.com/)
 [Website](https://www.instagram.com/great_mercenary/)
+
+### Greebo
+
+**Страна:** UK
+**Стиль:** Experimental
+**Настроение:** Melancholic
+**Темп:** Normal
+
+[YouTube](https://www.youtube.com/@Maurice_666)
+[Website](https://www.instagram.com/_maurice_666_)
 
 ### Greenhollow
 
@@ -2048,6 +2183,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://moonglow.bandcamp.com/)
 [Website](https://www.instagram.com/moonglow_ds/)
+
+### Moonlit Corridors
+
+**Страна:** USA
+**Стиль:** Fantasy
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Bandcamp](https://moonlitcorridors.bandcamp.com/)
+[Website](https://www.instagram.com/moonlit_corridors)
 
 ### Moonlit Path
 
@@ -2757,6 +2902,17 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://darksorceryrecords.bandcamp.com/album/side-quest-single)
 
+### Segadeath
+
+**Страна:** Netherlands
+**Лейбл:** [Violent Synth Order](https://violentsynth.bandcamp.com/)
+**Стиль:** Experimental
+**Настроение:** Adventure
+**Темп:** Slow
+
+[Bandcamp](https://segadeath.bandcamp.com/)
+[Website](https://www.instagram.com/segadeath/)
+
 ### Sequestered Keep
 
 **Страна:** USA
@@ -2856,6 +3012,17 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://skymx.bandcamp.com/)
 [YouTube](https://www.youtube.com/channel/UCJsFgD1WEWVgiiaZ64evGew)
 [Website](https://www.instagram.com/skyemaxilian/)
+
+### Slaves for Architecture
+
+**Страна:** Argentina
+**Стиль:** Percussive
+**Настроение:** Melancholic
+**Темп:** Normal
+
+[Bandcamp](https://drytemple.bandcamp.com/)
+[YouTube](https://www.youtube.com/channel/UCd5DjO-yDM3jeq-cJJS1Eyw)
+[Website](https://www.instagram.com/slavesforarchitecture/)
 
 ### Slefnwald
 
@@ -3224,6 +3391,18 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://synthbard.bandcamp.com/)
 
+### Synth for Pets
+
+**Страна:** Unknown
+**Лейбл:** [Violent Synth Order](https://violentsynth.bandcamp.com/)
+**Стиль:** Experimental
+**Настроение:** Dreamy
+**Темп:** Slow
+
+[Bandcamp](https://violentsynth.bandcamp.com/album/small-talk-and-warm-coffee)
+[YouTube](https://www.youtube.com/@violentsynth)
+[Website](https://www.instagram.com/violentsynth/)
+
 ### Tales Under The Oak
 
 **Страна:** Germany
@@ -3312,6 +3491,18 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://thenightcrawlerspa.bandcamp.com/)
 [YouTube](https://music.youtube.com/channel/UCskia0Mz-bswIiXG4J7Q41g)
 
+### Thelema
+
+**Страна:** USA
+**Лейбл:** [Violent Synth Order](https://violentsynth.bandcamp.com/)
+**Стиль:** Fantasy
+**Настроение:** Mystical
+**Темп:** Slow
+
+[Bandcamp](https://thelema2.bandcamp.com/)
+[YouTube](https://www.youtube.com/@thelemadungeonsynth)
+[Website](https://www.instagram.com/thelema_dungeonsynth/)
+
 ### TIL DET BERGENS SKYGGENE
 
 **Страна:** Germany
@@ -3375,6 +3566,42 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Стиль:** Medieval
 **Настроение:** Battle
 **Темп:** Normal
+
+<p>
+ <strong>TopfHelm</strong> - сольный Dungeon Folk и Dungeon Synth проект из Беларуси, созданный Никитой Шкурдем. В музыке проекта соединяются средневековая история, народные традиции, Black Metal и музыка из фэнтезийных произведений: от сырого Dungeon Synth до более органичных аранжировок со звучанием колёсной лиры, лютни, скрипки, боевых барабанов и других традиционных инструментов.
+</p>
+
+<p class="artist-release-note">
+ Первую заметность проект получил благодаря
+ <a
+ href="https://topfhelm.bandcamp.com/album/sanguis-et-mulsum"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Sanguis Et Mulsum</em></a> (2025) - намеренно хаотичному и ироничному взгляду на крестоносцев, пьяные пиры и средневековые сражения. Эта идея получила дальнейшее развитие на
+ <a
+ href="https://topfhelm.bandcamp.com/album/sir-godric"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Sir Godric</em></a> (2025), мрачной средневековой трагикомедии, дополненной повествованием и созданными вручную физическими изданиями. Позже в том же году
+ <a
+ href="https://topfhelm.bandcamp.com/album/spad-yna"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>Spadčyna</em></a> обратился уже к белорусской традиционной музыке, переосмысливая народные мелодии, речные песни, обрядовые мотивы и зимние напевы через призму Dungeon Folk.
+</p>
+
+<p>
+ Постепенно TopfHelm вышел за рамки отдельных музыкальных альбомов в сторону более масштабных повествовательных и мультимедийных работ. В 2026 году
+ <a
+ href="https://topfhelm.bandcamp.com/album/the-emerald-saga-the-still-place"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="artist-person-link"
+ ><em>The Emerald Saga: The Still Place</em></a> открыл оригинальную сагу, объединяющую музыку, литературное повествование и иллюстрации. Важной частью TopfHelm остаётся DIY-подход: физические издания собираются вручную, а созданием музыки, аранжировкой и продюсированием проекта автор занимается самостоятельно.
+</p>
 
 [Spotify](https://open.spotify.com/artist/5NHkqDnmyOUMMUrHy2n9Mq)
 [Bandcamp](https://topfhelm.bandcamp.com/)
@@ -3662,6 +3889,16 @@ Unsheathed Glory - исполнитель в жанре фэнтезийного
 [Apple Music](https://music.apple.com/kz/artist/vanishing-amulet/1771515398)
 [Website](https://www.instagram.com/vanishingamulet/)
 
+### Venader
+
+**Страна:** Mexico
+**Стиль:** Fantasy
+**Настроение:** Mystical
+**Темп:** Normal
+
+[Bandcamp](https://venader.bandcamp.com/)
+[Website](https://www.instagram.com/venadersynth/)
+
 ### Vespermort
 
 **Страна:** Spain
@@ -3845,6 +4082,16 @@ Unsheathed Glory - исполнитель в жанре фэнтезийного
 **Темп:** Normal
 
 [Bandcamp](https://windtower.bandcamp.com/)
+
+### Winter Knight
+
+**Страна:** Mexico
+**Стиль:** Percussive
+**Настроение:** Mystical
+**Темп:** Slow
+
+[Bandcamp](https://winterknight.bandcamp.com/)
+[Website](https://www.instagram.com/noctis_thewinterknight/)
 
 ### Winter Sphere
 
