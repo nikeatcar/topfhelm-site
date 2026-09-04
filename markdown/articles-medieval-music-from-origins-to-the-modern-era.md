@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/articles/medieval-music-from-origins-to-the-mode
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-09-03
+last_updated: 2026-09-04
 ---
 
 Dark Mode 

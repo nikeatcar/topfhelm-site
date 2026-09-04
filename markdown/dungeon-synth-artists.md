@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-09-03
+last_updated: 2026-09-04
 ---
 
 # Dungeon Synth Artists Directory - The Dungeon Synth Bestiary 
@@ -593,6 +593,16 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://budrum.bandcamp.com/)
 [Website](https://www.instagram.com/budrum_ds31/)
+
+### Burning Trees
+
+**Country:** USA
+**Style:** Experimental
+**Mood:** Mystical
+**Tempo:** Normal
+
+[Bandcamp](https://burningtreesds.bandcamp.com/)
+[Website](https://www.instagram.com/bvrning_trees/)
 
 ### Burzum
 
@@ -1304,6 +1314,17 @@ If you want to suggest your project or bring a short text about it - please use 
 [YouTube](https://www.youtube.com/@FenLume)
 [Website](https://www.instagram.com/fenlume/)
 
+### Fermenting Forest
+
+**Country:** USA
+**Label:** [Sol Arcana](https://jestermoonprod.bandcamp.com/)
+**Style:** Ambient
+**Mood:** Melancholic
+**Tempo:** Slow
+
+[Bandcamp](https://jestermoonprod.bandcamp.com/album/mourning)
+[Website](https://www.instagram.com/_sol.arcana_)
+
 ### feth
 
 **Country:** UK
@@ -1637,11 +1658,6 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://halberdsynth.bandcamp.com/)
 [Website](https://www.instagram.com/gregoriofrancomusic/)
 
-### Hecate
-
-[Bandcamp](https://hecate2113.bandcamp.com/)
-[Website](https://www.instagram.com/hecate.music.93/)
-
 ### Hellige
 
 **Country:** USA
@@ -1744,6 +1760,18 @@ If you want to suggest your project or bring a short text about it - please use 
 [YouTube](https://www.youtube.com/@holedwellermusic)
 [Website](https://www.instagram.com/holedwellermusic/)
 
+### Idylls of the Last King
+
+**Country:** Cyprus
+**Style:** Fantasy
+**Mood:** Dark
+**Tempo:** Normal
+
+[Spotify](https://open.spotify.com/artist/5pARwA00eDyBqzh23LN1j6)
+[Bandcamp](https://idyllsofthelastking.bandcamp.com/)
+[YouTube](https://www.youtube.com/channel/UChZW9Va9TFsQC9Y8oqOyASA)
+[Website](https://www.instagram.com/idyllsofthelastking)
+
 ### Immortal Wizard's Dream
 
 **Country:** USA
@@ -1840,6 +1868,17 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Spotify](https://open.spotify.com/artist/2SM7TRJynUQgute7ZDRd92)
 [YouTube](https://www.youtube.com/@JimOliverMusic)
+
+### Joyous Winds
+
+**Country:** Unknown
+**Label:** [Sol Arcana](https://jestermoonprod.bandcamp.com/)
+**Style:** Experimental
+**Mood:** Dreamy
+**Tempo:** Normal
+
+[Bandcamp](https://jestermoonprod.bandcamp.com/album/chinese-kite-festival)
+[Website](https://www.instagram.com/_sol.arcana_)
 
 ### Jääportit
 
@@ -2398,6 +2437,17 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://mortiis.bandcamp.com/)
 [YouTube](https://www.youtube.com/officialmortiis)
 [Website](https://www.instagram.com/mortiisofficial/)
+
+### Mortuary Conjuring
+
+**Country:** UK
+**Style:** Fantasy
+**Mood:** Mystical
+**Tempo:** Normal
+
+[Bandcamp](https://mortuaryconjuring.bandcamp.com/)
+[YouTube](https://www.youtube.com/@MortuaryConjuring)
+[Website](https://www.instagram.com/mortuaryconjuring/)
 
 ### Moth Tower
 
@@ -2983,13 +3033,6 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Bandcamp](https://skarpseian.bandcamp.com/)
-
-### Skeleton Mage
-
-[Spotify](https://open.spotify.com/artist/7FqkQbLPaNJYHzjJ3U54tU)
-[Bandcamp](https://skeletonmage.bandcamp.com/)
-[YouTube](https://www.youtube.com/channel/UCYNrJ2VO4G7341Zh9KRJbxQ)
-[Website](https://www.instagram.com/the_skeleton_mage)
 
 ### Skhemty
 

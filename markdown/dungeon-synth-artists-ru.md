@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/ru/
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-09-03
+last_updated: 2026-09-04
 ---
 
 # Каталог Dungeon Synth исполнителей — Dungeon Synth Bestiary 
@@ -593,6 +593,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://budrum.bandcamp.com/)
 [Website](https://www.instagram.com/budrum_ds31/)
+
+### Burning Trees
+
+**Страна:** USA
+**Стиль:** Experimental
+**Настроение:** Mystical
+**Темп:** Normal
+
+[Bandcamp](https://burningtreesds.bandcamp.com/)
+[Website](https://www.instagram.com/bvrning_trees/)
 
 ### Burzum
 
@@ -1299,6 +1309,17 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [YouTube](https://www.youtube.com/@FenLume)
 [Website](https://www.instagram.com/fenlume/)
 
+### Fermenting Forest
+
+**Страна:** USA
+**Лейбл:** [Sol Arcana](https://jestermoonprod.bandcamp.com/)
+**Стиль:** Ambient
+**Настроение:** Melancholic
+**Темп:** Slow
+
+[Bandcamp](https://jestermoonprod.bandcamp.com/album/mourning)
+[Website](https://www.instagram.com/_sol.arcana_)
+
 ### feth
 
 **Страна:** UK
@@ -1632,11 +1653,6 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://halberdsynth.bandcamp.com/)
 [Website](https://www.instagram.com/gregoriofrancomusic/)
 
-### Hecate
-
-[Bandcamp](https://hecate2113.bandcamp.com/)
-[Website](https://www.instagram.com/hecate.music.93/)
-
 ### Hellige
 
 **Страна:** USA
@@ -1739,6 +1755,18 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [YouTube](https://www.youtube.com/@holedwellermusic)
 [Website](https://www.instagram.com/holedwellermusic/)
 
+### Idylls of the Last King
+
+**Страна:** Cyprus
+**Стиль:** Fantasy
+**Настроение:** Dark
+**Темп:** Normal
+
+[Spotify](https://open.spotify.com/artist/5pARwA00eDyBqzh23LN1j6)
+[Bandcamp](https://idyllsofthelastking.bandcamp.com/)
+[YouTube](https://www.youtube.com/channel/UChZW9Va9TFsQC9Y8oqOyASA)
+[Website](https://www.instagram.com/idyllsofthelastking)
+
 ### Immortal Wizard's Dream
 
 **Страна:** USA
@@ -1835,6 +1863,17 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Spotify](https://open.spotify.com/artist/2SM7TRJynUQgute7ZDRd92)
 [YouTube](https://www.youtube.com/@JimOliverMusic)
+
+### Joyous Winds
+
+**Страна:** Unknown
+**Лейбл:** [Sol Arcana](https://jestermoonprod.bandcamp.com/)
+**Стиль:** Experimental
+**Настроение:** Dreamy
+**Темп:** Normal
+
+[Bandcamp](https://jestermoonprod.bandcamp.com/album/chinese-kite-festival)
+[Website](https://www.instagram.com/_sol.arcana_)
 
 ### Jääportit
 
@@ -2388,6 +2427,17 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://mortiis.bandcamp.com/)
 [YouTube](https://www.youtube.com/officialmortiis)
 [Website](https://www.instagram.com/mortiisofficial/)
+
+### Mortuary Conjuring
+
+**Страна:** UK
+**Стиль:** Fantasy
+**Настроение:** Mystical
+**Темп:** Normal
+
+[Bandcamp](https://mortuaryconjuring.bandcamp.com/)
+[YouTube](https://www.youtube.com/@MortuaryConjuring)
+[Website](https://www.instagram.com/mortuaryconjuring/)
 
 ### Moth Tower
 
@@ -2973,13 +3023,6 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Slow
 
 [Bandcamp](https://skarpseian.bandcamp.com/)
-
-### Skeleton Mage
-
-[Spotify](https://open.spotify.com/artist/7FqkQbLPaNJYHzjJ3U54tU)
-[Bandcamp](https://skeletonmage.bandcamp.com/)
-[YouTube](https://www.youtube.com/channel/UCYNrJ2VO4G7341Zh9KRJbxQ)
-[Website](https://www.instagram.com/the_skeleton_mage)
 
 ### Skhemty
 
