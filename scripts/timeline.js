@@ -35,7 +35,7 @@ function initTimeline() {
         {
             date: { en: "Mar 28, 2025", ru: "28 марта 2025" },
             title: "Sanguis Et Mulsum",
-            cover: "https://f4.bcbits.com/img/a3128347722_10.jpg",
+            cover: "https://f4.bcbits.com/img/a1928838712_10.jpg",
             albumKey: "sanguis"
         },
         {
