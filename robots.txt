@@ -31,6 +31,8 @@ User-agent: DataForSeoBot
 Disallow: /
 User-agent: DotBot
 Disallow: /
+User-agent: ia_archiver
+Disallow: /
 
 Sitemap: https://topfhelm.com/sitemap.xml
 Host: topfhelm.com
