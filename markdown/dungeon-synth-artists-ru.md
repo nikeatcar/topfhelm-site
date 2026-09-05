@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/ru/
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-09-04
+last_updated: 2026-09-05
 ---
 
 # Каталог Dungeon Synth исполнителей — Dungeon Synth Bestiary 
@@ -2117,6 +2117,17 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Slow
 
 [Bandcamp](https://mammothmaster.bandcamp.com/)
+
+### Mark "TDK" Knight
+
+**Страна:** UK
+**Стиль:** Proto DS
+**Настроение:** Dreamy
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/artist/5lVdbXoqg0FW2OBntrWPEW)
+[Bandcamp](https://marktdkknight.bandcamp.com/)
+[Website](https://www.instagram.com/TDK_CHIPTUNE/)
 
 ### Mark Ellery Griffiths
 

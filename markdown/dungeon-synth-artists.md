@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-09-04
+last_updated: 2026-09-05
 ---
 
 # Dungeon Synth Artists Directory - The Dungeon Synth Bestiary 
@@ -2122,6 +2122,17 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Bandcamp](https://mammothmaster.bandcamp.com/)
+
+### Mark "TDK" Knight
+
+**Country:** UK
+**Style:** Proto DS
+**Mood:** Dreamy
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/artist/5lVdbXoqg0FW2OBntrWPEW)
+[Bandcamp](https://marktdkknight.bandcamp.com/)
+[Website](https://www.instagram.com/TDK_CHIPTUNE/)
 
 ### Mark Ellery Griffiths
 

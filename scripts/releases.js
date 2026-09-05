@@ -258,6 +258,33 @@ spadcyna: {
           </div>
         </div>
     `
+  },
+
+  darkmatteri: {
+    getHtml: (isRussian) => `
+      <div class="album-card fade-in">
+        <h3>"Dark Matter I" – ${isRussian ? 'Погружение в тёмную сторону' : 'Dive into the dark side'}</h3>
+        <p>
+          ${isRussian
+            ? 'Этот цикл повествует о мрачных сторонах человеческой жизни в Средневековье: пытках, страданиях и смерти.'
+            : 'This cycle explores the grim aspects of human life in the Middle Ages: torture, suffering, and death.'}
+        </p>
+
+        <div class="players">
+          <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1mjZqmmQJ2anMaiFZK0ioG?utm_source=generator&si=32b1c7db5e46479a" width="100%" height="480" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+
+        <div id="social-container">
+          <div class="social-icons">
+            <a href="https://topfhelm.bandcamp.com/album/dark-matter-i" target="_blank">
+              <img src="icons/Bandcamp_icon.svg" alt="Listen to Green Waves by TopfHelm on BandCamp" loading="lazy">
+            </a>
+            <a href="https://open.spotify.com/album/1mjZqmmQJ2anMaiFZK0ioG?si=ftF2UdFhRAeYM7TJttdL_w" target="_blank">
+              <img src="icons/icons8-spotify.svg" alt="Listen to Green Waves by TopfHelm on Spotify" loading="lazy">
+            </a>
+          </div>
+        </div>
+    `
   }
 
 };

@@ -6650,6 +6650,41 @@
         }
     },
     {
+        "id": "mark-tdk-knight",
+        "country": "UK",
+        "invention": "1980s",
+        "style": "Proto DS",
+        "mood": "Dreamy",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0000889097_10.jpg",
+        "banner": "https://www.madfiddler.co.uk/wp-content/uploads/2017/08/2014_08_23_01717a-1110x500.jpg",
+        "background": "https://f4.bcbits.com/img/0003105214_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "yprtV3jjpiA"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/5lVdbXoqg0FW2OBntrWPEW",
+            "bandcamp": "https://marktdkknight.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": "https://www.instagram.com/TDK_CHIPTUNE/"
+        },
+        "translations": {
+            "en": {
+                "name": "Mark \"TDK\" Knight",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "mark-ellery-griffiths",
         "country": "UK",
         "invention": "1980s",

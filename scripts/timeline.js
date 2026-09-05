@@ -33,46 +33,52 @@ function initTimeline() {
 
     const timelineData = [
         {
-            date: { en: "Mar 28, 2025", ru: "28 марта 2025" },
+            date: { en: "Mar 28, 2025", ru: "28 Мар 2025" },
             title: "Sanguis Et Mulsum",
             cover: "https://f4.bcbits.com/img/a1928838712_10.jpg",
             albumKey: "sanguis"
         },
         {
-            date: { en: "May 9, 2025", ru: "9 мая 2025" },
+            date: { en: "May 9, 2025", ru: "9 Мая 2025" },
             title: "Sir Godric",
             cover: "https://f4.bcbits.com/img/a0893732963_10.jpg",
             albumKey: "sirgodric"
         },
         {
-            date: { en: "Jul 11, 2025", ru: "11 июля 2025" },
+            date: { en: "Jul 11, 2025", ru: "11 Июл 2025" },
             title: "40",
             cover: "https://f4.bcbits.com/img/a0783448223_10.jpg",
             albumKey: "forty"
         },
         {
-            date: { en: "Aug 15, 2025", ru: "15 августа 2025" },
+            date: { en: "Aug 15, 2025", ru: "15 Авг 2025" },
             title: "Solemnis",
             cover: "https://f4.bcbits.com/img/a2838361177_10.jpg",
             albumKey: "solemnis"
         },
         {
-            date: { en: "Dec 12, 2025", ru: "12 декабря 2025" },
+            date: { en: "Dec 12, 2025", ru: "12 Дек 2025" },
             title: "Spadčyna",
             cover: "https://f4.bcbits.com/img/a0524899958_10.jpg",
             albumKey: "spadcyna"
         },
         {
-            date: { en: "Jul 24, 2026", ru: "24 Июля 2026" },
+            date: { en: "Jul 24, 2026", ru: "24 Июл 2026" },
             title: "TES: The Still Place",
             cover: "https://f4.bcbits.com/img/a2807766050_10.jpg",
             link: "/the-emerald-saga/"
         },
         {
-            date: { en: "Aug 6, 2026", ru: "6 Августа 2026" },
+            date: { en: "Aug 6, 2026", ru: "6 Авг 2026" },
             title: "Green Waves",
             cover: "https://f4.bcbits.com/img/a3704079906_10.jpg",
             albumKey: "greenwaves"
+        },
+        {
+            date: { en: "Sep 4, 2026", ru: "4 Сен 2026" },
+            title: "Dark Matter I",
+            cover: "https://f4.bcbits.com/img/a3677735074_10.jpg",
+            albumKey: "darkmatteri"
         }
     ];
 

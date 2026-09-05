@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/ru
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-09-04
+last_updated: 2026-09-05
 ---
 
 # TopfHelm - Dungeon Folk & Dungeon Synth из Беларуси
