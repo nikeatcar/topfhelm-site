@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-09-05
+last_updated: 2026-09-07
 ---
 
 # Dungeon Synth Artists Directory - The Dungeon Synth Bestiary 
@@ -485,6 +485,13 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://blacknumenoreanwoe.bandcamp.com/)
 
+### Black Wailing
+
+**Country:** Greece
+**Style:** Oldschool
+**Mood:** Dark
+**Tempo:** Slow
+
 ### Black Winds of Wallachia
 
 **Country:** Puerto Rico
@@ -497,6 +504,13 @@ If you want to suggest your project or bring a short text about it - please use 
 [YouTube](https://www.youtube.com/channel/UCon71MzYX1RbGLOphRF5Rwg)
 [Apple Music](https://music.apple.com/se/artist/black-winds-of-wallachia/1797001189)
 [Website](https://www.instagram.com/blackwindsofwallachia/)
+
+### Blackcount Baalberith
+
+**Country:** Czechia
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Normal
 
 ### Blades of Folmär
 
@@ -529,6 +543,13 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Normal
 
 [Bandcamp](https://bloodlordds.bandcamp.com/)
+
+### Blutaxt
+
+**Country:** Germany
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Slow
 
 ### BOOK OF SKELOS
 
@@ -634,6 +655,15 @@ If you want to suggest your project or bring a short text about it - please use 
 [Spotify](https://open.spotify.com/artist/7L6u6TyhjuwubrcojPeNgf)
 [YouTube](https://music.youtube.com/search?q=%23burzum)
 
+### Cain
+
+**Country:** Russia
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Normal
+
+[Bandcamp](https://dungeonlorefoundation.bandcamp.com/album/child-of-cold)
+
 ### Carpathian Sphinx
 
 **Country:** USA
@@ -684,6 +714,29 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Normal
 
 [Bandcamp](https://personaluschirecords.bandcamp.com/album/cave-troll-awakening)
+
+### Cedamus
+
+**Country:** Poland
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Normal
+
+### Cemetery Fading
+
+**Country:** Finland
+**Style:** Oldschool
+**Mood:** Melancholic
+**Tempo:** Normal
+
+### Cernunnos Woods
+
+**Country:** USA
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Slow
+
+[Bandcamp](https://cernunnoswoods.bandcamp.com/)
 
 ### Charnel Oubliette
 
@@ -736,6 +789,15 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://cimitir.bandcamp.com/)
 
+### Cintecele Diavolui
+
+**Country:** Norway
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Slow
+
+[Bandcamp](https://mortiis.bandcamp.com/album/the-devil-s-songs)
+
 ### Clandestine Warlock
 
 **Country:** USA
@@ -755,6 +817,31 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://coniferousmyst.bandcamp.com/)
 [Website](https://www.instagram.com/coniferousmyst/)
+
+### Conjured to Baphometh
+
+**Country:** Sweden
+**Style:** Oldschool
+**Mood:** Adventure
+**Tempo:** Normal
+
+[Bandcamp](https://conjuredtobaphometh.bandcamp.com/)
+
+### Conscientia Peccati
+
+**Country:** Germany
+**Style:** Oldschool
+**Mood:** Adventure
+**Tempo:** Normal
+
+### Corvus Neblus
+
+**Country:** Greece
+**Style:** Oldschool
+**Mood:** Epic
+**Tempo:** Normal
+
+[Bandcamp](https://livormortis.bandcamp.com/album/sthrads-possession-i-ii)
 
 ### Count Diefenbach
 
@@ -832,6 +919,16 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://darkvalleyds.bandcamp.com/)
 [Website](https://www.instagram.com/darkvalleyds/)
 
+### Darkness Enshroud
+
+**Country:** USA
+**Style:** Oldschool
+**Mood:** Dark
+**Tempo:** Slow
+
+[Bandcamp](https://darknessenshroud.bandcamp.com/)
+[YouTube](https://www.youtube.com/user/akhtya75)
+
 ### Decaying Castle
 
 **Country:** UK
@@ -843,6 +940,13 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://decayingcastle.bandcamp.com/)
 [Apple Music](https://music.apple.com/gb/artist/decaying-castle/6790757825)
 [Website](https://www.instagram.com/decayingcastle/)
+
+### December's Fire
+
+**Country:** Poland
+**Style:** Oldschool
+**Mood:** Epic
+**Tempo:** Normal
 
 ### Deep Gnome
 
@@ -880,6 +984,13 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Spotify](https://open.spotify.com/artist/6EbzULgLY2YuMmOlv2BNAX)
 [Bandcamp](https://depressivesilence-northernsilence.bandcamp.com/)
+
+### Dianom
+
+**Country:** Finland
+**Style:** Oldschool
+**Mood:** Melancholic
+**Tempo:** Normal
 
 ### Die Verbannten Kinder Evas
 
@@ -982,6 +1093,13 @@ If you want to suggest your project or bring a short text about it - please use 
 [Spotify](https://open.spotify.com/artist/5wrSmddDTl3c9xa5Nl1GAN)
 [Bandcamp](https://dieverbanntenkinderevas.bandcamp.com/)
 
+### Dies Irae
+
+**Country:** Norway
+**Style:** Oldschool
+**Mood:** Battle
+**Tempo:** Normal
+
 ### DIM
 
 **Country:** Canada
@@ -1016,6 +1134,13 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://dolch1999.bandcamp.com/)
 
+### Dracul Order Of The Dragon
+
+**Country:** USA
+**Style:** Influential
+**Mood:** Mystical
+**Tempo:** Slow
+
 ### DragonKeep
 
 **Country:** France
@@ -1025,6 +1150,17 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Bandcamp](https://outofseason.bandcamp.com/album/wings-of-death-the-tale-of-ezherb)
+
+### Dragonwynd
+
+**Country:** USA
+**Label:** [Ancient Meadow Records](https://ancientmeadow.bandcamp.com/)
+**Style:** Oldschool
+**Mood:** Epic
+**Tempo:** Normal
+
+[Spotify](https://open.spotify.com/artist/6hqSUw7b1W5zquUSwvYtxp)
+[Bandcamp](https://ancientmeadow.bandcamp.com/album/amulet-ov-ages)
 
 ### Dream Waves
 
@@ -1064,6 +1200,29 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Bandcamp](https://druad.bandcamp.com/)
+
+### Drug Kozla
+
+**Country:** Belarus
+**Style:** Experimental
+**Mood:** Mystical
+**Tempo:** Normal
+
+[Bandcamp](https://krypta2.bandcamp.com/album/--13)
+
+### Drunemeton
+
+**Country:** France
+**Style:** Oldschool
+**Mood:** Melancholic
+**Tempo:** Normal
+
+### Drusus
+
+**Country:** Romania
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Slow
 
 ### Dungeontroll
 
@@ -1134,7 +1293,7 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://eldritchwizardryofficial.bandcamp.com/)
 
-### ELFFOR
+### Elffor
 
 **Country:** Spain
 **Style:** Oldschool
@@ -1180,6 +1339,25 @@ If you want to suggest your project or bring a short text about it - please use 
 [Apple Music](https://music.apple.com/gb/artist/emerald-web/49779827)
 [Website](https://www.instagram.com/kat_epple/)
 
+### Emglev
+
+**Country:** France
+**Label:** [Ancient Meadow Records](https://ancientmeadow.bandcamp.com/)
+**Style:** Oldschool
+**Mood:** Melancholic
+**Tempo:** Normal
+
+[Bandcamp](https://ancientmeadow.bandcamp.com/album/dor-an-tenvalijenn)
+
+### Empire of the Moon
+
+**Country:** Greece
+**Style:** Influential
+**Mood:** Melancholic
+**Tempo:** Normal
+
+[Bandcamp](https://empireofthemoon.bandcamp.com/)
+
 ### Enchanted Helm
 
 **Country:** USA
@@ -1189,6 +1367,24 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://enchantedhelm.bandcamp.com/)
 [Website](https://www.instagram.com/enchantedhelm/)
+
+### Endoki Forest
+
+**Country:** USA
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Slow
+
+[YouTube](https://www.youtube.com/channel/UCxCuxRsmy7NLL_a5VLw3xwg)
+
+### Endvra
+
+**Country:** UK
+**Style:** Experimental
+**Mood:** Dark
+**Tempo:** Slow
+
+[YouTube](https://www.youtube.com/playlist?list=PLE1730CD4D4C8F463)
 
 ### Eneraith
 
@@ -1201,6 +1397,20 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://eneraith.bandcamp.com/)
 [YouTube](https://www.youtube.com/@Eneraith)
 [Website](https://www.instagram.com/eneraith.official/)
+
+### Enid
+
+**Country:** Germany
+**Style:** Influential
+**Mood:** Mystical
+**Tempo:** Normal
+
+### Ensis et Carnis
+
+**Country:** Germany
+**Style:** Influential
+**Mood:** Melancholic
+**Tempo:** Slow
 
 ### Erang
 

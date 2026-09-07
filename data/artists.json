@@ -1610,6 +1610,41 @@
         }
     },
     {
+        "id": "black-wailing",
+        "country": "Greece",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Dark",
+        "tempo": "Slow",
+        "logo": "https://i.discogs.com/QIWBOzl8R0mUsktuVbn5Tmt2vnBkGus9tFCG-3b6U8k/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDQ0/OTEtMTUzMDUyNzA4/Mi04OTQ0LmpwZWc.jpeg",
+        "banner": "https://i.discogs.com/QIWBOzl8R0mUsktuVbn5Tmt2vnBkGus9tFCG-3b6U8k/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDQ0/OTEtMTUzMDUyNzA4/Mi04OTQ0LmpwZWc.jpeg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "dGLS9wu_b08"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Black Wailing",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "black-winds-of-wallachia",
         "country": "Puerto Rico",
         "invention": "2020s",
@@ -1636,6 +1671,41 @@
         "translations": {
             "en": {
                 "name": "Black Winds of Wallachia",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "blackcount-baalberith",
+        "country": "Czechia",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://www.musicrecords.sk/upload/catalogue/image/original//big/113022710291186416981.jpg",
+        "banner": "https://www.musicrecords.sk/upload/catalogue/image/original//big/113022710291186416981.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "oTAk6xUrIVM"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Blackcount Baalberith",
                 "description": ""
             },
             "ru": {
@@ -1741,6 +1811,41 @@
         "translations": {
             "en": {
                 "name": "Blood Lord",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "blutaxt",
+        "country": "Germany",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://i.ytimg.com/vi/6-Q2ef7qO48/maxresdefault.jpg",
+        "banner": "https://i.ytimg.com/vi/6-Q2ef7qO48/maxresdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "6-Q2ef7qO48"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Blutaxt",
                 "description": ""
             },
             "ru": {
@@ -2030,6 +2135,41 @@
         }
     },
     {
+        "id": "cain",
+        "country": "Russia",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/a3201270937_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a3201270937_10.jpg",
+        "background": "rgb(86, 0, 1)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "657856618"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://dungeonlorefoundation.bandcamp.com/album/child-of-cold",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Cain",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "carpathian-sphinx",
         "country": "USA",
         "invention": "2020s",
@@ -2196,6 +2336,111 @@
         "translations": {
             "en": {
                 "name": "Cavern Maze",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "cedamus",
+        "country": "Poland",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://www.drakkar666.com/wp-content/uploads/2025/11/cedamusv.jpg",
+        "banner": "https://www.drakkar666.com/wp-content/uploads/2025/11/cedamusv.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "ML0v6RgM3s0"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Cedamus",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "cemetery-fading",
+        "country": "Finland",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://i.discogs.com/5Kjr7TibCloqQJ6T3U0l1rf9cfbrDeK40-a15GnXoCc/rs:fit/g:sm/q:90/h:335/w:267/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjM3/ODc0LTE1MTk4MzY4/MjktMTQxNy5qcGVn.jpeg",
+        "banner": "https://i.discogs.com/5Kjr7TibCloqQJ6T3U0l1rf9cfbrDeK40-a15GnXoCc/rs:fit/g:sm/q:90/h:335/w:267/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjM3/ODc0LTE1MTk4MzY4/MjktMTQxNy5qcGVn.jpeg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "NQul_9jKds0"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Cemetery Fading",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "cernunnos-woods",
+        "country": "USA",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0006198268_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a2360164547_10.jpg",
+        "background": "https://f4.bcbits.com/img/0005963353_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "3375381906"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://cernunnoswoods.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Cernunnos Woods",
                 "description": ""
             },
             "ru": {
@@ -2380,6 +2625,41 @@
         }
     },
     {
+        "id": "cintecele-diavolui",
+        "country": "Norway",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/a3924387024_10.jpg",
+        "banner": "https://m.media-amazon.com/images/I/519gH4aXrHL._UF894,1000_QL80_.jpg",
+        "background": "https://f4.bcbits.com/img/0016065647_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "1267771819"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://mortiis.bandcamp.com/album/the-devil-s-songs",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Cintecele Diavolui",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "clandestine-warlock",
         "country": "USA",
         "invention": "2020s",
@@ -2441,6 +2721,111 @@
         "translations": {
             "en": {
                 "name": "Coniferous Myst",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "conjured-to-baphometh",
+        "country": "Sweden",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Adventure",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0009179717_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0009179680_102.avif",
+        "background": "https://f4.bcbits.com/img/0009179774_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "3012395261"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://conjuredtobaphometh.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Conjured to Baphometh",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "conscientia-peccati",
+        "country": "Germany",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Adventure",
+        "tempo": "Normal",
+        "logo": "https://i.discogs.com/vF-F1YpDnuXP--SwCxQAzK2z49DxUjuyBuIJP13Rick/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDEw/NS0xMDk1ODI4ODEz/LmpwZw.jpeg",
+        "banner": "https://i.discogs.com/vF-F1YpDnuXP--SwCxQAzK2z49DxUjuyBuIJP13Rick/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDEw/NS0xMDk1ODI4ODEz/LmpwZw.jpeg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "PpKSQLAggPM"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Conscientia Peccati",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "corvus-neblus",
+        "country": "Greece",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://i.discogs.com/lw0TicvKPCB_lK3BXqM7JH10frXks4k5nY2AgHFj_dQ/rs:fit/g:sm/q:90/h:600/w:375/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDA2/NTM0LTE1MzQ2NDg2/ODItOTcwOC5qcGVn.jpeg",
+        "banner": "https://i.discogs.com/lw0TicvKPCB_lK3BXqM7JH10frXks4k5nY2AgHFj_dQ/rs:fit/g:sm/q:90/h:600/w:375/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDA2/NTM0LTE1MzQ2NDg2/ODItOTcwOC5qcGVn.jpeg",
+        "background": "https://f4.bcbits.com/img/0021168285_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "1771863287"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://livormortis.bandcamp.com/album/sthrads-possession-i-ii",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Corvus Neblus",
                 "description": ""
             },
             "ru": {
@@ -2695,6 +3080,41 @@
         }
     },
     {
+        "id": "darkness-enshroud",
+        "country": "USA",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Dark",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0015092776_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0015092753_102.avif",
+        "background": "rgb(48, 3, 3)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "1551512265"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://darknessenshroud.bandcamp.com/",
+            "youtube": "https://www.youtube.com/user/akhtya75",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Darkness Enshroud",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "decaying-castle",
         "country": "UK",
         "invention": "2020s",
@@ -2721,6 +3141,41 @@
         "translations": {
             "en": {
                 "name": "Decaying Castle",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "decembers-fire",
+        "country": "Poland",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://i.discogs.com/fvRkEsEnZrRyjX6XGAM10VF8FesYYkEuf0Sw5VRtLN8/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzgx/MDUtMTMwMjA3ODM3/OS5qcGVn.jpeg",
+        "banner": "https://i.discogs.com/fvRkEsEnZrRyjX6XGAM10VF8FesYYkEuf0Sw5VRtLN8/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzgx/MDUtMTMwMjA3ODM3/OS5qcGVn.jpeg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "UzTqkmN79dU"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "December's Fire",
                 "description": ""
             },
             "ru": {
@@ -2802,7 +3257,7 @@
     {
         "id": "depressive-silence",
         "country": "Germany",
-        "invention": "2020s",
+        "invention": "1990s",
         "style": "Fantasy",
         "mood": "Epic",
         "tempo": "Slow",
@@ -2826,6 +3281,41 @@
         "translations": {
             "en": {
                 "name": "Depressive Silence",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "dianom",
+        "country": "Finland",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://i.ytimg.com/vi/6bF7tpoL6Ek/maxresdefault.jpg",
+        "banner": "https://i.ytimg.com/vi/6bF7tpoL6Ek/maxresdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "6bF7tpoL6Ek"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Dianom",
                 "description": ""
             },
             "ru": {
@@ -2866,6 +3356,41 @@
             "ru": {
                 "name": "",
                 "description": "<p>\n    <strong>Die verbannten Kinder Evas</strong> - австрийский музыкальный проект,\n    основанный в <strong>1993 году</strong> Richard Lederer и Michael Gregor в\n    <a\n        href=\"https://de.wikipedia.org/wiki/Wien\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    >Вене</a>.\n    Название происходит от строки из\n    <a\n        href=\"https://de.wikipedia.org/wiki/Salve_Regina\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    >Salve Regina</a>.\n</p>\n\n<p class=\"artist-origin\">\n    В 1993 году Richard Lederer, недовольный результатами своей группы, начал создавать первые собственные композиции.\n    Вскоре к нему присоединился Michael Gregor\n    (<a\n        href=\"https://de.wikipedia.org/wiki/Summoning_(Band)\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    >Summoning</a>),\n    привнеся в песни собственные идеи.\n    После этого они основали Die verbannten Kinder Evas.\n</p>\n\n<p class=\"artist-release-note\">\n    После выпуска двух демозаписей проект получил контракт со швейцарским лейблом Witchhunt Records.\n    В марте 1995 года вышел дебютный альбом <em>Die verbannten Kinder Evas</em>, названный в честь самого проекта.\n    После выхода первого альбома Nora El Shammah покинула группу, поскольку ей не нравилась её музыка.\n    Вскоре ушёл и Michael Gregor, решив уделять больше внимания своей собственной группе Summoning.\n</p>\n\n<p class=\"artist-release-note\">\n    В 1997 году вышел второй альбом <em>Come Heavy Sleep</em>, ставший более классическим и разнообразным.\n    Тексты были взяты из произведений\n    <a\n        href=\"https://de.wikipedia.org/wiki/Percy_Bysshe_Shelley\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    >Percy Bysshe Shelley</a>,\n    британского писателя XIX века.\n</p>\n\n<p class=\"artist-release-note\">\n    В 1999 году на\n    <a\n        href=\"https://de.wikipedia.org/wiki/Napalm_Records\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    >Napalm Records</a>\n    вышел третий альбом <em>In Darkness Let Me Dwell</em>, который первоначально должен был называться <em>The Spirit of Solitude</em>.\n    В нём стало меньше классических элементов, благодаря чему голос Tania звучал мощнее.\n    Как и на <em>Come Heavy Sleep</em>, тексты были взяты из произведений Percy Bysshe Shelley и композитора\n    <a\n        href=\"https://de.wikipedia.org/wiki/John_Dowland\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    >John Dowland</a>.\n</p>\n\n<p>\n    После нескольких лет безуспешных поисков подходящей вокалистки Richard нашёл греческую певицу Christina Kroustali.\n    За короткое время она выучила все песни Die verbannten Kinder Evas, после чего началась студийная работа над четвёртым альбомом <em>Dusk and Void Became Alive</em>.\n    Весь альбом был записан за два дня и вышел 3 ноября 2006 года, как и предыдущая работа, на Napalm Records.\n</p>\n\n<p class=\"artist-source-note\">\n    На основе материалов немецкоязычной\n    <a\n        href=\"https://de.wikipedia.org/wiki/Die_verbannten_Kinder_Evas\"\n        target=\"_blank\"\n        rel=\"noopener noreferrer\"\n        class=\"artist-person-link\"\n    >Wikipedia - Die verbannten Kinder Evas</a>.\n</p>"
+            }
+        }
+    },
+    {
+        "id": "dies-irae",
+        "country": "Norway",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Battle",
+        "tempo": "Normal",
+        "logo": "https://i.postimg.cc/GpRWwRQZ/Circle-of-Leth-inside-cover.jpg",
+        "banner": "https://i.postimg.cc/GpRWwRQZ/Circle-of-Leth-inside-cover.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "H8st3breTC4"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Dies Irae",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
             }
         }
     },
@@ -2975,6 +3500,41 @@
         }
     },
     {
+        "id": "dracul",
+        "country": "USA",
+        "invention": "1990s",
+        "style": "Influential",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://lastfm.freetls.fastly.net/i/u/300x300/b407424e91b742618e0d7e6b788fee49.jpg",
+        "banner": "https://lastfm.freetls.fastly.net/i/u/300x300/b407424e91b742618e0d7e6b788fee49.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "GxWJG1K0mhk"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Dracul Order Of The Dragon",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "dragonkeep",
         "country": "France",
         "invention": "2020s",
@@ -3001,6 +3561,41 @@
         "translations": {
             "en": {
                 "name": "DragonKeep",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "dragonwynd",
+        "country": "USA",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://i.scdn.co/image/ab67616d00001e028f25bc05d54ea100256a4353",
+        "banner": "https://i.scdn.co/image/ab67616d00001e028f25bc05d54ea100256a4353",
+        "background": "https://f4.bcbits.com/img/0030079902_130.jpg",
+        "label": "https://ancientmeadow.bandcamp.com/",
+        "label_name": "Ancient Meadow Records",
+        "label_img": "https://f4.bcbits.com/img/0031482485_21.jpg",
+        "player": {
+            "type": "bandcamp",
+            "id": "1191239439"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/6hqSUw7b1W5zquUSwvYtxp",
+            "bandcamp": "https://ancientmeadow.bandcamp.com/album/amulet-ov-ages",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Dragonwynd",
                 "description": ""
             },
             "ru": {
@@ -3141,6 +3736,111 @@
         "translations": {
             "en": {
                 "name": "Druad",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "drug-kozla",
+        "country": "Belarus",
+        "invention": "2020s",
+        "style": "Experimental",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0022741289_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a0676298689_10.jpg",
+        "background": "https://f4.bcbits.com/img/0022479703_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "223715262"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://krypta2.bandcamp.com/album/--13",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Drug Kozla",
+                "description": ""
+            },
+            "ru": {
+                "name": "Друг Козла",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "drunemeton",
+        "country": "France",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-5RzIhsRYvjL-CIxkK8tgLqeVQsdmUwUIbNNA4LPvFHl1-qSGt-jybVSd&s=10",
+        "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-5RzIhsRYvjL-CIxkK8tgLqeVQsdmUwUIbNNA4LPvFHl1-qSGt-jybVSd&s=10",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "34kCvjg85gg"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Drunemeton",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "drusus",
+        "country": "Romania",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://i.ytimg.com/vi/ZyreDGxyxBA/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AHOBYAC_gWKAgwIABABGGwgbChsMA8=&rs=AOn4CLCGH6Ubr52WjpJKrxgHiO86-wXFQw",
+        "banner": "https://i.ytimg.com/vi/ZyreDGxyxBA/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AHOBYAC_gWKAgwIABABGGwgbChsMA8=&rs=AOn4CLCGH6Ubr52WjpJKrxgHiO86-wXFQw",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "ZyreDGxyxBA"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Drusus",
                 "description": ""
             },
             "ru": {
@@ -3420,7 +4120,7 @@
         },
         "translations": {
             "en": {
-                "name": "ELFFOR",
+                "name": "Elffor",
                 "description": ""
             },
             "ru": {
@@ -3535,6 +4235,76 @@
         }
     },
     {
+        "id": "emglev",
+        "country": "France",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/a0421504875_10.jpg",
+        "banner": "https://f4.bcbits.com/img/a0421504875_10.jpg",
+        "background": "https://f4.bcbits.com/img/0030079902_130.jpg",
+        "label": "https://ancientmeadow.bandcamp.com/",
+        "label_name": "Ancient Meadow Records",
+        "label_img": "https://f4.bcbits.com/img/0031482485_21.jpg",
+        "player": {
+            "type": "youtube",
+            "id": "nFIz_eh0n1Y"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://ancientmeadow.bandcamp.com/album/dor-an-tenvalijenn",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Emglev",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "empire-of-the-moon",
+        "country": "Greece",
+        "invention": "1990s",
+        "style": "Influential",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0022041565_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0022041584_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "gJk48F96Kz4"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://empireofthemoon.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Empire of the Moon",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "enchanted-helm",
         "country": "USA",
         "invention": "2020s",
@@ -3570,6 +4340,76 @@
         }
     },
     {
+        "id": "endoki-forest",
+        "country": "USA",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE9Ha5uKhQo5FRz5ggwFfxNH6lJM9KQt88H3AO-om1gr5q8Oxa2AOmVCU&s=10",
+        "banner": "https://cdn.sonemic.net/i/1200/s/167e92738f137ccda179129ec2919e73/6732639",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "1JIBqXW1Ltg"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "https://www.youtube.com/channel/UCxCuxRsmy7NLL_a5VLw3xwg",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Endoki Forest",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "endvra",
+        "country": "UK",
+        "invention": "1990s",
+        "style": "Experimental",
+        "mood": "Dark",
+        "tempo": "Slow",
+        "logo": "https://www.spirit-of-metal.com/les%20goupes/E/Endura/pics/be51_1.jpg",
+        "banner": "https://www.etheroneph.com/images/music/endura/endura00.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "yEp9KY5-vr4"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "https://www.youtube.com/playlist?list=PLE1730CD4D4C8F463",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Endvra",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "eneraith",
         "country": "Germany",
         "invention": "2020s",
@@ -3596,6 +4436,76 @@
         "translations": {
             "en": {
                 "name": "Eneraith",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "enid",
+        "country": "Germany",
+        "invention": "1990s",
+        "style": "Influential",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://i.ytimg.com/vi/tg2nHOrARRI/maxresdefault.jpg",
+        "banner": "https://i.ytimg.com/vi/tg2nHOrARRI/maxresdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "tg2nHOrARRI"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Enid",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "ensis-et-carnis",
+        "country": "Germany",
+        "invention": "1990s",
+        "style": "Influential",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://i.discogs.com/GrGkyapRK3rsPmpJ8iBQ4uq9SXNYsavyZWlyLqiNlN8/rs:fit/g:sm/q:90/h:600/w:384/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzAy/OTUtMTM0NzU0NjE3/NC0zMTY1LmpwZWc.jpeg",
+        "banner": "https://i.discogs.com/a2cDLq7K13GeAQa5GgAiWpjlFM4jgaw9PdG1eMYOMHA/rs:fit/g:sm/q:90/h:600/w:426/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzAz/NDQtMTM0NzU0Njk1/Mi0yODA1LmpwZWc.jpeg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "W2nC2Kj_Z5E"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Ensis et Carnis",
                 "description": ""
             },
             "ru": {
