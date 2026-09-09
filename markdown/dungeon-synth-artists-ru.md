@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/ru/
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-09-07
+last_updated: 2026-09-09
 ---
 
 # Каталог Dungeon Synth исполнителей — Dungeon Synth Bestiary 
@@ -1407,6 +1407,18 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Настроение:** Melancholic
 **Темп:** Slow
 
+### Equitant
+
+**Страна:** USA
+**Стиль:** Oldschool
+**Настроение:** Mystical
+**Темп:** Slow
+
+[Spotify](https://open.spotify.com/artist/24Uiijwkzj0pBXmQIF6MSj)
+[Bandcamp](https://equitant.bandcamp.com/)
+[YouTube](https://www.youtube.com/@equitant)
+[Apple Music](https://music.apple.com/us/artist/equitant/136815988)
+
 ### Erang
 
 **Страна:** France
@@ -1442,6 +1454,13 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://ervald.bandcamp.com/)
 [Website](https://www.instagram.com/_ervald/)
 
+### Essoupi
+
+**Страна:** Denmark
+**Стиль:** Oldschool
+**Настроение:** Dark
+**Темп:** Slow
+
 ### ESTOC
 
 **Страна:** Finland
@@ -1461,6 +1480,15 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://eternalaxe.bandcamp.com/)
 
+### Eternal Fear
+
+**Страна:** Poland
+**Стиль:** Oldschool
+**Настроение:** Epic
+**Темп:** Normal
+
+[Bandcamp](https://eternalfear.bandcamp.com/)
+
 ### Ethereal Journeys
 
 **Страна:** USA
@@ -1469,6 +1497,13 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Slow
 
 [Bandcamp](https://nokturniis.bandcamp.com/album/the-woman-in-white)
+
+### Evol
+
+**Страна:** Italy
+**Стиль:** Influential
+**Настроение:** Mystical
+**Темп:** Slow
 
 ### Execration Chamber
 
@@ -1497,6 +1532,13 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Slow
 
 [Bandcamp](https://faeryring.bandcamp.com/)
+
+### Fata Morgana
+
+**Страна:** Norway
+**Стиль:** Oldschool
+**Настроение:** Adventure
+**Темп:** Normal
 
 ### Faydark
 
@@ -1562,6 +1604,13 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://finalheaven.bandcamp.com/)
 [Website](https://www.instagram.com/finalheaven.ds/)
 
+### Fjelltrone
+
+**Страна:** Sweden
+**Стиль:** Oldschool
+**Настроение:** Mystical
+**Темп:** Normal
+
 ### Flickers from the Fen
 
 **Страна:** UK
@@ -1573,6 +1622,13 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Spotify](https://open.spotify.com/artist/4wZ80S3wn5noPn1t8wwC2F)
 [Bandcamp](https://flickersfromthefen.bandcamp.com/)
 [Website](https://www.instagram.com/flickersfromthefen/)
+
+### Floral Of Forever
+
+**Страна:** Brunei
+**Стиль:** Oldschool
+**Настроение:** Mystical
+**Темп:** Normal
 
 ### Foglord
 
@@ -1613,6 +1669,13 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [YouTube](https://www.youtube.com/@ForgottenpathwaysDe-official)
 [Apple Music](https://music.apple.com/us/artist/forgotten-pathways/1267029575)
 [Website](https://www.instagram.com/forgottenpathways/)
+
+### Forgotten Temples
+
+**Страна:** Greece
+**Стиль:** Oldschool
+**Настроение:** Mystical
+**Темп:** Normal
 
 ### Fragmented Memories
 
@@ -1689,6 +1752,15 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://wildpendulumrecords.bandcamp.com/album/george-garside-the-jester)
 [YouTube](https://www.youtube.com/results?search_query=George+Garside)
 
+### Gerald Jay Markoe
+
+**Страна:** USA
+**Стиль:** Proto DS
+**Настроение:** Dreamy
+**Темп:** Normal
+
+[YouTube](https://www.youtube.com/channel/UCfcdkuyClnNp7gtEmdTGfDw)
+
 ### Glaive Wielder
 
 **Страна:** USA
@@ -1730,6 +1802,13 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://heimatderkatastrophe.bandcamp.com/album/hdk-31-music-for-dungeons)
 
+### Gnome
+
+**Страна:** Japan
+**Стиль:** Influential
+**Настроение:** Mystical
+**Темп:** Normal
+
 ### Goblintropp
 
 **Страна:** Argentina
@@ -1769,6 +1848,15 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Normal
 
 [Bandcamp](https://gothmog-northernsilence.bandcamp.com/album/medieval-journeys)
+
+### Grabesmond
+
+**Страна:** Austria
+**Стиль:** Oldschool
+**Настроение:** Mystical
+**Темп:** Normal
+
+[YouTube](https://music.youtube.com/playlist?list=PLK7Zo5hLglCjAhmY_VKpqSUlhIPqV9AaW)
 
 ### Grandma's Cottage
 

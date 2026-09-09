@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-09-07
+last_updated: 2026-09-09
 ---
 
 # Dungeon Synth Artists Directory - The Dungeon Synth Bestiary 
@@ -1412,6 +1412,18 @@ If you want to suggest your project or bring a short text about it - please use 
 **Mood:** Melancholic
 **Tempo:** Slow
 
+### Equitant
+
+**Country:** USA
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Slow
+
+[Spotify](https://open.spotify.com/artist/24Uiijwkzj0pBXmQIF6MSj)
+[Bandcamp](https://equitant.bandcamp.com/)
+[YouTube](https://www.youtube.com/@equitant)
+[Apple Music](https://music.apple.com/us/artist/equitant/136815988)
+
 ### Erang
 
 **Country:** France
@@ -1447,6 +1459,13 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://ervald.bandcamp.com/)
 [Website](https://www.instagram.com/_ervald/)
 
+### Essoupi
+
+**Country:** Denmark
+**Style:** Oldschool
+**Mood:** Dark
+**Tempo:** Slow
+
 ### ESTOC
 
 **Country:** Finland
@@ -1466,6 +1485,15 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://eternalaxe.bandcamp.com/)
 
+### Eternal Fear
+
+**Country:** Poland
+**Style:** Oldschool
+**Mood:** Epic
+**Tempo:** Normal
+
+[Bandcamp](https://eternalfear.bandcamp.com/)
+
 ### Ethereal Journeys
 
 **Country:** USA
@@ -1474,6 +1502,13 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Bandcamp](https://nokturniis.bandcamp.com/album/the-woman-in-white)
+
+### Evol
+
+**Country:** Italy
+**Style:** Influential
+**Mood:** Mystical
+**Tempo:** Slow
 
 ### Execration Chamber
 
@@ -1502,6 +1537,13 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Bandcamp](https://faeryring.bandcamp.com/)
+
+### Fata Morgana
+
+**Country:** Norway
+**Style:** Oldschool
+**Mood:** Adventure
+**Tempo:** Normal
 
 ### Faydark
 
@@ -1567,6 +1609,13 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://finalheaven.bandcamp.com/)
 [Website](https://www.instagram.com/finalheaven.ds/)
 
+### Fjelltrone
+
+**Country:** Sweden
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Normal
+
 ### Flickers from the Fen
 
 **Country:** UK
@@ -1578,6 +1627,13 @@ If you want to suggest your project or bring a short text about it - please use 
 [Spotify](https://open.spotify.com/artist/4wZ80S3wn5noPn1t8wwC2F)
 [Bandcamp](https://flickersfromthefen.bandcamp.com/)
 [Website](https://www.instagram.com/flickersfromthefen/)
+
+### Floral Of Forever
+
+**Country:** Brunei
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Normal
 
 ### Foglord
 
@@ -1618,6 +1674,13 @@ If you want to suggest your project or bring a short text about it - please use 
 [YouTube](https://www.youtube.com/@ForgottenpathwaysDe-official)
 [Apple Music](https://music.apple.com/us/artist/forgotten-pathways/1267029575)
 [Website](https://www.instagram.com/forgottenpathways/)
+
+### Forgotten Temples
+
+**Country:** Greece
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Normal
 
 ### Fragmented Memories
 
@@ -1694,6 +1757,15 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://wildpendulumrecords.bandcamp.com/album/george-garside-the-jester)
 [YouTube](https://www.youtube.com/results?search_query=George+Garside)
 
+### Gerald Jay Markoe
+
+**Country:** USA
+**Style:** Proto DS
+**Mood:** Dreamy
+**Tempo:** Normal
+
+[YouTube](https://www.youtube.com/channel/UCfcdkuyClnNp7gtEmdTGfDw)
+
 ### Glaive Wielder
 
 **Country:** USA
@@ -1735,6 +1807,13 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://heimatderkatastrophe.bandcamp.com/album/hdk-31-music-for-dungeons)
 
+### Gnome
+
+**Country:** Japan
+**Style:** Influential
+**Mood:** Mystical
+**Tempo:** Normal
+
 ### Goblintropp
 
 **Country:** Argentina
@@ -1774,6 +1853,15 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Normal
 
 [Bandcamp](https://gothmog-northernsilence.bandcamp.com/album/medieval-journeys)
+
+### Grabesmond
+
+**Country:** Austria
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Normal
+
+[YouTube](https://music.youtube.com/playlist?list=PLK7Zo5hLglCjAhmY_VKpqSUlhIPqV9AaW)
 
 ### Grandma's Cottage
 

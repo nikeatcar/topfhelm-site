@@ -4515,6 +4515,41 @@
         }
     },
     {
+        "id": "equitant",
+        "country": "USA",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://f4.bcbits.com/img/0026378515_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0000443535_102.avif",
+        "background": "rgb(0, 0, 0)",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "QO1t5Yoqxrc"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/24Uiijwkzj0pBXmQIF6MSj",
+            "bandcamp": "https://equitant.bandcamp.com/",
+            "youtube": "https://www.youtube.com/@equitant",
+            "apple_music": "https://music.apple.com/us/artist/equitant/136815988",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Equitant",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "erang",
         "country": "France",
         "invention": "2010s",
@@ -4552,7 +4587,7 @@
     {
         "id": "erevos",
         "country": "Greece",
-        "invention": "2020s",
+        "invention": "1990s",
         "style": "Oldschool",
         "mood": "Melancholic",
         "tempo": "Slow",
@@ -4563,8 +4598,8 @@
         "label_name": "Gondolin Records",
         "label_img": "https://f4.bcbits.com/img/0028052481_21.jpg",
         "player": {
-            "type": "bandcamp",
-            "id": "3390970058"
+            "type": "youtube",
+            "id": "tbdwar5gy0g"
         },
         "links": {
             "spotify": "",
@@ -4611,6 +4646,41 @@
         "translations": {
             "en": {
                 "name": "Ervald",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "essoupi",
+        "country": "Denmark",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Dark",
+        "tempo": "Slow",
+        "logo": "https://lastfm.freetls.fastly.net/i/u/300x300/1d0a2f6ed0e4cfa3b7f0bedb2eb4f5e1.jpg",
+        "banner": "https://i.ytimg.com/vi/wI6-41Dtcos/maxresdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "2U65KIOK6RY"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Essoupi",
                 "description": ""
             },
             "ru": {
@@ -4690,6 +4760,41 @@
         }
     },
     {
+        "id": "eternal-fear",
+        "country": "Poland",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Epic",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/0041154332_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0034815879_102.avif",
+        "background": "https://f4.bcbits.com/img/0034815560_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "681885970"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://eternalfear.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Eternal Fear",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "ethereal-journeys",
         "country": "USA",
         "invention": "2020s",
@@ -4716,6 +4821,41 @@
         "translations": {
             "en": {
                 "name": "Ethereal Journeys",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "evol",
+        "country": "Italy",
+        "invention": "1990s",
+        "style": "Influential",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://www.mediaclub.com/images/art/artist_2921.jpg",
+        "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXsVCCA_DGNIEsDLTz8fZs6Sd9Uuob9dOvCZqL74jBLor6MiKRbWNWb0Hc&s=10",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "SfLAFQTBSz0"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Evol",
                 "description": ""
             },
             "ru": {
@@ -4821,6 +4961,41 @@
         "translations": {
             "en": {
                 "name": "Faery Ring",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "fata-morgana",
+        "country": "Norway",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Adventure",
+        "tempo": "Normal",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCdu9QtagVn88AnjleutokwW6tDb36sNvfCyjxqUD3dAm1ocRoCA5Y5g&s=10",
+        "banner": "https://i.ytimg.com/vi/w49mclV-Frg/maxresdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "475306709"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Fata Morgana",
                 "description": ""
             },
             "ru": {
@@ -5040,6 +5215,41 @@
         }
     },
     {
+        "id": "fjelltrone",
+        "country": "Sweden",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://i1.sndcdn.com/artworks-000037788829-jigrlm-t500x500.jpg",
+        "banner": "https://i1.sndcdn.com/artworks-000037788829-jigrlm-t500x500.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "7TE0aDh33ig"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Fjelltrone",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "flickers-from-the-fen",
         "country": "UK",
         "invention": "2020s",
@@ -5066,6 +5276,41 @@
         "translations": {
             "en": {
                 "name": "Flickers from the Fen",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "floral-of-forever",
+        "country": "Brunei",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://cdn.sonemic.net/i/1200/s/aa2dd006bf8847cab2765db1c4231a28/13020941",
+        "banner": "https://cdn.sonemic.net/i/1200/s/aa2dd006bf8847cab2765db1c4231a28/13020941",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "lvYRTWw-S2c"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Floral Of Forever",
                 "description": ""
             },
             "ru": {
@@ -5147,7 +5392,7 @@
     {
         "id": "forgotten-pathways",
         "country": "Germany",
-        "invention": "2010s",
+        "invention": "1990s",
         "style": "Fantasy",
         "mood": "Mystical",
         "tempo": "Slow",
@@ -5171,6 +5416,41 @@
         "translations": {
             "en": {
                 "name": "Forgotten Pathways",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "forgotten-temples",
+        "country": "Greece",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs4lQRJa-8QlJiCPfJ9yG6CR8qBQ8sgk0TevjGUO6UGt6Mo9vABKKHU8tL&s=10",
+        "banner": "https://i.ytimg.com/vi/6MBMt3sug6c/maxresdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "PbMn7Ocl4Ng"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Forgotten Temples",
                 "description": ""
             },
             "ru": {
@@ -5425,6 +5705,41 @@
         }
     },
     {
+        "id": "gerald-jay-markoe",
+        "country": "USA",
+        "invention": "1990s",
+        "style": "Proto DS",
+        "mood": "Dreamy",
+        "tempo": "Normal",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ouUxQU7kGxbJOxK24ketGV-5r6H576u0sAIQJjASwUMPDpDxXfcJw10&s=10",
+        "banner": "https://www.nhm.ac.uk/content/dam/nhm-www/discover/what-is-space/what-is-space-milky-way-full-width.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "eVkhwjZSEoY"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "https://www.youtube.com/channel/UCfcdkuyClnNp7gtEmdTGfDw",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Gerald Jay Markoe",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "glaive-wielder",
         "country": "USA",
         "invention": "2020s",
@@ -5565,6 +5880,41 @@
         }
     },
     {
+        "id": "gnome",
+        "country": "Japan",
+        "invention": "1990s",
+        "style": "Influential",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaKEQ9XlZn7xvNkSxIYQPFuRPKlq5CIesKbFR9-sF9bmuRWnjwV5ryXMk&s=10",
+        "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaKEQ9XlZn7xvNkSxIYQPFuRPKlq5CIesKbFR9-sF9bmuRWnjwV5ryXMk&s=10",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "4jfDm267iB4"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Gnome",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "goblintropp",
         "country": "Argentina",
         "invention": "2010s",
@@ -5672,7 +6022,7 @@
     {
         "id": "gothmog",
         "country": "Germany",
-        "invention": "2020s",
+        "invention": "1980s",
         "style": "Medieval",
         "mood": "Battle",
         "tempo": "Normal",
@@ -5696,6 +6046,41 @@
         "translations": {
             "en": {
                 "name": "Gothmog",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "grabesmond",
+        "country": "Austria",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://i.ytimg.com/vi/wNRW1zyaULk/maxresdefault.jpg",
+        "banner": "https://i.ytimg.com/vi/wNRW1zyaULk/maxresdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "rT1I5AwMsC4"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "https://music.youtube.com/playlist?list=PLK7Zo5hLglCjAhmY_VKpqSUlhIPqV9AaW",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Grabesmond",
                 "description": ""
             },
             "ru": {
