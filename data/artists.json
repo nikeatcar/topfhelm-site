@@ -1194,8 +1194,8 @@
         "country": "Italy",
         "invention": "1990s",
         "style": "Oldschool",
-        "mood": "Fantasy",
-        "tempo": "Mystical",
+        "mood": "Mystical",
+        "tempo": "Normal",
         "logo": "https://e.snmc.io/i/150/s/6817db4af8649280c967b336b3933a7c/6653324",
         "banner": "https://i.ytimg.com/vi/VpjvrmKDT3Q/maxresdefault.jpg",
         "background": "",
@@ -6230,6 +6230,41 @@
         }
     },
     {
+        "id": "grim",
+        "country": "Sweden",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Adventure",
+        "tempo": "Normal",
+        "logo": "https://i.ytimg.com/vi/YvGw1yl0r7Q/maxresdefault.jpg",
+        "banner": "https://i.ytimg.com/vi/3bcD5_vaXAY/maxresdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "3bcD5_vaXAY"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Grim",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "grim-keep",
         "country": "Unknown",
         "invention": "2020s",
@@ -6396,6 +6431,76 @@
         "translations": {
             "en": {
                 "name": "Halberd",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "haron",
+        "country": "Bulgaria",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://i.discogs.com/ZV7Q5cN3DsQfA1bTqLxQgAHeL0Up-_-E_676kc6OKgQ/rs:fit/g:sm/q:90/h:600/w:386/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDkw/MjAwLTE2NTQ1NTEw/MTMtMjU1MC5qcGVn.jpeg",
+        "banner": "https://img.readdork.com/ext/youtube/aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS90UkxZTGd1bVFzby9tYXhyZXNkZWZhdWx0LmpwZw?width=1000",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "tRLYLgumQso"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Haron",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "heimkehr",
+        "country": "Ukraine",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://i.discogs.com/g0Z0MJviMs2wH2yvfImI59O_tdnt_Ij6IlWzB_xmaPs/rs:fit/g:sm/q:90/h:600/w:404/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njgw/NTczLTE2MDkyMzA0/NzQtNDc3MS5qcGVn.jpeg",
+        "banner": "https://i.discogs.com/cSJjItc6vpjeHmywtRwo7Q2wcVDJwQkPG4mYKJNjxiw/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjM4/ODMtMTQxNTgwNjk4/OC0xODU2LmpwZWc.jpeg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "UXKvMkNQn-A"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Heimkehr",
                 "description": ""
             },
             "ru": {
@@ -6720,6 +6825,76 @@
         }
     },
     {
+        "id": "hugin",
+        "country": "Denmark",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://i.ytimg.com/vi/AOt-Tl0KZU4/maxresdefault.jpg",
+        "banner": "https://i.ytimg.com/vi/AOt-Tl0KZU4/maxresdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "AOt-Tl0KZU4"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Hugin",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "hypnos",
+        "country": "Greece",
+        "invention": "1990s",
+        "style": "Influential",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeQm9bwDUzg7JPUuh-tILXXD5EeUZe10irdUdT8p3zxw&s",
+        "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeQm9bwDUzg7JPUuh-tILXXD5EeUZe10irdUdT8p3zxw&s",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "GAeVwjqB38s"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Hypnos",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "idylls-of-the-last-king",
         "country": "Cyprus",
         "invention": "2000s",
@@ -6746,6 +6921,41 @@
         "translations": {
             "en": {
                 "name": "Idylls of the Last King",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "ilmarin",
+        "country": "UK",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Adventure",
+        "tempo": "Normal",
+        "logo": "https://f4.bcbits.com/img/a2144740152_10.jpg",
+        "banner": "https://f4.bcbits.com/img/0009647419_102.avif",
+        "background": "https://f4.bcbits.com/img/0009647410_130.jpg",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "bandcamp",
+            "id": "3597141698"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "https://ilmarin.bandcamp.com/",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Ilmarin",
                 "description": ""
             },
             "ru": {
@@ -6820,6 +7030,41 @@
             },
             "ru": {
                 "name": "ИндрК",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "infamis",
+        "country": "Poland",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Melancholic",
+        "tempo": "Slow",
+        "logo": "https://i.ytimg.com/vi/atHpKusAGVY/maxresdefault.jpg",
+        "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSbkdN2y00lsiv6VX_yuOqWD6PF-a9wAoIB8R0L6YZ92QCmitL3TL7kWKy&s=10",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "pX_Kr-v7n-U"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Infamis",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
                 "description": ""
             }
         }
@@ -7140,6 +7385,41 @@
         }
     },
     {
+        "id": "kadotus-609",
+        "country": "Finland",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://www.nikoskorpio.net/wp-content/uploads/1992/07/kadotus609_header_web.jpg",
+        "banner": "https://www.nikoskorpio.net/wp-content/uploads/1992/07/kadotus609_header_web.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "IV4M4dG9cmY"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Kadotus 609",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "karakarn",
         "country": "Russia",
         "invention": "2020s",
@@ -7201,6 +7481,41 @@
         "translations": {
             "en": {
                 "name": "Kevin O'Neill",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "kharadrai",
+        "country": "Finland",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Dark",
+        "tempo": "Slow",
+        "logo": "https://i.ytimg.com/vi/Z0pQnqKdGEY/maxresdefault.jpg",
+        "banner": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPUBKTsT-itS7CqdBtFUkC_6gREJYaI682kgthNUhO0UxrQijFlVZSOG_gr8Czt47e61UvBn4XQtSJEZ5RR274ClyBLAqF8o1yiQQHSe6JPxm4O-WhfCkFz0oKMHzEWHq0XFLXhglmf4Dp/w1200-h630-p-k-no-nu/cover.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "iTE3f6u-lNM"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Kharadrai",
                 "description": ""
             },
             "ru": {

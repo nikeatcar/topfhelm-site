@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-09-09
+last_updated: 2026-09-10
 ---
 
 # Dungeon Synth Artists Directory - The Dungeon Synth Bestiary 
@@ -373,8 +373,8 @@ If you want to suggest your project or bring a short text about it - please use 
 
 **Country:** Italy
 **Style:** Oldschool
-**Mood:** Fantasy
-**Tempo:** Mystical
+**Mood:** Mystical
+**Tempo:** Normal
 
 ### Bachus
 
@@ -1905,6 +1905,13 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://green-hollow.bandcamp.com/)
 [Website](https://www.instagram.com/greenhollow.music/)
 
+### Grim
+
+**Country:** Sweden
+**Style:** Oldschool
+**Mood:** Adventure
+**Tempo:** Normal
+
 ### Grim Keep
 
 **Country:** Unknown
@@ -1955,6 +1962,20 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://halberdsynth.bandcamp.com/)
 [Website](https://www.instagram.com/gregoriofrancomusic/)
+
+### Haron
+
+**Country:** Bulgaria
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Slow
+
+### Heimkehr
+
+**Country:** Ukraine
+**Style:** Oldschool
+**Mood:** Melancholic
+**Tempo:** Normal
 
 ### Hellige
 
@@ -2058,6 +2079,20 @@ If you want to suggest your project or bring a short text about it - please use 
 [YouTube](https://www.youtube.com/@holedwellermusic)
 [Website](https://www.instagram.com/holedwellermusic/)
 
+### Hugin
+
+**Country:** Denmark
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Slow
+
+### Hypnos
+
+**Country:** Greece
+**Style:** Influential
+**Mood:** Mystical
+**Tempo:** Normal
+
 ### Idylls of the Last King
 
 **Country:** Cyprus
@@ -2069,6 +2104,15 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://idyllsofthelastking.bandcamp.com/)
 [YouTube](https://www.youtube.com/channel/UChZW9Va9TFsQC9Y8oqOyASA)
 [Website](https://www.instagram.com/idyllsofthelastking)
+
+### Ilmarin
+
+**Country:** UK
+**Style:** Oldschool
+**Mood:** Adventure
+**Tempo:** Normal
+
+[Bandcamp](https://ilmarin.bandcamp.com/)
 
 ### Immortal Wizard's Dream
 
@@ -2091,6 +2135,13 @@ If you want to suggest your project or bring a short text about it - please use 
 [Bandcamp](https://kitezhrecords.bandcamp.com/album/--12)
 [YouTube](https://www.youtube.com/channel/UCwft6daKPQSoYNK-0C25Kgw)
 [Apple Music](https://music.apple.com/ru/artist/%D0%B8%D0%BD%D0%B4%D1%80%D0%BA/1675347985)
+
+### Infamis
+
+**Country:** Poland
+**Style:** Oldschool
+**Mood:** Melancholic
+**Tempo:** Slow
 
 ### Inotrion
 
@@ -2190,6 +2241,13 @@ If you want to suggest your project or bring a short text about it - please use 
 [YouTube](https://www.youtube.com/user/jaaportit)
 [Website](https://www.instagram.com/jaaportit/)
 
+### Kadotus 609
+
+**Country:** Finland
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Slow
+
 ### Kar'a'Karn
 
 **Country:** Russia
@@ -2209,6 +2267,13 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Normal
 
 [Bandcamp](https://kevinoneill1.bandcamp.com/)
+
+### Kharadrai
+
+**Country:** Finland
+**Style:** Oldschool
+**Mood:** Dark
+**Tempo:** Slow
 
 ### Kinderlinsky Gul
 

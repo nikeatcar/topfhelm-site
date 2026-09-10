@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/ru/
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-09-09
+last_updated: 2026-09-10
 ---
 
 # Каталог Dungeon Synth исполнителей — Dungeon Synth Bestiary 
@@ -373,8 +373,8 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 **Страна:** Italy
 **Стиль:** Oldschool
-**Настроение:** Fantasy
-**Темп:** Mystical
+**Настроение:** Mystical
+**Темп:** Normal
 
 ### Bachus
 
@@ -1900,6 +1900,13 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://green-hollow.bandcamp.com/)
 [Website](https://www.instagram.com/greenhollow.music/)
 
+### Grim
+
+**Страна:** Sweden
+**Стиль:** Oldschool
+**Настроение:** Adventure
+**Темп:** Normal
+
 ### Grim Keep
 
 **Страна:** Unknown
@@ -1950,6 +1957,20 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://halberdsynth.bandcamp.com/)
 [Website](https://www.instagram.com/gregoriofrancomusic/)
+
+### Haron
+
+**Страна:** Bulgaria
+**Стиль:** Oldschool
+**Настроение:** Mystical
+**Темп:** Slow
+
+### Heimkehr
+
+**Страна:** Ukraine
+**Стиль:** Oldschool
+**Настроение:** Melancholic
+**Темп:** Normal
 
 ### Hellige
 
@@ -2053,6 +2074,20 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [YouTube](https://www.youtube.com/@holedwellermusic)
 [Website](https://www.instagram.com/holedwellermusic/)
 
+### Hugin
+
+**Страна:** Denmark
+**Стиль:** Oldschool
+**Настроение:** Mystical
+**Темп:** Slow
+
+### Hypnos
+
+**Страна:** Greece
+**Стиль:** Influential
+**Настроение:** Mystical
+**Темп:** Normal
+
 ### Idylls of the Last King
 
 **Страна:** Cyprus
@@ -2064,6 +2099,15 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://idyllsofthelastking.bandcamp.com/)
 [YouTube](https://www.youtube.com/channel/UChZW9Va9TFsQC9Y8oqOyASA)
 [Website](https://www.instagram.com/idyllsofthelastking)
+
+### Ilmarin
+
+**Страна:** UK
+**Стиль:** Oldschool
+**Настроение:** Adventure
+**Темп:** Normal
+
+[Bandcamp](https://ilmarin.bandcamp.com/)
 
 ### Immortal Wizard's Dream
 
@@ -2086,6 +2130,13 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [Bandcamp](https://kitezhrecords.bandcamp.com/album/--12)
 [YouTube](https://www.youtube.com/channel/UCwft6daKPQSoYNK-0C25Kgw)
 [Apple Music](https://music.apple.com/ru/artist/%D0%B8%D0%BD%D0%B4%D1%80%D0%BA/1675347985)
+
+### Infamis
+
+**Страна:** Poland
+**Стиль:** Oldschool
+**Настроение:** Melancholic
+**Темп:** Slow
 
 ### Inotrion
 
@@ -2185,6 +2236,13 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 [YouTube](https://www.youtube.com/user/jaaportit)
 [Website](https://www.instagram.com/jaaportit/)
 
+### Kadotus 609
+
+**Страна:** Finland
+**Стиль:** Oldschool
+**Настроение:** Mystical
+**Темп:** Slow
+
 ### Kar'a'Karn
 
 **Страна:** Russia
@@ -2204,6 +2262,13 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Normal
 
 [Bandcamp](https://kevinoneill1.bandcamp.com/)
+
+### Kharadrai
+
+**Страна:** Finland
+**Стиль:** Oldschool
+**Настроение:** Dark
+**Темп:** Slow
 
 ### Киндерлинский Гул
 
