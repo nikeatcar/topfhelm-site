@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/ru/
 language: ru
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-09-10
+last_updated: 2026-09-24
 ---
 
 # Каталог Dungeon Synth исполнителей — Dungeon Synth Bestiary 
@@ -2290,6 +2290,13 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://kindofdeath.bandcamp.com/)
 
+### Kirke Aske
+
+**Страна:** France
+**Стиль:** Oldschool
+**Настроение:** Mystical
+**Темп:** Normal
+
 ### KletTtermax
 
 **Страна:** Germany
@@ -2354,6 +2361,13 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 
 [Bandcamp](https://lambert3.bandcamp.com/)
 
+### Laïlheb
+
+**Страна:** France
+**Стиль:** Oldschool
+**Настроение:** Mystical
+**Темп:** Slow
+
 ### Loitommas
 
 **Страна:** Finland
@@ -2362,6 +2376,13 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Slow
 
 [Bandcamp](https://loitommas.bandcamp.com/)
+
+### Long Lost Realm
+
+**Страна:** Portugal
+**Стиль:** Oldschool
+**Настроение:** Battle
+**Темп:** Normal
 
 ### Lord Bakartia
 
@@ -2382,6 +2403,13 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Normal
 
 [Bandcamp](https://lordlovidicus.bandcamp.com/)
+
+### Lord Wolf
+
+**Страна:** Greece
+**Стиль:** Oldschool
+**Настроение:** Melancholic
+**Темп:** Normal
 
 ### Lored Legend
 
@@ -2616,6 +2644,16 @@ Dungeon Synth Bestiary посвящён музыке, а не политичес
 **Темп:** Normal
 
 [Bandcamp](https://nocturnalcurserecords.bandcamp.com/album/moonlit-path-8-bit-blood)
+
+### Moonsorrow
+
+**Страна:** Finland
+**Стиль:** Influential
+**Настроение:** Dark
+**Темп:** Normal
+
+[Spotify](https://open.spotify.com/artist/4PdaU6ArZ8JTZvCX9ZWuTI)
+[YouTube](https://www.youtube.com/channel/UCcupRSYMS97dB0hkRxCs79g)
 
 ### Morgan The Bard
 

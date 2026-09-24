@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/composer
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-09-10
+last_updated: 2026-09-24
 ---
 
 # Custom Dark Fantasy Music Commissions | TopfHelm

@@ -7,7 +7,7 @@ canonical: https://topfhelm.com/dungeon-synth-artists/
 language: en
 source: TopfHelm Official Website
 generator: TopfHelm Markdown Generator
-last_updated: 2026-09-10
+last_updated: 2026-09-24
 ---
 
 # Dungeon Synth Artists Directory - The Dungeon Synth Bestiary 
@@ -2295,6 +2295,13 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://kindofdeath.bandcamp.com/)
 
+### Kirke Aske
+
+**Country:** France
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Normal
+
 ### KletTtermax
 
 **Country:** Germany
@@ -2359,6 +2366,13 @@ If you want to suggest your project or bring a short text about it - please use 
 
 [Bandcamp](https://lambert3.bandcamp.com/)
 
+### Laïlheb
+
+**Country:** France
+**Style:** Oldschool
+**Mood:** Mystical
+**Tempo:** Slow
+
 ### Loitommas
 
 **Country:** Finland
@@ -2367,6 +2381,13 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Slow
 
 [Bandcamp](https://loitommas.bandcamp.com/)
+
+### Long Lost Realm
+
+**Country:** Portugal
+**Style:** Oldschool
+**Mood:** Battle
+**Tempo:** Normal
 
 ### Lord Bakartia
 
@@ -2387,6 +2408,13 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Normal
 
 [Bandcamp](https://lordlovidicus.bandcamp.com/)
+
+### Lord Wolf
+
+**Country:** Greece
+**Style:** Oldschool
+**Mood:** Melancholic
+**Tempo:** Normal
 
 ### Lored Legend
 
@@ -2621,6 +2649,16 @@ If you want to suggest your project or bring a short text about it - please use 
 **Tempo:** Normal
 
 [Bandcamp](https://nocturnalcurserecords.bandcamp.com/album/moonlit-path-8-bit-blood)
+
+### Moonsorrow
+
+**Country:** Finland
+**Style:** Influential
+**Mood:** Dark
+**Tempo:** Normal
+
+[Spotify](https://open.spotify.com/artist/4PdaU6ArZ8JTZvCX9ZWuTI)
+[YouTube](https://www.youtube.com/channel/UCcupRSYMS97dB0hkRxCs79g)
 
 ### Morgan The Bard
 

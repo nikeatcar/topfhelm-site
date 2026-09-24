@@ -7595,6 +7595,41 @@
         }
     },
     {
+        "id": "kirke-aske",
+        "country": "France",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Normal",
+        "logo": "https://i.ytimg.com/vi/F7yzjyd0260/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEEgRihyMA8=&rs=AOn4CLCrFfQXfk9jxUPzxMRE1G8HyTsdWA",
+        "banner": "https://dungeon-codex.com/storage/artists/1583/logo.jpeg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "F7yzjyd0260"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Kirke Aske",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "kletttermax",
         "country": "Germany",
         "invention": "2020s",
@@ -7805,6 +7840,41 @@
         }
     },
     {
+        "id": "laïlheb",
+        "country": "France",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Mystical",
+        "tempo": "Slow",
+        "logo": "https://i.discogs.com/-JYGf3kcSK2aQqxZ9Se3HoxFGtntIUdpT3o5NWU8K0c/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzEz/Ny0xNTM4ODQyNTcz/LTk0MTQuanBlZw.jpeg",
+        "banner": "https://i.ytimg.com/vi/RBM5t28obac/maxresdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "RBM5t28obac"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Laïlheb",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
         "id": "loitommas",
         "country": "Finland",
         "invention": "2020s",
@@ -7831,6 +7901,41 @@
         "translations": {
             "en": {
                 "name": "Loitommas",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "long-lost-realm",
+        "country": "Portugal",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Battle",
+        "tempo": "Normal",
+        "logo": "https://i.ytimg.com/vi/ixD0JijCWis/maxresdefault.jpg",
+        "banner": "https://i.ytimg.com/vi/ixD0JijCWis/maxresdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "ixD0JijCWis"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Long Lost Realm",
                 "description": ""
             },
             "ru": {
@@ -7901,6 +8006,41 @@
         "translations": {
             "en": {
                 "name": "Lord Lovidicus",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "lord-wolf",
+        "country": "Greece",
+        "invention": "1990s",
+        "style": "Oldschool",
+        "mood": "Melancholic",
+        "tempo": "Normal",
+        "logo": "https://i.ytimg.com/vi/hgQ1PXONgps/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLAKv2dc5r9lMP1gFeVAXV03rI4kDQ",
+        "banner": "https://i.ytimg.com/vi/ak2sErIlHyM/maxresdefault.jpg",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "hzrNWNy4tx0"
+        },
+        "links": {
+            "spotify": "",
+            "bandcamp": "",
+            "youtube": "",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Lord Wolf",
                 "description": ""
             },
             "ru": {
@@ -8706,6 +8846,41 @@
         "translations": {
             "en": {
                 "name": "Moonlit Path",
+                "description": ""
+            },
+            "ru": {
+                "name": "",
+                "description": ""
+            }
+        }
+    },
+    {
+        "id": "moonsorrow",
+        "country": "Finland",
+        "invention": "1990s",
+        "style": "Influential",
+        "mood": "Dark",
+        "tempo": "Normal",
+        "logo": "https://www.hellshop.org/image/cache/catalog/product/embroidered-back-patches/back_patch_moonsorrow-logo_white-01-800x800.jpg",
+        "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI0_XWUPoM3MnFozRBd3Ce6nGhj8vmjVfqWirA5qONo-ABs2KRMfQpHZQ&s=10",
+        "background": "",
+        "label": "",
+        "label_name": "",
+        "label_img": "",
+        "player": {
+            "type": "youtube",
+            "id": "viBmibbf58U"
+        },
+        "links": {
+            "spotify": "https://open.spotify.com/artist/4PdaU6ArZ8JTZvCX9ZWuTI",
+            "bandcamp": "",
+            "youtube": "https://www.youtube.com/channel/UCcupRSYMS97dB0hkRxCs79g",
+            "apple_music": "",
+            "website": ""
+        },
+        "translations": {
+            "en": {
+                "name": "Moonsorrow",
                 "description": ""
             },
             "ru": {
