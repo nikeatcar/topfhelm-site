@@ -6,6 +6,25 @@ html{
     scroll-behavior:smooth;
 }
 
+html,
+body {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+img,
+video,
+iframe {
+    max-width: 100%;
+}
+
 /* Кнопка "Вверх" */
 #scrollToTopBtn {
     display: block;
@@ -142,12 +161,17 @@ body.en h3 {
 
 /* Контейнер для статьи */
 .article-container{
+    width:calc(100% - 32px);
     max-width:900px;
+
     margin:60px auto;
     padding:50px 60px;
+
     background:rgba(8,8,8,.82);
+
     border:1px solid rgba(215,179,122,.10);
     border-radius:18px;
+
     box-shadow:
         0 10px 60px rgba(0,0,0,.45),
         inset 0 0 60px rgba(215,179,122,.03);
@@ -310,6 +334,14 @@ a:hover{
 /* Медиа-запросы для адаптации под мобильные */
 @media (max-width: 768px) {
 
+    .article-container {
+        width: calc(100% - 24px);
+        max-width: 100%;
+
+        margin: 30px auto;
+        padding: 30px 20px;
+    }
+
     .article-banner {
         height: 250px;
         background-attachment: scroll;
@@ -355,6 +387,13 @@ a:hover{
 }
 
 @media (max-width: 480px) {
+
+    .article-container {
+        width: calc(100% - 16px);
+        margin: 20px auto;
+        padding: 24px 16px;
+    }
+
     #scrollToTopBtn {
         width: 35px;
         height: 35px;

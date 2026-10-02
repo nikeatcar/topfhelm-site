@@ -1,7 +1,11 @@
 .emerald-saga-preview {
+    width: calc(100% - 32px);
     max-width: 850px;
+
     margin: 70px auto;
     padding: 45px 30px;
+
+    box-sizing: border-box;
 
     text-align: center;
 
@@ -42,6 +46,12 @@
 }
 
 @media (max-width: 768px) {
+
+    .emerald-saga-preview {
+        width: calc(100% - 24px);
+        padding: 35px 20px;
+    }
+
     .emerald-saga-logo {
         max-width: 240px;
     }

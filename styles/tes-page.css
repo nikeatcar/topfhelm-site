@@ -15,7 +15,25 @@ html,
 body {
     margin: 0;
     padding: 0;
+
+    width: 100%;
+    max-width: 100%;
+
+    overflow-x: hidden;
+
     background: #050505;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+img,
+video,
+iframe {
+    max-width: 100%;
 }
 
 /* ФОН */
@@ -47,7 +65,11 @@ body.tes-body::before {
 
 .tes-page section {
     width: 100%;
+    max-width: 100%;
+
     padding: 70px 24px;
+
+    overflow: hidden;
 }
 
 /* =========================
@@ -127,9 +149,12 @@ animation:tesGlow 6s ease-in-out infinite;
 ========================= */
 
 .tes-section-inner {
-    max-width: 820px;
-    margin: 0 auto;
-    text-align: center;
+    width:100%;
+    max-width:820px;
+
+    margin:0 auto;
+
+    text-align:center;
 }
 
 .tes-section-inner h2,
@@ -217,18 +242,29 @@ animation:tesGlow 6s ease-in-out infinite;
 ========================= */
 
 .tes-release {
+    width: 100%;
     max-width: 1180px;
     height: 700px;
+
     margin: 0 auto 70px;
 
     display: grid;
-    grid-template-columns:300px 460px 520px;
-    gap: 45px;
+
+    grid-template-columns:
+        minmax(0, 300px)
+        minmax(0, 1fr)
+        minmax(0, 360px);
+
+    gap: 40px;
+
     align-items: center;
 }
 
 .tes-release:nth-child(even) {
-    grid-template-columns: 1fr 260px 300px;
+    grid-template-columns:
+        minmax(0, 1fr)
+        minmax(0, 260px)
+        minmax(0, 300px);
 }
 
 .tes-release:nth-child(even) .tes-description { order: 1; }
@@ -764,16 +800,14 @@ box-shadow:
 /* ---------- container ---------- */
 
 .tes-experience .tes-section-inner{
-
     position:relative;
     z-index:2;
 
+    width:100%;
     max-width:1280px;
 
     margin:0 auto;
-
     padding:0 40px;
-
 }
 
 /* ---------- header ---------- */
@@ -809,15 +843,18 @@ box-shadow:
 /* ---------- layout ---------- */
 
 .tes-experience-layout{
-
     display:grid;
 
-    grid-template-columns:minmax(0,1.25fr) 420px;
+    grid-template-columns:
+        minmax(0,1.25fr)
+        minmax(0,420px);
 
     gap:70px;
 
     align-items:center;
 
+    width:100%;
+    max-width:100%;
 }
 
 /* ---------- gallery ---------- */
@@ -1027,19 +1064,18 @@ box-shadow:
 /* ---------- button ---------- */
 
 .tes-experience .tes-btn{
-
     display:inline-flex;
 
     justify-content:center;
-
     align-items:center;
 
+    width:auto;
+    max-width:100%;
     min-width:320px;
 
     padding:18px 36px;
 
     align-self:flex-start;
-
 }
 
 .tes-slider-dot{
@@ -1079,7 +1115,7 @@ box-shadow:
    RESPONSIVE
 ========================= */
 
-@media (max-width:900px){
+@media (max-width:900px) {
 
     /* ===== Interactive Experience ===== */
 
@@ -1121,18 +1157,20 @@ box-shadow:
 
     /* ===== Releases ===== */
 
-    .tes-release{
+
+    .tes-release,
+    .tes-release:nth-child(even) {
+
+        width:100%;
+        max-width:100%;
 
         height:auto;
 
-        grid-template-columns:minmax(220px,320px) minmax(240px,1fr);
+        grid-template-columns:minmax(0,1fr);
 
-        gap:28px;
+        gap:32px;
 
         align-items:start;
-
-        justify-content:center;
-
     }
 
     .tes-cover{
@@ -1164,19 +1202,25 @@ box-shadow:
     }
 
     .tes-description{
+        grid-column:auto;
 
-        grid-column:1 / -1;
-
+        width:100%;
+        max-width:100%;
         max-height:none;
 
         text-align:center;
-
     }
 
     .tes-release-locked{
 
         display:none;
 
+    }
+
+    .tes-release:nth-child(even) .tes-cover,
+    .tes-release:nth-child(even) .tes-tracklist,
+    .tes-release:nth-child(even) .tes-description {
+        order: initial;
     }
 
 }
@@ -1233,6 +1277,19 @@ box-shadow:
 
         grid-column:auto;
 
+    }
+
+}
+
+@media (max-width:480px){
+
+    .tes-experience .tes-btn{
+        width:100%;
+        max-width:100%;
+        min-width:0;
+
+        padding-left:18px;
+        padding-right:18px;
     }
 
 }
